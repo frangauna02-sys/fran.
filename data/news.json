@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-24T18:54:44.619754+00:00",
+ "updated": "2026-11-24T19:58:51.548086+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 458,
+ "count": 470,
  "trends": [
   {
    "term": "jensen huang",
@@ -12,8 +12,8 @@
   },
   {
    "term": "google",
-   "count": 25,
-   "growth": 6.5
+   "count": 26,
+   "growth": 6.8
   },
   {
    "term": "nvidia",
@@ -27,8 +27,8 @@
   },
   {
    "term": "navidad",
-   "count": 12,
-   "growth": 13.0
+   "count": 13,
+   "growth": 14.0
   },
   {
    "term": "anuncio",
@@ -61,6 +61,11 @@
    "growth": 7.0
   },
   {
+   "term": "euros",
+   "count": 6,
+   "growth": 7.0
+  },
+  {
    "term": "digital",
    "count": 6,
    "growth": 7.0
@@ -89,14 +94,106 @@
    "term": "thanksgiving",
    "count": 5,
    "growth": 6.0
-  },
-  {
-   "term": "return",
-   "count": 5,
-   "growth": 4.2
   }
  ],
  "items": [
+  {
+   "title": "El coche eléctrico más vendido en Europa no es el R5 E-Tech ni el Tesla Model Y, sino un Skoda",
+   "link": "https://www.xataka.com/movilidad/coche-vendido-europa-no-r5-e-tech-tesla-model-sino-skoda",
+   "date": "2026-11-24T19:31:04+00:00",
+   "summary": "Tesla venía de liderar las ventas de coches eléctricos en Europa durante septiembre con el Tesla Model Y, pero en octubre cayó hasta la cuarta plaza del ranking. El podio no quedó en manos de la compañía estadounidense ni tampoco del popular Renault 5 E-Tech, sino del Skoda…",
+   "image": "https://i.blogs.es/5bb6f8/skoda-elroq/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T19:58:51.548086+00:00",
+   "topics": [
+    "seo"
+   ]
+  },
+  {
+   "title": "Mattel is offering the KPop Demon Hunters Rumi and Jinu Action Figure 2-Pack at 50% off! Hurry, only a few are left in stock!",
+   "link": "https://www.merca20.com/mattel-is-offering-the-kpop-demon-hunters-rumi-and-jinu-action-figure-2-pack-at-50-off-hurry-only-a-few-are-left-in-stock/?utm_source=rss&utm_medium=rss&utm_campaign=mattel-is-offering-the-kpop-demon-hunters-rumi-and-jinu-action-figure-2-pack-at-50-off-hurry-only-a-few-are-left-in-stock",
+   "date": "2026-11-24T19:30:50+00:00",
+   "summary": "The KPop Demon Hunters Rumi and Jinu 2-Pack is perfect for anyone looking to get their Christmas shopping done without overspending",
+   "image": "https://files.merca20.com/uploads/2026/11/Rumi-and-Jinu-KPop-Demon-Hunters-courtesy-of-Mattel.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T19:58:51.548086+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+   "date": "2026-11-24T19:30:00+00:00",
+   "summary": "Google launches Humanity’s First Exam to test LLM reliability across 544 prompts.",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Neon_Sign.max-600x600.format-webp.webp",
+   "source": "Google DeepMind",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T19:58:51.548086+00:00",
+   "topics": []
+  },
+  {
+   "title": "Si eres estudiante pagas menos: así es la oferta que deja el Google Pixel 11 por 598 euros",
+   "link": "https://www.xataka.com/seleccion/eres-estudiante-pagas-asi-oferta-que-deja-google-pixel-11-598-euros",
+   "date": "2026-11-24T19:17:00+00:00",
+   "summary": "Si has estado esperando el Black Friday para renovar el móvil, hay una buena selección de ofertas. De hecho, tenemos algunas de las mejores hasta la fecha. Es lo que ocurre con el Google Pixel 11, que ahora mismo se puede comprar por 598,35 euros. ¿Cómo acceder a la oferta?…",
+   "image": "https://i.blogs.es/1be624/google-pixel-11/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T19:58:51.548086+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Bluey: La película: Disney confirma fecha de estreno en cines en 2027",
+   "link": "https://www.merca20.com/bluey-la-pelicula-disney-confirma-fecha-de-estreno-en-cines-en-2027/?utm_source=rss&utm_medium=rss&utm_campaign=bluey-la-pelicula-disney-confirma-fecha-de-estreno-en-cines-en-2027",
+   "date": "2026-11-24T19:11:09+00:00",
+   "summary": "Disney reveló el primer póster en 3D de Bluey: La película y confirmó su estreno en cines de todo el mundo para agosto de 2027.",
+   "image": "https://files.merca20.com/uploads/2026/11/Bluey_-La-pelicula-Cortesia-Disney.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T19:58:51.548086+00:00",
+   "topics": []
+  },
+  {
+   "title": "Adiós al Hoy No Circula: este estado mantendrá suspendido el programa hasta fin de año",
+   "link": "https://www.merca20.com/adios-al-hoy-no-circula-este-estado-mantendra-suspendido-el-programa-hasta-fin-de-ano/?utm_source=rss&utm_medium=rss&utm_campaign=adios-al-hoy-no-circula-este-estado-mantendra-suspendido-el-programa-hasta-fin-de-ano",
+   "date": "2026-11-24T19:09:19+00:00",
+   "summary": "Los vehículos con placas extranjeras y permisos de importación temporal vigentes podrán circular sin las restricciones del programa Hoy No Circula",
+   "image": "https://files.merca20.com/uploads/2026/11/HOY-NO-CIRCULA-FOTO-ANTONIO-MIRANDA.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T19:58:51.548086+00:00",
+   "topics": []
+  },
+  {
+   "title": "La ciencia llevaba años debatiendo si el cambio climático traería más o menos rayos. Una IA acaba de dar una respuesta inquietante",
+   "link": "https://www.xataka.com/ecologia-y-naturaleza/ciencia-llevaba-anos-debatiendo-cambio-climatico-traeria-rayos-ia-acaba-dar-respuesta-inquietante",
+   "date": "2026-11-24T19:00:58+00:00",
+   "summary": "Durante más de una década, los expertos tenían en la mente la incógnita sobre si en un planeta cada vez más caliente sería más frecuente ver rayos caer contra la tierra. Hasta ahora, los distintos modelos climáticos que se han publicado apuntaban a conclusiones totalmente…",
+   "image": "https://i.blogs.es/468a12/rayo-tierra/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T19:58:51.548086+00:00",
+   "topics": []
+  },
   {
    "title": "Prime Video confirma la temporada 4 de Los Anillos de Poder: ¿cuándo comenzará el rodaje?",
    "link": "https://www.merca20.com/prime-video-confirma-la-temporada-4-de-los-anillos-de-poder-cuando-comenzara-el-rodaje/?utm_source=rss&utm_medium=rss&utm_campaign=prime-video-confirma-la-temporada-4-de-los-anillos-de-poder-cuando-comenzara-el-rodaje",
@@ -111,7 +208,7 @@
    "topics": []
   },
   {
-   "title": "FAA opens probe after Amazon delivery drone clips cable, crashes into garage",
+   "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
    "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
    "date": "2026-11-24T18:47:57+00:00",
    "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
@@ -123,6 +220,21 @@
    "first_seen": "2026-11-24T18:54:44.619754+00:00",
    "topics": [
     "ecommerce"
+   ]
+  },
+  {
+   "title": "Oribe has released handmade holiday campaigns for nearly a decade. This year, more people are watching",
+   "link": "https://www.marketingbrew.com/stories/oribe-handmade-holiday-campaigns-mosaic-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+   "date": "2026-11-24T18:42:58+00:00",
+   "summary": "A mosaic-centric campaign from the hair-care brand this year has attracted outsized engagement as “people are interested, more than ever, in the craft,” an exec told us.",
+   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80,trim=79;0;78;0/https://storage.morningbrew.com/image/2026-11-24/image-b737e352ff53a41467e40d81f0c6033d61c87ca6-1500x1001-jpg/402824_8.jpg",
+   "source": "Marketing Brew",
+   "category": "marketing",
+   "lang": "en",
+   "type": "newsletter",
+   "first_seen": "2026-11-24T19:58:51.548086+00:00",
+   "topics": [
+    "publicidad"
    ]
   },
   {
@@ -161,8 +273,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T18:54:44.619754+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T18:54:44.619754+00:00",
    "topics": []
   },
   {
@@ -229,8 +341,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T18:54:44.619754+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T18:54:44.619754+00:00",
    "topics": [
     "publicidad"
    ]
@@ -298,6 +410,19 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T17:50:30.804505+00:00",
+   "topics": []
+  },
+  {
+   "title": "Mientras los mexicanos celebran la Navidad con bacalao, romeritos, pavo y ensalada de manzana, en Polonia cenan pescado frito y sopa de remolacha en Nochebuena",
+   "link": "https://www.merca20.com/mientras-los-mexicanos-celebran-la-navidad-con-bacalao-romeritos-pavo-y-ensalada-de-manzana-en-polonia-cenan-pescado-frito-y-sopa-de-remolacha-en-nochebuena/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-los-mexicanos-celebran-la-navidad-con-bacalao-romeritos-pavo-y-ensalada-de-manzana-en-polonia-cenan-pescado-frito-y-sopa-de-remolacha-en-nochebuena",
+   "date": "2026-11-24T17:33:31+00:00",
+   "summary": "La Navidad en México incluye bacalao, romeritos, pavo y ensalada de manzana. En Polonia, la cena de Nochebuena reúne 12 platillos, carpa frita y sopa de remolacha",
+   "image": "https://files.merca20.com/uploads/2026/11/cena-de-navidad-mexico-vs-polonia-GEMINI-IA.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T19:58:51.548086+00:00",
    "topics": []
   },
   {
@@ -1065,6 +1190,22 @@
    "topics": [
     "seo",
     "ecommerce"
+   ]
+  },
+  {
+   "title": "The RX Assistant Wants to Help Pharmaceutical Brands Use AI to Reach Patients",
+   "link": "https://www.adweek.com/brand-marketing/the-rx-assistant-wants-to-help-pharmaceutical-brands-use-ai-to-reach-patients/",
+   "date": "2026-11-24T14:41:23+00:00",
+   "summary": "A new platform helps pharmaceutical brands can reach patients through different avenues, including voice, email, and SMS.",
+   "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/Untitled-Design5.png?w=600&h=315&crop=1",
+   "source": "Adweek",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T19:58:51.548086+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
    ]
   },
   {
@@ -1856,6 +1997,20 @@
    ]
   },
   {
+   "title": "Searching for distant planets with Astra",
+   "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "date": "2026-11-24T11:00:00+00:00",
+   "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&h=900&fit=fill",
+   "source": "OpenAI",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T19:58:51.548086+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
    "title": "Una colección de jerséis salva las fiestas en el anuncio de Navidad de Carrefour",
    "link": "https://www.reasonwhy.es/actualidad/coleccion-jerseis-anuncio-navidad-carrefour-2026",
    "date": "2026-11-24T10:53:00+00:00",
@@ -2422,6 +2577,20 @@
    "topics": []
   },
   {
+   "title": "How Intentful uses dots to make more time for growth",
+   "link": "https://openai.com/business/customer-stories/intentful-dots",
+   "date": "2026-11-24T00:00:00+00:00",
+   "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/2DH2aby1xmlzvADCraI7Xi/bbe8b8956578492f2c3fd7326ecbd9e1/intentful-dots-social-c.png?w=1600&h=900&fit=fill",
+   "source": "OpenAI",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T19:58:51.548086+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
    "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
    "link": "https://simonwillison.net/2026/Nov/23/glm-54/",
    "date": "2026-11-23T23:40:49+00:00",
@@ -2455,7 +2624,7 @@
    "title": "Meta launches iPad version of Edits",
    "link": "https://www.socialmediatoday.com/news/meta-launches-ipad-version-of-edits/875566/",
    "date": "2026-11-23T22:40:37+00:00",
-   "summary": "The larger screen layout will make it easier to manage video projects.",
+   "summary": "The larger screen layout is intended to make it easier for users to manage video projects.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -2624,7 +2793,7 @@
    "title": "TikTok highlights 2026 holiday trends",
    "link": "https://www.socialmediatoday.com/news/tiktok-highlights-2026-holiday-trends/875560/",
    "date": "2026-11-23T21:24:48+00:00",
-   "summary": "Popular hashtags including #diychristmas and #pinkchristmas speak to a shift away from last year’s “Ralph Lauren Christmas” and toward a more whimsical season.",
+   "summary": "Popular hashtags including #diychristmas and #pinkchristmas speak to a shift away from last year’s “Ralph Lauren Christmas” toward a more whimsical season.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -2654,7 +2823,7 @@
    "title": "Pinterest simplifies parental controls",
    "link": "https://www.socialmediatoday.com/news/pinterest-simplifies-parental-controls/875554/",
    "date": "2026-11-23T21:18:03+00:00",
-   "summary": "The platform has updated its parental control dashboard to offer a more streamlined way to manage devices and access options.",
+   "summary": "An updated parental control dashboard offers a more streamlined way to manage devices and access options.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -2670,7 +2839,7 @@
    "title": "Pinterest announces partnership with Microsoft Ads",
    "link": "https://www.socialmediatoday.com/news/pinterest-announces-partnership-with-microsoft-ads/875553/",
    "date": "2026-11-23T21:10:29+00:00",
-   "summary": "The new integration will see Pinterest ad placements extended across Microsoft’s partner platforms.",
+   "summary": "The integration will see Pinterest ad placements extended across Microsoft’s partner platforms.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
