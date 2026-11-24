@@ -14,7 +14,7 @@
     {"name": "The Rundown AI", "url": "https://rss.beehiiv.com/feeds/2R3C6Bt5wj.xml", "type": "newsletter"},
     {"name": "Ben's Bites", "url": "https://www.bensbites.com/feed", "type": "newsletter"},
     {"name": "Matt Wolfe (YouTube)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g", "type": "video", "max": 5},
-    {"name": "Xataka", "url": "https://www.xataka.com/feedburner.xml", "lang": "es"},
+    {"name": "Xataka", "url": "https://www.xataka.com/feedburner.xml", "lang": "es", "ai_filter": true},
     {"name": "Dot CSV (YouTube)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy5znSnfMsDwaLlROnZ7Qbg", "lang": "es", "type": "video", "max": 5}
   ],
   "marketing": [

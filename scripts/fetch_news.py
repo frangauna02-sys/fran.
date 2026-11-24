@@ -210,6 +210,12 @@ def download(url):
             raise
 
 
+AI_RE = re.compile(r"(?<![\wáéíóúñ])(ia|ai|a\.i\.|inteligencia artificial|artificial intelligence|chatgpt|openai|gpt-?\d*|claude|anthropic|"
+                   r"gemini|llm|llms|copilot|nvidia|machine learning|aprendizaje automático|deepmind|grok|xai|mistral|"
+                   r"llama|perplexity|robot|robots|robótica|agente|agentes|agent|agents|algoritmo|algoritmos|chatbot|chatbots|"
+                   r"deepfake|deepfakes|generativa|generative|sora|midjourney)(?![\wáéíóúñ])", re.I)
+
+
 def fetch(feed, category):
     urls = feed["url"] if isinstance(feed["url"], list) else [feed["url"]]
     raw_items, errors = None, []
@@ -249,7 +255,7 @@ def fetch(feed, category):
             "summary": clean_text(it["summary"]),
             "image": it["image"],
             "source": feed["name"],
-            "category": category,
+            "category": "tech" if feed.get("ai_filter") and not AI_RE.search(f"{it['title']} {it['summary']}") else category,
             "lang": feed.get("lang", "en"),
             "type": feed.get("type", "article"),
         })
@@ -327,6 +333,91 @@ def compute_trends(items, now, top=18):
     return chosen
 
 
+# ---------- Segmentos temáticos ----------
+
+TOPICS = {
+    "redes": {
+        "words": ["instagram", "tiktok", "facebook", "threads", "whatsapp", "linkedin", "youtube", "snapchat",
+                  "pinterest", "reddit", "twitter", "bluesky", "social media", "redes sociales", "red social",
+                  "creator", "creators", "creadores", "influencer", "influencers", "reels", "shorts", "ugc"],
+        "sources": ["Social Media Today", "Social Media Examiner", "Meta Newsroom"],
+    },
+    "seo": {
+        "words": ["seo", "search", "ai overviews", "ai mode", "serp", "ranking", "rankings", "core update",
+                  "búsqueda", "búsquedas", "buscador", "buscadores", "perplexity", "organic", "orgánico", "google search"],
+        "sources": ["Search Engine Journal", "Search Engine Roundtable"],
+    },
+    "publicidad": {
+        "words": ["ads", "advertising", "advertiser", "advertisers", "adtech", "campaign", "campaigns", "campaña",
+                  "campañas", "publicidad", "publicitario", "publicitaria", "anuncio", "anuncios", "ctv",
+                  "retail media", "programmatic", "programática", "agency", "agencies", "agencia", "agencias",
+                  "cmo", "cmos", "media buying", "super bowl", "commercial", "spot"],
+        "sources": ["Adweek", "Digiday", "Google Ads & Commerce"],
+    },
+    "ecommerce": {
+        "words": ["ecommerce", "e-commerce", "shopping", "shopify", "amazon", "black friday", "cyber monday",
+                  "retail", "retailer", "retailers", "compras", "tienda", "tiendas", "comercio electrónico", "checkout"],
+        "sources": ["Marketing4eCommerce"],
+    },
+}
+_TOPIC_RES = {
+    k: re.compile(r"(?<![\wáéíóúñ])(" + "|".join(re.escape(w) for w in v["words"]) + r")(?![\wáéíóúñ])", re.I)
+    for k, v in TOPICS.items()
+}
+
+
+def classify(item):
+    text = f"{item['title']} {item.get('summary', '')}"
+    out = [k for k, rx in _TOPIC_RES.items()
+           if item["source"] in TOPICS[k]["sources"] or rx.search(text)]
+    return out
+
+
+# ---------- Imagen de portada de cada nota (og:image) ----------
+
+META_RE = re.compile(r"<meta\s[^>]*>", re.I)
+ATTR_RE = re.compile(r"""([a-zA-Z:_-]+)\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>"']+))""")
+OG_PER_RUN = 120  # máximo de páginas a consultar por ejecución
+
+
+def find_og_image(url):
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html"})
+    with urllib.request.urlopen(req, timeout=12) as resp:
+        if "html" not in resp.headers.get("Content-Type", "html"):
+            return ""
+        head = resp.read(250_000).decode("utf-8", errors="replace")
+    found = {}
+    for tag in META_RE.findall(head):
+        attrs = {m.group(1).lower(): next(g for g in m.groups()[1:] if g is not None) for m in ATTR_RE.finditer(tag)}
+        key = (attrs.get("property") or attrs.get("name") or "").lower()
+        if key in ("og:image", "og:image:url", "og:image:secure_url", "twitter:image", "twitter:image:src") and attrs.get("content"):
+            found.setdefault(key, html.unescape(attrs["content"]).strip())
+    for key in ("og:image", "og:image:secure_url", "og:image:url", "twitter:image", "twitter:image:src"):
+        img = found.get(key, "")
+        if img.startswith("//"):
+            img = "https:" + img
+        if img.startswith("http"):
+            return img
+    return ""
+
+
+def fill_images(items):
+    todo = [it for it in items if not it.get("image") and not it.get("og_tried") and it.get("type") != "video"][:OG_PER_RUN]
+    if not todo:
+        return
+
+    def work(it):
+        try:
+            it["image"] = find_og_image(it["link"])
+        except Exception:  # noqa: BLE001 - si la página no responde, queda sin imagen
+            it["image"] = ""
+        it["og_tried"] = True
+
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        list(pool.map(work, todo))
+    print(f"Imágenes: {sum(1 for it in todo if it['image'])}/{len(todo)} encontradas en las notas.")
+
+
 def main():
     feeds = json.loads(FEEDS_FILE.read_text(encoding="utf-8"))
     jobs = [(f, cat) for cat, lst in feeds.items() for f in lst]
@@ -354,6 +445,8 @@ def main():
         old = merged.get(key)
         if old and not item.get("image"):
             item["image"] = old.get("image", "")
+            if old.get("og_tried"):
+                item["og_tried"] = True
         if old and old.get("first_seen"):
             item["first_seen"] = old["first_seen"]
         merged[key] = item
@@ -372,6 +465,13 @@ def main():
         item.setdefault("first_seen", now.isoformat())
         items.append(item)
     items = items[:MAX_ITEMS]
+    if fresh:
+        fill_images(items)
+    filtered_ai = {f["name"] for f, _ in jobs if f.get("ai_filter")}
+    for item in items:
+        item["topics"] = classify(item)
+        if item["source"] in filtered_ai:  # también reclasifica las notas guardadas de antes
+            item["category"] = "ia" if AI_RE.search(f"{item['title']} {item.get('summary', '')}") else "tech"
 
     if not fresh and previous:
         print("Ningún feed respondió; se conserva el archivo anterior.", file=sys.stderr)
