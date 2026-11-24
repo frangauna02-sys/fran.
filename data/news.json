@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-24T17:14:29.057597+00:00",
+ "updated": "2026-11-24T17:50:30.804505+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 435,
+ "count": 444,
  "trends": [
   {
    "term": "jensen huang",
-   "count": 25,
-   "growth": 14.0
+   "count": 26,
+   "growth": 14.5
   },
   {
    "term": "google",
@@ -17,18 +17,23 @@
   },
   {
    "term": "nvidia",
-   "count": 22,
-   "growth": 10.1
+   "count": 23,
+   "growth": 10.5
   },
   {
    "term": "black friday",
-   "count": 14,
-   "growth": 10.5
+   "count": 15,
+   "growth": 11.2
   },
   {
    "term": "navidad",
    "count": 12,
    "growth": 13.0
+  },
+  {
+   "term": "anuncio",
+   "count": 9,
+   "growth": 10.0
   },
   {
    "term": "meta",
@@ -39,11 +44,6 @@
    "term": "trump",
    "count": 8,
    "growth": 6.3
-  },
-  {
-   "term": "anuncio",
-   "count": 8,
-   "growth": 9.0
   },
   {
    "term": "amazon",
@@ -76,6 +76,16 @@
    "growth": 3.2
   },
   {
+   "term": "thanksgiving",
+   "count": 5,
+   "growth": 6.0
+  },
+  {
+   "term": "return",
+   "count": 5,
+   "growth": 4.2
+  },
+  {
    "term": "euros",
    "count": 5,
    "growth": 6.0
@@ -84,19 +94,106 @@
    "term": "datos",
    "count": 5,
    "growth": 6.0
-  },
-  {
-   "term": "thanksgiving",
-   "count": 4,
-   "growth": 5.0
-  },
-  {
-   "term": "madrid",
-   "count": 4,
-   "growth": 5.0
   }
  ],
  "items": [
+  {
+   "title": "Macy’s Thanksgiving Day Parade: When Does It Start?",
+   "link": "https://www.merca20.com/macys-thanksgiving-day-parade-when-does-it-start/?utm_source=rss&utm_medium=rss&utm_campaign=macys-thanksgiving-day-parade-when-does-it-start",
+   "date": "2026-11-24T17:48:53+00:00",
+   "summary": "Every year, thousands of people gather in the streets of New York City to enjoy the Macy’s Thanksgiving Day Parade",
+   "image": "https://files.merca20.com/uploads/2026/11/Macys-Thanksgiving-Day-Parade-Macys-Newsroom.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T17:50:30.804505+00:00",
+   "topics": []
+  },
+  {
+   "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+   "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+   "date": "2026-11-24T17:44:53+00:00",
+   "summary": "The reinstated Nvidia CEO acknowledged violating the company’s code of conduct and said he had made some “very serious personal mistakes.”",
+   "image": "https://media.wired.com/photos/6b05ac8615bd092ec9b638cd/master/pass/GettyImages-2279157190.jpg",
+   "source": "Wired IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T17:50:30.804505+00:00",
+   "topics": []
+  },
+  {
+   "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+   "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+   "date": "2026-11-24T17:34:34+00:00",
+   "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg",
+   "source": "Ars Technica IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T17:50:30.804505+00:00",
+   "topics": []
+  },
+  {
+   "title": "Casi 40 minifiguras en el imponente set de Lego Star Wars: una Estrella de la Muerte cargada de detalles que no se pierde el Black Friday",
+   "link": "https://www.xataka.com/seleccion/casi-40-minifiguras-imponente-set-lego-star-wars-estrella-muerte-cargada-detalles-que-no-se-pierde-black-friday",
+   "date": "2026-11-24T17:31:00+00:00",
+   "summary": "Ha pasado ya un tiempo desde que Lego llevó a su catálogo una nueva versión de la icónica Estrella de la Muerte, un set de Lego Star Wars que se coronó como el más caro de toda la historia de la marca. Ahora, con un Black Friday plagado de ofertas, se puede encontrar en Amazon…",
+   "image": "https://i.blogs.es/4550cb/lego-estrella-de-la-muerte/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T17:50:30.804505+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "PETA conmueve a todos con un anuncio navideño donde muestra la soledad de los animales",
+   "link": "https://www.merca20.com/peta-conmueve-a-todos-con-un-anuncio-navideno-donde-muestra-la-soledad-de-los-animales/?utm_source=rss&utm_medium=rss&utm_campaign=peta-conmueve-a-todos-con-un-anuncio-navideno-donde-muestra-la-soledad-de-los-animales",
+   "date": "2026-11-24T17:27:27+00:00",
+   "summary": "El recurso creativo está en utilizar elementos que habitualmente despiertan emociones positivas, como la convivencia, el afecto y la pertenencia, para trasladarlos al universo animal.",
+   "image": "https://files.merca20.com/uploads/2026/11/Proteccion-Animal-Foto-de-bigstock-340765879.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T17:50:30.804505+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Tidal will start banning AI-generated music next month",
+   "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+   "date": "2026-11-24T17:17:09+00:00",
+   "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "source": "The Verge IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T17:50:30.804505+00:00",
+   "topics": []
+  },
+  {
+   "title": "RetroMarketing: In 1993, Nokia put two people on a park bench to sell cell phones. Five years later, it dominated the global market",
+   "link": "https://www.merca20.com/retromarketing-in-1993-nokia-put-two-people-on-a-park-bench-to-sell-cell-phones-five-years-later-it-dominated-the-global-market/?utm_source=rss&utm_medium=rss&utm_campaign=retromarketing-in-1993-nokia-put-two-people-on-a-park-bench-to-sell-cell-phones-five-years-later-it-dominated-the-global-market",
+   "date": "2026-11-24T17:11:34+00:00",
+   "summary": "Before dominating the global cell phone market, Nokia released a commercial in 1993 that offers an important lesson in tech marketing.",
+   "image": "https://files.merca20.com/uploads/2026/11/This-article-is-part-of-RetroMarketing-a-section-that-revisits-landmark-advertising-campaigns-to-understand-why-they-worked.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T17:50:30.804505+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
   {
    "title": "Miss Universe 2026: When and Where to Watch LIVE",
    "link": "https://www.merca20.com/miss-universe-2026-when-and-where-to-watch-live/?utm_source=rss&utm_medium=rss&utm_campaign=miss-universe-2026-when-and-where-to-watch-live",
@@ -109,21 +206,6 @@
    "type": "article",
    "first_seen": "2026-11-24T17:14:29.057597+00:00",
    "topics": []
-  },
-  {
-   "title": "WhatsApp se suma a la fiebre de Harry Potter con fondos especiales para sus chats",
-   "link": "https://www.merca20.com/whatsapp-se-suma-a-la-fiebre-de-harry-potter-con-fondos-especiales-para-sus-chats/?utm_source=rss&utm_medium=rss&utm_campaign=whatsapp-se-suma-a-la-fiebre-de-harry-potter-con-fondos-especiales-para-sus-chats",
-   "date": "2026-11-24T17:05:03+00:00",
-   "summary": "El despliegue se realiza de manera gradual, por lo que algunos usuarios ya pueden acceder a los fondos y otros todavía no encuentran la opción en sus cuentas.",
-   "image": "https://files.merca20.com/uploads/2026/11/Aplicacion-de-WhatsApp.-Foto-bigstock-357540503.jpg",
-   "source": "Merca2.0",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T17:14:29.057597+00:00",
-   "topics": [
-    "redes"
-   ]
   },
   {
    "title": "Jimmy Wales, fundador de Wikipedia y premio Xataka Leyenda 2026: \"Le caigo bien a la gente y los tech bros no suelen caer bien\"",
@@ -163,7 +245,23 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
+   "og_tried": true,
    "first_seen": "2026-11-24T17:14:29.057597+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "GPT 6.2 Astra Solves a Historical Mystery",
+   "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+   "date": "2026-11-24T16:53:59+00:00",
+   "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808…",
+   "image": "",
+   "source": "Simon Willison",
+   "category": "ia",
+   "lang": "en",
+   "type": "newsletter",
+   "first_seen": "2026-11-24T17:50:30.804505+00:00",
    "og_tried": true,
    "topics": [
     "redes"
@@ -254,21 +352,6 @@
    "topics": []
   },
   {
-   "title": "Así FUD se encuentra con el fenómeno Dr. Simi y desata un crossover publicitario",
-   "link": "https://www.merca20.com/asi-fud-se-encuentra-con-el-fenomeno-dr-simi-y-desata-un-crossover-publicitario/?utm_source=rss&utm_medium=rss&utm_campaign=asi-fud-se-encuentra-con-el-fenomeno-dr-simi-y-desata-un-crossover-publicitario",
-   "date": "2026-11-24T16:19:54+00:00",
-   "summary": "La marca apuesta por las conversaciones que forman parte de la cultura mexicana para fortalecer su conexión con los consumidores. La nueva entrega aborda desde las distintas formas de llamar a los hot dogs hasta el ingenio nacional frente a la inteligencia artificial.",
-   "image": "https://files.merca20.com/uploads/2026/11/Campana-FUD-DR-SIMI.jpeg",
-   "source": "Merca2.0",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T16:38:33.550319+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
    "title": "NikeSKIMS aterriza en El Corte Inglés con una colección exclusiva en España",
    "link": "https://www.marketingdirecto.com/anunciantes-general/nikeskims-aterriza-el-corte-ingles-coleccion-exclusiva-espana",
    "date": "2026-11-24T16:18:14+00:00",
@@ -340,6 +423,21 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T16:14:09.069235+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "WhatsApp se suma a la fiebre de Harry Potter con fondos especiales para sus chats",
+   "link": "https://www.merca20.com/whatsapp-se-suma-a-la-fiebre-de-harry-potter-con-fondos-especiales-para-sus-chats/?utm_source=rss&utm_medium=rss&utm_campaign=whatsapp-se-suma-a-la-fiebre-de-harry-potter-con-fondos-especiales-para-sus-chats",
+   "date": "2026-11-24T16:05:03+00:00",
+   "summary": "El despliegue se realiza de manera gradual, por lo que algunos usuarios ya pueden acceder a los fondos y otros todavía no encuentran la opción en sus cuentas.",
+   "image": "https://files.merca20.com/uploads/2026/11/Aplicacion-de-WhatsApp.-Foto-bigstock-357540503.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T17:14:29.057597+00:00",
    "topics": [
     "redes"
    ]
@@ -455,7 +553,7 @@
    "topics": []
   },
   {
-   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
    "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
    "date": "2026-11-24T15:51:07+00:00",
    "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
@@ -596,6 +694,21 @@
    "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "seo"
+   ]
+  },
+  {
+   "title": "Así FUD se encuentra con el fenómeno Dr. Simi y desata un crossover publicitario",
+   "link": "https://www.merca20.com/asi-fud-se-encuentra-con-el-fenomeno-dr-simi-y-desata-un-crossover-publicitario/?utm_source=rss&utm_medium=rss&utm_campaign=asi-fud-se-encuentra-con-el-fenomeno-dr-simi-y-desata-un-crossover-publicitario",
+   "date": "2026-11-24T15:19:54+00:00",
+   "summary": "La marca apuesta por las conversaciones que forman parte de la cultura mexicana para fortalecer su conexión con los consumidores. La nueva entrega aborda desde las distintas formas de llamar a los hot dogs hasta el ingenio nacional frente a la inteligencia artificial.",
+   "image": "https://files.merca20.com/uploads/2026/11/Campana-FUD-DR-SIMI.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:38:33.550319+00:00",
+   "topics": [
+    "publicidad"
    ]
   },
   {
@@ -1241,6 +1354,23 @@
    "topics": [
     "seo",
     "publicidad"
+   ]
+  },
+  {
+   "title": "Advertising Is a Top Priority for Best Buy’s New CEO",
+   "link": "https://www.adweek.com/commerce/advertising-is-a-top-priority-for-best-buys-new-ceo/",
+   "date": "2026-11-24T12:10:45+00:00",
+   "summary": "The retailer expects its advertising business to grow 10% this year.",
+   "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/Jason-Bonfig.jpg?w=600&h=315&crop=1",
+   "source": "Adweek",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T17:50:30.804505+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad",
+    "ecommerce"
    ]
   },
   {
@@ -2135,7 +2265,7 @@
    "title": "Meta launches iPad version of Edits",
    "link": "https://www.socialmediatoday.com/news/meta-launches-ipad-version-of-edits/875566/",
    "date": "2026-11-23T22:40:37+00:00",
-   "summary": "The larger screen layout is intended to make it easier for users to manage video projects.",
+   "summary": "The larger screen layout will make it easier to manage video projects.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -2304,7 +2434,7 @@
    "title": "TikTok highlights 2026 holiday trends",
    "link": "https://www.socialmediatoday.com/news/tiktok-highlights-2026-holiday-trends/875560/",
    "date": "2026-11-23T21:24:48+00:00",
-   "summary": "Popular hashtags including #diychristmas and #pinkchristmas speak to a shift away from last year’s “Ralph Lauren Christmas” toward a more whimsical season.",
+   "summary": "Popular hashtags including #diychristmas and #pinkchristmas speak to a shift away from last year’s “Ralph Lauren Christmas” and toward a more whimsical season.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -2334,7 +2464,7 @@
    "title": "Pinterest simplifies parental controls",
    "link": "https://www.socialmediatoday.com/news/pinterest-simplifies-parental-controls/875554/",
    "date": "2026-11-23T21:18:03+00:00",
-   "summary": "An updated parental control dashboard offers a more streamlined way to manage devices and access options.",
+   "summary": "The platform has updated its parental control dashboard to offer a more streamlined way to manage devices and access options.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -2350,7 +2480,7 @@
    "title": "Pinterest announces partnership with Microsoft Ads",
    "link": "https://www.socialmediatoday.com/news/pinterest-announces-partnership-with-microsoft-ads/875553/",
    "date": "2026-11-23T21:10:29+00:00",
-   "summary": "The integration will see Pinterest ad placements extended across Microsoft’s partner platforms.",
+   "summary": "The new integration will see Pinterest ad placements extended across Microsoft’s partner platforms.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -3920,7 +4050,7 @@
    "title": "Hybrid won the in-housing debate, at least among the largest advertisers",
    "link": "https://digiday.com/media-buying/hybrid-won-the-in-housing-debate-at-least-among-the-largest-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
    "date": "2026-11-23T05:01:00+00:00",
-   "summary": "The shift has been playing for the best part of a decade. COMvergence’s first Global Advertiser Survey shows had far its got. T",
+   "summary": "The shift has been playing for the best part of a decade. COMvergence’s first Global Advertiser Survey shows how far its got.",
    "image": "https://digiday.com/wp-content/uploads/sites/3/2024/12/inhousing-digiday.jpg",
    "source": "Digiday",
    "category": "marketing",
