@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-24T17:50:30.804505+00:00",
+ "updated": "2026-11-24T18:54:44.619754+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 444,
+ "count": 458,
  "trends": [
   {
    "term": "jensen huang",
-   "count": 26,
-   "growth": 14.5
+   "count": 27,
+   "growth": 15.1
   },
   {
    "term": "google",
@@ -17,13 +17,13 @@
   },
   {
    "term": "nvidia",
-   "count": 23,
-   "growth": 10.5
+   "count": 24,
+   "growth": 10.9
   },
   {
    "term": "black friday",
-   "count": 15,
-   "growth": 11.2
+   "count": 16,
+   "growth": 11.9
   },
   {
    "term": "navidad",
@@ -36,6 +36,11 @@
    "growth": 10.0
   },
   {
+   "term": "amazon",
+   "count": 9,
+   "growth": 5.4
+  },
+  {
    "term": "meta",
    "count": 10,
    "growth": 3.5
@@ -44,11 +49,6 @@
    "term": "trump",
    "count": 8,
    "growth": 6.3
-  },
-  {
-   "term": "amazon",
-   "count": 8,
-   "growth": 4.8
   },
   {
    "term": "search",
@@ -76,6 +76,16 @@
    "growth": 3.2
   },
   {
+   "term": "corte inglés",
+   "count": 4,
+   "growth": 5.0
+  },
+  {
+   "term": "anthropic",
+   "count": 7,
+   "growth": 2.9
+  },
+  {
    "term": "thanksgiving",
    "count": 5,
    "growth": 6.0
@@ -84,19 +94,173 @@
    "term": "return",
    "count": 5,
    "growth": 4.2
-  },
-  {
-   "term": "euros",
-   "count": 5,
-   "growth": 6.0
-  },
-  {
-   "term": "datos",
-   "count": 5,
-   "growth": 6.0
   }
  ],
  "items": [
+  {
+   "title": "Prime Video confirma la temporada 4 de Los Anillos de Poder: ¿cuándo comenzará el rodaje?",
+   "link": "https://www.merca20.com/prime-video-confirma-la-temporada-4-de-los-anillos-de-poder-cuando-comenzara-el-rodaje/?utm_source=rss&utm_medium=rss&utm_campaign=prime-video-confirma-la-temporada-4-de-los-anillos-de-poder-cuando-comenzara-el-rodaje",
+   "date": "2026-11-24T18:52:55+00:00",
+   "summary": "La serie de El Señor de los Anillos continuará su historia en la Tierra Media; la producción ya trabaja en la preproducción y prepara nuevas grabaciones en Reino Unido.",
+   "image": "https://files.merca20.com/uploads/2026/11/Los-anillos-del-poder-temporada-4-Prime-Video-Cortesia.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T18:54:44.619754+00:00",
+   "topics": []
+  },
+  {
+   "title": "FAA opens probe after Amazon delivery drone clips cable, crashes into garage",
+   "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+   "date": "2026-11-24T18:47:57+00:00",
+   "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/prime-air-mk30-drone-package-loading-1152x648.jpg",
+   "source": "Ars Technica IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T18:54:44.619754+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "¡Mattel remata el pack de 2 figuras de Rumi y Jinu de KPop Demon Hunters! Tiene el 50 % de descuento, quedan pocas piezas",
+   "link": "https://www.merca20.com/mattel-remata-el-pack-de-2-figuras-de-rumi-y-jinu-de-kpop-demon-hunters-tiene-el-50-de-descuento-quedan-pocas-piezas/?utm_source=rss&utm_medium=rss&utm_campaign=mattel-remata-el-pack-de-2-figuras-de-rumi-y-jinu-de-kpop-demon-hunters-tiene-el-50-de-descuento-quedan-pocas-piezas",
+   "date": "2026-11-24T18:42:26+00:00",
+   "summary": "El pack de 2 figuras de Rumi y Jinu de KPop Demon Hunters es ideal para quienes buscan comprar sus regalos de Navidad sin gastar de más",
+   "image": "https://files.merca20.com/uploads/2026/11/Rumi-y-Jinu-KPop-Demon-Hunters-cortesia-Mattel.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T18:54:44.619754+00:00",
+   "topics": []
+  },
+  {
+   "title": "Bajo esta apariencia cuqui y rechonchita, se esconde un auténtica máquina de matar. La buena noticia es que sabemos por qué",
+   "link": "https://www.xataka.com/ecologia-y-naturaleza/esta-apariencia-cuqui-rechonchita-se-esconde-autentica-maquina-matar-buena-noticia-que-sabemos-que",
+   "date": "2026-11-24T18:31:01+00:00",
+   "summary": "El domingo 11 de diciembre de 2016, hacia las once de la mañana, dos topillos rojos picoteaban semillas bajo un comedero de Joensuu, al este de Finlandia. Una idílica escena campestre ( a 15 grados bajo cero ). Entonces apareció un gavilán y, tras él, una urraca. Se formó la…",
+   "image": "https://i.blogs.es/639a14/patrice-bouchard-m7ckn-ar0ka-unsplash/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T18:54:44.619754+00:00",
+   "topics": []
+  },
+  {
+   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+   "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+   "date": "2026-11-24T18:30:42+00:00",
+   "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T18:54:44.619754+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Carl’s Jr. tendrá hamburguesas gratis por su promoción 2×1 este 24 y 25 de noviembre",
+   "link": "https://www.merca20.com/carls-jr-tendra-hamburguesas-gratis-por-su-promocion-2x1-este-24-y-25-de-noviembre/?utm_source=rss&utm_medium=rss&utm_campaign=carls-jr-tendra-hamburguesas-gratis-por-su-promocion-2x1-este-24-y-25-de-noviembre",
+   "date": "2026-11-24T18:28:12+00:00",
+   "summary": "Carl’s Jr. prepara una promoción especial para cerrar noviembre con una oferta que pone cuatro de sus hamburguesas bajo el esquema de 2x1",
+   "image": "https://files.merca20.com/uploads/2026/11/carls-jr-promo-2x1-foto-carls-jr.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T18:54:44.619754+00:00",
+   "topics": []
+  },
+  {
+   "title": "Apple prepara para el 1 de diciembre el lanzamiento de nuevos productos en color rojo",
+   "link": "https://www.merca20.com/apple-prepara-para-el-1-de-diciembre-el-lanzamiento-de-nuevos-productos-en-color-rojo/?utm_source=rss&utm_medium=rss&utm_campaign=apple-prepara-para-el-1-de-diciembre-el-lanzamiento-de-nuevos-productos-en-color-rojo",
+   "date": "2026-11-24T18:28:09+00:00",
+   "summary": "La apuesta por el color rojo combinaría una estrategia comercial con el regreso de Product(RED) a su catálogo.",
+   "image": "https://files.merca20.com/uploads/2026/11/Apple-ProductRED.-Foto-de-bigstock-371315833.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T18:54:44.619754+00:00",
+   "topics": []
+  },
+  {
+   "title": "Portátiles para trabajar, estudiar o jugar: el Black Friday de El Corte Inglés los tiene rebajados hasta en un 40%",
+   "link": "https://www.xataka.com/seleccion/portatiles-para-trabajar-estudiar-jugar-black-friday-corte-ingles-tiene-rebajados-40",
+   "date": "2026-11-24T18:17:00+00:00",
+   "summary": "El Black Friday ya está a la vuelta de la esquina. En apenas unos días el día con mayores descuentos del año dará comienzo. Sin embargo, muchas tiendas han querido aprovechar toda la semana, y ya podemos encontrar descuentos de todo tipo. Uno de los mejores ejemplos es el de El…",
+   "image": "https://i.blogs.es/44fe52/portatil-encima-de-una-mesa-con-otros-dispositivos/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T18:54:44.619754+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+   "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+   "date": "2026-11-24T18:15:00+00:00",
+   "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UFP25_R4_Rec709_2p4gamma_6188x3240_20260828.0363314_R2.jpg?quality=90&strip=all&crop=20.001873779297,0,79.998126220703,100",
+   "source": "The Verge IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T18:54:44.619754+00:00",
+   "topics": []
+  },
+  {
+   "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+   "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+   "date": "2026-11-24T18:02:59+00:00",
+   "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/08/password-stealing-malware.jpg?resize=1200,800",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T18:54:44.619754+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Travis Scott, Post Malone y Charlie XCX en Tecate Pa’l Norte 2027: Line-up Oficial, fechas y preventa del festival",
+   "link": "https://www.merca20.com/travis-scott-post-malone-y-charlie-xcx-en-tecate-pal-norte-2027-line-up-oficial-fechas-y-preventa-del-festival/?utm_source=rss&utm_medium=rss&utm_campaign=travis-scott-post-malone-y-charlie-xcx-en-tecate-pal-norte-2027-line-up-oficial-fechas-y-preventa-del-festival",
+   "date": "2026-11-24T18:00:23+00:00",
+   "summary": "El festival celebrará 15 años del 26 al 28 de marzo en Monterrey, con Travis Scott, Post Malone y Charli XCX al frente de un cartel que reúne talento internacional y mexicano.",
+   "image": "https://files.merca20.com/uploads/2026/11/Cartel-Tecate-Pa´l-Norte-cortesia-Tecate-Pal-Norte-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T18:54:44.619754+00:00",
+   "topics": []
+  },
+  {
+   "title": "\"Demasiado grande para caer\": EEUU ha trazado una línea clarísima salvando a Jensen Huang y, por tanto, a Nvidia",
+   "link": "https://www.xataka.com/empresas-y-economia/nvidia-demasiado-grande-como-para-caer-riesgo-que-todo-ecosistema-ia-eeuu-dependa-sola-empresa",
+   "date": "2026-11-24T17:52:00+00:00",
+   "summary": "Tras once días marcados por las caídas bursátiles casi continuadas, el domingo por la noche, el consejo de Nvidia recibió una llamada poco habitual: la de Donald Trump. De acuerdo a lo publicado por Semafor, el presidente en persona les pidió en privado el regreso de Jensen…",
+   "image": "https://i.blogs.es/007ee5/huang/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T18:54:44.619754+00:00",
+   "topics": []
+  },
   {
    "title": "Macy’s Thanksgiving Day Parade: When Does It Start?",
    "link": "https://www.merca20.com/macys-thanksgiving-day-parade-when-does-it-start/?utm_source=rss&utm_medium=rss&utm_campaign=macys-thanksgiving-day-parade-when-does-it-start",
@@ -261,8 +425,8 @@
    "category": "ia",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-24T17:50:30.804505+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T17:50:30.804505+00:00",
    "topics": [
     "redes"
    ]
@@ -337,6 +501,19 @@
    "topics": [
     "publicidad"
    ]
+  },
+  {
+   "title": "David Beckham demanda a Coty porque vendió sus perfumes en gasolineras y ahora reclama 41 millones de dólares por daño a su marca",
+   "link": "https://www.merca20.com/david-beckham-demanda-a-coty-porque-vendio-sus-perfumes-en-gasolineras-y-ahora-reclama-41-millones-de-dolares-por-dano-a-su-marca/?utm_source=rss&utm_medium=rss&utm_campaign=david-beckham-demanda-a-coty-porque-vendio-sus-perfumes-en-gasolineras-y-ahora-reclama-41-millones-de-dolares-por-dano-a-su-marca",
+   "date": "2026-11-24T16:21:42+00:00",
+   "summary": "Después de retirarse del futbol profesional, David Beckham ha convertido su imagen en un activo comercial que trasciende la industria deportiva y abarca categorías como la moda, la belleza y el entretenimiento",
+   "image": "https://files.merca20.com/uploads/2026/11/DAVID-BECKHAM-cortesia-NETFLIX-MEDIA-ROOM.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T18:54:44.619754+00:00",
+   "topics": []
   },
   {
    "title": "Partido de la víspera del Día de Acción de Gracias de la NFL: ¿a qué hora es el show de U2?",
@@ -684,7 +861,7 @@
    "title": "Google December 2026 Core Update Preannounced - Complex Queries & Personalization",
    "link": "https://www.seroundtable.com/google-december-2026-core-update-42615.html",
    "date": "2026-11-24T15:20:00+00:00",
-   "summary": "Google has preannounced the December 2026 core update, which is new for Google - to preannounce Google Search updates. So the December 2026 core update is not live yet, but it will be live sometime in December. I asked for clarification. Google said this update \"focuses on…",
+   "summary": "Google has preannounced the December 2026 core update, which is new for Google. The December 2026 core update is not live yet, but it will be live sometime in December. Google said this update \"focuses on multiple improvements to how our systems understand and rank relevant…",
    "image": "https://images.seroundtable.com/active-core-update-kFO4rSeH.png",
    "source": "Search Engine Roundtable",
    "category": "marketing",
@@ -1366,8 +1543,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T17:50:30.804505+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T17:50:30.804505+00:00",
    "topics": [
     "publicidad",
     "ecommerce"
@@ -1978,7 +2155,7 @@
    "title": "Inside AWS’s Bid to Be a Brand for Everyone, Including AI Agents",
    "link": "https://www.adweek.com/brand-marketing/inside-awss-bid-to-be-a-brand-for-everyone-including-ai-agents/",
    "date": "2026-11-24T09:00:00+00:00",
-   "summary": "Amazon Web Services is no longer marketing primarily to developers, but to a wider cohort of knowledge workers, and even AI agents. Its recent campaign for AWS Quick, the company’s […]",
+   "summary": "The cloud company’s brand overhaul addresses a wider audience of professionals, whom it hopes to win over on its way to becoming a $1 trillion business.",
    "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/02_AWS-2026-Brand-System_Application4033.png?w=600&h=315&crop=1",
    "source": "Adweek",
    "category": "marketing",
@@ -1987,8 +2164,7 @@
    "og_tried": true,
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
-    "publicidad",
-    "ecommerce"
+    "publicidad"
    ]
   },
   {
@@ -2230,6 +2406,20 @@
    "topics": [
     "seo"
    ]
+  },
+  {
+   "title": "How iFood scales coding agents across 15,000 repositories",
+   "link": "https://openai.com/index/ifood",
+   "date": "2026-11-24T00:00:00+00:00",
+   "summary": "",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T18:54:44.619754+00:00",
+   "og_tried": true,
+   "topics": []
   },
   {
    "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
