@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-24T16:07:41.581881+00:00",
+ "updated": "2026-11-24T16:12:40.051292+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 411,
+ "count": 413,
  "trends": [
   {
    "term": "jensen huang",
@@ -81,6 +81,11 @@
    "growth": 6.0
   },
   {
+   "term": "thanksgiving",
+   "count": 4,
+   "growth": 5.0
+  },
+  {
    "term": "juguetes",
    "count": 4,
    "growth": 5.0
@@ -89,14 +94,21 @@
    "term": "historia",
    "count": 4,
    "growth": 5.0
-  },
-  {
-   "term": "grok",
-   "count": 4,
-   "growth": 5.0
   }
  ],
  "items": [
+  {
+   "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+   "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+   "date": "2026-11-24T16:10:00+00:00",
+   "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+   "image": "",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:12:40.051292+00:00"
+  },
   {
    "title": "Estos nueve días de 2027 no abrirán los bancos en México: Conoce el calendario completo",
    "link": "https://www.merca20.com/estos-nueve-dias-de-2027-no-abriran-los-bancos-en-mexico-conoce-el-calendario-completo/?utm_source=rss&utm_medium=rss&utm_campaign=estos-nueve-dias-de-2027-no-abriran-los-bancos-en-mexico-conoce-el-calendario-completo",
@@ -216,6 +228,18 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "NFL Thanksgiving Eve Game: What Time Is U2 Performing?",
+   "link": "https://www.merca20.com/nfl-thanksgiving-eve-game-what-time-is-u2-performing/?utm_source=rss&utm_medium=rss&utm_campaign=nfl-thanksgiving-eve-game-what-time-is-u2-performing",
+   "date": "2026-11-24T15:40:32+00:00",
+   "summary": "U2 will take the stage during the NFL’s Thanksgiving Eve game, which will be held at SoFi Stadium in Inglewood, California",
+   "image": "https://files.merca20.com/uploads/2026/11/U2-Thanksgiving-Eve-Game-Netflix-Newsroom.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:12:40.051292+00:00"
   },
   {
    "title": "El Gobierno prorroga las ayudas al transporte público durante 2027: 1.213 millones para mantener los descuentos en tren y autobús",
@@ -1505,7 +1529,7 @@
    "title": "Meta launches iPad version of Edits",
    "link": "https://www.socialmediatoday.com/news/meta-launches-ipad-version-of-edits/875566/",
    "date": "2026-11-23T22:40:37+00:00",
-   "summary": "The larger screen layout will make it easier to manage video projects.",
+   "summary": "The larger screen layout is intended to make it easier for users to manage video projects.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -1649,7 +1673,7 @@
    "title": "TikTok highlights 2026 holiday trends",
    "link": "https://www.socialmediatoday.com/news/tiktok-highlights-2026-holiday-trends/875560/",
    "date": "2026-11-23T21:24:48+00:00",
-   "summary": "Popular hashtags including #diychristmas and #pinkchristmas speak to a shift away from last year’s “Ralph Lauren Christmas” and toward a more whimsical season.",
+   "summary": "Popular hashtags including #diychristmas and #pinkchristmas speak to a shift away from last year’s “Ralph Lauren Christmas” toward a more whimsical season.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -1673,7 +1697,7 @@
    "title": "Pinterest simplifies parental controls",
    "link": "https://www.socialmediatoday.com/news/pinterest-simplifies-parental-controls/875554/",
    "date": "2026-11-23T21:18:03+00:00",
-   "summary": "The platform has updated its parental control dashboard to offer a more streamlined way to manage devices and access options.",
+   "summary": "An updated parental control dashboard offers a more streamlined way to manage devices and access options.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -1685,7 +1709,7 @@
    "title": "Pinterest announces partnership with Microsoft Ads",
    "link": "https://www.socialmediatoday.com/news/pinterest-announces-partnership-with-microsoft-ads/875553/",
    "date": "2026-11-23T21:10:29+00:00",
-   "summary": "The new integration will see Pinterest ad placements extended across Microsoft’s partner platforms.",
+   "summary": "The integration will see Pinterest ad placements extended across Microsoft’s partner platforms.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
