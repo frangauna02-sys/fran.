@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-24T16:14:09.069235+00:00",
+ "updated": "2026-11-24T16:38:33.550319+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 417,
+ "count": 426,
  "trends": [
   {
    "term": "jensen huang",
-   "count": 23,
-   "growth": 12.9
+   "count": 24,
+   "growth": 13.5
   },
   {
    "term": "google",
@@ -17,18 +17,28 @@
   },
   {
    "term": "nvidia",
-   "count": 21,
-   "growth": 9.6
+   "count": 22,
+   "growth": 10.1
   },
   {
    "term": "black friday",
-   "count": 12,
-   "growth": 9.1
+   "count": 13,
+   "growth": 9.8
   },
   {
    "term": "navidad",
-   "count": 11,
-   "growth": 12.0
+   "count": 12,
+   "growth": 13.0
+  },
+  {
+   "term": "trump",
+   "count": 8,
+   "growth": 6.3
+  },
+  {
+   "term": "anuncio",
+   "count": 8,
+   "growth": 9.0
   },
   {
    "term": "agents",
@@ -39,16 +49,6 @@
    "term": "meta",
    "count": 9,
    "growth": 3.2
-  },
-  {
-   "term": "trump",
-   "count": 7,
-   "growth": 5.6
-  },
-  {
-   "term": "anuncio",
-   "count": 7,
-   "growth": 8.0
   },
   {
    "term": "amazon",
@@ -76,6 +76,11 @@
    "growth": 7.0
   },
   {
+   "term": "euros",
+   "count": 5,
+   "growth": 6.0
+  },
+  {
    "term": "datos",
    "count": 5,
    "growth": 6.0
@@ -86,17 +91,84 @@
    "growth": 5.0
   },
   {
-   "term": "juguetes",
-   "count": 4,
-   "growth": 5.0
-  },
-  {
-   "term": "historia",
+   "term": "madrid",
    "count": 4,
    "growth": 5.0
   }
  ],
  "items": [
+  {
+   "title": "El resurgir de Jensen Huang en Nvidia con apoyo de Trump tiene un precio: a China no le van a pasar ni una",
+   "link": "https://www.xataka.com/empresas-y-economia/resurgir-jensen-huang-nvidia-apoyo-trump-tiene-precio-a-china-no-le-van-a-pasar",
+   "date": "2026-11-24T16:31:03+00:00",
+   "summary": "Nvidia ha repuesto a Jensen Huang como consejero delegado apenas once días después de su dimisión, y todo tras una intervención directa de Donald Trump que no tardó en atribuirse la decisión ( desde el primer día fue muy vocal). Su vuelta ha disparado las acciones de Nvidia,…",
+   "image": "https://i.blogs.es/4fe7ee/collage-editorial-de-la-casa-blanca-si-te-gusta/1024_2000.png",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:38:33.550319+00:00"
+  },
+  {
+   "title": "«Tenemos mucho que dar»: Torrons Vicens apela al amor y al espíritu de compartir en su anuncio de Navidad",
+   "link": "https://www.marketingdirecto.com/campanas-navidenas/tenemos-mucho-que-dar-amor-torrons-vicens-navidad",
+   "date": "2026-11-24T16:23:42+00:00",
+   "summary": "El spot cuenta con la participación de chefs de la esfera de la alta repostería como Albert Adrià, Quique Dacosta, Ángel León y Jordi Roca.",
+   "image": "",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:38:33.550319+00:00"
+  },
+  {
+   "title": "Partido de la víspera del Día de Acción de Gracias de la NFL: ¿a qué hora es el show de U2?",
+   "link": "https://www.merca20.com/partido-de-la-vispera-del-dia-de-accion-de-gracias-de-la-nfl-a-que-hora-es-el-show-de-u2/?utm_source=rss&utm_medium=rss&utm_campaign=partido-de-la-vispera-del-dia-de-accion-de-gracias-de-la-nfl-a-que-hora-es-el-show-de-u2",
+   "date": "2026-11-24T16:20:10+00:00",
+   "summary": "U2 llegará al escenario de la NFL durante el partido de la víspera del Día de Acción de Gracias, que tendrá lugar en el SoFi Stadium",
+   "image": "https://files.merca20.com/uploads/2026/11/U2-Thanksgiving-Eve-Game-Netflix-Newsroom.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:38:33.550319+00:00"
+  },
+  {
+   "title": "Así FUD se encuentra con el fenómeno Dr. Simi y desata un crossover publicitario",
+   "link": "https://www.merca20.com/asi-fud-se-encuentra-con-el-fenomeno-dr-simi-y-desata-un-crossover-publicitario/?utm_source=rss&utm_medium=rss&utm_campaign=asi-fud-se-encuentra-con-el-fenomeno-dr-simi-y-desata-un-crossover-publicitario",
+   "date": "2026-11-24T16:19:54+00:00",
+   "summary": "La marca apuesta por las conversaciones que forman parte de la cultura mexicana para fortalecer su conexión con los consumidores. La nueva entrega aborda desde las distintas formas de llamar a los hot dogs hasta el ingenio nacional frente a la inteligencia artificial.",
+   "image": "https://files.merca20.com/uploads/2026/11/Campana-FUD-DR-SIMI.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:38:33.550319+00:00"
+  },
+  {
+   "title": "NikeSKIMS aterriza en El Corte Inglés con una colección exclusiva en España",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/nikeskims-aterriza-el-corte-ingles-coleccion-exclusiva-espana",
+   "date": "2026-11-24T16:18:14+00:00",
+   "summary": "El Corte Inglés incorpora la colección NikeSKIMS a sus tiendas de Madrid y Barcelona, además de a su plataforma de venta online.",
+   "image": "",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:38:33.550319+00:00"
+  },
+  {
+   "title": "Remate final del Black Friday de Leroy Merlin con descuentos de hasta el 50 % en electrodomésticos, calefacción y más",
+   "link": "https://www.xataka.com/seleccion/remate-final-black-friday-leroy-merlin-descuentos-50-electrodomesticos-calefaccion",
+   "date": "2026-11-24T16:15:05+00:00",
+   "summary": "Que el Black Friday está tocando a su fin es un hecho; que todavía quedan muchas ofertas interesantes para aprovechar, también. Una de las tiendas que está rematando actualmente esta promo es Leroy Merlin, que tiene actualmente descuentos de hasta el 50 % en un montón de…",
+   "image": "https://i.blogs.es/8cb9e1/leroy-merlin-black-friday-final/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:38:33.550319+00:00"
+  },
   {
    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
    "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
@@ -192,6 +264,18 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T16:07:41.581881+00:00"
+  },
+  {
+   "title": "Kérastase Society aterriza en Madrid: un club privado donde el lujo capilar se vive desde dentro",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/kerastase-society-aterriza-madrid-club-privado-donde-lujo-capilar-vive-desde-dentro",
+   "date": "2026-11-24T15:56:07+00:00",
+   "summary": "El Hotel Único Madrid se transforma en un universo inmersivo de hospitalidad, belleza e innovación en el que Kérastase invita a descubrir su visión del cuidado capilar profesional a través de experiencias",
+   "image": "",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:38:33.550319+00:00"
   },
   {
    "title": "La A-63 de Asturias lleva casi tres décadas en obras: todavía quedan 12,5 km y un cuello de botella que no acaba",
@@ -360,6 +444,18 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "InfoJobs busca a una persona para cobrar 1.000 euros por asistir a la Super Bowl",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/infojobs-busca-persona-cobrar-1-000-euros-asistir-super-bowl",
+   "date": "2026-11-24T15:05:29+00:00",
+   "summary": "InfoJobs lanza una oferta para que un aficionado acuda como invitado VIP a la Super Bowl, con viaje, alojamiento y entradas incluidas.",
+   "image": "",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:38:33.550319+00:00"
   },
   {
    "title": "Este es el smartwatch que me compraría durante el Black Friday: en diseño se parece a un Apple Watch y tiene mucha autonomía",
@@ -1034,6 +1130,18 @@
    "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
+   "title": "Whiskey Brand Evan Williams Makes Its First Move Into College Football",
+   "link": "https://www.adweek.com/brand-marketing/whiskey-brand-evan-williams-makes-its-first-drive-into-college-football/",
+   "date": "2026-11-24T11:15:29+00:00",
+   "summary": "Evan Williams and its ad agency Method1 have secured partnerships with the ACC and Big Ten.",
+   "image": "",
+   "source": "Adweek",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:38:33.550319+00:00"
+  },
+  {
    "title": "El gran negocio de estas Navidades son los catálogos de juguetes de El Corte Inglés vendidos a 5€ la pieza",
    "link": "https://www.xataka.com/magnet/gran-negocio-wallapop-navidad-no-juguetes-catalogos-corte-ingles-a-precio-oro-1-100-eur-34-numeros",
    "date": "2026-11-24T11:15:00+00:00",
@@ -1553,7 +1661,7 @@
    "title": "Meta launches iPad version of Edits",
    "link": "https://www.socialmediatoday.com/news/meta-launches-ipad-version-of-edits/875566/",
    "date": "2026-11-23T22:40:37+00:00",
-   "summary": "The larger screen layout is intended to make it easier for users to manage video projects.",
+   "summary": "The larger screen layout will make it easier to manage video projects.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -1697,7 +1805,7 @@
    "title": "TikTok highlights 2026 holiday trends",
    "link": "https://www.socialmediatoday.com/news/tiktok-highlights-2026-holiday-trends/875560/",
    "date": "2026-11-23T21:24:48+00:00",
-   "summary": "Popular hashtags including #diychristmas and #pinkchristmas speak to a shift away from last year’s “Ralph Lauren Christmas” toward a more whimsical season.",
+   "summary": "Popular hashtags including #diychristmas and #pinkchristmas speak to a shift away from last year’s “Ralph Lauren Christmas” and toward a more whimsical season.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -1721,7 +1829,7 @@
    "title": "Pinterest simplifies parental controls",
    "link": "https://www.socialmediatoday.com/news/pinterest-simplifies-parental-controls/875554/",
    "date": "2026-11-23T21:18:03+00:00",
-   "summary": "An updated parental control dashboard offers a more streamlined way to manage devices and access options.",
+   "summary": "The platform has updated its parental control dashboard to offer a more streamlined way to manage devices and access options.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -1733,7 +1841,7 @@
    "title": "Pinterest announces partnership with Microsoft Ads",
    "link": "https://www.socialmediatoday.com/news/pinterest-announces-partnership-with-microsoft-ads/875553/",
    "date": "2026-11-23T21:10:29+00:00",
-   "summary": "The integration will see Pinterest ad placements extended across Microsoft’s partner platforms.",
+   "summary": "The new integration will see Pinterest ad placements extended across Microsoft’s partner platforms.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
