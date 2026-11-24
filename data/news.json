@@ -1,15 +1,16 @@
 {
- "updated": "2026-11-24T15:23:43.870119+00:00",
- "sources_ok": 29,
+ "updated": "2026-11-24T15:37:24.952599+00:00",
+ "sources_ok": 28,
  "sources_total": 34,
  "sources_failed": [
   "VentureBeat IA",
+  "Google DeepMind",
   "Import AI",
   "Search Engine Land",
   "Content Marketing Institute",
   "PuroMarketing"
  ],
- "count": 342,
+ "count": 346,
  "trends": [
   {
    "term": "jensen huang",
@@ -18,8 +19,8 @@
   },
   {
    "term": "que",
-   "count": 15,
-   "growth": 16.0
+   "count": 16,
+   "growth": 17.0
   },
   {
    "term": "nvidia",
@@ -27,14 +28,14 @@
    "growth": 8.6
   },
   {
+   "term": "black friday",
+   "count": 8,
+   "growth": 9.0
+  },
+  {
    "term": "google",
    "count": 12,
    "growth": 3.2
-  },
-  {
-   "term": "black friday",
-   "count": 7,
-   "growth": 8.0
   },
   {
    "term": "ceo",
@@ -52,6 +53,11 @@
    "growth": 7.0
   },
   {
+   "term": "anthropic",
+   "count": 5,
+   "growth": 4.2
+  },
+  {
    "term": "meta",
    "count": 6,
    "growth": 3.1
@@ -67,6 +73,11 @@
    "growth": 3.2
   },
   {
+   "term": "tiempo",
+   "count": 4,
+   "growth": 5.0
+  },
+  {
    "term": "nothing",
    "count": 4,
    "growth": 5.0
@@ -77,12 +88,7 @@
    "growth": 4.0
   },
   {
-   "term": "anthropic",
-   "count": 4,
-   "growth": 3.5
-  },
-  {
-   "term": "tiempo",
+   "term": "gta vi",
    "count": 3,
    "growth": 4.0
   },
@@ -95,14 +101,57 @@
    "term": "problem",
    "count": 3,
    "growth": 4.0
-  },
-  {
-   "term": "navidades",
-   "count": 3,
-   "growth": 4.0
   }
  ],
  "items": [
+  {
+   "title": "48 LinkedIn statistics for 2026 to shape your strategy",
+   "link": "https://blog.hootsuite.com/linkedin-statistics/",
+   "date": "2026-11-24T15:34:13+00:00",
+   "summary": "If you want to connect with other business professionals, LinkedIn is the place to be. Here are the latest LinkedIn statistics for 2026.",
+   "image": "https://blog.hootsuite.com/wp-content/uploads/2025/04/image-44-620x432.png",
+   "source": "Hootsuite Blog",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T15:37:24.952599+00:00"
+  },
+  {
+   "title": "La mejor oferta del Black Friday en auriculares solo estará disponible durante unas horas",
+   "link": "https://www.xataka.com/seleccion/mejor-oferta-black-friday-auriculares-solo-estara-disponible-durante-unas-horas",
+   "date": "2026-11-24T15:30:59+00:00",
+   "summary": "MediaMarkt ha vuelto a lanzar una de sus mejores ofertas a través de su sección de Ofertas del Día con unos Sony WH-1000XM4C a muy buen precio. Los auriculares de la marca se pueden comprar ahora mismo por 188 euros (antes 279 euros), pero solo durante unas horas: la oferta…",
+   "image": "https://i.blogs.es/b1cbf0/sony-wh-1000xm4c/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T15:37:24.952599+00:00"
+  },
+  {
+   "title": "China se hizo un hueco regalando sus modelos de IA. Para competir con OpenAI y Anthropic, Z.ai lanza GLM-5.4 primero de pago",
+   "link": "https://www.xataka.com/robotica-e-ia/china-se-hizo-hueco-regalando-sus-modelos-ia-para-competir-openai-anthropic-z-ai-lanza-glm-5-4-primero-pago",
+   "date": "2026-11-24T15:30:59+00:00",
+   "summary": "En cuestión de laboratorios de IA, hay actualmente dos estilos principales: los que acostumbran a liberar los pesos y aquellos que prefieren mantenerlos cerrados y cobrar por usarlos. La tendencia había colocado a los laboratorios chinos del lado abierto y a los estadounidenses…",
+   "image": "https://i.blogs.es/31b4ee/glm-5.4-portada/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T15:37:24.952599+00:00"
+  },
+  {
+   "title": "La tele, los libros y las redes sociales de GTA VI son un agujero negro: la gente ya pasa más tiempo en ellos que atracando bancos",
+   "link": "https://www.xataka.com/videojuegos/tele-libros-redes-sociales-gta-vi-agujero-negro-gente-pasa-tiempo-ellos-que-atracando-bancos",
+   "date": "2026-11-24T15:30:58+00:00",
+   "summary": "En uno de los primeros días tras el estreno de GTA VI, un usuario de Reddit presumió de haber visto la televisión de Leonida dos horas seguidas. Dicho de otro modo: la tele del juego funciona exactamente igual que una tele de verdad. Es solo un ejemplo de las múltiples…",
+   "image": "https://i.blogs.es/317863/captura-de-pantalla-2026-11-24-a-las-11.47.18/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T15:37:24.952599+00:00"
+  },
   {
    "title": "Aprovecha descuentos de hasta el 60% en electrodomésticos gracias al Black Friday de AEG",
    "link": "https://www.xataka.com/seleccion/aprovecha-descuentos-60-electrodomesticos-gracias-al-black-friday-aeg",
