@@ -1,11 +1,9 @@
 {
- "updated": "2026-11-24T16:59:08.199701+00:00",
- "sources_ok": 31,
+ "updated": "2026-11-24T17:14:29.057597+00:00",
+ "sources_ok": 32,
  "sources_total": 32,
- "sources_failed": [
-  "Marketing4eCommerce"
- ],
- "count": 431,
+ "sources_failed": [],
+ "count": 435,
  "trends": [
   {
    "term": "jensen huang",
@@ -24,13 +22,18 @@
   },
   {
    "term": "black friday",
-   "count": 13,
-   "growth": 9.8
+   "count": 14,
+   "growth": 10.5
   },
   {
    "term": "navidad",
    "count": 12,
    "growth": 13.0
+  },
+  {
+   "term": "meta",
+   "count": 10,
+   "growth": 3.5
   },
   {
    "term": "trump",
@@ -43,24 +46,14 @@
    "growth": 9.0
   },
   {
+   "term": "amazon",
+   "count": 8,
+   "growth": 4.8
+  },
+  {
    "term": "search",
    "count": 8,
    "growth": 3.9
-  },
-  {
-   "term": "ai agents",
-   "count": 6,
-   "growth": 4.9
-  },
-  {
-   "term": "meta",
-   "count": 9,
-   "growth": 3.2
-  },
-  {
-   "term": "amazon",
-   "count": 7,
-   "growth": 4.3
   },
   {
    "term": "marcas",
@@ -76,6 +69,11 @@
    "term": "core",
    "count": 6,
    "growth": 7.0
+  },
+  {
+   "term": "ai agents",
+   "count": 5,
+   "growth": 3.2
   },
   {
    "term": "euros",
@@ -99,6 +97,78 @@
   }
  ],
  "items": [
+  {
+   "title": "Miss Universe 2026: When and Where to Watch LIVE",
+   "link": "https://www.merca20.com/miss-universe-2026-when-and-where-to-watch-live/?utm_source=rss&utm_medium=rss&utm_campaign=miss-universe-2026-when-and-where-to-watch-live",
+   "date": "2026-11-24T17:06:28+00:00",
+   "summary": "The Miss Universe 2026 final will take place this Tuesday, when reigning Miss Universe Fátima Bosch will crown her successor",
+   "image": "https://files.merca20.com/uploads/2026/11/Miss-Universe-2026-Miss-Universe-Newsroom.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T17:14:29.057597+00:00",
+   "topics": []
+  },
+  {
+   "title": "WhatsApp se suma a la fiebre de Harry Potter con fondos especiales para sus chats",
+   "link": "https://www.merca20.com/whatsapp-se-suma-a-la-fiebre-de-harry-potter-con-fondos-especiales-para-sus-chats/?utm_source=rss&utm_medium=rss&utm_campaign=whatsapp-se-suma-a-la-fiebre-de-harry-potter-con-fondos-especiales-para-sus-chats",
+   "date": "2026-11-24T17:05:03+00:00",
+   "summary": "El despliegue se realiza de manera gradual, por lo que algunos usuarios ya pueden acceder a los fondos y otros todavía no encuentran la opción en sus cuentas.",
+   "image": "https://files.merca20.com/uploads/2026/11/Aplicacion-de-WhatsApp.-Foto-bigstock-357540503.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T17:14:29.057597+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "Jimmy Wales, fundador de Wikipedia y premio Xataka Leyenda 2026: \"Le caigo bien a la gente y los tech bros no suelen caer bien\"",
+   "link": "https://www.xataka.com/entrevistas/jimmy-wales-fundador-wikipedia-premio-xataka-leyenda-2026-le-caigo-bien-a-gente-tech-bros-no-suelen-caer-bien",
+   "date": "2026-11-24T17:01:03+00:00",
+   "summary": "Jimmy Wales llega a las oficinas de Webedia solo, sin asistentes, ataviado con un jersey de cuello alto y una mochila. Acaba de llegar a Madrid para recoger el premio Xataka Leyenda 2026 y no desprende la grandilocuencia que otras figuras de la tecnología sí se esfuerzan en…",
+   "image": "https://i.blogs.es/8b300d/wikipedia/375_142.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T17:14:29.057597+00:00",
+   "topics": []
+  },
+  {
+   "title": "El robot aspirador que sube escalones y se limpia solo desploma su precio en Amazon por el Black Friday",
+   "link": "https://www.xataka.com/seleccion/robot-aspirador-que-sube-escalones-se-limpia-solo-desploma-su-precio-amazon-black-friday",
+   "date": "2026-11-24T17:01:03+00:00",
+   "summary": "Los robots aspiradores se han convertido ya en un dispositivo de limpieza imprescindible en muchos hogares. Si quieres tener uno con prestaciones top y una buena rebaja, ahora este Ecovacs Deebot X11 Omnicyclone está rebajado en Amazon. Ha pasado de costar 649 euros a 399,23…",
+   "image": "https://i.blogs.es/be0406/ecovacs-x11-omnycyclone/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T17:14:29.057597+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+   "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+   "date": "2026-11-24T17:00:00+00:00",
+   "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T17:14:29.057597+00:00",
+   "og_tried": true,
+   "topics": [
+    "redes"
+   ]
+  },
   {
    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
    "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
@@ -2065,7 +2135,7 @@
    "title": "Meta launches iPad version of Edits",
    "link": "https://www.socialmediatoday.com/news/meta-launches-ipad-version-of-edits/875566/",
    "date": "2026-11-23T22:40:37+00:00",
-   "summary": "The larger screen layout will make it easier to manage video projects.",
+   "summary": "The larger screen layout is intended to make it easier for users to manage video projects.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -2210,8 +2280,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "redes"
    ]
@@ -2234,7 +2304,7 @@
    "title": "TikTok highlights 2026 holiday trends",
    "link": "https://www.socialmediatoday.com/news/tiktok-highlights-2026-holiday-trends/875560/",
    "date": "2026-11-23T21:24:48+00:00",
-   "summary": "Popular hashtags including #diychristmas and #pinkchristmas speak to a shift away from last year’s “Ralph Lauren Christmas” and toward a more whimsical season.",
+   "summary": "Popular hashtags including #diychristmas and #pinkchristmas speak to a shift away from last year’s “Ralph Lauren Christmas” toward a more whimsical season.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -2264,7 +2334,7 @@
    "title": "Pinterest simplifies parental controls",
    "link": "https://www.socialmediatoday.com/news/pinterest-simplifies-parental-controls/875554/",
    "date": "2026-11-23T21:18:03+00:00",
-   "summary": "The platform has updated its parental control dashboard to offer a more streamlined way to manage devices and access options.",
+   "summary": "An updated parental control dashboard offers a more streamlined way to manage devices and access options.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -2280,7 +2350,7 @@
    "title": "Pinterest announces partnership with Microsoft Ads",
    "link": "https://www.socialmediatoday.com/news/pinterest-announces-partnership-with-microsoft-ads/875553/",
    "date": "2026-11-23T21:10:29+00:00",
-   "summary": "The new integration will see Pinterest ad placements extended across Microsoft’s partner platforms.",
+   "summary": "The integration will see Pinterest ad placements extended across Microsoft’s partner platforms.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -3823,8 +3893,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "publicidad"
    ]
@@ -3856,8 +3926,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "publicidad"
    ]
@@ -3872,8 +3942,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "publicidad"
    ]
@@ -3915,8 +3985,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes"
    ]
@@ -3931,8 +4001,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes",
     "publicidad"
@@ -3948,8 +4018,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes"
    ]
@@ -3964,8 +4034,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes",
     "publicidad"
@@ -3981,8 +4051,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes"
    ]
@@ -4137,8 +4207,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo"
    ]
@@ -4153,8 +4223,8 @@
    "category": "ia",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -4264,8 +4334,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo"
    ]
@@ -4336,8 +4406,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo"
    ]
@@ -4365,8 +4435,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo"
    ]
@@ -4381,8 +4451,8 @@
    "category": "ia",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -4410,8 +4480,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -4533,8 +4603,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -4573,8 +4643,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "publicidad"
    ]
@@ -4589,8 +4659,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "publicidad"
    ]
@@ -4605,8 +4675,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "redes",
     "publicidad"
@@ -4651,8 +4721,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -4665,8 +4735,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -4679,8 +4749,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": []
   },
   {
@@ -4952,8 +5022,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes"
    ]
@@ -4998,8 +5068,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -5027,8 +5097,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -5041,8 +5111,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -5055,8 +5125,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -5069,8 +5139,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -5096,8 +5166,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -5153,8 +5223,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -5267,8 +5337,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo"
    ]
@@ -5351,8 +5421,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -5365,8 +5435,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -5379,8 +5449,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -5462,8 +5532,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": []
   },
   {
@@ -5733,8 +5803,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes"
    ]
@@ -5865,8 +5935,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes"
    ]
@@ -6005,8 +6075,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -6309,19 +6379,6 @@
    "image": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
    "source": "Lenny's Newsletter",
    "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "datasette-vega 0.7",
-   "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
-   "date": "2026-11-14T17:09:09+00:00",
-   "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus…",
-   "image": "https://static.simonwillison.net/static/2026/datasette-vega.webp",
-   "source": "Simon Willison",
-   "category": "ia",
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
