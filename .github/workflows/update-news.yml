@@ -1,0 +1,73 @@
+name: Actualizar noticias
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # cada 30 minutos
+  workflow_dispatch:          # botón "Run workflow" para correrlo a mano
+    inputs:
+      force_digest:
+        description: "Rehacer el resumen de hoy"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Descargar feeds
+        run: python scripts/fetch_news.py
+
+      - name: Resumen diario (con IA si hay clave)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DIGEST_TZ: ${{ vars.DIGEST_TZ }}
+          DIGEST_HOUR: ${{ vars.DIGEST_HOUR }}
+          FORCE_DIGEST: ${{ inputs.force_digest && '1' || '0' }}
+        run: |
+          pip install --quiet --upgrade anthropic
+          python scripts/daily_digest.py
+
+      - name: Guardar noticias en el repo
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Sin cambios."
+          else
+            git commit -m "Actualizar noticias $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi
+
+      - name: Preparar sitio
+        run: |
+          mkdir -p _site
+          cp -r index.html manifest.webmanifest sw.js icons data _site/
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
