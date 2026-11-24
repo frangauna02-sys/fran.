@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:37:24.952599+00:00",
+ "updated": "2026-11-24T15:48:10.767663+00:00",
  "sources_ok": 28,
  "sources_total": 34,
  "sources_failed": [
@@ -10,7 +10,7 @@
   "Content Marketing Institute",
   "PuroMarketing"
  ],
- "count": 346,
+ "count": 347,
  "trends": [
   {
    "term": "jensen huang",
@@ -104,6 +104,18 @@
   }
  ],
  "items": [
+  {
+   "title": "El Gobierno prorroga las ayudas al transporte público durante 2027: 1.213 millones para mantener los descuentos en tren y autobús",
+   "link": "https://www.xataka.com/movilidad/gobierno-prorroga-ayudas-al-transporte-publico-durante-2027-1-213-millones-para-mantener-descuentos-tren-autobus",
+   "date": "2026-11-24T15:36:31+00:00",
+   "summary": "El Gobierno ha prorrogado las subvenciones al transporte público hasta 2027, y lo ha hecho de ultimísimas. El Consejo de Ministros ha aprobado este martes un real decreto-ley, manteniendo vigentes los descuentos en metros, autobuses y trenes, así como el Abono Único, que iban a…",
+   "image": "https://i.blogs.es/a09a61/55123301005_9371146572_o/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T15:48:10.767663+00:00"
+  },
   {
    "title": "48 LinkedIn statistics for 2026 to shape your strategy",
    "link": "https://blog.hootsuite.com/linkedin-statistics/",
