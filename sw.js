@@ -1,5 +1,5 @@
 // Service worker: la página abre aunque no haya conexión, con las últimas noticias descargadas.
-const CACHE = "radar-v1";
+const CACHE = "fgg-v2";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon.svg", "icons/icon-192.png"];
 
 self.addEventListener("install", e => {

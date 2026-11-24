@@ -3,32 +3,32 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Radar IA & Marketing</title>
+<title>ESPACIO FGG</title>
 <meta name="description" content="Las últimas noticias de inteligencia artificial y marketing del mundo, actualizadas cada 30 minutos.">
-<meta name="theme-color" content="#17171a">
+<meta name="theme-color" content="#0b1f44">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="Radar">
+<meta name="apple-mobile-web-app-title" content="ESPACIO FGG">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #f6f5f1; --surface: #ffffff; --ink: #17171a; --muted: #6b6b73; --line: #e4e2dc;
-    --ia: #5b4cf0; --ia-soft: #ecebff; --mk: #e0582b; --mk-soft: #fdece4; --new: #0f9d6b; --new-soft: #e3f6ee;
-    --shadow: 0 1px 2px rgba(0,0,0,.04), 0 4px 16px rgba(0,0,0,.04);
+    --bg: #f2f6fc; --surface: #ffffff; --ink: #0b1f44; --muted: #5a6b8c; --line: #dbe4f3;
+    --ia: #1e3a8a; --ia-soft: #e0e8fb; --mk: #0284c7; --mk-soft: #e0f2fe; --new: #2563eb; --new-soft: #dbeafe;
+    --shadow: 0 1px 2px rgba(11,31,68,.05), 0 4px 16px rgba(11,31,68,.06);
   }
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
-      --bg: #111114; --surface: #1a1a1f; --ink: #ededf0; --muted: #9a9aa5; --line: #2a2a31;
-      --ia: #9d93ff; --ia-soft: #25223f; --mk: #ff8a5c; --mk-soft: #3a241b; --new: #3fd39b; --new-soft: #16302a;
+      --bg: #0a1428; --surface: #111e38; --ink: #e6edfa; --muted: #93a3c3; --line: #1f2f52;
+      --ia: #8fb0ff; --ia-soft: #1a2a55; --mk: #38bdf8; --mk-soft: #0c2a44; --new: #60a5fa; --new-soft: #12264a;
       --shadow: none;
     }
   }
   :root[data-theme="dark"] {
-    --bg: #111114; --surface: #1a1a1f; --ink: #ededf0; --muted: #9a9aa5; --line: #2a2a31;
-    --ia: #9d93ff; --ia-soft: #25223f; --mk: #ff8a5c; --mk-soft: #3a241b; --new: #3fd39b; --new-soft: #16302a;
+    --bg: #0a1428; --surface: #111e38; --ink: #e6edfa; --muted: #93a3c3; --line: #1f2f52;
+    --ia: #8fb0ff; --ia-soft: #1a2a55; --mk: #38bdf8; --mk-soft: #0c2a44; --new: #60a5fa; --new-soft: #12264a;
     --shadow: none;
   }
   * { box-sizing: border-box; }
@@ -40,8 +40,23 @@
   header { padding: 32px 0 8px; }
   .top { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
   h1 { font-family: Fraunces, Georgia, serif; font-size: clamp(28px, 5vw, 42px); line-height: 1.05; margin: 0; letter-spacing: -.02em; }
-  h1 span { color: var(--ia); }
-  h1 em { font-style: normal; color: var(--mk); }
+  h1 span { color: var(--new); }
+  .sub { color: var(--muted); font-size: 14px; font-weight: 500; margin-top: 4px; letter-spacing: .02em; }
+
+  /* Pantalla de acceso */
+  #lock { display: none; }
+  html.locked body > :not(#lock) { display: none !important; }
+  html.locked #lock { display: grid; min-height: 100vh; place-items: center; padding: 16px;
+    background: radial-gradient(1200px 600px at 20% 0%, var(--ia-soft), transparent), radial-gradient(900px 500px at 100% 100%, var(--mk-soft), transparent), var(--bg); }
+  .lock-card { width: 100%; max-width: 360px; background: var(--surface); border: 1px solid var(--line); border-radius: 18px; padding: 28px 24px; box-shadow: var(--shadow); text-align: center; }
+  .lock-card h1 { font-size: 32px; }
+  .lock-card p { color: var(--muted); margin: 6px 0 20px; font-size: 14px; }
+  .lock-card input { width: 100%; font: 600 16px Inter, sans-serif; letter-spacing: .15em; text-align: center; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 12px; padding: 12px; outline: none; text-transform: uppercase; }
+  .lock-card input:focus { border-color: var(--new); }
+  .lock-card button { width: 100%; margin-top: 10px; border: 0; border-radius: 12px; padding: 12px; font: 700 15px Inter, sans-serif; background: var(--ia); color: #fff; cursor: pointer; }
+  .lock-err { color: #dc2626; font-size: 13px; min-height: 18px; margin-top: 8px; }
+  .lock-card.shake { animation: shake .35s; }
+  @keyframes shake { 25% { transform: translateX(-8px); } 50% { transform: translateX(8px); } 75% { transform: translateX(-4px); } }
   .status { color: var(--muted); font-size: 13px; display: flex; flex-direction: column; align-items: flex-end; gap: 4px; }
   .status > div { display: flex; align-items: center; gap: 8px; }
   .streak { font-weight: 600; color: var(--ink); }
@@ -163,9 +178,48 @@
 </style>
 </head>
 <body>
+<script>
+  // Acceso con clave. La clave se guarda como hash (SHA-256), no en texto.
+  (function () {
+    try { if (localStorage.getItem("fgg-access") === "ok") return; } catch (e) {}
+    document.documentElement.classList.add("locked");
+  })();
+</script>
+<div id="lock">
+  <form class="lock-card" id="lockForm" autocomplete="off">
+    <h1>ESPACIO <span>FGG</span></h1>
+    <p>Ingresá la clave para entrar</p>
+    <input id="lockInput" type="password" placeholder="Clave" aria-label="Clave" autofocus>
+    <button type="submit">Entrar</button>
+    <div class="lock-err" id="lockErr"></div>
+  </form>
+</div>
+<script>
+  (function () {
+    var HASH = "ac636626aea2f97a16621640462fd75a5c09c556d12cc8382a41c1cc64dc58d9";
+    var form = document.getElementById("lockForm"), input = document.getElementById("lockInput"), err = document.getElementById("lockErr");
+    async function sha256(t) {
+      var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(t));
+      return Array.from(new Uint8Array(buf)).map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+    }
+    form.addEventListener("submit", async function (e) {
+      e.preventDefault();
+      var ok = false;
+      try { ok = (await sha256(input.value.trim().toUpperCase())) === HASH; } catch (x) {}
+      if (ok) {
+        try { localStorage.setItem("fgg-access", "ok"); } catch (x) {}
+        document.documentElement.classList.remove("locked");
+      } else {
+        err.textContent = "Clave incorrecta";
+        form.classList.remove("shake"); void form.offsetWidth; form.classList.add("shake");
+        input.select();
+      }
+    });
+  })();
+</script>
 <header class="wrap">
   <div class="top">
-    <h1><span>IA</span> &amp; <em>Marketing</em><br>Radar</h1>
+    <div><h1>ESPACIO <span>FGG</span></h1><div class="sub">Noticias de IA &amp; Marketing</div></div>
     <div class="status">
       <div><span class="dot"></span><span id="status">Cargando noticias…</span></div>
       <div id="streak" class="streak"></div>
@@ -387,7 +441,7 @@
     render(); }, 150); };
   $("#source").onchange = e => { state.source = e.target.value; state.limit = PAGE; if (["digest", "glossary"].includes(state.cat)) return setCat("all"); render(); };
   $("#more").onclick = () => { state.limit += PAGE; render(); };
-  $("#banner").onclick = () => { applyNews(state.pending); state.pending = null; $("#banner").classList.remove("show"); document.title = "Radar IA & Marketing"; scrollTo({ top: 0, behavior: "smooth" }); };
+  $("#banner").onclick = () => { applyNews(state.pending); state.pending = null; $("#banner").classList.remove("show"); document.title = "ESPACIO FGG"; scrollTo({ top: 0, behavior: "smooth" }); };
 
   // Delegación de eventos en tarjetas
   document.addEventListener("click", e => {
@@ -520,7 +574,7 @@
         ${state.digestArchive.map((x, i) => `<span class="chip ${i === state.digestIdx ? "on" : ""}" data-digest="${i}">${esc(x.label.split(" ").slice(0, 2).join(" "))}</span>`).join("")}</div>` : "";
     el.innerHTML = `<div class="digest">
       <div class="digest-head"><h2 class="big">☀️ Resumen del ${esc(d.label)}</h2>
-        ${d.ai ? "" : '<span class="tag kind">Sin IA: configurá la clave para tener explicaciones</span>'}</div>
+        ${d.ai ? "" : '<span class="tag kind">Sin IA: falta la clave de Claude</span>'}</div>
       <p class="intro">${gloss(d.intro)}</p><ol>${items}</ol>${boxes}${arch}</div>`;
   }
 
@@ -608,7 +662,7 @@
       state.pending = data;
       $("#banner").textContent = `↑ ${fresh} noticia${fresh > 1 ? "s" : ""} nueva${fresh > 1 ? "s" : ""}: tocá para verlas`;
       $("#banner").classList.add("show");
-      document.title = `(${fresh}) Radar IA & Marketing`;
+      document.title = `(${fresh}) ESPACIO FGG`;
     } catch (e) {
       if (first) { $("#status").textContent = "No se pudieron cargar las noticias"; render(); }
     }
@@ -619,7 +673,7 @@
   load(true); loadDigest();
   setInterval(() => { load(false); loadDigest(); }, POLL_MS);
   setInterval(updateStatus, 60 * 1000);
-  document.addEventListener("visibilitychange", () => { if (!document.hidden) { document.title = "Radar IA & Marketing"; load(false); loadDigest(); renderStreak(); } });
+  document.addEventListener("visibilitychange", () => { if (!document.hidden) { document.title = "ESPACIO FGG"; load(false); loadDigest(); renderStreak(); } });
 })();
 </script>
 </body>
