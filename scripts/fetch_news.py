@@ -158,6 +158,45 @@ def repair_xml(data: bytes) -> bytes:
     return ENTITY_RE.sub(ent, text).encode("utf-8")
 
 
+ITEM_RE = re.compile(r"<(item|entry)[\s>].*?</\1>", re.S | re.I)
+
+
+def _tag(block, name):
+    m = re.search(rf"<{name}(?:\s[^>]*)?>(.*?)</{name}>", block, re.S | re.I)
+    if not m:
+        return ""
+    val = m.group(1).strip()
+    cdata = re.fullmatch(r"<!\[CDATA\[(.*)\]\]>", val, re.S)
+    return (cdata.group(1) if cdata else html.unescape(val)).strip()
+
+
+def parse_lenient(data: bytes):
+    """Último recurso para feeds con XML roto: extrae las noticias con expresiones regulares."""
+    text = data.decode("utf-8", errors="replace")
+    items = []
+    for m in ITEM_RE.finditer(text):
+        block = m.group(0)
+        link = _tag(block, "link")
+        if not link:
+            lm = re.search(r"<link[^>]+href=[\"']([^\"']+)", block, re.I)
+            link = html.unescape(lm.group(1)) if lm else _tag(block, "guid")
+        content = _tag(block, "content:encoded") or _tag(block, "content")
+        desc = _tag(block, "description") or _tag(block, "summary") or content
+        im = re.search(r"<(?:media:content|media:thumbnail|enclosure)[^>]+url=[\"']([^\"']+)", block, re.I)
+        image = html.unescape(im.group(1)) if im else ""
+        if not image:
+            im = IMG_RE.search(content or desc)
+            image = html.unescape(im.group(1)) if im else ""
+        items.append({
+            "title": _tag(block, "title"),
+            "link": link.strip(),
+            "date": parse_date(_tag(block, "pubDate") or _tag(block, "dc:date") or _tag(block, "published") or _tag(block, "updated")),
+            "summary": desc,
+            "image": image,
+        })
+    return items
+
+
 def download(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*"})
     for attempt in range(2):
@@ -180,7 +219,12 @@ def fetch(feed, category):
             try:
                 raw_items = parse_feed(data)
             except ET.ParseError:
-                raw_items = parse_feed(repair_xml(data))
+                try:
+                    raw_items = parse_feed(repair_xml(data))
+                except ET.ParseError as exc:
+                    raw_items = parse_lenient(data)
+                    if not raw_items:
+                        raise ValueError(f"no es un feed válido ({exc})") from exc
             if raw_items:
                 break
             errors.append(f"{url}: sin noticias")

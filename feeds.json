@@ -21,8 +21,7 @@
     { "name": "Digiday", "url": "https://digiday.com/feed/" },
     { "name": "Marketing Dive", "url": "https://www.marketingdive.com/feeds/news/" },
     { "name": "Adweek", "url": "https://www.adweek.com/feed/" },
-    { "name": "The Drum", "url": ["https://www.thedrum.com/rss/news", "https://www.thedrum.com/feeds/news.xml", "https://www.thedrum.com/rss"] },
-    { "name": "Marketing Week", "url": "https://www.marketingweek.com/feed/" },
+    { "name": "The Drum", "url": ["https://www.thedrum.com/rss.xml", "https://www.thedrum.com/feed", "https://www.thedrum.com/news/rss", "https://www.thedrum.com/rss/all"] },
     { "name": "Marketing Brew", "url": "https://www.marketingbrew.com/feed", "type": "newsletter" },
     { "name": "Social Media Today", "url": "https://www.socialmediatoday.com/feeds/news/" },
     { "name": "Search Engine Journal", "url": "https://www.searchenginejournal.com/feed/" },
@@ -35,7 +34,7 @@
     { "name": "Social Media Examiner", "url": "https://www.socialmediaexaminer.com/feed/", "max": 8 },
     { "name": "Lenny's Newsletter", "url": "https://www.lennysnewsletter.com/feed", "type": "newsletter" },
     { "name": "MarketingDirecto", "url": "https://www.marketingdirecto.com/feed", "lang": "es" },
-    { "name": "Reason Why", "url": ["https://www.reasonwhy.es/rss.xml", "https://www.reasonwhy.es/feed", "https://www.reasonwhy.es/rss"], "lang": "es" },
+    { "name": "Reason Why", "url": ["https://www.reasonwhy.es/rss/all", "https://www.reasonwhy.es/rss/actualidad", "https://www.reasonwhy.es/feed/rss", "https://www.reasonwhy.es/rss.xml"], "lang": "es" },
     { "name": "Marketing4eCommerce", "url": "https://marketing4ecommerce.net/feed/", "lang": "es" },
     { "name": "Merca2.0", "url": "https://www.merca20.com/feed/", "lang": "es" },
     { "name": "PuroMarketing", "url": "https://www.puromarketing.com/rss", "lang": "es" }
