@@ -6,7 +6,7 @@ Tu fuente diaria de noticias de **inteligencia artificial** y **marketing**, en 
 
 - **Acceso con clave**: la página pide la clave `MKTIA` la primera vez que se abre en cada dispositivo.
 
-- **Noticias de 34 fuentes** (medios, blogs oficiales, newsletters y canales de YouTube) que se actualizan solas cada **30 minutos**.
+- **Noticias de 32 fuentes seleccionadas** (los mejores medios de la industria, blogs oficiales de OpenAI, Anthropic, Google y Meta, newsletters y YouTube) que se actualizan solas cada **30 minutos**.
 - **☀️ Resumen diario con IA**: cada mañana, las 10 noticias más importantes explicadas en español, con un **"por qué importa"** para marketers, la tendencia de la semana y una idea para probar ese día. Se guardan los últimos 14 días.
 - **📈 Temas en tendencia**: lo más mencionado en los últimos 3 días, con cuánto creció. Al tocar un tema, se filtran las noticias.
 - **Glosario**: más de 60 términos (ROAS, RAG, GEO, CPM…). En las noticias aparecen subrayados con puntos y muestran su significado al pasar el mouse o tocarlos.
