@@ -447,6 +447,8 @@ def main():
             item["image"] = old.get("image", "")
             if old.get("og_tried"):
                 item["og_tried"] = True
+        if old and old.get("title_es") and old.get("title") == item.get("title"):
+            item["title_es"], item["summary_es"] = old["title_es"], old.get("summary_es", "")
         if old and old.get("first_seen"):
             item["first_seen"] = old["first_seen"]
         merged[key] = item
