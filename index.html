@@ -1,0 +1,291 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Radar IA & Marketing</title>
+<meta name="description" content="Las últimas noticias de inteligencia artificial y marketing del mundo, actualizadas cada 30 minutos.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f6f5f1; --surface: #ffffff; --ink: #17171a; --muted: #6b6b73; --line: #e4e2dc;
+    --ia: #5b4cf0; --ia-soft: #ecebff; --mk: #e0582b; --mk-soft: #fdece4; --new: #0f9d6b;
+    --shadow: 0 1px 2px rgba(0,0,0,.04), 0 4px 16px rgba(0,0,0,.04);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #111114; --surface: #1a1a1f; --ink: #ededf0; --muted: #9a9aa5; --line: #2a2a31;
+      --ia: #9d93ff; --ia-soft: #25223f; --mk: #ff8a5c; --mk-soft: #3a241b; --new: #3fd39b;
+      --shadow: none;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #111114; --surface: #1a1a1f; --ink: #ededf0; --muted: #9a9aa5; --line: #2a2a31;
+    --ia: #9d93ff; --ia-soft: #25223f; --mk: #ff8a5c; --mk-soft: #3a241b; --new: #3fd39b;
+    --shadow: none;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 Inter, system-ui, sans-serif; }
+  a { color: inherit; text-decoration: none; }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 0 16px; }
+
+  header { padding: 32px 0 8px; }
+  .top { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+  h1 { font-family: Fraunces, Georgia, serif; font-size: clamp(28px, 5vw, 42px); line-height: 1.05; margin: 0; letter-spacing: -.02em; }
+  h1 span { color: var(--ia); }
+  h1 em { font-style: normal; color: var(--mk); }
+  .status { color: var(--muted); font-size: 13px; display: flex; align-items: center; gap: 8px; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--new); box-shadow: 0 0 0 0 var(--new); animation: pulse 2s infinite; }
+  @keyframes pulse { 0% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--new) 60%, transparent); } 70% { box-shadow: 0 0 0 8px transparent; } 100% { box-shadow: 0 0 0 0 transparent; } }
+
+  .bar { position: sticky; top: 0; z-index: 5; background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: blur(10px); padding: 14px 0; border-bottom: 1px solid var(--line); margin-bottom: 20px; }
+  .controls { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  .tabs { display: flex; background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 3px; }
+  .tabs button { border: 0; background: none; color: var(--muted); font: 600 13px Inter, sans-serif; padding: 7px 14px; border-radius: 999px; cursor: pointer; }
+  .tabs button.on { background: var(--ink); color: var(--bg); }
+  .search { flex: 1; min-width: 180px; position: relative; }
+  .search input, select { width: 100%; font: 14px Inter, sans-serif; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 9px 14px; outline: none; }
+  .search input:focus, select:focus { border-color: var(--ia); }
+  select { width: auto; max-width: 100%; }
+  .icon-btn { border: 1px solid var(--line); background: var(--surface); color: var(--ink); border-radius: 999px; padding: 8px 12px; font: 600 13px Inter, sans-serif; cursor: pointer; }
+  .chips { display: flex; gap: 8px; margin-top: 10px; flex-wrap: wrap; font-size: 12px; color: var(--muted); }
+  .chip { border: 1px solid var(--line); border-radius: 999px; padding: 3px 10px; background: var(--surface); cursor: pointer; }
+  .chip.on { border-color: var(--new); color: var(--new); }
+
+  .banner { display: none; margin: 0 auto 16px; background: var(--ink); color: var(--bg); border: 0; border-radius: 999px; padding: 9px 18px; font: 600 13px Inter, sans-serif; cursor: pointer; }
+  .banner.show { display: block; }
+
+  .lead { display: grid; grid-template-columns: 1.4fr 1fr; gap: 20px; margin-bottom: 28px; }
+  .lead .main { grid-row: span 2; }
+  .lead .main > a:first-child { flex: 1; display: flex; }
+  .lead .main .thumb { flex: 1; aspect-ratio: auto; min-height: 240px; }
+  .lead .main .body { flex: 0 0 auto; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 18px; }
+  .card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; display: flex; flex-direction: column; box-shadow: var(--shadow); transition: transform .15s, border-color .15s; }
+  .card:hover { transform: translateY(-2px); border-color: color-mix(in srgb, var(--ink) 25%, var(--line)); }
+  .thumb { aspect-ratio: 16/9; background: var(--line) center/cover no-repeat; position: relative; }
+  .thumb.empty { display: grid; place-items: center; font-family: Fraunces, serif; font-size: 34px; color: var(--muted); }
+  .card[data-cat="ia"] .thumb.empty { background: var(--ia-soft); color: var(--ia); }
+  .card[data-cat="marketing"] .thumb.empty { background: var(--mk-soft); color: var(--mk); }
+  .body { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+  .meta { display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--muted); flex-wrap: wrap; }
+  .tag { font-weight: 700; font-size: 11px; letter-spacing: .04em; text-transform: uppercase; padding: 2px 8px; border-radius: 6px; }
+  .tag.ia { background: var(--ia-soft); color: var(--ia); }
+  .tag.marketing { background: var(--mk-soft); color: var(--mk); }
+  .new { color: var(--new); font-weight: 700; }
+  .card h3 { margin: 0; font-size: 16px; line-height: 1.35; font-weight: 600; }
+  .lead .main h3 { font-family: Fraunces, Georgia, serif; font-size: clamp(20px, 2.6vw, 28px); line-height: 1.2; }
+  .card p { margin: 0; color: var(--muted); font-size: 14px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .lead .main p { -webkit-line-clamp: 5; }
+  .actions { margin-top: auto; display: flex; gap: 12px; font-size: 12px; padding-top: 6px; }
+  .actions a, .actions button { color: var(--muted); background: none; border: 0; padding: 0; font: 600 12px Inter, sans-serif; cursor: pointer; }
+  .actions a:hover, .actions button:hover { color: var(--ink); }
+  .actions .saved { color: var(--new); }
+
+  h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 0 0 12px; }
+  .empty-state { text-align: center; padding: 60px 16px; color: var(--muted); }
+  .more { display: block; margin: 28px auto 48px; }
+  footer { color: var(--muted); font-size: 12px; text-align: center; padding: 0 0 40px; }
+
+  @media (max-width: 760px) {
+    .lead { grid-template-columns: 1fr; }
+    .lead .main { grid-row: auto; }
+    .tabs { width: 100%; }
+    .tabs button { flex: 1; padding: 7px 6px; }
+    .search { flex-basis: 100%; }
+    .lead .main .thumb { aspect-ratio: 16/9; min-height: 0; }
+  }
+</style>
+</head>
+<body>
+<header class="wrap">
+  <div class="top">
+    <h1><span>IA</span> &amp; <em>Marketing</em><br>Radar</h1>
+    <div class="status"><span class="dot"></span><span id="status">Cargando noticias…</span></div>
+  </div>
+</header>
+
+<div class="bar">
+  <div class="wrap">
+    <div class="controls">
+      <div class="tabs" role="tablist">
+        <button data-cat="all" class="on">Todo</button>
+        <button data-cat="ia">IA</button>
+        <button data-cat="marketing">Marketing</button>
+        <button data-cat="saved">Guardadas</button>
+      </div>
+      <div class="search"><input id="q" type="search" placeholder="Buscar: ChatGPT, SEO, TikTok, agentes…" autocomplete="off"></div>
+      <select id="source" aria-label="Fuente"><option value="">Todas las fuentes</option></select>
+      <button class="icon-btn" id="theme" title="Cambiar tema claro/oscuro">Tema</button>
+    </div>
+    <div class="chips">
+      <span class="chip" data-filter="es">Solo en español</span>
+      <span class="chip" data-filter="today">Últimas 24 h</span>
+      <span class="chip" data-filter="unread">Nuevas desde mi última visita</span>
+    </div>
+  </div>
+</div>
+
+<main class="wrap">
+  <button class="banner" id="banner"></button>
+  <section id="lead" class="lead"></section>
+  <h2 id="restTitle">Más noticias</h2>
+  <section id="grid" class="grid"></section>
+  <button class="icon-btn more" id="more" hidden>Ver más</button>
+</main>
+
+<footer class="wrap">Se actualiza solo cada 30 minutos desde <span id="nsrc">—</span> fuentes. La página busca novedades cada 5 minutos.</footer>
+
+<script>
+(() => {
+  const DATA_URL = "data/news.json";
+  const POLL_MS = 5 * 60 * 1000;
+  const PAGE = 30;
+
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch { return d; } },
+    set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
+  };
+
+  const state = {
+    items: [], cat: store.get("cat", "all"), q: "", source: "", limit: PAGE,
+    filters: new Set(store.get("filters", [])),
+    saved: store.get("saved", {}),
+    lastVisit: store.get("lastVisit", null),
+    shownKeys: new Set(), pending: null, updated: null
+  };
+  store.set("lastVisit", new Date().toISOString());
+
+  const $ = s => document.querySelector(s);
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const keyOf = it => it.link;
+  const rtf = new Intl.RelativeTimeFormat("es", { numeric: "auto" });
+  function ago(iso) {
+    const s = (new Date(iso) - Date.now()) / 1000;
+    const steps = [[60, "second"], [3600, "minute"], [86400, "hour"], [604800, "day"], [Infinity, "week"]];
+    const div = { second: 1, minute: 60, hour: 3600, day: 86400, week: 604800 };
+    for (const [lim, unit] of steps) if (Math.abs(s) < lim) return rtf.format(Math.round(s / div[unit]), unit);
+  }
+
+  // Tema
+  const savedTheme = store.get("theme", null);
+  if (savedTheme) document.documentElement.dataset.theme = savedTheme;
+  $("#theme").onclick = () => {
+    const dark = matchMedia("(prefers-color-scheme: dark)").matches;
+    const cur = document.documentElement.dataset.theme || (dark ? "dark" : "light");
+    const next = cur === "dark" ? "light" : "dark";
+    document.documentElement.dataset.theme = next; store.set("theme", next);
+  };
+
+  // Controles
+  document.querySelectorAll(".tabs button").forEach(b => {
+    b.classList.toggle("on", b.dataset.cat === state.cat);
+    b.onclick = () => { state.cat = b.dataset.cat; store.set("cat", state.cat); state.limit = PAGE;
+      document.querySelectorAll(".tabs button").forEach(x => x.classList.toggle("on", x === b)); render(); };
+  });
+  document.querySelectorAll(".chip").forEach(c => {
+    c.classList.toggle("on", state.filters.has(c.dataset.filter));
+    c.onclick = () => { const f = c.dataset.filter; state.filters.has(f) ? state.filters.delete(f) : state.filters.add(f);
+      c.classList.toggle("on"); store.set("filters", [...state.filters]); state.limit = PAGE; render(); };
+  });
+  let t; $("#q").oninput = e => { clearTimeout(t); t = setTimeout(() => { state.q = e.target.value.trim().toLowerCase(); state.limit = PAGE; render(); }, 150); };
+  $("#source").onchange = e => { state.source = e.target.value; state.limit = PAGE; render(); };
+  $("#more").onclick = () => { state.limit += PAGE; render(); };
+  $("#banner").onclick = () => { applyData(state.pending); state.pending = null; $("#banner").classList.remove("show"); scrollTo({ top: 0, behavior: "smooth" }); };
+
+  function filtered() {
+    const dayAgo = Date.now() - 864e5;
+    return state.items.filter(it => {
+      if (state.cat === "saved") { if (!state.saved[keyOf(it)]) return false; }
+      else if (state.cat !== "all" && it.category !== state.cat) return false;
+      if (state.source && it.source !== state.source) return false;
+      if (state.filters.has("es") && it.lang !== "es") return false;
+      if (state.filters.has("today") && new Date(it.date) < dayAgo) return false;
+      if (state.filters.has("unread") && !isNew(it)) return false;
+      if (state.q && !(it.title + " " + it.summary + " " + it.source).toLowerCase().includes(state.q)) return false;
+      return true;
+    });
+  }
+  const isNew = it => state.lastVisit && new Date(it.first_seen || it.date) > new Date(state.lastVisit);
+
+  function card(it, main) {
+    const k = keyOf(it), saved = !!state.saved[k];
+    const img = it.image ? `<div class="thumb" style="background-image:url('${esc(it.image).replace(/'/g, "%27")}')"></div>`
+                         : `<div class="thumb empty">${esc((it.source || "?")[0])}</div>`;
+    return `<article class="card ${main ? "main" : ""}" data-cat="${esc(it.category)}">
+      <a href="${esc(it.link)}" target="_blank" rel="noopener">${img}</a>
+      <div class="body">
+        <div class="meta"><span class="tag ${esc(it.category)}">${it.category === "ia" ? "IA" : "Marketing"}</span>
+          <span>${esc(it.source)}</span><span>·</span><span title="${esc(new Date(it.date).toLocaleString("es"))}">${esc(ago(it.date))}</span>
+          ${isNew(it) ? '<span class="new">● Nueva</span>' : ""}</div>
+        <a href="${esc(it.link)}" target="_blank" rel="noopener"><h3>${esc(it.title)}</h3></a>
+        ${it.summary ? `<p>${esc(it.summary)}</p>` : ""}
+        <div class="actions">
+          <a href="${esc(it.link)}" target="_blank" rel="noopener">Leer →</a>
+          <button data-save="${esc(k)}" class="${saved ? "saved" : ""}">${saved ? "★ Guardada" : "☆ Guardar"}</button>
+          ${it.lang !== "es" ? `<a href="https://translate.google.com/translate?sl=auto&tl=es&u=${encodeURIComponent(it.link)}" target="_blank" rel="noopener">Traducir</a>` : ""}
+        </div>
+      </div></article>`;
+  }
+
+  function render() {
+    const list = filtered();
+    const useLead = state.cat !== "saved" && !state.q && list.length > 6;
+    const lead = useLead ? list.slice(0, 3) : [];
+    const rest = list.slice(lead.length, state.limit);
+    $("#lead").style.display = lead.length ? "" : "none";
+    $("#lead").innerHTML = lead.map((it, i) => card(it, i === 0)).join("");
+    $("#restTitle").style.display = lead.length && rest.length ? "" : "none";
+    $("#grid").innerHTML = rest.length || lead.length ? rest.map(it => card(it)).join("")
+      : `<div class="empty-state" style="grid-column:1/-1">${state.items.length ? (state.cat === "saved" ? "Todavía no guardaste noticias. Tocá ☆ Guardar en cualquiera." : "No hay noticias con esos filtros.") : "Todavía no hay noticias. La primera actualización llega en unos minutos."}</div>`;
+    $("#more").hidden = list.length <= state.limit;
+    document.querySelectorAll("[data-save]").forEach(b => b.onclick = () => {
+      const k = b.dataset.save; const it = state.items.find(x => keyOf(x) === k);
+      if (state.saved[k]) delete state.saved[k]; else state.saved[k] = it || true;
+      store.set("saved", state.saved); render();
+    });
+  }
+
+  function applyData(data) {
+    const savedOnly = Object.values(state.saved).filter(v => v && v.link && !data.items.some(i => i.link === v.link));
+    state.items = data.items.concat(savedOnly).sort((a, b) => new Date(b.date) - new Date(a.date));
+    state.updated = data.updated;
+    state.shownKeys = new Set(data.items.map(keyOf));
+    const sources = [...new Set(state.items.map(i => i.source))].sort();
+    const sel = $("#source"), cur = sel.value;
+    sel.innerHTML = '<option value="">Todas las fuentes</option>' + sources.map(s => `<option ${s === cur ? "selected" : ""}>${esc(s)}</option>`).join("");
+    $("#nsrc").textContent = data.sources_total || sources.length;
+    updateStatus(); render();
+  }
+  function updateStatus() {
+    if (!state.updated) return;
+    $("#status").textContent = `${state.items.length} noticias · actualizado ${ago(state.updated)}`;
+  }
+
+  async function load(first) {
+    try {
+      const r = await fetch(DATA_URL + "?t=" + Date.now(), { cache: "no-store" });
+      if (!r.ok) throw new Error(r.status);
+      const data = await r.json();
+      if (first || !state.items.length) return applyData(data);
+      if (data.updated === state.updated) return;
+      const fresh = data.items.filter(i => !state.shownKeys.has(keyOf(i))).length;
+      if (!fresh) return applyData(data);
+      state.pending = data;
+      $("#banner").textContent = `↑ ${fresh} noticia${fresh > 1 ? "s" : ""} nueva${fresh > 1 ? "s" : ""} — tocá para ver`;
+      $("#banner").classList.add("show");
+      document.title = `(${fresh}) Radar IA & Marketing`;
+    } catch (e) {
+      if (first) { $("#status").textContent = "No se pudieron cargar las noticias"; render(); }
+    }
+  }
+
+  load(true);
+  setInterval(() => load(false), POLL_MS);
+  setInterval(updateStatus, 60 * 1000);
+  document.addEventListener("visibilitychange", () => { if (!document.hidden) { document.title = "Radar IA & Marketing"; load(false); } });
+})();
+</script>
+</body>
+</html>
