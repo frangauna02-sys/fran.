@@ -1,16 +1,19 @@
 {
- "updated": "2026-11-24T21:54:12.843015+00:00",
- "sources_ok": 31,
+ "updated": "2026-11-24T22:53:45.317906+00:00",
+ "sources_ok": 32,
  "sources_total": 32,
- "sources_failed": [
-  "Marketing4eCommerce"
- ],
- "count": 494,
+ "sources_failed": [],
+ "count": 505,
  "trends": [
   {
    "term": "jensen huang",
-   "count": 30,
-   "growth": 16.7
+   "count": 31,
+   "growth": 17.2
+  },
+  {
+   "term": "google",
+   "count": 29,
+   "growth": 7.5
   },
   {
    "term": "nvidia",
@@ -18,24 +21,19 @@
    "growth": 11.8
   },
   {
-   "term": "google",
-   "count": 26,
-   "growth": 6.8
-  },
-  {
    "term": "black friday",
-   "count": 18,
-   "growth": 13.3
+   "count": 20,
+   "growth": 14.7
   },
   {
    "term": "navidad",
-   "count": 14,
-   "growth": 15.0
+   "count": 15,
+   "growth": 16.0
   },
   {
    "term": "meta",
-   "count": 11,
-   "growth": 3.8
+   "count": 12,
+   "growth": 4.1
   },
   {
    "term": "trump",
@@ -100,6 +98,133 @@
  ],
  "items": [
   {
+   "title": "Crunchyroll ofrece 66% de descuento en su suscripción por Black Friday 2026",
+   "link": "https://www.merca20.com/crunchyroll-ofrece-66-de-descuento-en-su-suscripcion-por-black-friday-2026/?utm_source=rss&utm_medium=rss&utm_campaign=crunchyroll-ofrece-66-de-descuento-en-su-suscripcion-por-black-friday-2026",
+   "date": "2026-11-24T22:45:48+00:00",
+   "summary": "La plataforma de anime lanzó una promoción de seis meses para usuarios nuevos y recurrentes en México, con planes desde 44 pesos y vigencia hasta el 30 de noviembre.",
+   "image": "https://files.merca20.com/uploads/2026/11/my-hero-academia-crunchyroll-blackfriday-cortesia.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T22:53:45.317906+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Steven Hack, ‘Seinfeld’ and ‘American Horror Story’ Actor, Dies: Cause of Death and Net Worth",
+   "link": "https://www.merca20.com/steven-hack-seinfeld-and-american-horror-story-actor-dies-cause-of-death-and-net-worth/?utm_source=rss&utm_medium=rss&utm_campaign=steven-hack-seinfeld-and-american-horror-story-actor-dies-cause-of-death-and-net-worth",
+   "date": "2026-11-24T22:30:33+00:00",
+   "summary": "Steven Hack's death was announced by Interact Theatre Company, the Los Angeles-based theater company he helped co-found",
+   "image": "https://files.merca20.com/uploads/2026/11/Steven-Hack-Gemini-AI.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T22:53:45.317906+00:00",
+   "topics": []
+  },
+  {
+   "title": "Meta presenta “The Play”, su comercial de navidad que critica la obsesión por los smartphones (VIDEO)",
+   "link": "https://www.merca20.com/meta-presenta-the-play-su-comercial-de-navidad-que-critica-la-obsesion-por-los-smartphones-video/?utm_source=rss&utm_medium=rss&utm_campaign=meta-presenta-the-play-su-comercial-de-navidad-que-critica-la-obsesion-por-los-smartphones-video",
+   "date": "2026-11-24T22:30:08+00:00",
+   "summary": "El nuevo comercial de navidad de Meta tiene como objetivo impulsar y promover sus nuevos lentes inteligentes.",
+   "image": "https://files.merca20.com/uploads/2026/11/Merry-Christmas-Foto-de-bigstock-442265957.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T22:53:45.317906+00:00",
+   "topics": []
+  },
+  {
+   "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+   "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+   "date": "2026-11-24T22:27:52+00:00",
+   "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192215566.jpg?resize=1200,800",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T22:53:45.317906+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Google transforma su página de inicio: ahora puedes recuperar tus búsquedas anteriores con IA",
+   "link": "https://www.merca20.com/google-transforma-su-pagina-de-inicio-ahora-puedes-recuperar-tus-busquedas-anteriores-con-ia/?utm_source=rss&utm_medium=rss&utm_campaign=google-transforma-su-pagina-de-inicio-ahora-puedes-recuperar-tus-busquedas-anteriores-con-ia",
+   "date": "2026-11-24T22:20:39+00:00",
+   "summary": "Google incorporó un nuevo panel desplegable que muestra las conversaciones recientes realizadas con AI Mode de cada usuario.",
+   "image": "https://files.merca20.com/uploads/2026/09/bigstock-148611569.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T22:53:45.317906+00:00",
+   "topics": [
+    "seo"
+   ]
+  },
+  {
+   "title": "Cómo sobrevivir a la pérdida de una de tus cuentas más importantes",
+   "link": "https://www.merca20.com/como-sobrevivir-a-la-perdida-de-una-de-tus-cuentas-mas-importantes/?utm_source=rss&utm_medium=rss&utm_campaign=como-sobrevivir-a-la-perdida-de-una-de-tus-cuentas-mas-importantes",
+   "date": "2026-11-24T22:14:57+00:00",
+   "summary": "Depender demasiado de una sola cuenta no solo compromete la facturación, también puede afectar la percepción de estabilidad financiera de la organización.",
+   "image": "https://files.merca20.com/uploads/2026/11/Agencias-perdidas-Fot-bigstock-86621588.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T22:53:45.317906+00:00",
+   "topics": []
+  },
+  {
+   "title": "Cinemex lanza promoción de Black Friday; tendrá boletos de cine a 39 pesos",
+   "link": "https://www.merca20.com/cinemex-lanza-promocion-de-black-friday-tendra-boletos-de-cine-a-39-pesos/?utm_source=rss&utm_medium=rss&utm_campaign=cinemex-lanza-promocion-de-black-friday-tendra-boletos-de-cine-a-39-pesos",
+   "date": "2026-11-24T22:13:30+00:00",
+   "summary": "La oferta estará disponible durante todo el día y aplicará en salas tradicionales y Premium, exclusivamente para funciones en formato 2D",
+   "image": "https://files.merca20.com/uploads/2026/11/cinemex-promo-black-friday-ChatGPT.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T22:53:45.317906+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Google Documents Advance Notice For Significant Ranking Updates via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/google-documents-advance-notice-for-significant-ranking-updates/598773/",
+   "date": "2026-11-24T22:06:57+00:00",
+   "summary": "New Search documentation explains when sites get advance notice of significant ranking updates, how to send feedback on them, and a new UK appeal route.",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ranking-update-featured-larger-wordmark.jpg",
+   "source": "Search Engine Journal",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T22:53:45.317906+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo"
+   ]
+  },
+  {
+   "title": "Al MacBook Neo le faltaba un rival de la talla de los LG gram: la espera ha terminado y LG ha apostado por la ligereza",
+   "link": "https://www.xataka.com/ordenadores/al-macbook-neo-le-faltaba-rival-talla-lg-gram-espera-ha-terminado-lg-ha-apostado-ligereza",
+   "date": "2026-11-24T22:00:59+00:00",
+   "summary": "Apple nos tenía acostumbrados a que entrar en el universo Mac con un portátil nuevo implicaba hacer un desembolso considerable. El MacBook Neo cambió esa situación en marzo y lo hizo de una manera bastante interesante: conservando buena parte de la identidad de los ordenadores…",
+   "image": "https://i.blogs.es/77dea4/gram-book-14-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T22:53:45.317906+00:00",
+   "topics": []
+  },
+  {
    "title": "Ángel Alverde Losada será el nuevo presidente del Consejo de Santander México",
    "link": "https://www.merca20.com/angel-alverde-losada-sera-el-nuevo-presidente-del-consejo-de-santander-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=angel-alverde-losada-sera-el-nuevo-presidente-del-consejo-de-santander-mexico",
    "date": "2026-11-24T21:54:02+00:00",
@@ -122,9 +247,25 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T21:54:12.843015+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
    "topics": []
+  },
+  {
+   "title": "Google On How Links Are Selected & Shown In AI Overviews & AI Mode",
+   "link": "https://www.seroundtable.com/google-ai-overviews-ai-mode-link-selection-42617.html",
+   "date": "2026-11-24T21:41:00+00:00",
+   "summary": "As part of the updated documentation and Google Search ranking hub we covered a new document named Attribution and factuality in Search generative AI features. This document is chock-full of information on how Google selects which links to show in AI Mode, AI Overviews and other…",
+   "image": "https://images.seroundtable.com/google-ai-ranking-4SCsEIMy.jpg",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T22:53:45.317906+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo"
+   ]
   },
   {
    "title": "Even the best AI agents struggle with everyday life",
@@ -136,8 +277,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T21:54:12.843015+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
    "topics": []
   },
   {
@@ -150,8 +291,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T21:54:12.843015+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
    "topics": [
     "ecommerce"
    ]
@@ -179,8 +320,21 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T21:54:12.843015+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
+   "topics": []
+  },
+  {
+   "title": "La trampa de la IA gratuita, ¿estamos pagando el precio de acostumbrarnos a ella?",
+   "link": "https://www.merca20.com/la-trampa-de-la-ia-gratuita-estamos-pagando-el-precio-de-acostumbrarnos-a-ella/?utm_source=rss&utm_medium=rss&utm_campaign=la-trampa-de-la-ia-gratuita-estamos-pagando-el-precio-de-acostumbrarnos-a-ella",
+   "date": "2026-11-24T21:01:36+00:00",
+   "summary": "Puede seguir disfrutando de versiones limitadas y gratuitas, pero si quiere aprovechar el verdadero potencial de la IA —velocidad, precisión y personalización— tendrá que abrir la cartera.",
+   "image": "https://files.merca20.com/uploads/2026/11/Trampa-IA-Foto-de-bigstock-115822871.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T22:53:45.317906+00:00",
    "topics": []
   },
   {
@@ -290,7 +444,7 @@
    "topics": []
   },
   {
-   "title": "The most futuristic motorcycle helmet?",
+   "title": "This helmet tells you when to turn ⮑",
    "link": "https://www.youtube.com/shorts/PQYURWk9-w0",
    "date": "2026-11-24T20:11:42+00:00",
    "summary": "This motorcycle helmet puts GPS directions right in your field of vision, like something straight out of a video game! #AI #futuretech",
@@ -887,8 +1041,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T21:54:12.843015+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
    "topics": [
     "publicidad"
    ]
@@ -1278,7 +1432,7 @@
    ]
   },
   {
-   "title": "El 91% de los trabajadores de oficina españoles ya utiliza agentes de IA, frente al 74% de media mundial",
+   "title": "Integrar bien la IA permite a los trabajadores españoles ahorrar un 30% más de tiempo diario",
    "link": "https://marketing4ecommerce.net/trabajadores-espanoles-utiliza-agentes-ia/",
    "date": "2026-11-24T15:30:29+00:00",
    "summary": "Tan solo EE.UU. (96%) y Brasil (93%) se sitúan por delante de España en adopción de agentes de IA, según un estudio de The Adecco Group.[…]",
@@ -1838,8 +1992,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T21:54:12.843015+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
    "topics": []
   },
   {
