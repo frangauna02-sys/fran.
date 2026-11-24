@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-24T22:53:45.317906+00:00",
+ "updated": "2026-11-24T23:45:51.011315+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 505,
+ "count": 513,
  "trends": [
   {
    "term": "jensen huang",
-   "count": 31,
-   "growth": 17.2
+   "count": 32,
+   "growth": 17.8
   },
   {
    "term": "google",
@@ -17,8 +17,8 @@
   },
   {
    "term": "nvidia",
-   "count": 26,
-   "growth": 11.8
+   "count": 27,
+   "growth": 12.2
   },
   {
    "term": "black friday",
@@ -27,8 +27,8 @@
   },
   {
    "term": "navidad",
-   "count": 15,
-   "growth": 16.0
+   "count": 16,
+   "growth": 17.0
   },
   {
    "term": "meta",
@@ -56,14 +56,19 @@
    "growth": 5.4
   },
   {
+   "term": "marcas",
+   "count": 8,
+   "growth": 9.0
+  },
+  {
    "term": "ai agents",
    "count": 6,
    "growth": 4.9
   },
   {
-   "term": "marcas",
-   "count": 7,
-   "growth": 8.0
+   "term": "return",
+   "count": 6,
+   "growth": 4.9
   },
   {
    "term": "euros",
@@ -89,14 +94,93 @@
    "term": "corte inglés",
    "count": 4,
    "growth": 5.0
-  },
-  {
-   "term": "anthropic",
-   "count": 7,
-   "growth": 2.9
   }
  ],
  "items": [
+  {
+   "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+   "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+   "date": "2026-11-24T23:39:04+00:00",
+   "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+   "image": "https://media.wired.com/photos/6b05a2cb470266bfec0ce9be/master/pass/GettyImages-2306037065.jpg",
+   "source": "Wired IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T23:45:51.011315+00:00",
+   "topics": []
+  },
+  {
+   "title": "TikTok revela las tendencias de navidad en 2026: de Whimsy Christmas a Pinksmas van a dominar la temporada",
+   "link": "https://www.merca20.com/tiktok-revela-las-tendencias-de-navidad-en-2026-de-whimsy-christmas-a-pinksmas-van-a-dominar-la-temporada/?utm_source=rss&utm_medium=rss&utm_campaign=tiktok-revela-las-tendencias-de-navidad-en-2026-de-whimsy-christmas-a-pinksmas-van-a-dominar-la-temporada",
+   "date": "2026-11-24T23:32:04+00:00",
+   "summary": "A partir del comportamiento de los usuarios en sus publicaciones, TikTok anticipó las tendencias de navidad que podrían dominar en 2026.",
+   "image": "https://files.merca20.com/uploads/2026/11/bigstock-Christmas-Gift-For-You-110331245.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T23:45:51.011315+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "El poder de la cultura pop para construir relaciones duraderas entre marcas y consumidores",
+   "link": "https://www.merca20.com/el-poder-de-la-cultura-pop-para-construir-relaciones-duraderas-entre-marcas-y-consumidores/?utm_source=rss&utm_medium=rss&utm_campaign=el-poder-de-la-cultura-pop-para-construir-relaciones-duraderas-entre-marcas-y-consumidores",
+   "date": "2026-11-24T23:25:27+00:00",
+   "summary": "El diseño publicitario ya no se limita a informar, ahora diseña para emocionar, dialogar y crear comunidad.",
+   "image": "https://files.merca20.com/uploads/2026/11/Cultura-foto-bigstock-352372100.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T23:45:51.011315+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Instagram y Shein se unen: ahora los creadores pueden ganar dinero con enlaces de afiliados",
+   "link": "https://www.merca20.com/instagram-y-shein-se-unen-ahora-los-creadores-pueden-ganar-dinero-con-enlaces-de-afiliados/?utm_source=rss&utm_medium=rss&utm_campaign=instagram-y-shein-se-unen-ahora-los-creadores-pueden-ganar-dinero-con-enlaces-de-afiliados",
+   "date": "2026-11-24T23:15:59+00:00",
+   "summary": "La alianza entre Instagram y Shein incluye enlaces de afiliados exclusivos y comisiones más atractivas para los creadores de contenido.",
+   "image": "https://files.merca20.com/uploads/2026/10/bigstock-220456099.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T23:45:51.011315+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "Three LLM inflection points in twelve months",
+   "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+   "date": "2026-11-24T23:02:07+00:00",
+   "summary": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk. In this post I'm going…",
+   "image": "https://static.simonwillison.net/static/2026/fable-class.webp",
+   "source": "Simon Willison",
+   "category": "ia",
+   "lang": "en",
+   "type": "newsletter",
+   "first_seen": "2026-11-24T23:45:51.011315+00:00",
+   "topics": []
+  },
+  {
+   "title": "Japón tiene un problema con el futuro de sus semiconductores. Su respuesta es una fábrica de chips sobre ruedas",
+   "link": "https://www.xataka.com/empresas-y-economia/japon-tiene-problema-futuro-sus-semiconductores-su-respuesta-fabrica-chips-ruedas",
+   "date": "2026-11-24T22:54:10+00:00",
+   "summary": "Cuando hablamos de fabricar semiconductores, solemos pensar en enormes instalaciones, máquinas de una precisión extraordinaria e inversiones de miles de millones de euros. Pero detrás de todo ese despliegue tecnológico hay algo que no se puede resolver únicamente con dinero: la…",
+   "image": "https://i.blogs.es/30463d/semiconductores-camion/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T23:45:51.011315+00:00",
+   "topics": []
+  },
   {
    "title": "Crunchyroll ofrece 66% de descuento en su suscripción por Black Friday 2026",
    "link": "https://www.merca20.com/crunchyroll-ofrece-66-de-descuento-en-su-suscripcion-por-black-friday-2026/?utm_source=rss&utm_medium=rss&utm_campaign=crunchyroll-ofrece-66-de-descuento-en-su-suscripcion-por-black-friday-2026",
@@ -148,8 +232,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T22:53:45.317906+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T22:53:45.317906+00:00",
    "topics": []
   },
   {
@@ -205,8 +289,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T22:53:45.317906+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T22:53:45.317906+00:00",
    "topics": [
     "seo"
    ]
@@ -261,8 +345,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T22:53:45.317906+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T22:53:45.317906+00:00",
    "topics": [
     "seo"
    ]
@@ -681,6 +765,22 @@
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T19:58:51.548086+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "U.S. Soccer Extends Its Long-Running Partnership with AT&T",
+   "link": "https://www.adweek.com/brand-marketing/us-soccer-extends-its-long-running-partnership-with-att/",
+   "date": "2026-11-24T18:42:51+00:00",
+   "summary": "AT&T has supported U.S. Soccer since 2029, and the renewal will reach fans through content, match-day activations, and other programming.",
+   "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/IMG_0577-e1795556941826.jpeg?w=600&h=315&crop=1",
+   "source": "Adweek",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T23:45:51.011315+00:00",
+   "og_tried": true,
    "topics": [
     "publicidad"
    ]
@@ -3099,6 +3199,20 @@
    "type": "article",
    "og_tried": true,
    "first_seen": "2026-11-24T19:58:51.548086+00:00",
+   "topics": []
+  },
+  {
+   "title": "Clay helps sales teams win with Codex and ChatGPT",
+   "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+   "date": "2026-11-24T00:00:00+00:00",
+   "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/24rUSNlLR8iXQysKA6dq12/38954f25812d30bf772691824f747b84/clay-seo-1920.png?w=1600&h=900&fit=fill",
+   "source": "OpenAI",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T23:45:51.011315+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
