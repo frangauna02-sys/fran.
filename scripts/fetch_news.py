@@ -8,7 +8,10 @@ import html
 import json
 import re
 import sys
+import time
+import urllib.error
 import urllib.request
+from html.entities import name2codepoint
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
@@ -21,7 +24,7 @@ OUT_FILE = ROOT / "data" / "news.json"
 
 MAX_AGE_DAYS = 10        # se descartan noticias más viejas que esto
 MAX_ITEMS = 900          # tope total
-MAX_PER_FEED = 40        # tope por fuente en cada descarga
+MAX_PER_FEED = 15        # tope por fuente en cada descarga (se puede cambiar con "max")
 SUMMARY_LEN = 280
 UA = "Mozilla/5.0 (compatible; NewsRadar/1.0; +https://github.com)"
 
@@ -133,19 +136,63 @@ def parse_feed(xml_bytes: bytes):
     return items
 
 
+XML_ENTITIES = {"amp", "lt", "gt", "quot", "apos"}
+BARE_AMP_RE = re.compile(r"&(?!#\d+;|#x[0-9a-fA-F]+;|[a-zA-Z][a-zA-Z0-9]*;)")
+ENTITY_RE = re.compile(r"&([a-zA-Z][a-zA-Z0-9]*);")
+CTRL_RE = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f]")
+
+
+def repair_xml(data: bytes) -> bytes:
+    """Arregla errores comunes de formato: & sueltos, entidades HTML y caracteres inválidos."""
+    text = data.decode("utf-8", errors="replace")
+    text = CTRL_RE.sub("", text)
+    text = BARE_AMP_RE.sub("&amp;", text)
+
+    def ent(m):
+        name = m.group(1)
+        if name in XML_ENTITIES:
+            return m.group(0)
+        cp = name2codepoint.get(name)
+        return f"&#{cp};" if cp else f"&amp;{name};"
+
+    return ENTITY_RE.sub(ent, text).encode("utf-8")
+
+
+def download(url):
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*"})
+    for attempt in range(2):
+        try:
+            with urllib.request.urlopen(req, timeout=25) as resp:
+                return resp.read()
+        except urllib.error.HTTPError as exc:
+            if exc.code in (500, 502, 503, 504) and attempt == 0:
+                time.sleep(3)  # error momentáneo del servidor: un reintento
+                continue
+            raise
+
+
 def fetch(feed, category):
-    req = urllib.request.Request(feed["url"], headers={"User-Agent": UA, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*"})
-    try:
-        with urllib.request.urlopen(req, timeout=25) as resp:
-            data = resp.read()
-        raw_items = parse_feed(data.lstrip(b"\xef\xbb\xbf \r\n\t"))
-    except Exception as exc:  # noqa: BLE001 - un feed caído no debe romper el resto
-        print(f"  ✗ {feed['name']}: {exc}", file=sys.stderr)
+    urls = feed["url"] if isinstance(feed["url"], list) else [feed["url"]]
+    raw_items, errors = None, []
+    for url in urls:  # direcciones alternativas de la misma fuente
+        try:
+            data = download(url).lstrip(b"\xef\xbb\xbf \r\n\t")
+            try:
+                raw_items = parse_feed(data)
+            except ET.ParseError:
+                raw_items = parse_feed(repair_xml(data))
+            if raw_items:
+                break
+            errors.append(f"{url}: sin noticias")
+        except Exception as exc:  # noqa: BLE001 - un feed caído no debe romper el resto
+            errors.append(f"{url}: {exc}")
+    if not raw_items:
+        print(f"  ✗ {feed['name']}: " + " | ".join(errors))
         return feed["name"], []
 
     out = []
     now = datetime.now(timezone.utc)
-    for it in raw_items[:MAX_PER_FEED]:
+    for it in raw_items[:feed.get("max", MAX_PER_FEED)]:
         if not it["title"] or not it["link"]:
             continue
         dt = it["date"] or now
@@ -248,6 +295,8 @@ def main():
     failed_sources = [name for name, items in results if not items]
 
     # Fusiona con lo anterior para no perder noticias si un feed falla un rato.
+    names = {f["name"] for f, _ in jobs}
+    previous = [p for p in previous if p.get("source") in names]  # quita fuentes eliminadas
     merged = {}
     for item in previous + fresh:  # lo nuevo pisa lo viejo
         key = item["link"].split("?")[0].rstrip("/").lower()
