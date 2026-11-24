@@ -20,7 +20,7 @@ FEEDS_FILE = ROOT / "feeds.json"
 OUT_FILE = ROOT / "data" / "news.json"
 
 MAX_AGE_DAYS = 10        # se descartan noticias más viejas que esto
-MAX_ITEMS = 600          # tope total
+MAX_ITEMS = 900          # tope total
 MAX_PER_FEED = 40        # tope por fuente en cada descarga
 SUMMARY_LEN = 280
 UA = "Mozilla/5.0 (compatible; NewsRadar/1.0; +https://github.com)"
@@ -75,11 +75,11 @@ def text_of(el, path):
 
 
 def find_image(item, *html_blobs):
-    for path in ("media:content", "media:thumbnail", "media:group/media:content"):
+    for path in ("media:content", "media:thumbnail", "media:group/media:content", "media:group/media:thumbnail"):
         for m in item.findall(path, NS):
             url = m.get("url")
             medium = m.get("medium", "image")
-            if url and medium == "image":
+            if url and (medium == "image" or m.tag.endswith("thumbnail")):
                 return url
     for enc in item.findall("enclosure"):
         if enc.get("type", "").startswith("image") and enc.get("url"):
@@ -104,7 +104,7 @@ def parse_feed(xml_bytes: bytes):
                     link = l.get("href", "")
                     break
             content = text_of(e, "atom:content")
-            summary = text_of(e, "atom:summary") or content
+            summary = text_of(e, "atom:summary") or content or text_of(e, "media:group/media:description")
             items.append({
                 "title": text_of(e, "atom:title"),
                 "link": link,
@@ -160,9 +160,73 @@ def fetch(feed, category):
             "source": feed["name"],
             "category": category,
             "lang": feed.get("lang", "en"),
+            "type": feed.get("type", "article"),
         })
     print(f"  ✓ {feed['name']}: {len(out)} noticias")
     return feed["name"], out
+
+
+STOPWORDS = set("""
+a about after again against all also an and any are as at be because been before being between both but by can could did do does
+doing down during each few for from further had has have having he her here hers him his how i if in into is it its itself just
+me more most my new no nor not now of off on once only or other our out over own same she should so some such than that the their
+them then there these they this those through to too under until up very was we were what when where which while who whom why will
+with would you your yours how's what's here's says said get gets got make makes made use uses using way ways via vs year years
+week weeks day days today first top best guide tips need know want help like one two three 2024 2025 2026 2027 report study
+de la el en y a los las del se por un una con para es al lo como más mas pero sus le ya o este esta si sobre entre cuando muy sin
+hasta desde también todo nos durante uno les ni contra otros ese eso ante ellos esto mí antes algunos qué unos yo otro otras otra
+él tanto esa estos mucho quienes nada muchos cual poco ella estar estas algunas algo nosotros mi mis tú te ti tu tus ellas qué
+cómo así ser son fue han hay puede pueden nuevo nueva nuevos nuevas años año día días cada según hace hacer tiene tienen será
+launch launches launched launching announce announces announced unveils unveiled introduces introducing adds added rolls rolling
+out release releases released expands expanding update updates updated brings bring now available could might may want wants
+lanza lanzan lanzó anuncia anunció presenta presentó llega llegan permite permiten ahora quiere quieren
+""".split())
+WORD_RE = re.compile(r"[a-záéíóúñü0-9][a-záéíóúñü0-9\-\.\+]*[a-záéíóúñü0-9+]|[a-z]", re.I)
+
+
+def _terms(title):
+    words = [w.lower().strip(".") for w in WORD_RE.findall(title)]
+    words = [w for w in words if len(w) > 1]
+    out = set()
+    for w in words:
+        if w not in STOPWORDS and not w.isdigit() and len(w) > 2:
+            out.add(w)
+    for a, b in zip(words, words[1:]):
+        if a not in STOPWORDS and b not in STOPWORDS and not a.isdigit() and not b.isdigit():
+            out.add(f"{a} {b}")
+    return out
+
+
+def compute_trends(items, now, top=18):
+    """Temas más mencionados en los últimos 3 días comparados con los 7 anteriores."""
+    recent, base = {}, {}
+    for it in items:
+        age = (now - parse_date(it["date"])).total_seconds() / 86400
+        bucket = recent if age <= 3 else base
+        for t in _terms(it["title"]):
+            bucket.setdefault(t, set()).add(it["source"] + "|" + it["link"])
+    total_recent = sum(1 for it in items if (now - parse_date(it["date"])).days < 3) or 1
+    scored = []
+    for term, refs in recent.items():
+        n = len(refs)
+        if n > total_recent * 0.25:  # palabra demasiado genérica
+            continue
+        sources = len({r.split("|")[0] for r in refs})
+        if n < 3 or sources < 2:
+            continue
+        prev = len(base.get(term, ())) * 3 / 7  # normalizado a 3 días
+        growth = (n + 1) / (prev + 1)
+        scored.append((n * min(growth, 4) * (1.3 if " " in term else 1), term, n, round(growth, 1)))
+    scored.sort(reverse=True)
+    chosen = []
+    for _, term, n, growth in scored:
+        # evita repetir "openai" y "openai gpt" a la vez
+        if any(term in c["term"] or c["term"] in term for c in chosen):
+            continue
+        chosen.append({"term": term, "count": n, "growth": growth})
+        if len(chosen) >= top:
+            break
+    return chosen
 
 
 def main():
@@ -181,6 +245,7 @@ def main():
 
     fresh = [item for _, items in results for item in items]
     ok_sources = [name for name, items in results if items]
+    failed_sources = [name for name, items in results if not items]
 
     # Fusiona con lo anterior para no perder noticias si un feed falla un rato.
     merged = {}
@@ -217,7 +282,9 @@ def main():
         "updated": now.isoformat(),
         "sources_ok": len(ok_sources),
         "sources_total": len(jobs),
+        "sources_failed": failed_sources,
         "count": len(items),
+        "trends": compute_trends(items, now),
         "items": items,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"Listo: {len(items)} noticias de {len(ok_sources)}/{len(jobs)} fuentes.")
