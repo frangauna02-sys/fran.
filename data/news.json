@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:58:33.446386+00:00",
+ "updated": "2026-11-24T16:59:08.199701+00:00",
  "sources_ok": 31,
  "sources_total": 32,
  "sources_failed": [
@@ -5097,8 +5097,8 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
+   "og_tried": true,
+   "topics": []
   },
   {
    "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
@@ -5154,8 +5154,8 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
+   "og_tried": true,
+   "topics": []
   },
   {
    "title": "Will Wright's next simulation will use AI to mine content from your memories",
