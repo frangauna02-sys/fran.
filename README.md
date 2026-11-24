@@ -7,6 +7,7 @@ Tu fuente diaria de noticias de **inteligencia artificial** y **marketing**, en 
 - **Acceso con clave**: la página pide la clave `MKTIA` la primera vez que se abre en cada dispositivo.
 
 - **Noticias de 32 fuentes seleccionadas** (los mejores medios de la industria, blogs oficiales de OpenAI, Anthropic, Google y Meta, newsletters y YouTube) que se actualizan solas cada **30 minutos**.
+- **🇦🇷 Todo en español**: las noticias en inglés se traducen solas con IA al español de Argentina (con voseo y respetando los términos de marketing que se usan en inglés). Un botón permite ver el original.
 - **☀️ Resumen diario con IA**: cada mañana, las 10 noticias más importantes explicadas en español, con un **"por qué importa"** para marketers, la tendencia de la semana y una idea para probar ese día. Se guardan los últimos 14 días.
 - **📈 Temas en tendencia**: lo más mencionado en los últimos 3 días, con cuánto creció. Al tocar un tema, se filtran las noticias.
 - **Glosario**: más de 60 términos (ROAS, RAG, GEO, CPM…). En las noticias aparecen subrayados con puntos y muestran su significado al pasar el mouse o tocarlos.
@@ -27,13 +28,15 @@ Tu fuente diaria de noticias de **inteligencia artificial** y **marketing**, en 
 3. **Actions → "Actualizar noticias" → Run workflow**.
 4. La página queda en `https://<tu-usuario>.github.io/<repo>/`.
 
-### 2. Resumen con IA (recomendado)
+### 2. Traducción y resumen con IA (recomendado)
 
 1. Creá una clave en <https://console.anthropic.com> (**API Keys**) y cargale crédito. El resumen diario cuesta unos pocos centavos de dólar por día.
 2. En GitHub: **Settings → Secrets and variables → Actions → New repository secret**.
    - Nombre: `ANTHROPIC_API_KEY` · Valor: tu clave.
 
-Sin la clave, el resumen igual se arma, pero solo con los titulares más recientes y sin explicaciones.
+Con la clave se activan dos cosas: la **traducción** de todas las noticias en inglés y las **explicaciones del resumen diario**. Sin la clave, las noticias en inglés se muestran en su idioma original y el resumen trae solo los titulares.
+
+**Costo aproximado** (unas 150 noticias nuevas en inglés por día): con el modelo por defecto (Claude Opus 5.5, la mejor calidad) son alrededor de US$ 15 por mes. Para pagar mucho menos (menos de US$ 1 por mes) con una calidad algo menor, creá la variable `TRANSLATE_MODEL` con el valor `claude-haiku-5-5` en **Settings → Secrets and variables → Actions → Variables**.
 
 ### 3. Hora y zona horaria del resumen (opcional)
 

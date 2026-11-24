@@ -51,7 +51,7 @@ SCHEMA = {
 }
 
 SYSTEM = """Sos el editor de un briefing diario para un profesional de marketing hispanohablante que quiere \
-mantenerse al día con la inteligencia artificial y el marketing digital. Escribís en español neutro, claro y \
+mantenerse al día con la inteligencia artificial y el marketing digital. Escribís en español de Argentina (rioplatense, con voseo), claro y \
 directo, sin relleno ni exageraciones. Tu lector tiene poco tiempo: cada noticia tiene que enseñarle algo útil."""
 
 PROMPT = """Estas son las noticias de las últimas horas (id | categoría | fuente | titular | resumen):
@@ -137,7 +137,7 @@ def basic_digest(candidates):
     out = []
     for cat in ("ia", "marketing"):
         for c in [c for c in candidates if c["category"] == cat and c.get("type", "article") == "article"][:5]:
-            out.append({"title": c["title"], "summary": c.get("summary", ""), "why": "",
+            out.append({"title": c.get("title_es") or c["title"], "summary": c.get("summary_es") or c.get("summary", ""), "why": "",
                         "link": c["link"], "source": c["source"], "category": c["category"],
                         "original_title": c["title"]})
     return {"intro": "Los titulares más recientes de IA y marketing.", "stories": out,

@@ -319,6 +319,7 @@
     </div>
     <div class="right">
       <span id="streak" class="hide-sm"></span>
+      <button class="tb-btn" id="lang" title="Ver las noticias traducidas o en su idioma original"></button>
       <button class="tb-btn" id="theme" title="Modo claro / oscuro">◐ Tema</button>
       <button class="tb-btn primary install" id="install">Instalar app</button>
     </div>
@@ -501,6 +502,10 @@
       return `${pre}<span class="term" data-term="${esc(k)}">${term}</span>`;
     });
   }
+  // Idioma: muestra la traducción al español si existe (se puede cambiar a original).
+  let showOriginal = store.get("original", false);
+  const tt = it => (!showOriginal && it.title_es) || it.title;
+  const ss = it => (!showOriginal && it.title_es ? it.summary_es : it.summary) || "";
   const isNew = it => state.lastVisit && new Date(it.first_seen || it.date) > new Date(state.lastVisit);
   const hours = it => (Date.now() - new Date(it.date)) / 36e5;
   // Puntaje para elegir destacados: más reciente, medio importante y con foto.
@@ -542,6 +547,9 @@
     const next = cur === "dark" ? "light" : "dark";
     document.documentElement.dataset.theme = next; store.set("theme", next);
   };
+  const langBtn = () => { $("#lang").textContent = showOriginal ? "🌐 Idioma original" : "🇦🇷 En español"; };
+  langBtn();
+  $("#lang").onclick = () => { showOriginal = !showOriginal; store.set("original", showOriginal); langBtn(); renderTicker(); render(); };
   let installEvt = null;
   addEventListener("beforeinstallprompt", e => { e.preventDefault(); installEvt = e; $("#install").classList.add("show"); });
   $("#install").onclick = async () => { if (!installEvt) return; installEvt.prompt(); await installEvt.userChoice; installEvt = null; $("#install").classList.remove("show"); };
@@ -561,10 +569,11 @@
     const k = keyOf(it), saved = !!state.saved[k], read = !!state.read[k];
     const bits = [`<span>${esc(it.source)}</span>`, `<span class="dot"></span><time title="${esc(new Date(it.date).toLocaleString("es"))}">${esc(ago(it.date))}</time>`];
     if (isNew(it) && !read) bits.push('<span class="dot"></span><span class="new">Nueva</span>');
+    if (it.title_es && !showOriginal) bits.push('<span class="dot"></span><span title="Traducido del inglés con IA">Traducida</span>');
     if (opts.actions !== false) {
       bits.push(`<span class="dot"></span><button data-save="${esc(k)}" class="${saved ? "on" : ""}" title="${saved ? "Quitar de guardadas" : "Guardar"}">${saved ? "★" : "☆"}</button>`);
       bits.push(`<button data-toggle-read="${esc(k)}" class="${read ? "on" : ""}" title="${read ? "Marcar como no leída" : "Marcar como leída"}">✓</button>`);
-      if (it.lang !== "es" && it.type !== "video") bits.push(`<a href="https://translate.google.com/translate?sl=auto&tl=es&u=${encodeURIComponent(it.link)}" target="_blank" rel="noopener" data-link="${esc(k)}" title="Traducir al español" style="font-weight:600">ES</a>`);
+      if (it.lang !== "es" && it.type !== "video" && (showOriginal || !it.title_es)) bits.push(`<a href="https://translate.google.com/translate?sl=auto&tl=es&u=${encodeURIComponent(it.link)}" target="_blank" rel="noopener" data-link="${esc(k)}" title="Traducir al español" style="font-weight:600">ES</a>`);
     }
     return `<div class="meta">${bits.join("")}</div>`;
   }
@@ -575,29 +584,29 @@
   function heroMain(it) {
     return `<article class="hero-main${readCls(it)}">${link(it, media(it, { badge: hours(it) < 3 ? "Ahora" : "" }))}
       <div style="margin-top:12px">${kicker(it)}</div>
-      ${link(it, `<h2 class="headline">${gloss(it.title)}</h2>`)}
-      ${it.summary ? `<p class="dek">${gloss(it.summary)}</p>` : ""}${meta(it)}</article>`;
+      ${link(it, `<h2 class="headline">${gloss(tt(it))}</h2>`)}
+      ${ss(it) ? `<p class="dek">${gloss(ss(it))}</p>` : ""}${meta(it)}</article>`;
   }
   function mediumCard(it) {
     return `<article class="${readCls(it)}">${link(it, media(it))}${kicker(it)}
-      ${link(it, `<h3 class="headline">${gloss(it.title)}</h3>`)}${meta(it, { actions: false })}</article>`;
+      ${link(it, `<h3 class="headline">${gloss(tt(it))}</h3>`)}${meta(it, { actions: false })}</article>`;
   }
   function feature(it) {
     return `<article class="feature${readCls(it)}">${link(it, media(it))}
       <div style="margin-top:12px">${kicker(it)}</div>
-      ${link(it, `<h3 class="headline">${gloss(it.title)}</h3>`)}
-      ${it.summary ? `<p class="dek">${gloss(it.summary)}</p>` : ""}${meta(it)}</article>`;
+      ${link(it, `<h3 class="headline">${gloss(tt(it))}</h3>`)}
+      ${ss(it) ? `<p class="dek">${gloss(ss(it))}</p>` : ""}${meta(it)}</article>`;
   }
   function row(it) {
     return `<article class="row${readCls(it)}"><div>${kicker(it)}
-      ${link(it, `<h4 class="headline">${gloss(it.title)}</h4>`)}${meta(it, { actions: false })}</div>${link(it, media(it))}</article>`;
+      ${link(it, `<h4 class="headline">${gloss(tt(it))}</h4>`)}${meta(it, { actions: false })}</div>${link(it, media(it))}</article>`;
   }
   function card(it) {
     const note = state.view === "guardadas" ? `<textarea class="note" data-note="${esc(keyOf(it))}" placeholder="Tus notas: ¿qué aprendiste? ¿cómo lo aplicarías?">${esc(state.notes[keyOf(it)] || "")}</textarea>` : "";
     return `<article class="card${state.view !== "guardadas" ? readCls(it) : ""}">${link(it, media(it))}
       <div style="margin-top:12px">${kicker(it)}</div>
-      ${link(it, `<h3 class="headline">${gloss(it.title)}</h3>`)}
-      ${it.summary ? `<p class="dek">${gloss(it.summary)}</p>` : ""}${meta(it)}${note}</article>`;
+      ${link(it, `<h3 class="headline">${gloss(tt(it))}</h3>`)}
+      ${ss(it) ? `<p class="dek">${gloss(ss(it))}</p>` : ""}${meta(it)}${note}</article>`;
   }
 
   // ---------- Portada ----------
@@ -617,7 +626,7 @@
     let html = "";
     if (lead) html += `<section class="hero">${heroMain(lead)}<div class="hero-side">${side.map(mediumCard).join("")}</div>
       <aside class="latest"><h3><span class="live-dot"></span>Lo último</h3><ol>${latest.map(it => `<li>
-        <time>${esc(clock(it.date))}</time>${link(it, `<div class="headline">${gloss(it.title)}</div>`)}<div class="src">${esc(it.source)}</div></li>`).join("")}</ol></aside></section>`;
+        <time>${esc(clock(it.date))}</time>${link(it, `<div class="headline">${gloss(tt(it))}</div>`)}<div class="src">${esc(it.source)}</div></li>`).join("")}</ol></aside></section>`;
 
     if (state.trends.length) html += `<div class="trendbar"><b>En tendencia</b>${state.trends.slice(0, 14).map(t =>
       `<button class="trend" data-trend="${esc(t.term)}">${esc(t.term)}<small>${t.growth >= 1.5 ? "↑" : ""}${t.count}</small></button>`).join("")}</div>`;
@@ -644,7 +653,7 @@
     const ops = take(state.items, 4, it => it.type === "newsletter");
     if (ops.length) html += `<section class="block"><header class="block-head"><h2>Análisis y opinión</h2><a href="#analisis">Ver todo</a></header>
       <div class="opinion">${ops.map(it => `<article class="${readCls(it)}"><div class="who">${esc(it.source)}</div>
-        ${link(it, `<h3 class="headline">${gloss(it.title)}</h3>`)}${it.summary ? `<p class="dek" style="font-size:14px">${gloss(it.summary.slice(0, 160))}${it.summary.length > 160 ? "…" : ""}</p>` : ""}
+        ${link(it, `<h3 class="headline">${gloss(tt(it))}</h3>`)}${ss(it) ? `<p class="dek" style="font-size:14px">${gloss(ss(it).slice(0, 160))}${ss(it).length > 160 ? "…" : ""}</p>` : ""}
         <div class="meta" style="margin-top:6px"><time>${esc(ago(it.date))}</time></div></article>`).join("")}</div></section>`;
 
     const rest = state.items.filter(it => !used.has(keyOf(it)) && it.type !== "video");
@@ -729,7 +738,7 @@
   function renderTicker() {
     const list = state.items.filter(it => hours(it) < 24 && it.type !== "video").slice(0, 12);
     $("#tickerBox").hidden = !list.length;
-    const html = list.map(it => `<a href="${esc(it.link)}" target="_blank" rel="noopener" data-link="${esc(keyOf(it))}"><time>${esc(clock(it.date))}</time>${esc(it.title)}</a>`).join("");
+    const html = list.map(it => `<a href="${esc(it.link)}" target="_blank" rel="noopener" data-link="${esc(keyOf(it))}"><time>${esc(clock(it.date))}</time>${esc(tt(it))}</a>`).join("");
     $("#ticker").innerHTML = html + html; // duplicado para que el desplazamiento sea continuo
   }
   function renderFooter() {
@@ -744,7 +753,7 @@
     let html;
     if (state.q || state.trend) {
       const q = (state.q || state.trend).toLowerCase();
-      const list = state.items.filter(it => (it.title + " " + (state.trend ? "" : it.summary + " " + it.source)).toLowerCase().includes(q));
+      const list = state.items.filter(it => (it.title + " " + (it.title_es || "") + " " + (state.trend ? "" : (it.summary || "") + " " + (it.summary_es || "") + " " + it.source)).toLowerCase().includes(q));
       html = renderList(state.trend ? `“${state.trend}”` : `“${state.q}”`, `${list.length} noticia${list.length === 1 ? "" : "s"} encontradas.`, list,
         { kicker: state.trend ? "Tema en tendencia" : "Búsqueda", lead: false, empty: "No encontramos noticias con esa búsqueda." });
     } else if (v === "resumen") html = renderDigest();
