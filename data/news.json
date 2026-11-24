@@ -1,11 +1,9 @@
 {
- "updated": "2026-11-24T16:04:26.392260+00:00",
- "sources_ok": 31,
+ "updated": "2026-11-24T16:07:41.581881+00:00",
+ "sources_ok": 32,
  "sources_total": 32,
- "sources_failed": [
-  "Marketing4eCommerce"
- ],
- "count": 392,
+ "sources_failed": [],
+ "count": 411,
  "trends": [
   {
    "term": "jensen huang",
@@ -13,24 +11,19 @@
    "growth": 12.9
   },
   {
-   "term": "que",
-   "count": 22,
-   "growth": 23.0
-  },
-  {
    "term": "google",
-   "count": 21,
-   "growth": 5.5
+   "count": 24,
+   "growth": 6.2
   },
   {
    "term": "nvidia",
-   "count": 20,
-   "growth": 9.2
+   "count": 21,
+   "growth": 9.6
   },
   {
    "term": "black friday",
-   "count": 10,
-   "growth": 7.7
+   "count": 12,
+   "growth": 9.1
   },
   {
    "term": "navidad",
@@ -38,9 +31,9 @@
    "growth": 12.0
   },
   {
-   "term": "ceo",
-   "count": 9,
-   "growth": 7.0
+   "term": "agents",
+   "count": 8,
+   "growth": 3.9
   },
   {
    "term": "meta",
@@ -53,11 +46,6 @@
    "growth": 5.6
   },
   {
-   "term": "back",
-   "count": 7,
-   "growth": 4.3
-  },
-  {
    "term": "anuncio",
    "count": 7,
    "growth": 8.0
@@ -68,32 +56,42 @@
    "growth": 4.3
   },
   {
-   "term": "ai agents",
-   "count": 5,
-   "growth": 4.2
-  },
-  {
    "term": "search",
    "count": 7,
    "growth": 3.5
   },
   {
-   "term": "november",
-   "count": 5,
-   "growth": 4.2
+   "term": "marcas",
+   "count": 6,
+   "growth": 7.0
+  },
+  {
+   "term": "digital",
+   "count": 6,
+   "growth": 7.0
   },
   {
    "term": "core",
+   "count": 6,
+   "growth": 7.0
+  },
+  {
+   "term": "datos",
    "count": 5,
    "growth": 6.0
   },
   {
-   "term": "tiempo",
+   "term": "juguetes",
    "count": 4,
    "growth": 5.0
   },
   {
-   "term": "tech",
+   "term": "historia",
+   "count": 4,
+   "growth": 5.0
+  },
+  {
+   "term": "grok",
    "count": 4,
    "growth": 5.0
   }
@@ -122,6 +120,54 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Carrefour celebra su Black Friday dejando esta tele MiniLED de 65 pulgadas a precio de outlet: ahora cuesta menos de 500 euros",
+   "link": "https://www.xataka.com/seleccion/carrefour-celebra-su-black-friday-dejando-esta-tele-miniled-65-pulgadas-a-precio-outlet-ahora-cuesta-500-euros",
+   "date": "2026-11-24T16:01:02+00:00",
+   "summary": "Si llevas tiempo pensando en dar el salto a un televisor de gran diagonal sin arruinarte, el Black Friday es un buen momento para hacerlo. Carrefour tiene ahora rebajada esta smart TV Samsung TU65M80HAU, una tele MiniLED de 65 pulgadas que ha pasado de costar 649 a 499 euros…",
+   "image": "https://i.blogs.es/74ebaa/teles-carrefour-26-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
+  },
+  {
+   "title": "He vivido en el futuro de la IA para todos gracias al MSI EdgeMesa con la RTX Spark de Nvidia y 128 GB de memoria",
+   "link": "https://www.xataka.com/analisis/msi-edgemesa-n1x-nvidia-rtx-spark-analisis-caracteristicas-precio-especificaciones",
+   "date": "2026-11-24T16:01:02+00:00",
+   "summary": "Probar el nuevo MSI EdgeMesa con la Nvidia RTX Spark ha sido como volver a los inicios de Internet en casa. Los recuerdos del módem “ bipeando ” tras un grito a mi madre para que dejara de hablar por teléfono y no ocupara la línea, el alto coste de cualquier conexión por corta…",
+   "image": "https://i.blogs.es/a965a1/msi-con-nvidia-spark-08/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
+  },
+  {
+   "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+   "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+   "date": "2026-11-24T16:00:00+00:00",
+   "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
+   "image": "https://media.wired.com/photos/6b04bcaa13580ca4e2bfb763/master/pass/Business_Anthropic%20Created%20a%20Honeypot%20to%20Lure%20AI%20Agents%20Into%20Misbehaving_v1.jpg",
+   "source": "Wired IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
+  },
+  {
+   "title": "How Gemini is changing the game for Golden State's organization and fans.",
+   "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+   "date": "2026-11-24T16:00:00+00:00",
+   "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp",
+   "source": "Google AI",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
   },
   {
    "title": "La A-63 de Asturias lleva casi tres décadas en obras: todavía quedan 12,5 km y un cuello de botella que no acaba",
@@ -218,6 +264,18 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T15:37:24.952599+00:00"
+  },
+  {
+   "title": "El 91% de los trabajadores de oficina españoles ya utiliza agentes de IA, frente al 74% de media mundial",
+   "link": "https://marketing4ecommerce.net/trabajadores-espanoles-utiliza-agentes-ia/",
+   "date": "2026-11-24T15:30:29+00:00",
+   "summary": "Tan solo EE.UU. (96%) y Brasil (93%) se sitúan por delante de España en adopción de agentes de IA, según un estudio de The Adecco Group.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/91-de-los-trabajadores-espanoles-ya-utiliza-agentes-de-IA-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
   },
   {
    "title": "Google December 2026 Core Update Preannounced - Complex Queries & Personalization",
@@ -1036,6 +1094,18 @@
    "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
+   "title": "GEO más allá de los prompt trackers: qué podemos medir con datos de Google y Bing",
+   "link": "https://marketing4ecommerce.net/geo-mas-alla-de-los-prompt-trackers-que-podemos-medir-con-datos-de-google-y-bing/",
+   "date": "2026-11-24T10:39:45+00:00",
+   "summary": "Cómo medir el GEO con Search Console, Bing Webmaster Tools y GA4: impresiones, citas, tráfico de ChatGPT y resultados para tu eCommerce.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/geo-black-friday-1-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
+  },
+  {
    "title": "Mientras los niños esperan sus regalos de Navidad, los adultos impulsan las ventas de juguetes con cartas Pokémon, figuras coleccionables y sets de LEGO",
    "link": "https://www.merca20.com/ventas-de-juguetes-pokemon-lego-navidad-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ventas-de-juguetes-pokemon-lego-navidad-2026",
    "date": "2026-11-24T10:35:54+00:00",
@@ -1094,6 +1164,18 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "De consultar el stock a preparar pedidos: así utiliza Go2B la IA para transformar las ventas B2B",
+   "link": "https://marketing4ecommerce.net/go2b-digitalizacion-ventas-b2b-fabricantes-mayoristas/",
+   "date": "2026-11-24T10:03:39+00:00",
+   "summary": "Consulta ventas, stock y pedidos desde WhatsApp, ChatGPT o Claude y prepara propuestas comerciales con IA.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/go2b-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
   },
   {
    "title": "Inside Hershey’s push for movie magic",
@@ -1168,6 +1250,30 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "De SEO a GEO: por qué los datos de producto son cada vez más importantes para aparecer en las respuestas de la IA",
+   "link": "https://marketing4ecommerce.net/seo-geo-datos-producto-ecommerce-ia/",
+   "date": "2026-11-24T09:27:31+00:00",
+   "summary": "Descubre cómo mejorar tus feeds, sincronizar catálogos y preparar tu eCommerce para nuevas formas de búsqueda y compra online.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/chanelpilotpro-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
+  },
+  {
+   "title": "Google da por finalizada la November 2026 Core Update",
+   "link": "https://marketing4ecommerce.net/google-lanza-la-november-2026-core-update/",
+   "date": "2026-11-24T09:00:09+00:00",
+   "summary": "Google ha concluido su Core Update de noviembre 2026. Conoce cuánto ha durado y cómo vigilar el posicionamiento de tu web.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/Google-November-2026-Core-Update-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
+  },
+  {
    "title": "Inside AWS’s Bid to Be a Brand for Everyone, Including AI Agents",
    "link": "https://www.adweek.com/brand-marketing/inside-awss-bid-to-be-a-brand-for-everyone-including-ai-agents/",
    "date": "2026-11-24T09:00:00+00:00",
@@ -1178,6 +1284,18 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "Origen del Black Friday: historia de la gran celebración del eCommerce mundial",
+   "link": "https://marketing4ecommerce.net/origen-del-black-friday-historia-grandes-cifras-e-impacto-mundial-de-la-fiesta-del-ecommerce/",
+   "date": "2026-11-24T08:48:13+00:00",
+   "summary": "Descubre el origen del Black Friday, desde su conexión con los grandes almacenes Macy's hasta mitos históricos desmentidos.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2024/11/origen-del-black-friday-1-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
   },
   {
    "title": "Carnet de manipulador de alimentos: quién lo necesita y cómo sacarlo online con Grupo Formación Magna",
@@ -1387,7 +1505,7 @@
    "title": "Meta launches iPad version of Edits",
    "link": "https://www.socialmediatoday.com/news/meta-launches-ipad-version-of-edits/875566/",
    "date": "2026-11-23T22:40:37+00:00",
-   "summary": "The larger screen layout is intended to make it easier for users to manage video projects.",
+   "summary": "The larger screen layout will make it easier to manage video projects.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -1531,7 +1649,7 @@
    "title": "TikTok highlights 2026 holiday trends",
    "link": "https://www.socialmediatoday.com/news/tiktok-highlights-2026-holiday-trends/875560/",
    "date": "2026-11-23T21:24:48+00:00",
-   "summary": "Popular hashtags including #diychristmas and #pinkchristmas speak to a shift away from last year’s “Ralph Lauren Christmas” toward a more whimsical season.",
+   "summary": "Popular hashtags including #diychristmas and #pinkchristmas speak to a shift away from last year’s “Ralph Lauren Christmas” and toward a more whimsical season.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -1555,7 +1673,7 @@
    "title": "Pinterest simplifies parental controls",
    "link": "https://www.socialmediatoday.com/news/pinterest-simplifies-parental-controls/875554/",
    "date": "2026-11-23T21:18:03+00:00",
-   "summary": "An updated parental control dashboard offers a more streamlined way to manage devices and access options.",
+   "summary": "The platform has updated its parental control dashboard to offer a more streamlined way to manage devices and access options.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -1567,7 +1685,7 @@
    "title": "Pinterest announces partnership with Microsoft Ads",
    "link": "https://www.socialmediatoday.com/news/pinterest-announces-partnership-with-microsoft-ads/875553/",
    "date": "2026-11-23T21:10:29+00:00",
-   "summary": "The integration will see Pinterest ad placements extended across Microsoft’s partner platforms.",
+   "summary": "The new integration will see Pinterest ad placements extended across Microsoft’s partner platforms.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -1972,6 +2090,42 @@
    "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
+   "title": "Google activa por sorpresa sus perfiles de búsqueda en España: así puedes reclamar el tuyo",
+   "link": "https://marketing4ecommerce.net/google-activa-por-sorpresa-sus-perfiles-de-busqueda-en-espana-asi-puedes-reclamar-el-tuyo/",
+   "date": "2026-11-23T15:39:42+00:00",
+   "summary": "Las nuevas tarjetas de presentación de Google ya están en España, pero necesitarás tener 10.000 seguidores en alguna red social.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/perfil-de-busqueda-google-1-1-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
+  },
+  {
+   "title": "Alemania y Austria proponen que inversores de la UE compren TikTok Europa por 25.000M€ para garantizar la soberanía digital",
+   "link": "https://marketing4ecommerce.net/alemania-austria-proponen-compra-tiktok-europa/",
+   "date": "2026-11-23T15:31:17+00:00",
+   "summary": "Esta iniciativa alega preocupaciones por el control de TikTok sobre los datos, los algoritmos y sus efectos sobre la democracia europea.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/Alemania-y-Austria-proponen-que-inversores-de-la-UE-compren-TikTok-Europa-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
+  },
+  {
+   "title": "Cómo utilizar la IA para detectar necesidades de los clientes: el caso de 202 Digital Reputation y Taixable",
+   "link": "https://marketing4ecommerce.net/social-listening-ia-necesidades-clientes-202-digital-reputation-taixable/",
+   "date": "2026-11-23T15:29:09+00:00",
+   "summary": "El análisis de conversaciones digitales permite identificar necesidades, estudiar competidores y mejorar estrategias de marketing mediante IA[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/202-Digital-Reputation-y-Taixable-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
+  },
+  {
    "title": "The Art of Using AI as ‘Power Steering,’ Not Autopilot ft. Kathy Collins",
    "link": "https://www.adweek.com/brand-marketing/the-art-of-using-ai-as-power-steering-not-autopilot-ft-kathy-collins/",
    "date": "2026-11-23T15:22:02+00:00",
@@ -2128,6 +2282,18 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "El exceso de comunicación, el principal motivo por el que los jóvenes silencian a las marcas",
+   "link": "https://marketing4ecommerce.net/jovenes-silencian-a-las-marcas/",
+   "date": "2026-11-23T14:23:43+00:00",
+   "summary": "Nike, Zara y Adidas, las marcas que mejor conectan con los jóvenes en España, de acuerdo con un estudio de IAB Spain.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/generacion-zeta-y-marcas-1-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
+  },
+  {
    "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
    "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
    "date": "2026-11-23T14:21:59+00:00",
@@ -2234,6 +2400,18 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "4 lecciones de comunidad robadas al K-pop",
+   "link": "https://marketing4ecommerce.net/4-lecciones-de-comunidad-robadas-al-k-pop/",
+   "date": "2026-11-23T12:59:10+00:00",
+   "summary": "La agencia detrás de la banda K-Pop BTS consiguió que el 36,4% de su facturación anual viniera del negocio que genera la comunidad que han creado.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/lecciones-de-comunidad-kpop-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
   },
   {
    "title": "Google AI Mode Dive Deeper Is Now Live",
@@ -2548,6 +2726,18 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Joan Miró (Somdara): “Las empresas están desaprovechando el enorme valor de sus propios datos”",
+   "link": "https://marketing4ecommerce.net/joan-miro-somdara/",
+   "date": "2026-11-23T09:10:05+00:00",
+   "summary": "VIKO lanza Somdara, su nueva consultora de Marketing Intelligence, liderada por Joan Miró y Ramon Montanera.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/somdara-equipo-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
+  },
+  {
    "title": "Amazon amplía su negocio de alimentación con un delivery de platos preparados",
    "link": "https://www.reasonwhy.es/actualidad/amazon-platos-preparados-entrega-domicilio-estados-unidos",
    "date": "2026-11-23T09:06:00+00:00",
@@ -2678,6 +2868,30 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "“Pronto las IAs se meterán mucho más en la capa transaccional” (Jorge Palacios, SEO-GEO de Leroy Merlin)",
+   "link": "https://marketing4ecommerce.net/pronto-las-ias-se-meteran-mucho-mas-en-la-capa-transaccional-jorge-palacios-seo-geo-de-leroy-merlin/",
+   "date": "2026-11-23T07:56:57+00:00",
+   "summary": "Hablamos de la estrategia que sigue Leroy Merlin para conseguir que entre el 35% y 40% de las visitas a su plataforma sea tráfico orgánico.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/Copia-de-Articulo-podcast-750x450-4-2.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
+  },
+  {
+   "title": "PcComponentes, Tefal y Moulinex, entre las marcas que participarán en el live shopping del “Tacho Saturday”",
+   "link": "https://marketing4ecommerce.net/josep-casas-tacho-saturday-un-directo-tiktok-shop-batir-record-de-ventas/",
+   "date": "2026-11-23T07:48:00+00:00",
+   "summary": "El próximo 28 de noviembre se celebra Tacho Saturday en la sede de Itnig, en el Poblenou de Barcelona de 12h a 21h.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/tacho-saturday-1-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
   },
   {
    "title": "Coca-Cola renuncia a la IA y pone el foco en lo humano en su anuncio de Navidad para este año",
@@ -3290,6 +3504,18 @@
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "16 agencias retratan el estado del arte del desarrollo de ecommerce: “El 80% de las oportunidades van a Shopify”",
+   "link": "https://marketing4ecommerce.net/16-agencias-retratan-el-estado-del-arte-del-desarrollo-de-ecommerce/",
+   "date": "2026-11-20T12:15:27+00:00",
+   "summary": "Los retos de las empresas de eCommerce ante el avance de la IA, muy presentes en esta sesión que contó con 16 directivos de primer nivel.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/Sessions-articulo-2-1024x614.png",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:07:41.581881+00:00"
   },
   {
    "title": "Combatting adversarial distillation",
