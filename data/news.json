@@ -1,14 +1,16 @@
 {
- "updated": "2026-11-24T20:55:42.430105+00:00",
- "sources_ok": 32,
+ "updated": "2026-11-24T21:54:12.843015+00:00",
+ "sources_ok": 31,
  "sources_total": 32,
- "sources_failed": [],
- "count": 481,
+ "sources_failed": [
+  "Marketing4eCommerce"
+ ],
+ "count": 494,
  "trends": [
   {
    "term": "jensen huang",
-   "count": 29,
-   "growth": 16.2
+   "count": 30,
+   "growth": 16.7
   },
   {
    "term": "nvidia",
@@ -22,13 +24,18 @@
   },
   {
    "term": "black friday",
-   "count": 17,
-   "growth": 12.6
+   "count": 18,
+   "growth": 13.3
   },
   {
    "term": "navidad",
-   "count": 13,
-   "growth": 14.0
+   "count": 14,
+   "growth": 15.0
+  },
+  {
+   "term": "meta",
+   "count": 11,
+   "growth": 3.8
   },
   {
    "term": "trump",
@@ -51,9 +58,9 @@
    "growth": 5.4
   },
   {
-   "term": "meta",
-   "count": 10,
-   "growth": 3.5
+   "term": "ai agents",
+   "count": 6,
+   "growth": 4.9
   },
   {
    "term": "marcas",
@@ -81,11 +88,6 @@
    "growth": 2.9
   },
   {
-   "term": "ai agents",
-   "count": 5,
-   "growth": 3.2
-  },
-  {
    "term": "corte inglés",
    "count": 4,
    "growth": 5.0
@@ -97,6 +99,142 @@
   }
  ],
  "items": [
+  {
+   "title": "Ángel Alverde Losada será el nuevo presidente del Consejo de Santander México",
+   "link": "https://www.merca20.com/angel-alverde-losada-sera-el-nuevo-presidente-del-consejo-de-santander-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=angel-alverde-losada-sera-el-nuevo-presidente-del-consejo-de-santander-mexico",
+   "date": "2026-11-24T21:54:02+00:00",
+   "summary": "Ángel Alverde Losada asumirá la presidencia del Consejo de Administración de Banco Santander México a partir del 5 de febrero de 2027",
+   "image": "https://files.merca20.com/uploads/2026/11/NUEVO-PRESIDENTE-CONSEJO-SANTANDER-MX-FOTO-SANTANDER.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
+   "topics": []
+  },
+  {
+   "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+   "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+   "date": "2026-11-24T21:48:27+00:00",
+   "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Even the best AI agents struggle with everyday life",
+   "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+   "date": "2026-11-24T21:33:29+00:00",
+   "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296543552.jpg?w=1024",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+   "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+   "date": "2026-11-24T21:32:38+00:00",
+   "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
+   "og_tried": true,
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Cinépolis lanza promoción para llenar una cubeta externa con palomitas: fechas, precios y restricciones",
+   "link": "https://www.merca20.com/cinepolis-lanza-promocion-para-llenar-una-cubeta-externa-con-palomitas-fechas-precios-y-restricciones/?utm_source=rss&utm_medium=rss&utm_campaign=cinepolis-lanza-promocion-para-llenar-una-cubeta-externa-con-palomitas-fechas-precios-y-restricciones",
+   "date": "2026-11-24T21:30:35+00:00",
+   "summary": "Durante 3 días las salas de Cinépolis permitirán que las personas lleven sus propios envases para que sean rellenados con palomitas.",
+   "image": "https://files.merca20.com/uploads/2026/10/bigstock-Empty-Movie-Theatre-Cinema-Ha-318290341.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
+   "topics": []
+  },
+  {
+   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+   "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+   "date": "2026-11-24T21:19:52+00:00",
+   "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/01-maple-hero-chargebacks-photo-16x9-1.png?resize=1200,675",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Microsoft declara un \"Código Rojo\" tras la caída global de 24 horas que afectó a Outlook, Teams y otros servicios",
+   "link": "https://www.xataka.com/aplicaciones/microsoft-declara-codigo-rojo-caida-global-24-horas-que-afecto-a-outlook-teams-otros-servicios",
+   "date": "2026-11-24T21:01:02+00:00",
+   "summary": "Puede que el pasado 13 de noviembre tuvieras problemas para consultar tu correo electrónico o que algún compañero de trabajo te comentara que Outlook no funcionaba correctamente. Quizás ni siquiera utilices las herramientas de Microsoft, pero es posible que las empresas con las…",
+   "image": "https://i.blogs.es/c90e58/microsoft/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
+   "topics": []
+  },
+  {
+   "title": "Godzilla Minus Zero tendrá una segunda oportunidad en cines: fecha oficial en la que se proyectará la versión en blanco y negro",
+   "link": "https://www.merca20.com/godzilla-minus-zero-tendra-una-segunda-oportunidad-en-cines-fecha-oficial-en-la-que-se-proyectara-la-version-en-blanco-y-negro/?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-tendra-una-segunda-oportunidad-en-cines-fecha-oficial-en-la-que-se-proyectara-la-version-en-blanco-y-negro",
+   "date": "2026-11-24T21:00:33+00:00",
+   "summary": "Godzilla Minus Zero tendrá un reestreno con una versión especial en cines, ¿Cinépolis y Cinemex la traerán a México?",
+   "image": "https://files.merca20.com/uploads/2026/10/bigstock-Empty-Movie-Theatre-Cinema-Ha-318290341.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
+   "topics": []
+  },
+  {
+   "title": "Joaquín Maldonado cierra su etapa en TERÁN TBWA tras 25 años",
+   "link": "https://www.merca20.com/joaquin-maldonado-cierra-su-etapa-en-teran-tbwa-tras-25-anos/?utm_source=rss&utm_medium=rss&utm_campaign=joaquin-maldonado-cierra-su-etapa-en-teran-tbwa-tras-25-anos",
+   "date": "2026-11-24T20:59:32+00:00",
+   "summary": "Joaquín Maldonado cierra su etapa como CCO de TERÁN TBWA tras casi 25 años.",
+   "image": "https://files.merca20.com/uploads/2026/11/TERAN_TBWA_BOLETIN-scaled.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
+   "topics": []
+  },
+  {
+   "title": "La colección Crocs x Dr. Simi regresa para Navidad; así busca conquistar a los fans",
+   "link": "https://www.merca20.com/la-coleccion-crocs-x-dr-simi-regresa-para-navidad-asi-busca-conquistar-a-los-fans/?utm_source=rss&utm_medium=rss&utm_campaign=la-coleccion-crocs-x-dr-simi-regresa-para-navidad-asi-busca-conquistar-a-los-fans",
+   "date": "2026-11-24T20:56:05+00:00",
+   "summary": "La colaboración entre Crocs y el Dr. Simi vuelve a llamar la atención de los consumidores mexicanos",
+   "image": "https://files.merca20.com/uploads/2026/11/crocs-drsimi-foto-crocs.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
+   "topics": []
+  },
   {
    "title": "What's going on with the Riemann hypothesis?",
    "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
@@ -152,7 +290,7 @@
    "topics": []
   },
   {
-   "title": "This helmet shows your next turn",
+   "title": "The most futuristic motorcycle helmet?",
    "link": "https://www.youtube.com/shorts/PQYURWk9-w0",
    "date": "2026-11-24T20:11:42+00:00",
    "summary": "This motorcycle helmet puts GPS directions right in your field of vision, like something straight out of a video game! #AI #futuretech",
@@ -202,8 +340,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T20:55:42.430105+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T20:55:42.430105+00:00",
    "topics": [
     "seo",
     "publicidad"
@@ -294,6 +432,24 @@
    "topics": []
   },
   {
+   "title": "Pinterest y Microsoft unen fuerzas para transformar la publicidad y las compras online",
+   "link": "https://www.merca20.com/pinterest-y-microsoft-unen-fuerzas-para-transformar-la-publicidad-y-las-compras-online/?utm_source=rss&utm_medium=rss&utm_campaign=pinterest-y-microsoft-unen-fuerzas-para-transformar-la-publicidad-y-las-compras-online",
+   "date": "2026-11-24T19:09:56+00:00",
+   "summary": "Microsoft y Pinterest buscan conectar a las marcas con los consumidores que utilizan la red social en búsqueda de inspiración.",
+   "image": "https://files.merca20.com/uploads/2026/11/bigstock-KIEV-UKRAINE-MAY-Pin-94375943.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
+   "topics": [
+    "redes",
+    "seo",
+    "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
    "title": "Adiós al Hoy No Circula: este estado mantendrá suspendido el programa hasta fin de año",
    "link": "https://www.merca20.com/adios-al-hoy-no-circula-este-estado-mantendra-suspendido-el-programa-hasta-fin-de-ano/?utm_source=rss&utm_medium=rss&utm_campaign=adios-al-hoy-no-circula-este-estado-mantendra-suspendido-el-programa-hasta-fin-de-ano",
    "date": "2026-11-24T19:09:19+00:00",
@@ -317,6 +473,19 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T19:58:51.548086+00:00",
+   "topics": []
+  },
+  {
+   "title": "Gobierno de México alista 6,710 consultorios del Servicio Universal de Salud para enero de 2027 y ofrece vacantes para médicos y enfermeros",
+   "link": "https://www.merca20.com/gobierno-de-mexico-alista-6710-consultorios-del-servicio-universal-de-salud-para-enero-de-2027-y-ofrece-vacantes-para-medicos-y-enfermeros/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-de-mexico-alista-6710-consultorios-del-servicio-universal-de-salud-para-enero-de-2027-y-ofrece-vacantes-para-medicos-y-enfermeros",
+   "date": "2026-11-24T18:56:30+00:00",
+   "summary": "El Gobierno de México informó que 6,710 consultorios del Servicio Universal de Salud están listos para iniciar operaciones en enero de 2027",
+   "image": "https://files.merca20.com/uploads/2026/11/claudia-sheinbaum-cortesia-comunicacion-social-presidencia-de-la-republica.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
    "topics": []
   },
   {
@@ -707,6 +876,22 @@
    "type": "article",
    "first_seen": "2026-11-24T16:56:29.470529+00:00",
    "topics": []
+  },
+  {
+   "title": "Thursday, Nov. 19 Daily Cable News Ratings: MS NOW Takes Second in Total Day Demo",
+   "link": "https://www.adweek.com/tvnewser/thursday-nov-19-2026-daily-cable-news-ratings/",
+   "date": "2026-11-24T16:39:21+00:00",
+   "summary": "CNN won the 7 p.m. ET Adults 25-54 demo.",
+   "image": "https://static-www.adweek.com/wp-content/uploads/2026/09/Overnight-Ratings-Thu-e1791240925890.jpg?w=600&h=315&crop=1",
+   "source": "Adweek",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
   },
   {
    "title": "El resurgir de Jensen Huang en Nvidia con apoyo de Trump tiene un precio: a China no le van a pasar ni una",
@@ -1148,8 +1333,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T20:55:42.430105+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T20:55:42.430105+00:00",
    "topics": [
     "publicidad"
    ]
@@ -1208,8 +1393,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T20:55:42.430105+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T20:55:42.430105+00:00",
    "topics": [
     "publicidad",
     "ecommerce"
@@ -1642,6 +1827,20 @@
    "topics": [
     "seo"
    ]
+  },
+  {
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "date": "2026-11-24T13:00:00+00:00",
+   "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&h=900&fit=fill",
+   "source": "OpenAI",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
+   "og_tried": true,
+   "topics": []
   },
   {
    "title": "Zurich Seguros se convierte en patrocinador principal y title sponsor del festival Mad Cool",
@@ -7013,19 +7212,6 @@
    "image": "https://static.simonwillison.net/static/2026/lmstudio-datasette-agent.webp",
    "source": "Simon Willison",
    "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
-   "link": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
-   "date": "2026-11-14T21:15:46+00:00",
-   "summary": "Community Wisdom 305",
-   "image": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-   "source": "Lenny's Newsletter",
-   "category": "marketing",
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
