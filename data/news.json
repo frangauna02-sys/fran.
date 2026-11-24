@@ -1,76 +1,91 @@
 {
- "updated": "2026-11-24T15:48:10.767663+00:00",
- "sources_ok": 28,
- "sources_total": 34,
+ "updated": "2026-11-24T16:04:26.392260+00:00",
+ "sources_ok": 31,
+ "sources_total": 32,
  "sources_failed": [
-  "VentureBeat IA",
-  "Google DeepMind",
-  "Import AI",
-  "Search Engine Land",
-  "Content Marketing Institute",
-  "PuroMarketing"
+  "Marketing4eCommerce"
  ],
- "count": 347,
+ "count": 392,
  "trends": [
   {
    "term": "jensen huang",
-   "count": 19,
-   "growth": 10.8
+   "count": 23,
+   "growth": 12.9
   },
   {
    "term": "que",
-   "count": 16,
-   "growth": 17.0
-  },
-  {
-   "term": "nvidia",
-   "count": 15,
-   "growth": 8.6
-  },
-  {
-   "term": "black friday",
-   "count": 8,
-   "growth": 9.0
+   "count": 22,
+   "growth": 23.0
   },
   {
    "term": "google",
-   "count": 12,
-   "growth": 3.2
+   "count": 21,
+   "growth": 5.5
+  },
+  {
+   "term": "nvidia",
+   "count": 20,
+   "growth": 9.2
+  },
+  {
+   "term": "black friday",
+   "count": 10,
+   "growth": 7.7
+  },
+  {
+   "term": "navidad",
+   "count": 11,
+   "growth": 12.0
   },
   {
    "term": "ceo",
-   "count": 7,
-   "growth": 5.6
-  },
-  {
-   "term": "ads",
-   "count": 7,
-   "growth": 5.6
-  },
-  {
-   "term": "trump",
-   "count": 6,
+   "count": 9,
    "growth": 7.0
   },
   {
-   "term": "anthropic",
+   "term": "meta",
+   "count": 9,
+   "growth": 3.2
+  },
+  {
+   "term": "trump",
+   "count": 7,
+   "growth": 5.6
+  },
+  {
+   "term": "back",
+   "count": 7,
+   "growth": 4.3
+  },
+  {
+   "term": "anuncio",
+   "count": 7,
+   "growth": 8.0
+  },
+  {
+   "term": "amazon",
+   "count": 7,
+   "growth": 4.3
+  },
+  {
+   "term": "ai agents",
    "count": 5,
    "growth": 4.2
   },
   {
-   "term": "meta",
-   "count": 6,
-   "growth": 3.1
+   "term": "search",
+   "count": 7,
+   "growth": 3.5
   },
   {
-   "term": "agents",
-   "count": 6,
-   "growth": 3.1
-  },
-  {
-   "term": "back",
+   "term": "november",
    "count": 5,
-   "growth": 3.2
+   "growth": 4.2
+  },
+  {
+   "term": "core",
+   "count": 5,
+   "growth": 6.0
   },
   {
    "term": "tiempo",
@@ -78,32 +93,84 @@
    "growth": 5.0
   },
   {
-   "term": "nothing",
+   "term": "tech",
    "count": 4,
    "growth": 5.0
-  },
-  {
-   "term": "huang return",
-   "count": 3,
-   "growth": 4.0
-  },
-  {
-   "term": "gta vi",
-   "count": 3,
-   "growth": 4.0
-  },
-  {
-   "term": "tech",
-   "count": 3,
-   "growth": 4.0
-  },
-  {
-   "term": "problem",
-   "count": 3,
-   "growth": 4.0
   }
  ],
  "items": [
+  {
+   "title": "Estos nueve días de 2027 no abrirán los bancos en México: Conoce el calendario completo",
+   "link": "https://www.merca20.com/estos-nueve-dias-de-2027-no-abriran-los-bancos-en-mexico-conoce-el-calendario-completo/?utm_source=rss&utm_medium=rss&utm_campaign=estos-nueve-dias-de-2027-no-abriran-los-bancos-en-mexico-conoce-el-calendario-completo",
+   "date": "2026-11-24T16:03:44+00:00",
+   "summary": "Los bancos en México tendrán varios días de descanso durante 2027, de acuerdo con el calendario de días inhábiles publicado en el Diario Oficial de la Federación (DOF)",
+   "image": "https://files.merca20.com/uploads/2026/11/DOF-CALENDARIO-BANCOS-MX-2027-CHATGPT.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+   "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+   "date": "2026-11-24T16:02:37+00:00",
+   "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+   "image": "",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "La A-63 de Asturias lleva casi tres décadas en obras: todavía quedan 12,5 km y un cuello de botella que no acaba",
+   "link": "https://www.xataka.com/movilidad/a-63-asturias-lleva-casi-tres-decadas-obras-todavia-quedan-12-5-km-cuello-botella-que-no-acaba",
+   "date": "2026-11-24T15:54:22+00:00",
+   "summary": "De los aproximadamente 49 kilómetros proyectados para la A-63 entre Oviedo y La Espina, unos 36,5 están abiertos al tráfico. Los 12,5 restantes siguen pendientes, y la fecha para ver finalizada por fin la autovía completa se sigue retrasando. Por qué importa. La A-63 es la…",
+   "image": "https://i.blogs.es/ada216/480403136_639768978439369_2170778461968270219_n/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+   "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+   "date": "2026-11-24T15:51:07+00:00",
+   "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+   "image": "",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Superluna de noviembre 2026: ¿A qué hora se verá en todo su esplendor la luna llena de castor en México y dónde es mejor verla?",
+   "link": "https://www.merca20.com/superluna-de-noviembre-2026-a-que-hora-se-vera-en-todo-su-esplendor-la-luna-llena-de-castor-en-mexico-y-donde-es-mejor-verla/?utm_source=rss&utm_medium=rss&utm_campaign=superluna-de-noviembre-2026-a-que-hora-se-vera-en-todo-su-esplendor-la-luna-llena-de-castor-en-mexico-y-donde-es-mejor-verla",
+   "date": "2026-11-24T15:47:33+00:00",
+   "summary": "La Luna llena del 24 de noviembre será una de las más llamativas del año, conoce a qué hora aparecerá en México y cómo disfrutarla.",
+   "image": "https://files.merca20.com/uploads/2026/11/Superluna-2026-imagen-generada-en-gemini-2026.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "El móvil top de Samsung baja de precio y de regalo un año de garantía adicional. Así es su nueva oferta en Black Friday",
+   "link": "https://www.xataka.com/seleccion/movil-top-samsung-baja-precio-regalo-ano-garantia-adicional-asi-su-nueva-oferta-black-friday",
+   "date": "2026-11-24T15:47:01+00:00",
+   "summary": "Cuando pensamos en el Black Friday, nos solemos fijar especialmente en los mayores descuentos. Sin embargo, no todo es el precio, puesto que hay ocasiones en que algún regalo o promoción extra pueden hacer que un dispositivo gane aún más interés. Eso es justo lo que ocurre hoy,…",
+   "image": "https://i.blogs.es/c3a8e7/s26-portada/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
   {
    "title": "El Gobierno prorroga las ayudas al transporte público durante 2027: 1.213 millones para mantener los descuentos en tren y autobús",
    "link": "https://www.xataka.com/movilidad/gobierno-prorroga-ayudas-al-transporte-publico-durante-2027-1-213-millones-para-mantener-descuentos-tren-autobus",
@@ -115,18 +182,6 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T15:48:10.767663+00:00"
-  },
-  {
-   "title": "48 LinkedIn statistics for 2026 to shape your strategy",
-   "link": "https://blog.hootsuite.com/linkedin-statistics/",
-   "date": "2026-11-24T15:34:13+00:00",
-   "summary": "If you want to connect with other business professionals, LinkedIn is the place to be. Here are the latest LinkedIn statistics for 2026.",
-   "image": "https://blog.hootsuite.com/wp-content/uploads/2025/04/image-44-620x432.png",
-   "source": "Hootsuite Blog",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:37:24.952599+00:00"
   },
   {
    "title": "La mejor oferta del Black Friday en auriculares solo estará disponible durante unas horas",
@@ -163,6 +218,18 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T15:37:24.952599+00:00"
+  },
+  {
+   "title": "Google December 2026 Core Update Preannounced - Complex Queries & Personalization",
+   "link": "https://www.seroundtable.com/google-december-2026-core-update-42615.html",
+   "date": "2026-11-24T15:20:00+00:00",
+   "summary": "Google has preannounced the December 2026 core update, which is new for Google - to preannounce Google Search updates. So the December 2026 core update is not live yet, but it will be live sometime in December. I asked for clarification. Google said this update \"focuses on…",
+   "image": "",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "Aprovecha descuentos de hasta el 60% en electrodomésticos gracias al Black Friday de AEG",
@@ -237,6 +304,30 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Daily Search Forum Recap: November 24, 2026",
+   "link": "https://www.seroundtable.com/recap-11-24-2026-42608.html",
+   "date": "2026-11-24T15:00:00+00:00",
+   "summary": "Here is a recap of what happened in the search forums today...",
+   "image": "",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+   "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+   "date": "2026-11-24T14:56:50+00:00",
+   "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297759490-1024x648.jpg",
+   "source": "Ars Technica IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "Domino’s revoluciona a la comunidad gamer en las calles tras el lanzamiento de GTA VI",
    "link": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/dominos-pizza-gta-vi-calles-lanzamiento-repartidores",
    "date": "2026-11-24T14:55:27+00:00",
@@ -247,6 +338,18 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "Mientras en Alemania los mercaditos navideños tienen siglos de historia, El Palacio de Hierro convierte esta tradición europea en una estrategia comercial para México",
+   "link": "https://www.merca20.com/mientras-en-alemania-los-mercaditos-navidenos-tienen-siglos-de-historia-el-palacio-de-hierro-convierte-esta-tradicion-europea-en-una-estrategia-comercial-para-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-en-alemania-los-mercaditos-navidenos-tienen-siglos-de-historia-el-palacio-de-hierro-convierte-esta-tradicion-europea-en-una-estrategia-comercial-para-mexico",
+   "date": "2026-11-24T14:52:54+00:00",
+   "summary": "El Palacio de Hierro recrea en Perisur los mercados navideños de Alemania como estrategia de marketing con marcas, regalos, gastronomía y experiencias en Navidad 2026",
+   "image": "https://files.merca20.com/uploads/2026/11/mercado-de-navidad-palacio-de-hierro-foto-merca20.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "Google Confirms November 2026 Core Update Is Complete via @sejournal, @MattGSouthern",
@@ -271,6 +374,18 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "KFC lanza su DOOM Menú inspirado en Avengers: Doomsday; qué contiene y cuánto cuesta",
+   "link": "https://www.merca20.com/kfc-lanza-su-doom-menu-inspirado-en-avengers-doomsday-que-contiene-y-cuanto-cuesta/?utm_source=rss&utm_medium=rss&utm_campaign=kfc-lanza-su-doom-menu-inspirado-en-avengers-doomsday-que-contiene-y-cuanto-cuesta",
+   "date": "2026-11-24T14:35:12+00:00",
+   "summary": "A partir de este martes 24 de noviembre, KFC incorpora a su menú una colección especial inspirada en Avengers: Doomsday, la próxima película de Marvel Studio",
+   "image": "https://files.merca20.com/uploads/2026/11/kfc-lanza-menu-doom-foto-kfc.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "El jefe de IA de Meta duda de que podamos controlar una superinteligencia \"1.000 veces más inteligente\". Hay quien lo llama \"locura de mierda\"",
@@ -307,6 +422,18 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "Google November 2026 Core Update Has Completed Rolling Out - What Happened?",
+   "link": "https://www.seroundtable.com/google-november-2026-core-update-done-42571.html",
+   "date": "2026-11-24T14:10:00+00:00",
+   "summary": "Google's November 2026 broad core update has officially completed rolling out. Google updated the Search Status Dashboard to document the rollout completed on November 24, 2026 at 9:03 am ET. The rollout took 14 days, and here is what we have documented about this update so far.",
+   "image": "",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "Super Bowl 61: Tracking every ad",
@@ -369,6 +496,18 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Inflación en México sube a 3.96% con fuertes aumentos en electricidad y alimentos",
+   "link": "https://www.merca20.com/inflacion-en-mexico-sube-a-3-96-con-fuertes-aumentos-en-electricidad-y-alimentos/?utm_source=rss&utm_medium=rss&utm_campaign=inflacion-en-mexico-sube-a-3-96-con-fuertes-aumentos-en-electricidad-y-alimentos",
+   "date": "2026-11-24T13:41:07+00:00",
+   "summary": "La inflación en México llegó a 3.96% anual durante la primera quincena de noviembre, de acuerdo con el Índice Nacional de Precios al Consumidor (INPC)",
+   "image": "https://files.merca20.com/uploads/2026/11/inflacion-noviembre-2026-chatgpt.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "Los trucos para anunciarse en ChatGPT: 5 claves para que las marcas no malgasten su inversión",
    "link": "https://www.marketingdirecto.com/digital-general/digital/trucos-anunciarse-chatgpt-claves-para-marcas-no-malgasten-inversion",
    "date": "2026-11-24T13:39:21+00:00",
@@ -379,6 +518,18 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "Kate Middleton lleva su historia de superación a la televisión y muestra cómo las celebridades pueden amplificar las causas sociales",
+   "link": "https://www.merca20.com/kate-middleton-documental-celebridades-causas-sociales/?utm_source=rss&utm_medium=rss&utm_campaign=kate-middleton-documental-celebridades-causas-sociales",
+   "date": "2026-11-24T13:30:58+00:00",
+   "summary": "La princesa de Gales protagoniza un documental solidario que permite analizar el impacto de las figuras públicas en la concientización, la movilización social y la recaudación de fondos.",
+   "image": "https://files.merca20.com/uploads/2026/11/Captura-de-pantalla_24-11-2026_862_www.youtube.com_.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "Ahorrar dinero no es lo único que importa, el tiempo también es valioso. Con ChatGPT espero conseguir ambos este Black Friday",
@@ -402,18 +553,6 @@
    "category": "ia",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "Google Ads Can’t Tell a Small Lead From a Big One",
-   "link": "https://www.youtube.com/shorts/kAvwsOJVp30",
-   "date": "2026-11-24T13:03:22+00:00",
-   "summary": "A home barista and a guy who runs 40 coffee shops fill out the same form. Google counts them as the same conversion with the same value. So your bidding optimizes for whoever is cheapest to get, not whoever is worth the most. Import your qualified and closed leads back into…",
-   "image": "https://www.youtube.com/v/kAvwsOJVp30?version=3",
-   "source": "Neil Patel (YouTube)",
-   "category": "marketing",
-   "lang": "en",
-   "type": "video",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
@@ -441,6 +580,30 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Zurich Seguros se convierte en patrocinador principal y title sponsor del festival Mad Cool",
+   "link": "https://www.reasonwhy.es/actualidad/zurich-seguros-title-sponsor-patrocinio-festival-mad-cool",
+   "date": "2026-11-24T12:57:00+00:00",
+   "summary": "El acuerdo, para los próximos cinco años, supone la consolidación de la aseguradora en el territorio musical.",
+   "image": "https://www.reasonwhy.es/media/library/logotipo-mad-cool-y-zurich.png",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Bing AI Generated Answer - Different From AI Overviews/Copilot Search",
+   "link": "https://www.seroundtable.com/bing-ai-generated-answer-42598.html",
+   "date": "2026-11-24T12:51:00+00:00",
+   "summary": "Microsoft Bing is testing a new flavor of AI-generated answers that are labeled \"AI-Generated answer\" and seem to be different from the Bing AI Overviews and Copilot Search boxes.",
+   "image": "",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "Las gangas del día hoy, 24 de noviembre, en Amazon, PcComponentes, El Corte Inglés, Movistar Plus y más",
    "link": "https://www.xataka.com/seleccion/gangas-dia-hoy-24-noviembre-amazon-pccomponentes",
    "date": "2026-11-24T12:45:00+00:00",
@@ -451,6 +614,18 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "Google Business Profiles Appeals Simplified Into A Single Form",
+   "link": "https://www.seroundtable.com/google-business-profiles-appeals-form-simplified-42593.html",
+   "date": "2026-11-24T12:41:00+00:00",
+   "summary": "Google has updated the appeals form in Google Business Profiles to a single form, replacing the previous multi-step workflow. This makes the process of submitting an appeal faster and simpler.",
+   "image": "",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "\"Va a ser una locura\": Elon Musk advierte de que el atasco en los centros de datos dejará a la IA sin dinero para pagar sus deudas",
@@ -465,6 +640,30 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Google: People Don't Just Want AI, They Want AI & The Web",
+   "link": "https://www.seroundtable.com/google-people-want-ai-and-web-42602.html",
+   "date": "2026-11-24T12:31:00+00:00",
+   "summary": "Elizabeth Reid, VP of Search at Google, was interviewed again and in this interview, she said that Google sees that \"people don't want purely AI, they want AI and the web.\" She then goes on to explain this with examples of how some websites are easily replaceable with AI, while…",
+   "image": "",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+   "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+   "date": "2026-11-24T12:30:05+00:00",
+   "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
+   "source": "Ars Technica IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "Roban un Mercedes G63 de un cuarto de millón de euros en un parking de Valencia con un portátil y salen pagando un solo tique",
    "link": "https://www.xataka.com/magnet/roban-mercedes-g63-cuarto-millon-euros-parking-valencia-portatil-salen-pagando-solo-tique",
    "date": "2026-11-24T12:30:00+00:00",
@@ -475,6 +674,90 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "Cómo tramitar la licencia permanente digital en CDMX desde el celular por 1,500 pesos, también hay módulos sin cita en noviembre",
+   "link": "https://www.merca20.com/como-tramitar-la-licencia-permanente-digital-en-cdmx-desde-el-celular-por-1500-pesos-tambien-hay-modulos-sin-cita-en-noviembre/?utm_source=rss&utm_medium=rss&utm_campaign=como-tramitar-la-licencia-permanente-digital-en-cdmx-desde-el-celular-por-1500-pesos-tambien-hay-modulos-sin-cita-en-noviembre",
+   "date": "2026-11-24T12:27:51+00:00",
+   "summary": "Consulta los requisitos para tramitar la licencia permanente digital en CDMX en 2026, cuánto cuesta, quién debe hacer examen y cuándo vence el plazo.",
+   "image": "https://files.merca20.com/uploads/2026/11/Ya-es-oficial-SEMOVI-abre-modulos-para-tramitar-licencia-permanente-sin-cita-en-CDMX-hasta-fines-de-semana-conoce-horarios-y-requisitos-.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Google Burying Links Deeper Down In AI Overviews",
+   "link": "https://www.seroundtable.com/google-pushing-links-in-ai-overviews-down-42600.html",
+   "date": "2026-11-24T12:21:00+00:00",
+   "summary": "New data show that Google is pushing links within AI Overviews further down in AI-generated responses. A few months ago, Google AI Overviews had their first inline link in the first third of the answer over 75% of the time; that is now down to about 50%.",
+   "image": "",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Tesla en Argentina: Elon Musk desembarca con autos fabricados en China, precios desde US$ 41,590 y sin concesionarios tradicionales",
+   "link": "https://www.merca20.com/tesla-en-argentina-precios-estrategia-comercial/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-en-argentina-precios-estrategia-comercial",
+   "date": "2026-11-24T12:12:14+00:00",
+   "summary": "La compañía de Elon Musk eligió los centros comerciales para exhibir sus vehículos eléctricos y una plataforma digital para venderlos directamente a los consumidores argentinos.",
+   "image": "https://files.merca20.com/uploads/2026/11/bigstock-153427508.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Google Ads Book Appointment Conversion Goals",
+   "link": "https://www.seroundtable.com/google-ads-book-appointment-conversion-goal-42599.html",
+   "date": "2026-11-24T12:11:00+00:00",
+   "summary": "Google Ads has updated its About Partner bookings help document to now be About the Book Appointment conversion goal. \"The Book Appointment conversion goal helps you measure and optimize campaigns to drive scheduled appointments, reservations, and service bookings,\" Google wrote.",
+   "image": "",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Vender una casa con hipoteca sí es posible; esto recomienda REMAX",
+   "link": "https://www.merca20.com/vender-una-casa-con-hipoteca-si-es-posible-esto-recomienda-remax/?utm_source=rss&utm_medium=rss&utm_campaign=vender-una-casa-con-hipoteca-si-es-posible-esto-recomienda-remax",
+   "date": "2026-11-24T12:10:31+00:00",
+   "summary": "REMAX puede acompañar a los propietarios durante la comercialización de su vivienda, ayudarlos a identificar su valor en el mercado y orientar el proceso para coordinar la venta con los trámites necesarios",
+   "image": "https://files.merca20.com/uploads/2026/11/hipoteca-remax-imagen-chatgpt.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Google Thanksgiving Easter Egg Will Turn You Into A Parade Balloon",
+   "link": "https://www.seroundtable.com/google-thanksgiving-easter-egg-parade-balloon-42606.html",
+   "date": "2026-11-24T12:05:00+00:00",
+   "summary": "If you search for Thanksgiving on Google Search, an AI Mode easter egg will show up at the bottom of the results asking you to \"Join the parade.\" You can then upload a photo of yourself and Google AI Mode, not AI Overviews, will turn you into a Macy's Thanksgiving Day parade…",
+   "image": "",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Hasbro ya no depende solamente de vender juguetes: sus licencias generan 417 millones de dólares en nueve meses",
+   "link": "https://www.merca20.com/hasbro-ya-no-depende-solamente-de-vender-juguetes-sus-licencias-generan-417-millones-de-dolares-en-nueve-meses/?utm_source=rss&utm_medium=rss&utm_campaign=hasbro-ya-no-depende-solamente-de-vender-juguetes-sus-licencias-generan-417-millones-de-dolares-en-nueve-meses",
+   "date": "2026-11-24T12:00:48+00:00",
+   "summary": "La estrategia de licencias permite a Hasbro aprovechar el valor comercial de sus personajes y franquicias mediante acuerdos con otras empresas",
+   "image": "https://files.merca20.com/uploads/2026/09/cortesia-hasbro.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "El mapa de todos los centros de datos en España: radiografía de la infraestructura digital más polémica de 2026",
@@ -573,6 +856,18 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "“El Marketing es negocio. ¿Qué es si no?”",
+   "link": "https://www.reasonwhy.es/luzyluces-sarah-chemouli-marketing-banco-santander-entrevista",
+   "date": "2026-11-24T11:35:00+00:00",
+   "summary": "Sarah Chemouli, Directora de Marketing de Banco Santander, es la protagonista del episodio 012 de Luz & Luces.",
+   "image": "https://www.reasonwhy.es/media/library/sarah-chemouli-marketing-banco-santander-luz-luces-portada.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "El Black Friday es un buen momento para cambiar de tele: esta OLED de LG es ideal para cine y gaming y nunca ha estado tan barata",
    "link": "https://www.xataka.com/seleccion/black-friday-buen-momento-para-cambiar-tele-esta-oled-lg-ideal-para-cine-gaming-nunca-ha-estado-barata",
    "date": "2026-11-24T11:30:00+00:00",
@@ -619,6 +914,18 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "Mientras Jensen Huang recupera su puesto al frente de Nvidia, EEUU incluye a Megaspeed en su lista negra comercial",
+   "link": "https://www.merca20.com/megaspeed-lista-negra-eeuu-nvidia-jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=megaspeed-lista-negra-eeuu-nvidia-jensen-huang",
+   "date": "2026-11-24T11:15:44+00:00",
+   "summary": "El mismo día que el fundador de Nvidia regresó como CEO, Estados Unidos anunció restricciones comerciales contra la compañía que se encuentra en el centro del escándalo y otras seis empresas asiáticas.",
+   "image": "https://files.merca20.com/uploads/2026/11/960px-Nvidia_CEO_Jensen_Huang_gestikuliert.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "El gran negocio de estas Navidades son los catálogos de juguetes de El Corte Inglés vendidos a 5€ la pieza",
@@ -669,6 +976,30 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Una colección de jerséis salva las fiestas en el anuncio de Navidad de Carrefour",
+   "link": "https://www.reasonwhy.es/actualidad/coleccion-jerseis-anuncio-navidad-carrefour-2026",
+   "date": "2026-11-24T10:53:00+00:00",
+   "summary": "La cadena de supermercados destaca la variedad de su oferta y su misión de ofrecer productos de calidad al mejor precio.",
+   "image": "https://www.reasonwhy.es/media/library/carrefour-anuncio-navidad-2026.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Daniel Radcliffe sobre el éxito: “Los logros dependen de la definición que cada persona establezca para sí misma. Lo importante es perseguir sus objetivos y no rendirse hasta alcanzarlos”",
+   "link": "https://www.merca20.com/daniel-radcliffe-sobre-el-exito-los-logros-dependen-de-la-definicion-que-cada-persona-establezca-para-si-misma-lo-importante-es-perseguir-sus-objetivos-y-no-rendirse-hasta-alcanzarlos/?utm_source=rss&utm_medium=rss&utm_campaign=daniel-radcliffe-sobre-el-exito-los-logros-dependen-de-la-definicion-que-cada-persona-establezca-para-si-misma-lo-importante-es-perseguir-sus-objetivos-y-no-rendirse-hasta-alcanzarlos",
+   "date": "2026-11-24T10:51:05+00:00",
+   "summary": "Daniel Radcliffe plantea que cada persona debe establecer sus propios parámetros para determinar qué significa alcanzar una meta",
+   "image": "https://files.merca20.com/uploads/2026/11/Daniel-Radcliffe-Gemini-AI.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "¿Cómo conseguir VICIO gratis? El reto ciclista con el que la marca aterriza en la ciudad de Girona",
    "link": "https://www.marketingdirecto.com/anunciantes-general/como-conseguir-vicio-gratis-reto-ciclista-marca-aterriza-ciudad-girona",
    "date": "2026-11-24T10:46:02+00:00",
@@ -691,6 +1022,42 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "Alejandro Dumas hijo sobre la riqueza: “No estimes el dinero en más ni en menos de lo que vale, porque es un buen siervo y un mal amo”",
+   "link": "https://www.merca20.com/alejandro-dumas-hijo-sobre-la-riqueza-no-estimes-el-dinero-en-mas-ni-en-menos-de-lo-que-vale-porque-es-un-buen-siervo-y-un-mal-amo/?utm_source=rss&utm_medium=rss&utm_campaign=alejandro-dumas-hijo-sobre-la-riqueza-no-estimes-el-dinero-en-mas-ni-en-menos-de-lo-que-vale-porque-es-un-buen-siervo-y-un-mal-amo",
+   "date": "2026-11-24T10:41:29+00:00",
+   "summary": "Alejandro Dumas hijo fue un escritor francés que convirtió las relaciones humanas, el amor, la moral y las diferencias sociales en algunos de los principales temas de su obra",
+   "image": "https://files.merca20.com/uploads/2026/11/ALEJANDRO-DUMAS-CREADO-IA-CHATGPT.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Mientras los niños esperan sus regalos de Navidad, los adultos impulsan las ventas de juguetes con cartas Pokémon, figuras coleccionables y sets de LEGO",
+   "link": "https://www.merca20.com/ventas-de-juguetes-pokemon-lego-navidad-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ventas-de-juguetes-pokemon-lego-navidad-2026",
+   "date": "2026-11-24T10:35:54+00:00",
+   "summary": "Pokémon celebra sus 30 años en medio de una expansión internacional de la industria del juguete, impulsada por los coleccionables, las licencias comerciales y los consumidores adultos.",
+   "image": "https://files.merca20.com/uploads/2026/11/Papa-e-hijo-descubren-cartas-Pokemon-navidenas.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Mario Molina, premio Nobel de Química, sobre la educación: “Cuando yo aprendí tenía que memorizar todo, eso está totalmente obsoleto”",
+   "link": "https://www.merca20.com/mario-molina-premio-nobel-de-quimica-sobre-la-educacion-cuando-yo-aprendi-tenia-que-memorizar-todo-eso-esta-totalmente-obsoleto/?utm_source=rss&utm_medium=rss&utm_campaign=mario-molina-premio-nobel-de-quimica-sobre-la-educacion-cuando-yo-aprendi-tenia-que-memorizar-todo-eso-esta-totalmente-obsoleto",
+   "date": "2026-11-24T10:31:00+00:00",
+   "summary": "Mario Molina dedicó su trayectoria profesional a la investigación científica y al estudio de problemas ambientales relacionados con la atmósfera",
+   "image": "https://files.merca20.com/uploads/2026/11/MARIO-MOLINA-GEMINI-IA.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "Meta Ads Cost Optimization, Short-Form Video Production, and Industry News",
@@ -753,6 +1120,18 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Más de 150 organizaciones de protección de la infancia piden a eBay y Amazon que retiren juguetes con IA",
+   "link": "https://www.reasonwhy.es/actualidad/organzaciones-proteccion-infancia-piden-amazon-ebay-retirada-juguetes-ia",
+   "date": "2026-11-24T09:54:00+00:00",
+   "summary": "Advierten de los peligros físicos y emocionales que entrañan y recuerdan que no han sido sometidos a pruebas de seguridad.",
+   "image": "https://www.reasonwhy.es/media/library/juguetes-ia-amazon-ebay.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "«Un pico de audiencia no dice si un medio es relevante; lo que importa es lo que pasa después» J. Matallana (Webedia)",
    "link": "https://www.marketingdirecto.com/marketing-general/entrevistas/pico-audiencia-no-dice-si-medio-es-relevante-importa-es-lo-que-pasa-despues-matallana-webedia",
    "date": "2026-11-24T09:43:29+00:00",
@@ -811,6 +1190,30 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "Las tendencias de diseño para 2027, según Canva: memoria, artesanía o rebeldía visual",
+   "link": "https://www.reasonwhy.es/actualidad/canva-tendencias-diseno-comunicacion-visual-2027",
+   "date": "2026-11-24T08:00:00+00:00",
+   "summary": "La plataforma ha identificado cinco grandes tendencias que reivindican la singularidad frente a la homogeneidad visual.",
+   "image": "https://www.reasonwhy.es/media/library/canva-tendencias-diseno-2027.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "El anuncio de Navidad de PETA promueve el veganismo retratando la soledad de los animales",
+   "link": "https://www.reasonwhy.es/actualidad/soledad-animales-peta-anuncio-navidad-2026",
+   "date": "2026-11-24T07:53:00+00:00",
+   "summary": "Refleja la sensación de pérdida y soledad entre animales cuando otros son sacrificados para las comidas festivas.",
+   "image": "https://www.reasonwhy.es/media/library/anuncio-navidad-peta-2026.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "¿Qué nos recomienda la IA? Making Science revela las marcas y medios con más visibilidad en los LLMs",
@@ -873,6 +1276,54 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Why brands are writing no-AI clauses into creator deals",
+   "link": "https://digiday.com/future-of-tv/why-brands-are-writing-no-ai-clauses-into-creator-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-24T05:01:00+00:00",
+   "summary": "While creators are welcoming brands’ no-AI demands, both sides need to agree upfront on whether creators are prohibited from using AI tools in any part of their process, according to Pearpop’s Kurt Stadelman.",
+   "image": "",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Walmart is letting Meta’s Muse shop its shelves — but on its own terms",
+   "link": "https://digiday.com/marketing/walmart-is-letting-metas-muse-shop-its-shelves-but-on-its-own-terms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-24T05:01:00+00:00",
+   "summary": "Walmart is allowing access to Meta’s Muse through a gateway that lets it control how AI agents browse, shop and make purchases.",
+   "image": "",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Ad Tech Briefing: Meta eyes CTV as AppLovin circles Criteo, signs of the squeeze on independent ad tech",
+   "link": "https://digiday.com/media-buying/ad-tech-briefing-meta-eyes-ctv-as-applovin-circles-criteo-signs-of-the-squeeze-on-independent-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-24T05:01:00+00:00",
+   "summary": "Meta’s reported CTV expansion and AppLovin’s alleged interest in Criteo are foreboding for independent ad tech as major platforms extend their reach.",
+   "image": "",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Amazon is buying ChatGPT ads while blocking OpenAI crawlers",
+   "link": "https://digiday.com/marketing/amazon-is-buying-chatgpt-ads-while-blocking-openai-crawlers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-24T05:01:00+00:00",
+   "summary": "Amazon is paying to reach ChatGPT shoppers while the chatbot is finding other ways to surface its products and deals.",
+   "image": "",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "datasette-charts 0.2a0",
    "link": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
    "date": "2026-11-24T04:24:29+00:00",
@@ -895,6 +1346,18 @@
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "New Google Business Profiles Controls For Appointments & Dinner Reservations",
+   "link": "https://www.seroundtable.com/google-business-profiles-appt-book-dinner-reserve-42605.html",
+   "date": "2026-11-24T00:29:00+00:00",
+   "summary": "Google has added self-serve control to appointment bookings and dining reservations on your Google Business Profile. This is the same as what Google added for restaurant ordering services a month ago, and it now also works for appointment bookings and dining reservations.",
+   "image": "",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
@@ -924,7 +1387,7 @@
    "title": "Meta launches iPad version of Edits",
    "link": "https://www.socialmediatoday.com/news/meta-launches-ipad-version-of-edits/875566/",
    "date": "2026-11-23T22:40:37+00:00",
-   "summary": "The larger screen layout will make it easier to manage video projects.",
+   "summary": "The larger screen layout is intended to make it easier for users to manage video projects.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -1017,6 +1480,18 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+   "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+   "date": "2026-11-23T21:30:44+00:00",
+   "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+   "source": "Ars Technica IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "Threads teases coming iPad app",
    "link": "https://www.socialmediatoday.com/news/threads-teases-coming-ipad-app/875561/",
    "date": "2026-11-23T21:27:49+00:00",
@@ -1027,6 +1502,18 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "Threads teases iPad version of its app",
+   "link": "https://www.socialmediatoday.com/news/threads-teases-ipad-version-of-its-app/875561/",
+   "date": "2026-11-23T21:27:49+00:00",
+   "summary": "Head of Design Christopher Clare posted multiple screenshots showing a Threads feed on a larger tablet screen, but didn't reveal a release date.",
+   "image": "",
+   "source": "Social Media Today",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
@@ -1044,7 +1531,7 @@
    "title": "TikTok highlights 2026 holiday trends",
    "link": "https://www.socialmediatoday.com/news/tiktok-highlights-2026-holiday-trends/875560/",
    "date": "2026-11-23T21:24:48+00:00",
-   "summary": "Popular hashtags including #diychristmas and #pinkchristmas speak to a shift away from last year’s “Ralph Lauren Christmas” and toward a more whimsical season.",
+   "summary": "Popular hashtags including #diychristmas and #pinkchristmas speak to a shift away from last year’s “Ralph Lauren Christmas” toward a more whimsical season.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -1068,7 +1555,7 @@
    "title": "Pinterest simplifies parental controls",
    "link": "https://www.socialmediatoday.com/news/pinterest-simplifies-parental-controls/875554/",
    "date": "2026-11-23T21:18:03+00:00",
-   "summary": "The platform has updated its parental control dashboard to offer a more streamlined way to manage devices and access options.",
+   "summary": "An updated parental control dashboard offers a more streamlined way to manage devices and access options.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -1080,21 +1567,9 @@
    "title": "Pinterest announces partnership with Microsoft Ads",
    "link": "https://www.socialmediatoday.com/news/pinterest-announces-partnership-with-microsoft-ads/875553/",
    "date": "2026-11-23T21:10:29+00:00",
-   "summary": "The new integration will see Pinterest ad placements extended across Microsoft’s partner platforms.",
+   "summary": "The integration will see Pinterest ad placements extended across Microsoft’s partner platforms.",
    "image": "",
    "source": "Social Media Today",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "Organic vs paid social media: Everything you need to know",
-   "link": "https://blog.hootsuite.com/organic-vs-paid-social-media/",
-   "date": "2026-11-23T21:09:52+00:00",
-   "summary": "Weighing the options between organic vs paid social media? We’ll save you some legwork: You’re probably going to want to do a bit of both.",
-   "image": "https://blog.hootsuite.com/wp-content/uploads/2025/05/image-620x1036.png",
-   "source": "Hootsuite Blog",
    "category": "marketing",
    "lang": "en",
    "type": "article",
@@ -1185,6 +1660,30 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "The next test for agentic media",
+   "link": "https://digiday.com/sponsored/the-next-test-for-agentic-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-23T19:56:14+00:00",
+   "summary": "Anudit Vikram, Chief Product Officer, Channel Factory Advertisers are building AI systems around the way their teams already work. These teams have their own agents, their own data and their own rules for what an agent may and may not do. At the same time, most of the…",
+   "image": "",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Google Documents Previously Undocumented Crawlers & Fetchers",
+   "link": "https://www.seroundtable.com/googlebots-additions-42604.html",
+   "date": "2026-11-23T19:20:00+00:00",
+   "summary": "Google has updated a few of its help documents to add what it calls \"additional existing crawlers and user-triggered fetchers.\" The existing, previously undocumented, Google crawlers and fetchers include Google-analytics-postbacks, Google-Calendar-Importer, GoogleDocs,…",
+   "image": "",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
    "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
    "date": "2026-11-23T19:14:46+00:00",
@@ -1206,18 +1705,6 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "Text Your Old Customers Before You Buy Ads",
-   "link": "https://www.youtube.com/shorts/InGYB7G8Ctk",
-   "date": "2026-11-23T19:04:07+00:00",
-   "summary": "Your next good week is already sitting in your contacts. Winning a new customer costs about five times more than keeping one. The people who already paid you know and trust you. They just forgot about you. Find anyone who hasn’t booked in six months. Send one plain text with a…",
-   "image": "https://www.youtube.com/v/InGYB7G8Ctk?version=3",
-   "source": "Neil Patel (YouTube)",
-   "category": "marketing",
-   "lang": "en",
-   "type": "video",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
@@ -1281,36 +1768,24 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Google: Connect Apps To Search In Return For Personal Responses",
+   "link": "https://www.seroundtable.com/google-personal-intelligence-push-42603.html",
+   "date": "2026-11-23T17:42:00+00:00",
+   "summary": "Robby Stein, VP of Product, Google Search, posted on the Google blog A more tailored Google Search that's uniquely yours. In short, he said he wants you to \"connect more of your apps to Personal Intelligence\" so that Google AI Mode can provide a \"more tailored Google Search.\"",
+   "image": "",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
    "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
    "date": "2026-11-23T17:36:08+00:00",
    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing.…",
    "image": "",
    "source": "MIT Technology Review",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "How to build a content approval workflow in 2026",
-   "link": "https://blog.hootsuite.com/social-media-approval-workflow/",
-   "date": "2026-11-23T17:23:23+00:00",
-   "summary": "Don't let a rogue social post slip past you. A solid social media approval workflow means more accurate and efficient collaboration.",
-   "image": "https://cdn.airops.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ0MTg2NjM5LCJwdXIiOiJibG9iX2lkIn19--78a01c39dc063208d3cd47080495faa06d61f6a2/image.png",
-   "source": "Hootsuite Blog",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-   "link": "https://huggingface.co/blog/allenai/robotrack",
-   "date": "2026-11-23T17:20:37+00:00",
-   "summary": "",
-   "image": "",
-   "source": "Hugging Face",
    "category": "ia",
    "lang": "en",
    "type": "article",
@@ -1363,6 +1838,18 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "Agencies are selling AI efficiency — clients want outcomes",
+   "link": "https://digiday.com/sponsored/agencies-are-selling-ai-efficiency-clients-want-outcomes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-23T16:41:38+00:00",
+   "summary": "Amol Waishampayan, co-founder, fullthrottle.ai Agencies spent the last two years pitching AI to clients as a cost story. Faster work, leaner teams, lower fees. Clients took the meeting, nodded along and then waited for the invoice to shrink. It didn’t. AI strategies now sound…",
+   "image": "",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
@@ -1473,6 +1960,18 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+   "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+   "date": "2026-11-23T15:46:18+00:00",
+   "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096-1024x648.jpg",
+   "source": "Ars Technica IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "The Art of Using AI as ‘Power Steering,’ Not Autopilot ft. Kathy Collins",
    "link": "https://www.adweek.com/brand-marketing/the-art-of-using-ai-as-power-steering-not-autopilot-ft-kathy-collins/",
    "date": "2026-11-23T15:22:02+00:00",
@@ -1509,6 +2008,18 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Google Posts FAQs on Back Button Hijacking Spam",
+   "link": "https://www.seroundtable.com/google-faqs-back-button-hijacking-42601.html",
+   "date": "2026-11-23T15:08:00+00:00",
+   "summary": "Google has added an FAQs section on the back button hijacking spam policy within the spam policies document. Currently, there are five questions and answers in this document and they include:",
+   "image": "",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
    "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
    "date": "2026-11-23T15:04:01+00:00",
@@ -1531,6 +2042,30 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "Daily Search Forum Recap: November 23, 2026",
+   "link": "https://www.seroundtable.com/recap-11-23-2026-42597.html",
+   "date": "2026-11-23T15:00:00+00:00",
+   "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google has something it calls StarSearch...",
+   "image": "",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Nvidia restituye a Jensen Huang como CEO y Presidente",
+   "link": "https://www.reasonwhy.es/actualidad/nvidia-reinstaura-jensen-huang-ceo-presidente",
+   "date": "2026-11-23T14:51:00+00:00",
+   "summary": "Dimitió tras darse a conocer dos infidelidades, una de ellas con una ejecutiva presuntamente vinculada al espionaje chino.",
+   "image": "https://www.reasonwhy.es/media/library/jensen-huang-vuelve-nvidia.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "Wednesday, Nov. 18 Daily Cable News Ratings: Fox News Owns the Evening",
@@ -1605,6 +2140,18 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "El Almendro resignifica su “Vuelve a casa” en la era de la hiperconexión digital en su anuncio de Navidad",
+   "link": "https://www.reasonwhy.es/actualidad/el-almendro-resignifica-vuelve-a-casa-anuncio-navidad-2026",
+   "date": "2026-11-23T14:21:00+00:00",
+   "summary": "En una época de hiperconexión digital, la marca recuerda la importancia de estar realmente presentes y dedicar tiempo de calidad a los seres queridos.",
+   "image": "https://www.reasonwhy.es/media/library/el-almendro-anuncio-navidad-2026.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "AI Stands to Replace Jobs. Here’s a Plan to Put People First",
    "link": "https://www.marketingaiinstitute.com/blog/people-first-approach-to-ai-maicon-2026",
    "date": "2026-11-23T14:15:00+00:00",
@@ -1665,18 +2212,6 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
-   "title": "Google Can Now Rewrite Your Ads",
-   "link": "https://www.youtube.com/shorts/D9tpr6xvbag",
-   "date": "2026-11-23T13:03:35+00:00",
-   "summary": "Google isn’t just running your ads anymore. It can help write them. AI Max can expand your keywords, generate new headlines from your landing pages, and choose which page people land on. Google says advertisers typically see 14% more conversions at a similar cost. Worth testing.…",
-   "image": "https://www.youtube.com/v/D9tpr6xvbag?version=3",
-   "source": "Neil Patel (YouTube)",
-   "category": "marketing",
-   "lang": "en",
-   "type": "video",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
    "title": "t2ó ONE reúne al sector para explorar el potencial de las audiencias sintéticas",
    "link": "https://www.marketingdirecto.com/marketing-general/eventos-y-formacion/t2o-one-reune-sector-explorar-potencial-audiencias-sinteticas",
    "date": "2026-11-23T13:01:27+00:00",
@@ -1699,6 +2234,18 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "Google AI Mode Dive Deeper Is Now Live",
+   "link": "https://www.seroundtable.com/google-ai-mode-dive-deeper-feature-live-42589.html",
+   "date": "2026-11-23T12:51:00+00:00",
+   "summary": "Several weeks ago, Google announced an update to AI Mode named \"Dive deeper.\" Dive deeper makes the \"links that we show at the end of some AI responses more engaging and prominent, with image thumbnails and a more clickable design,\" Google wrote. And now it seems to be live in…",
+   "image": "",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "Modelo Becomes First Official Beer of the NCAA",
@@ -1773,6 +2320,30 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+   "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+   "date": "2026-11-23T12:00:00+00:00",
+   "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Asus-P16-3-1152x648.jpg",
+   "source": "Ars Technica IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "De Cristina Pedroche a David Bisbal: La Gula del Norte canta “Gulería, gulería” en su anuncio de Navidad",
+   "link": "https://www.reasonwhy.es/actualidad/david-bisbal-guleria-la-gula-del-norte-anuncio-navidad-2026",
+   "date": "2026-11-23T11:25:00+00:00",
+   "summary": "La campaña sigue los pasos del supuesto CMO de la marca para lanzar una campaña junto a David Bisbal.",
+   "image": "https://www.reasonwhy.es/media/library/la-gula-del-norte-anuncio-navidad-2026.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "Coca-Cola se adentra en las Mágicas Navidades de Torrejón de Ardoz",
    "link": "https://www.marketingdirecto.com/campanas-navidenas/coca-cola-magicas-navidades-torrejon-papa-noel-pajes-reales",
    "date": "2026-11-23T11:19:52+00:00",
@@ -1833,6 +2404,18 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Milk-Bone crea anuncios que los perros pueden lamer para demostrar el atractivo de sus galletas",
+   "link": "https://www.reasonwhy.es/actualidad/milk-bone-perros-lametones-galletas-publicidad-exterior",
+   "date": "2026-11-23T11:02:00+00:00",
+   "summary": "Milk-Bone ha instalado soportes de exterior que contienen una galleta real y usa las marcas de saliva como prueba de su atractivo.",
+   "image": "https://www.reasonwhy.es/media/library/milkbone-galleta-mupi.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "States Sue SpaceX Over Grok Deepfakes",
    "link": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
    "date": "2026-11-23T11:00:00+00:00",
@@ -1867,6 +2450,18 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "Linkedin lanza tarjetas de visita digitales para favorecer la creación de contactos profesionales",
+   "link": "https://www.reasonwhy.es/actualidad/linkedin-tarjetas-presentacion-digitales-contactos-profesionales",
+   "date": "2026-11-23T10:41:00+00:00",
+   "summary": "La plataforma ha lanzado Linkedin Business Cards, una tarjeta de presentación digital personalizada que permite a los usuarios compartir su perfil.",
+   "image": "https://www.reasonwhy.es/media/library/linkedin-business-cards.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "Anthropic asegura que Claude ha resuelto uno de los mayores enigmas de las matemáticas",
@@ -1953,6 +2548,18 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Amazon amplía su negocio de alimentación con un delivery de platos preparados",
+   "link": "https://www.reasonwhy.es/actualidad/amazon-platos-preparados-entrega-domicilio-estados-unidos",
+   "date": "2026-11-23T09:06:00+00:00",
+   "summary": "La compañía lanza una línea propia de comida lista para consumir o calentar, con servicio de entrega en 30 minutos.",
+   "image": "https://www.reasonwhy.es/media/library/platos-preparados-amazon.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "Eduardo Menacho y Katherine Tisalema vuelan alto en la Zara Athleticz Speed Run",
    "link": "https://www.marketingdirecto.com/marketing-general/eventos-y-formacion/eduardo-menacho-katherine-tisalema-vuelan-alto-zara-athleticz-speed-run",
    "date": "2026-11-23T09:03:26+00:00",
@@ -2001,6 +2608,18 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "La película “Artificial” juega con la cultura de la IA en un cartel promocional creado por humanos",
+   "link": "https://www.reasonwhy.es/actualidad/cartel-pelicula-artificial-creado-humanos-errores-inteligencia-artificial",
+   "date": "2026-11-23T08:51:00+00:00",
+   "summary": "La promoción de \"Artificial\" juega con los errores bizarros de la inteligencia artificial para despertar el interés de los espectadores.",
+   "image": "https://www.reasonwhy.es/media/library/pelicula-artificial-poster-promocional.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "Zorraquino presenta nuevas tendencias para analizar el papel de lo humano frente a lo artificial",
    "link": "https://www.marketingdirecto.com/marketing-general/zorraquino-presenta-nuevas-tendencias-analizar-papel-humano-frente-artificial",
    "date": "2026-11-23T08:33:12+00:00",
@@ -2011,6 +2630,18 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "Meta propone dejar de grabar los momentos importantes con el móvil en su anuncio de Navidad",
+   "link": "https://www.reasonwhy.es/actualidad/meta-gafas-inteligentes-anuncio-navidad-grabar-movil-2026",
+   "date": "2026-11-23T08:25:00+00:00",
+   "summary": "Creado por Mother, muestra a una madre que puede disfrutar de la actuación escolar de su hija mientras la graba.",
+   "image": "https://www.reasonwhy.es/media/library/meta-gafas-anuncio-navidad-2026.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "Maker’s Mark convierte su icónica cera roja en el eje de su nueva identidad visual",
@@ -2049,6 +2680,18 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Coca-Cola renuncia a la IA y pone el foco en lo humano en su anuncio de Navidad para este año",
+   "link": "https://www.reasonwhy.es/actualidad/foco-humano-anuncio-navidad-coca-cola-2026",
+   "date": "2026-11-23T07:37:00+00:00",
+   "summary": "La marca ha lanzado “Enjoy Joy” (Disfruta la alegría), que celebra los pequeños momentos de conexión y unidad propios de las fiestas.",
+   "image": "https://www.reasonwhy.es/media/library/anuncio-navidad-coca-cola-ok.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "Del ‘world building’ a la comunidad: cinco claves para convertir a los consumidores en fans",
    "link": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/world-building-comunidad-cinco-claves-convertir-consumidores-fans",
    "date": "2026-11-23T06:30:00+00:00",
@@ -2059,6 +2702,78 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "D+ Research: Brand’s holiday marketing tactics shift in 2026",
+   "link": "https://digiday.com/marketing/d-research-brands-holiday-marketing-tactics-shift-in-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-23T05:01:00+00:00",
+   "summary": "Holiday marketing is changing: CTV/streaming and TV ads are gaining traction in 2026.",
+   "image": "",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "The Rundown: BADBOX 3.0, the CTV ad fraud scheme generating 40 billion bid requests a day",
+   "link": "https://digiday.com/media-buying/the-rundown-badbox-3-0-the-ctv-ad-fraud-scheme-generating-40-billion-bid-requests-a-day/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-23T05:01:00+00:00",
+   "summary": "HUMAN Security's latest investigation queries the effectiveness of CTV verification safeguards.",
+   "image": "",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Gap Inc. is betting on ‘fashiontainment’ to fuel growth",
+   "link": "https://digiday.com/marketing/gap-inc-is-betting-on-fashiontainment-to-fuel-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-23T05:01:00+00:00",
+   "summary": "Gap Inc. has tapped boy band Just Your Type (JYT) for a multi-year partnership and launched “The Agency,” a scripted microseries made for Banana Republic.",
+   "image": "",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Brands boost Black Friday CTV, retail and search spending",
+   "link": "https://digiday.com/media-buying/brands-boost-black-friday-ctv-retail-and-search-spending/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-23T05:01:00+00:00",
+   "summary": "Advertisers continue to increase investments on the retail weekend but AI, tariffs and discounting pressure present banana skins.",
+   "image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/amazon-sponsored-digiday.001.jpeg?w=230&h=130&crop=1",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Hybrid won the in-housing debate, at least among the largest advertisers",
+   "link": "https://digiday.com/media-buying/hybrid-won-the-in-housing-debate-at-least-among-the-largest-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-23T05:01:00+00:00",
+   "summary": "The shift has been playing for the best part of a decade. COMvergence’s first Global Advertiser Survey shows had far its got. T",
+   "image": "",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Media Buying Briefing: The midterm elections offer a window into media buying for ’28",
+   "link": "https://digiday.com/media-buying/media-buying-briefing-the-midterm-elections-offer-a-window-into-media-buying-for-28/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-23T05:01:00+00:00",
+   "summary": "With more than $12 billion spent this year, expectations are that number will only rise in 2028, with lots more spent as early as Q2 2027. Where will it be spent?",
+   "image": "",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -2082,18 +2797,6 @@
    "category": "ia",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "How to build and maintain an agentic evaluation",
-   "link": "https://huggingface.co/blog/agentic-evals",
-   "date": "2026-11-23T00:00:00+00:00",
-   "summary": "",
-   "image": "",
-   "source": "Hugging Face",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
@@ -2193,18 +2896,6 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
-   "title": "ChatGPT Now Shows Ads Next to Your Pictures",
-   "link": "https://www.youtube.com/shorts/MPFb7ILW1QM",
-   "date": "2026-11-22T19:05:50+00:00",
-   "summary": "Ask ChatGPT to design your living room. Next to the picture, a labeled ad shows you a couch you can buy. OpenAI is testing this with a small group of US advertisers. It says the ad stays separate from your image and doesn’t change the answers. If you sell something people can…",
-   "image": "https://www.youtube.com/v/MPFb7ILW1QM?version=3",
-   "source": "Neil Patel (YouTube)",
-   "category": "marketing",
-   "lang": "en",
-   "type": "video",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
    "title": "Why data centers are at the center of the Big Tech backlash",
    "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
    "date": "2026-11-22T18:08:43+00:00",
@@ -2238,18 +2929,6 @@
    "category": "marketing",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "AI Is Recommending You to the Wrong Customer",
-   "link": "https://www.youtube.com/shorts/EAxjoOE8HJ8",
-   "date": "2026-11-22T13:03:27+00:00",
-   "summary": "Most brands check one thing. Did AI mention us? That’s the wrong question. The right question is who it’s recommending you to. Say you sell to coffee chains with 20 locations. Ask AI Mode for the best machines for a multi-location chain and you’re not there. Ask for budget…",
-   "image": "https://www.youtube.com/v/EAxjoOE8HJ8?version=3",
-   "source": "Neil Patel (YouTube)",
-   "category": "marketing",
-   "lang": "en",
-   "type": "video",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
@@ -2361,18 +3040,6 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
-   "title": "7 in 10 Google Searches Get Zero Clicks Now",
-   "link": "https://www.youtube.com/shorts/IaA48TYPFOg",
-   "date": "2026-11-21T19:02:14+00:00",
-   "summary": "If your traffic is down, you’re not imagining it. From January to April this year, nearly 7 in 10 US Google searches ended without a single click. Two years ago it was 6 in 10. Google is answering the question before anyone reaches your site. #ZeroClickSearch #SEO #GoogleSearch…",
-   "image": "https://www.youtube.com/v/IaA48TYPFOg?version=3",
-   "source": "Neil Patel (YouTube)",
-   "category": "marketing",
-   "lang": "en",
-   "type": "video",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
    "title": "Here are the top AI agents that can live in your text messages",
    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
    "date": "2026-11-21T17:00:00+00:00",
@@ -2406,18 +3073,6 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "AI Schema for Google Is Selling You Air",
-   "link": "https://www.youtube.com/shorts/zt5SzLjHWb0",
-   "date": "2026-11-21T13:06:07+00:00",
-   "summary": "Some people are selling special AI schema and llms.txt files as the secret to showing up in Google’s AI results. Google Search ignores them. Save your budget. Rewrite the paragraphs that answer your most important buying questions so each one is clear, specific and useful by…",
-   "image": "https://www.youtube.com/v/zt5SzLjHWb0?version=3",
-   "source": "Neil Patel (YouTube)",
-   "category": "marketing",
-   "lang": "en",
-   "type": "video",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
@@ -2455,6 +3110,42 @@
    "lang": "en",
    "type": "video",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "Google rolls out new search homepage with AI chat history and no search button",
+   "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+   "date": "2026-11-20T21:58:29+00:00",
+   "summary": "Google search is making it even easier to access AI tools on the search page.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
+   "source": "Ars Technica IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+   "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+   "date": "2026-11-20T21:47:10+00:00",
+   "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg",
+   "source": "Ars Technica IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+   "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+   "date": "2026-11-20T20:59:08+00:00",
+   "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
+   "source": "Ars Technica IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "Salesforce CEO Says ‘Goodbye SEO.’ Salesforce’s SEO Guide Disagrees via @sejournal, @MattGSouthern",
@@ -2502,18 +3193,6 @@
    "category": "ia",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "Stop Building Automations Box by Box",
-   "link": "https://www.youtube.com/shorts/erZaHYnx_xA",
-   "date": "2026-11-20T19:03:49+00:00",
-   "summary": "Setting up lead follow-up used to mean clicking through menus box by box. Now you just say it. One sentence. Our partners at HighLevel have an AI builder that reads it and builds it. The text back, the booking link, the one-day wait and the heads-up to sales. HighLevel says it…",
-   "image": "https://www.youtube.com/v/erZaHYnx_xA?version=3",
-   "source": "Neil Patel (YouTube)",
-   "category": "marketing",
-   "lang": "en",
-   "type": "video",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
@@ -2574,30 +3253,6 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "AI search volatility: What it means for your traffic",
-   "link": "https://blog.hubspot.com/marketing/ai-search-volatility",
-   "date": "2026-11-20T13:30:06+00:00",
-   "summary": "For SEO managers, volatility is nothing new (Google has been hitting us with algorithm update surprises for years). But AI search volatility adds a new layer of complexity. Plenty of teams have a stake in those swings: In HubSpot’s State of AEO report, 58% of marketers said…",
-   "image": "https://no-cache.hubspot.com/cta/default/53/07ca2318-c9e0-4b5d-bcba-95cec5cb4958.png",
-   "source": "HubSpot Marketing",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "AI Mode Doesn’t Run Just One Search",
-   "link": "https://www.youtube.com/shorts/GkRaJHxtZqU",
-   "date": "2026-11-20T13:05:11+00:00",
-   "summary": "One question in. Several searches out. That’s query fan-out, and it changes what ranking means. A cafe owner asks which espresso machine to buy. Google may also look up boiler types, water filtration and service contract costs. If your site is one product page with a spec sheet,…",
-   "image": "https://www.youtube.com/v/GkRaJHxtZqU?version=3",
-   "source": "Neil Patel (YouTube)",
-   "category": "marketing",
-   "lang": "en",
-   "type": "video",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
@@ -2673,6 +3328,42 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Future of Marketing Briefing: Consulting firms revive their marketing ambitions in the C-suite the holdcos covet",
+   "link": "https://digiday.com/marketing/future-of-marketing-briefing-consulting-firms-revive-their-marketing-ambitions-in-the-c-suite-the-holdcos-covet/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-20T05:01:00+00:00",
+   "summary": "Consulting giants Deloitte Digital and Accenture Song have started selling marketing in the C-suite with a fresh push.",
+   "image": "",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Anthropic says no to ads but Wall Street may have other ideas",
+   "link": "https://digiday.com/marketing/anthropic-says-no-to-ads-but-wall-street-may-have-other-ideas/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-20T05:01:00+00:00",
+   "summary": "With shareholders, an $895 billion compute bill and a costly free tier, Anthropic’s no-ads pledge may have a shelf life.",
+   "image": "",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
+   "title": "Why more brands are paying creators to make their ads",
+   "link": "https://digiday.com/marketing/why-more-brands-are-paying-creators-to-make-their-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-20T05:01:00+00:00",
+   "summary": "Creator-led production is the fastest-growing segment of the influencer economy. We explain what’s driving investment in this practice.",
+   "image": "",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "llm-gemini 0.38.1",
    "link": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
    "date": "2026-11-20T03:01:57+00:00",
@@ -2721,28 +3412,16 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
-   "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-   "link": "https://huggingface.co/blog/inkling2mini",
+   "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+   "link": "https://www.anthropic.com/news/ipo-close",
    "date": "2026-11-20T00:00:00+00:00",
-   "summary": "",
+   "summary": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional…",
    "image": "",
-   "source": "Hugging Face",
+   "source": "Anthropic",
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-   "link": "https://huggingface.co/blog/harness-adapters-at-scale",
-   "date": "2026-11-20T00:00:00+00:00",
-   "summary": "",
-   "image": "",
-   "source": "Hugging Face",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "This will test if AI truly is a bubble",
@@ -2769,6 +3448,18 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+   "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+   "date": "2026-11-19T20:19:28+00:00",
+   "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
+   "source": "Ars Technica IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "21 Alternative Search Engines You Can Use Instead of Google via @sejournal, @lorenbaker",
    "link": "https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/",
    "date": "2026-11-19T20:00:05+00:00",
@@ -2778,18 +3469,6 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "Social Proof Beats Fast Shipping",
-   "link": "https://www.youtube.com/shorts/SBfhNxh4UKw",
-   "date": "2026-11-19T19:06:19+00:00",
-   "summary": "Nobody cares how fast it arrives if they’re not sure it’s any good. My team at NP Digital had 100 companies making over $10M a year score what really makes customers buy. Social proof came first. Telling people what your product does is a promise. Showing them people who loved…",
-   "image": "https://www.youtube.com/v/SBfhNxh4UKw?version=3",
-   "source": "Neil Patel (YouTube)",
-   "category": "marketing",
-   "lang": "en",
-   "type": "video",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
@@ -2877,6 +3556,18 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Build strategic A/B tests to grow your ad performance.",
+   "link": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
+   "date": "2026-11-19T17:00:00+00:00",
+   "summary": "Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp",
+   "source": "Google Ads & Commerce",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "How ‘maxxing’ and ‘mogging’ took over marketing, according to a linguist",
    "link": "https://www.marketingbrew.com/stories/maxxing-and-mogging-in-marketing?utm_source=&utm_medium=syndication&utm_campaign=feed",
    "date": "2026-11-19T16:30:11+00:00",
@@ -2886,30 +3577,6 @@
    "category": "marketing",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "Social media customer service: 2026 best practices",
-   "link": "https://blog.hootsuite.com/social-media-customer-service/",
-   "date": "2026-11-19T15:54:15+00:00",
-   "summary": "People expect top notch social media customer service more than ever. Here’s how to wow with social customer care, no matter your budget.",
-   "image": "https://cdn.airops.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM0NjgzNjQzLCJwdXIiOiJibG9iX2lkIn19--ebf45824d0f878ef767160d8fc3508516234db76/image.png",
-   "source": "Hootsuite Blog",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "Social media style guide: Template, examples, and tips for 2026",
-   "link": "https://blog.hootsuite.com/social-media-style-guide/",
-   "date": "2026-11-19T14:30:16+00:00",
-   "summary": "Learn how to build a consistent brand voice on social media with a custom social media style guide (plus a free template included)!",
-   "image": "https://cdn.airops.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM0NjgzMzk3LCJwdXIiOiJibG9iX2lkIn19--b823d72976257334684324bef35e52b5bf519b50/image.png",
-   "source": "Hootsuite Blog",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
@@ -2937,18 +3604,6 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
-   "title": "Claude Cowork skills: How they work and what to build",
-   "link": "https://blog.hubspot.com/marketing/claude-cowork-skills",
-   "date": "2026-11-19T13:30:03+00:00",
-   "summary": "If you’ve yet to understand Claude Cowork skills, let me help you out: Claude Cowork is a mode that can access your desktop files and complete tasks for you. A skill is a set of instructions that tell Claude exactly how to perform a specific workflow. When combined, the two can…",
-   "image": "https://no-cache.hubspot.com/cta/default/53/64493837-f4dd-43b0-abee-3ef154e06092.png",
-   "source": "HubSpot Marketing",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
    "title": "Meta premieres India’s First Government-Led Microdrama Series on Scams Awareness",
    "link": "https://about.fb.com/news/2026/11/meta-premieres-indias-first-government-led-microdrama-series-on-scams-awareness/",
    "date": "2026-11-19T13:05:53+00:00",
@@ -2958,18 +3613,6 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "Google's New Rules for Getting Customers",
-   "link": "https://www.youtube.com/watch?v=BAbsHO9MabI",
-   "date": "2026-11-19T13:00:11+00:00",
-   "summary": "Your next customer could find your business through a Google search they never typed. And Google can now use your website to write your ads. In this video, I break down six rules for getting customers from Google today. They cover how AI Mode runs extra searches behind the…",
-   "image": "https://www.youtube.com/v/BAbsHO9MabI?version=3",
-   "source": "Neil Patel (YouTube)",
-   "category": "marketing",
-   "lang": "en",
-   "type": "video",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
@@ -3117,28 +3760,16 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
-   "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-   "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-   "date": "2026-11-18T19:54:56+00:00",
-   "summary": "",
-   "image": "",
-   "source": "Hugging Face",
+   "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+   "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+   "date": "2026-11-18T19:19:33+00:00",
+   "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-1024x648.jpg",
+   "source": "Ars Technica IA",
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "The Marketing Tier List for the AI Era",
-   "link": "https://www.youtube.com/shorts/BV1gbguPPgk",
-   "date": "2026-11-18T19:08:14+00:00",
-   "summary": "The most picked advantage was a bigger ad budget. 98 out of 100 marketers put it in S tier. But most businesses will never win on budget. Customer relationships ranked A tier at 85. Knowing what your customers want ranked A tier at 72. AI itself? E tier. People come back to…",
-   "image": "https://www.youtube.com/v/BV1gbguPPgk?version=3",
-   "source": "Neil Patel (YouTube)",
-   "category": "marketing",
-   "lang": "en",
-   "type": "video",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "The Reason No One Can Catch NVIDIA",
@@ -3165,18 +3796,6 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
-   "title": "Why your fine-tuning job takes longer than the FLOPs say",
-   "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-   "date": "2026-11-18T18:53:43+00:00",
-   "summary": "",
-   "image": "",
-   "source": "Hugging Face",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
    "title": "Genie 4 is now available",
    "link": "https://deepmind.google/blog/genie-4-is-now-available/",
    "date": "2026-11-18T18:13:42+00:00",
@@ -3187,6 +3806,18 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "Will Wright's next simulation will use AI to mine content from your memories",
+   "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+   "date": "2026-11-18T18:10:33+00:00",
+   "summary": "With MyMems, Wright says he wants to \"turn the simulation inward.\"",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png",
+   "source": "Ars Technica IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "Our Approach to Updating Our Commercial Terms of Service",
@@ -3225,6 +3856,18 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Win the holiday shopping season with November’s Demand Gen Drop.",
+   "link": "https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/",
+   "date": "2026-11-18T17:00:00+00:00",
+   "summary": "Take advantage of the holiday peak with YouTube’s November Demand Gen Drop.",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_November_2026.max-600x600.format-webp.webp",
+   "source": "Google Ads & Commerce",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "Quoting Daniel Stenberg",
    "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
    "date": "2026-11-18T15:58:27+00:00",
@@ -3234,42 +3877,6 @@
    "category": "ia",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "Social media hiring in 2026: Roles, salaries, and team tips",
-   "link": "https://blog.hootsuite.com/social-media-hiring/",
-   "date": "2026-11-18T15:42:35+00:00",
-   "summary": "Your 2026 guide to social media hiring. Discover key roles, interview questions, and expert advice to build a winning social team.",
-   "image": "https://blog.hootsuite.com/wp-content/uploads/2025/10/social-media-hiring-1.png",
-   "source": "Hootsuite Blog",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "How to advertise on Facebook in 2026: A complete guide",
-   "link": "https://blog.hootsuite.com/facebook-advertising/",
-   "date": "2026-11-18T15:30:26+00:00",
-   "summary": "Whether you're a pro Facebook marketer or a relative newcomer, knowing how to advertise on Facebook is a skill that'll always come in handy.",
-   "image": "https://blog.hootsuite.com/wp-content/uploads/2024/04/Facebook-Advertising-620x859.png",
-   "source": "Hootsuite Blog",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-   "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-   "date": "2026-11-18T15:00:23+00:00",
-   "summary": "",
-   "image": "",
-   "source": "Hugging Face",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
@@ -3330,18 +3937,6 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "Stop Trying to Win the Click",
-   "link": "https://www.youtube.com/shorts/wiOPVnkLtKQ",
-   "date": "2026-11-18T13:04:58+00:00",
-   "summary": "SEO has a new job. It's not about being the 10th blue link nobody scrolls to anymore. It's about becoming the answer AI reaches for when it builds a response. And here's the part most brands miss: the AI is going to describe you either way. The only question is whether it's…",
-   "image": "https://www.youtube.com/v/wiOPVnkLtKQ?version=3",
-   "source": "Neil Patel (YouTube)",
-   "category": "marketing",
-   "lang": "en",
-   "type": "video",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
@@ -3429,6 +4024,18 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+   "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+   "date": "2026-11-18T00:27:29+00:00",
+   "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
+   "source": "Ars Technica IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
    "date": "2026-11-18T00:00:00+00:00",
@@ -3453,28 +4060,16 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
-   "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-   "link": "https://huggingface.co/blog/moe-expert-streaming",
+   "title": "Anthropic prices initial public offering",
+   "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
    "date": "2026-11-18T00:00:00+00:00",
-   "summary": "",
+   "summary": "Anthropic prices initial public offering",
    "image": "",
-   "source": "Hugging Face",
+   "source": "Anthropic",
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-   "link": "https://huggingface.co/blog/rumble-2-flash",
-   "date": "2026-11-18T00:00:00+00:00",
-   "summary": "",
-   "image": "",
-   "source": "Hugging Face",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "ChatGPT 6.2 Astra is \"A Mess\"",
@@ -3513,28 +4108,16 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
-   "title": "5 SEO Habits to Drop Today",
-   "link": "https://www.youtube.com/shorts/k_Cvk7b2vwY",
-   "date": "2026-11-17T19:06:06+00:00",
-   "summary": "Writing new posts instead of updating old ones. Chasing big keywords. Keyword stuffing. Buying cheap links. Setting up your Google Business Profile and forgetting it. Each one has a better move. Update what’s close to ranking. Answer real customer questions. Get named on sites…",
-   "image": "https://www.youtube.com/v/k_Cvk7b2vwY?version=3",
-   "source": "Neil Patel (YouTube)",
-   "category": "marketing",
-   "lang": "en",
-   "type": "video",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "How the TikTok algorithm works in 2026",
-   "link": "https://blog.hootsuite.com/tiktok-algorithm/",
-   "date": "2026-11-17T18:35:38+00:00",
-   "summary": "Learn how the TikTok algorithm ranks videos in 2026, from watch time to search signals, plus tips to get content onto more For You Pages.",
-   "image": "https://cdn.airops.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM4MzAyNDI4LCJwdXIiOiJibG9iX2lkIn19--82eb2d1d916264dc16b38739742eb8092efa2691/image.png",
-   "source": "Hootsuite Blog",
-   "category": "marketing",
+   "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+   "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+   "date": "2026-11-17T20:32:55+00:00",
+   "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-1100x648.jpg",
+   "source": "Ars Technica IA",
+   "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
@@ -3597,6 +4180,18 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
+   "title": "Google makes it easier to use Gemini without training AI on your data",
+   "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+   "date": "2026-11-17T16:50:10+00:00",
+   "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+   "source": "Ars Technica IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
+  },
+  {
    "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
    "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
    "date": "2026-11-17T16:48:33+00:00",
@@ -3607,6 +4202,18 @@
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
+  },
+  {
+   "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+   "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+   "date": "2026-11-17T15:28:59+00:00",
+   "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
+   "source": "Ars Technica IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "Research Reports",
@@ -3654,30 +4261,6 @@
    "category": "marketing",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "How to track your brand's visibility in AI search [2026]",
-   "link": "https://blog.hubspot.com/marketing/brand-visibility-ai-search",
-   "date": "2026-11-17T13:50:04+00:00",
-   "summary": "Marketers need to know how to track brand visibility in AI search because search has changed. AI-generated answers now show up earlier in the discovery journey, often before a traditional search result. In 2025, nearly a third of Gen Z consumers (31%) defaulted to chatbots or AI…",
-   "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png",
-   "source": "HubSpot Marketing",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "Write Proof, Not More Pages",
-   "link": "https://www.youtube.com/shorts/KR8L9O9gWPI",
-   "date": "2026-11-17T13:05:09+00:00",
-   "summary": "Most people hear “answer every question” and start making a page for every version of the query. Google actually warns against that. More pages won’t win. Evidence will. Real data. Screenshots. Real pricing. Honest limitations. If your page says what every other page says,…",
-   "image": "https://www.youtube.com/v/KR8L9O9gWPI?version=3",
-   "source": "Neil Patel (YouTube)",
-   "category": "marketing",
-   "lang": "en",
-   "type": "video",
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
@@ -3813,30 +4396,6 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
-   "title": "How to make short-form videos that stand out in 2026",
-   "link": "https://blog.hootsuite.com/short-form-video/",
-   "date": "2026-11-16T20:50:58+00:00",
-   "summary": "Captivate your audience with expert short-form video tips for brands and social media managers, plus metrics like completion rate and shares.",
-   "image": "https://cdn.airops.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI1MTU2NTc3LCJwdXIiOiJibG9iX2lkIn19--788034c0287460601460f010659eaed5704ff643/image.png",
-   "source": "Hootsuite Blog",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "7 best Buffer alternatives in 2026 (compared by size and price)",
-   "link": "https://blog.hootsuite.com/buffer-alternatives/",
-   "date": "2026-11-16T19:45:56+00:00",
-   "summary": "Looking for a Buffer alternative? We've compared 7 top tools by price, features, and team size to help you find your perfect fit.",
-   "image": "https://blog.hootsuite.com/wp-content/uploads/2026/10/work-smarter-cta.png",
-   "source": "Hootsuite Blog",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
    "title": "The open-source movement wants Jensen Huang back",
    "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
    "date": "2026-11-16T18:38:47+00:00",
@@ -3921,16 +4480,16 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
-   "title": "Claude AI for marketing: How teams use it with HubSpot",
-   "link": "https://blog.hubspot.com/marketing/claude-for-marketing",
-   "date": "2026-11-16T13:55:04+00:00",
-   "summary": "I’ve been experimenting with Claude AI for marketing workflows over the past year, and it’s now my go-to assistant. In this field, AI use is close to universal: 98% of marketing teams use it in some way, according to HubSpot’s State of AI in Marketing report. For campaign…",
-   "image": "https://no-cache.hubspot.com/cta/default/53/64493837-f4dd-43b0-abee-3ef154e06092.png",
-   "source": "HubSpot Marketing",
+   "title": "How to find the best Black Friday deals and shop smarter",
+   "link": "https://blog.google/products-and-platforms/products/shopping/black-friday-cyber-monday-shopping-tips-2026/",
+   "date": "2026-11-16T14:00:00+00:00",
+   "summary": "Track price drops, organize your cart, and find thoughtful gifts faster this Black Friday and Cyber Monday with these Google tools.",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Black_Friday_herosocial_alt.max-600x600.format-webp.webp",
+   "source": "Google Ads & Commerce",
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
+   "first_seen": "2026-11-24T16:04:26.392260+00:00"
   },
   {
    "title": "If AI Does the Entry-Level Work, Who Becomes the Next Generation of Leaders?",
@@ -4041,18 +4600,6 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00"
   },
   {
-   "title": "Corporate reputation management: A guide for modern teams",
-   "link": "https://blog.hootsuite.com/corporate-reputation-management/",
-   "date": "2026-11-16T07:56:00+00:00",
-   "summary": "Your company's reputation is being shaped right now, with or without you. Learn how to monitor, protect, and improve it.",
-   "image": "https://blog.hootsuite.com/wp-content/uploads/2026/10/work-smarter-cta.png",
-   "source": "Hootsuite Blog",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
    "title": "More ways to move care forward with ChatGPT for Healthcare",
    "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
    "date": "2026-11-16T06:00:00+00:00",
@@ -4107,18 +4654,6 @@
    "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
    "image": "",
    "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00"
-  },
-  {
-   "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-   "link": "https://huggingface.co/blog/openrouter",
-   "date": "2026-11-16T00:00:00+00:00",
-   "summary": "",
-   "image": "",
-   "source": "Hugging Face",
    "category": "ia",
    "lang": "en",
    "type": "article",
