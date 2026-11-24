@@ -1,28 +1,18 @@
 #!/usr/bin/env python3
-"""Arma el resumen diario con Claude y lo envía por Telegram y/o email.
+"""Arma el resumen diario con Claude para mostrarlo en la página.
 
 Lee data/news.json y escribe data/digest.json (último resumen + archivo de 14 días).
 
-Variables de entorno (todas opcionales salvo la clave de Claude para el resumen con IA):
+Variables de entorno (todas opcionales):
   ANTHROPIC_API_KEY             clave de la API de Claude
   DIGEST_TZ                     zona horaria (por defecto America/Argentina/Buenos_Aires)
   DIGEST_HOUR                   hora local a partir de la cual se arma (por defecto 7)
-  SITE_URL                      link a la página, para incluirlo en los mensajes
-  TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
-  SMTP_USER, SMTP_PASSWORD, EMAIL_TO, SMTP_HOST (smtp.gmail.com), SMTP_PORT (465)
   FORCE_DIGEST=1                rehace el resumen aunque ya exista el de hoy
 """
-import html
 import json
 import os
-import smtplib
-import ssl
 import sys
-import urllib.parse
-import urllib.request
 from datetime import datetime, timedelta, timezone
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -32,7 +22,6 @@ DIGEST_FILE = ROOT / "data" / "digest.json"
 
 TZ = ZoneInfo(os.environ.get("DIGEST_TZ") or "America/Argentina/Buenos_Aires")
 HOUR = int(os.environ.get("DIGEST_HOUR") or 7)
-SITE_URL = os.environ.get("SITE_URL", "")
 MODEL = "claude-opus-5-5"
 KEEP_DAYS = 14
 
@@ -155,92 +144,6 @@ def basic_digest(candidates):
             "trend_note": "", "action_idea": "", "ai": False}
 
 
-# ---------- envío ----------
-
-def telegram_text(d, date_label):
-    e = html.escape
-    lines = [f"<b>☀️ Radar IA &amp; Marketing — {e(date_label)}</b>", "", f"<i>{e(d['intro'])}</i>", ""]
-    for n, s in enumerate(d["stories"], 1):
-        tag = "🤖" if s["category"] == "ia" else "📣"
-        lines.append(f"{tag} <b>{n}. <a href=\"{e(s['link'])}\">{e(s['title'])}</a></b>")
-        if s["summary"]:
-            lines.append(e(s["summary"]))
-        if s["why"]:
-            lines.append(f"👉 <i>{e(s['why'])}</i>")
-        lines.append("")
-    if d.get("trend_note"):
-        lines += [f"📈 <b>Tendencia:</b> {e(d['trend_note'])}", ""]
-    if d.get("action_idea"):
-        lines += [f"💡 <b>Para probar hoy:</b> {e(d['action_idea'])}", ""]
-    if SITE_URL:
-        lines.append(f"<a href=\"{e(SITE_URL)}\">Ver todas las noticias →</a>")
-    return "\n".join(lines)
-
-
-def send_telegram(text):
-    token, chat = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
-    if not token or not chat:
-        print("Telegram: sin configurar, se omite.")
-        return
-    # Telegram admite hasta 4096 caracteres por mensaje: se corta por párrafos.
-    chunks, cur = [], ""
-    for para in text.split("\n\n"):
-        if len(cur) + len(para) + 2 > 3900:
-            chunks.append(cur)
-            cur = ""
-        cur += para + "\n\n"
-    chunks.append(cur)
-    for chunk in chunks:
-        body = urllib.parse.urlencode({"chat_id": chat, "text": chunk.strip(), "parse_mode": "HTML",
-                                       "disable_web_page_preview": "true"}).encode()
-        with urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", body, timeout=30) as r:
-            r.read()
-    print(f"Telegram: enviado ({len(chunks)} mensaje/s).")
-
-
-def email_html(d, date_label):
-    e = html.escape
-    rows = []
-    for n, s in enumerate(d["stories"], 1):
-        color = "#5b4cf0" if s["category"] == "ia" else "#e0582b"
-        label = "IA" if s["category"] == "ia" else "MARKETING"
-        why = (f'<p style="margin:6px 0 0;padding:8px 12px;background:#f6f5f1;border-radius:8px;color:#333">'
-               f'<b>Por qué importa:</b> {e(s["why"])}</p>') if s["why"] else ""
-        rows.append(f"""<tr><td style="padding:18px 0;border-bottom:1px solid #eee">
-<div style="font:700 11px Arial;color:{color};letter-spacing:.05em">{label} · {e(s['source'])}</div>
-<a href="{e(s['link'])}" style="font:700 18px Georgia,serif;color:#17171a;text-decoration:none">{n}. {e(s['title'])}</a>
-<p style="margin:6px 0 0;color:#555;font:15px/1.5 Arial">{e(s['summary'])}</p>{why}</td></tr>""")
-    extra = ""
-    if d.get("trend_note"):
-        extra += f'<p style="font:15px/1.5 Arial"><b>📈 Tendencia:</b> {e(d["trend_note"])}</p>'
-    if d.get("action_idea"):
-        extra += f'<p style="font:15px/1.5 Arial"><b>💡 Para probar hoy:</b> {e(d["action_idea"])}</p>'
-    link = f'<p><a href="{e(SITE_URL)}" style="color:#5b4cf0">Ver todas las noticias →</a></p>' if SITE_URL else ""
-    return f"""<div style="max-width:640px;margin:auto;padding:24px;font-family:Arial;color:#17171a">
-<h1 style="font:700 28px Georgia,serif;margin:0">Radar IA &amp; Marketing</h1>
-<p style="color:#888;margin:4px 0 16px">{e(date_label)}</p>
-<p style="font:italic 16px Georgia,serif">{e(d['intro'])}</p>
-<table width="100%" cellspacing="0" cellpadding="0">{''.join(rows)}</table>{extra}{link}</div>"""
-
-
-def send_email(d, date_label):
-    user, pwd, to = os.environ.get("SMTP_USER"), os.environ.get("SMTP_PASSWORD"), os.environ.get("EMAIL_TO")
-    if not user or not pwd or not to:
-        print("Email: sin configurar, se omite.")
-        return
-    msg = MIMEMultipart("alternative")
-    msg["Subject"] = f"☀️ Radar IA & Marketing — {date_label}"
-    msg["From"] = user
-    msg["To"] = to
-    msg.attach(MIMEText(email_html(d, date_label), "html", "utf-8"))
-    host = os.environ.get("SMTP_HOST") or "smtp.gmail.com"
-    port = int(os.environ.get("SMTP_PORT") or 465)
-    with smtplib.SMTP_SSL(host, port, context=ssl.create_default_context(), timeout=30) as s:
-        s.login(user, pwd)
-        s.sendmail(user, [a.strip() for a in to.split(",")], msg.as_string())
-    print("Email: enviado.")
-
-
 def main():
     now_local = datetime.now(TZ)
     today = now_local.date().isoformat()
@@ -265,7 +168,7 @@ def main():
     if os.environ.get("ANTHROPIC_API_KEY"):
         try:
             digest = ai_digest(candidates, news.get("trends", []))
-        except Exception as exc:  # noqa: BLE001 - si falla la IA, se manda igual el básico
+        except Exception as exc:  # noqa: BLE001 - si falla la IA, se usa el básico
             print(f"Resumen con IA falló, se usa el básico: {exc}", file=sys.stderr)
     if digest is None:
         digest = basic_digest(candidates)
@@ -281,12 +184,6 @@ def main():
     DIGEST_FILE.write_text(json.dumps({"latest": digest, "archive": archive[:KEEP_DAYS]},
                                       ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"Resumen guardado ({len(digest['stories'])} noticias, IA={digest['ai']}).")
-
-    for sender in (lambda: send_telegram(telegram_text(digest, label)), lambda: send_email(digest, label)):
-        try:
-            sender()
-        except Exception as exc:  # noqa: BLE001 - un canal caído no frena al otro
-            print(f"Error al enviar: {exc}", file=sys.stderr)
     return 0
 
 
