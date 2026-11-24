@@ -271,6 +271,13 @@ cómo así ser son fue han hay puede pueden nuevo nueva nuevos nuevas años año
 launch launches launched launching announce announces announced unveils unveiled introduces introducing adds added rolls rolling
 out release releases released expands expanding update updates updated brings bring now available could might may want wants
 lanza lanzan lanzó anuncia anunció presenta presentó llega llegan permite permiten ahora quiere quieren
+que porque aunque mientras donde quien solo sólo bien mejor mejores gran grandes forma parte tras ver
+back still even much many every inside behind here there just more less big biggest next last latest
+ceo exec execs company companies brand brands people things thing time times look looks says say
+tech nothing something anything everything according million millions billion billions percent
+january february march april june july august september october november december
+enero febrero marzo abril mayo junio julio agosto septiembre octubre noviembre diciembre
+tiempo millones mil lleva llevar hacia cosas cosa todos todas siempre nunca mundo vez veces
 """.split())
 WORD_RE = re.compile(r"[a-záéíóúñü0-9][a-záéíóúñü0-9\-\.\+]*[a-záéíóúñü0-9+]|[a-z]", re.I)
 
