@@ -1,8 +1,10 @@
 {
- "updated": "2026-11-24T16:56:29.470529+00:00",
- "sources_ok": 32,
+ "updated": "2026-11-24T16:58:33.446386+00:00",
+ "sources_ok": 31,
  "sources_total": 32,
- "sources_failed": [],
+ "sources_failed": [
+  "Marketing4eCommerce"
+ ],
  "count": 431,
  "trends": [
   {
@@ -107,8 +109,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:56:29.470529+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:56:29.470529+00:00",
    "topics": []
   },
   {
@@ -162,8 +164,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-24T16:38:33.550319+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:38:33.550319+00:00",
    "topics": [
     "publicidad"
    ]
@@ -206,8 +208,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-24T16:38:33.550319+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:38:33.550319+00:00",
    "topics": [
     "ecommerce"
    ]
@@ -237,8 +239,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:12:40.051292+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:12:40.051292+00:00",
    "topics": []
   },
   {
@@ -251,8 +253,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:56:29.470529+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:56:29.470529+00:00",
    "topics": [
     "seo"
    ]
@@ -295,8 +297,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "redes"
    ]
@@ -365,8 +367,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-24T16:38:33.550319+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:38:33.550319+00:00",
    "topics": []
   },
   {
@@ -392,8 +394,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "ecommerce"
    ]
@@ -520,8 +522,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "seo"
    ]
@@ -564,8 +566,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo"
    ]
@@ -580,8 +582,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-24T16:38:33.550319+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:38:33.550319+00:00",
    "topics": [
     "publicidad"
    ]
@@ -624,8 +626,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo"
    ]
@@ -640,8 +642,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "seo"
    ]
@@ -669,8 +671,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes"
    ]
@@ -698,8 +700,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo",
     "ecommerce"
@@ -715,8 +717,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "publicidad",
     "ecommerce"
@@ -800,8 +802,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "seo"
    ]
@@ -816,8 +818,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "publicidad"
    ]
@@ -901,8 +903,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "publicidad"
    ]
@@ -976,8 +978,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo"
    ]
@@ -1018,8 +1020,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "seo"
    ]
@@ -1049,8 +1051,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "seo"
    ]
@@ -1078,8 +1080,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "seo"
    ]
@@ -1135,8 +1137,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "seo"
    ]
@@ -1164,8 +1166,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "seo",
     "publicidad"
@@ -1194,8 +1196,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "seo"
    ]
@@ -1236,8 +1238,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo"
    ]
@@ -1376,8 +1378,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -1416,8 +1418,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:38:33.550319+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:38:33.550319+00:00",
    "topics": [
     "publicidad"
    ]
@@ -1514,8 +1516,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "publicidad"
    ]
@@ -1598,8 +1600,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes",
     "publicidad"
@@ -1615,8 +1617,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -1673,8 +1675,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -1702,8 +1704,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -1716,8 +1718,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "publicidad",
     "ecommerce"
@@ -1733,8 +1735,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "publicidad",
     "ecommerce"
@@ -1782,8 +1784,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "publicidad",
     "ecommerce"
@@ -1814,8 +1816,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -1856,8 +1858,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -1870,8 +1872,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -1913,8 +1915,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes"
    ]
@@ -1929,8 +1931,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "redes",
     "publicidad"
@@ -1946,8 +1948,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "publicidad"
    ]
@@ -1962,8 +1964,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "publicidad"
    ]
@@ -1978,8 +1980,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "publicidad",
     "ecommerce"
@@ -1995,8 +1997,8 @@
    "category": "ia",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -2009,8 +2011,8 @@
    "category": "ia",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -2023,8 +2025,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "seo"
    ]
@@ -2052,8 +2054,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes",
     "seo"
@@ -2069,8 +2071,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes"
    ]
@@ -2124,8 +2126,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -2138,8 +2140,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -2152,8 +2154,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -2192,8 +2194,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes"
    ]
@@ -2224,8 +2226,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -2238,8 +2240,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes"
    ]
@@ -2254,8 +2256,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -2268,8 +2270,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes"
    ]
@@ -2284,8 +2286,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes",
     "publicidad"
@@ -2327,8 +2329,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -2354,8 +2356,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo"
    ]
@@ -2396,8 +2398,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "publicidad"
    ]
@@ -2412,8 +2414,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "seo"
    ]
@@ -2428,8 +2430,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo"
    ]
@@ -2470,8 +2472,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -2484,8 +2486,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes",
     "seo"
@@ -2529,8 +2531,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "seo"
    ]
@@ -2545,8 +2547,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -2559,8 +2561,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "ecommerce"
    ]
@@ -2603,8 +2605,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -2617,8 +2619,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "publicidad"
    ]
@@ -2633,8 +2635,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -2742,8 +2744,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "publicidad"
    ]
@@ -2819,8 +2821,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "publicidad"
    ]
@@ -2835,8 +2837,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "publicidad"
    ]
@@ -2864,8 +2866,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "seo"
    ]
@@ -2880,8 +2882,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -2894,8 +2896,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo",
     "publicidad",
@@ -2912,8 +2914,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "seo"
    ]
@@ -2941,8 +2943,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "publicidad"
    ]
@@ -3073,8 +3075,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo"
    ]
@@ -3145,8 +3147,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo"
    ]
@@ -3193,8 +3195,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "publicidad"
    ]
@@ -3267,8 +3269,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "publicidad"
    ]
@@ -3353,8 +3355,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -3611,8 +3613,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo"
    ]
@@ -3701,8 +3703,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -3715,8 +3717,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   },
   {
@@ -3789,8 +3791,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "publicidad"
    ]
@@ -3805,8 +3807,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "publicidad"
    ]
@@ -3816,12 +3818,13 @@
    "link": "https://digiday.com/marketing/gap-inc-is-betting-on-fashiontainment-to-fuel-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
    "date": "2026-11-23T05:01:00+00:00",
    "summary": "Gap Inc. has tapped boy band Just Your Type (JYT) for a multi-year partnership and launched “The Agency,” a scripted microseries made for Banana Republic.",
-   "image": "",
+   "image": "https://digiday.com/wp-content/uploads/sites/3/2025/08/phone-livestream-digiday2.jpg",
    "source": "Digiday",
    "category": "marketing",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T16:04:26.392260+00:00",
+   "og_tried": true,
    "topics": [
     "publicidad"
    ]
@@ -3848,12 +3851,13 @@
    "link": "https://digiday.com/media-buying/hybrid-won-the-in-housing-debate-at-least-among-the-largest-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
    "date": "2026-11-23T05:01:00+00:00",
    "summary": "The shift has been playing for the best part of a decade. COMvergence’s first Global Advertiser Survey shows had far its got. T",
-   "image": "",
+   "image": "https://digiday.com/wp-content/uploads/sites/3/2024/12/inhousing-digiday.jpg",
    "source": "Digiday",
    "category": "marketing",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T16:04:26.392260+00:00",
+   "og_tried": true,
    "topics": [
     "publicidad"
    ]
@@ -3863,12 +3867,13 @@
    "link": "https://digiday.com/media-buying/media-buying-briefing-the-midterm-elections-offer-a-window-into-media-buying-for-28/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
    "date": "2026-11-23T05:01:00+00:00",
    "summary": "With more than $12 billion spent this year, expectations are that number will only rise in 2028, with lots more spent as early as Q2 2027. Where will it be spent?",
-   "image": "",
+   "image": "https://digiday.com/wp-content/uploads/sites/3/2024/08/tv-spend-election-digiday.png",
    "source": "Digiday",
    "category": "marketing",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T16:04:26.392260+00:00",
+   "og_tried": true,
    "topics": [
     "publicidad"
    ]
@@ -3878,13 +3883,14 @@
    "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
    "date": "2026-11-23T01:25:53+00:00",
    "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-   "image": "",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
    "source": "TechCrunch IA",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "datasette-charts 0.1a0",
@@ -3910,6 +3916,7 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": [
     "redes"
    ]
@@ -3925,6 +3932,7 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": [
     "redes",
     "publicidad"
@@ -3941,6 +3949,7 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": [
     "redes"
    ]
@@ -3956,6 +3965,7 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": [
     "redes",
     "publicidad"
@@ -3972,6 +3982,7 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": [
     "redes"
    ]
@@ -3981,13 +3992,14 @@
    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
    "date": "2026-11-22T21:14:07+00:00",
    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-   "image": "",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
    "source": "TechCrunch IA",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Google Cooked With This New Model!",
@@ -4022,26 +4034,28 @@
    "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
    "date": "2026-11-22T18:08:43+00:00",
    "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
-   "image": "",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
    "source": "TechCrunch IA",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Barbie vuelve a homenajear a Mariah Carey con la nueva muñeca de colección",
    "link": "https://www.marketingdirecto.com/anunciantes-general/barbie-vuelve-homenajear-mariah-carey-nueva-muneca-coleccion",
    "date": "2026-11-22T15:00:00+00:00",
    "summary": "La segunda edición Barbie Signature de la cantante recrea el icónico estilismo de la portada de su álbum navideño con el mono de terciopelo rojo.",
-   "image": "",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/BARBIE-SIGNATURE-MARIAH-CAREY.jpg",
    "source": "MarketingDirecto",
    "category": "marketing",
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
@@ -4074,20 +4088,21 @@
    "link": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/10-tendencias-marcaran-futuro-marketing-2027",
    "date": "2026-11-22T11:00:00+00:00",
    "summary": "Del auge de la IA al regreso de lo local, estas son las 10 tendencias que transformarán el marketing en 2027.",
-   "image": "",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Tendencias-marketing-2027.webp",
    "source": "MarketingDirecto",
    "category": "marketing",
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Esta cómica campaña indaga en la intrahistoria de algunos de los gatos más famosos de internet",
    "link": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/comica-campana-indaga-intrahistoria-algunos-gatos-famosos-internet",
    "date": "2026-11-22T09:00:00+00:00",
    "summary": "La nueva campaña de Meow Mix imagina el origen de los algunos de los “memes” más populares protagonizados por gatos en internet.",
-   "image": "",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/meow-mix-behind-the-memeow.webp",
    "source": "MarketingDirecto",
    "category": "marketing",
    "lang": "es",
@@ -4095,32 +4110,35 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "publicidad"
-   ]
+   ],
+   "og_tried": true
   },
   {
    "title": "Los creativos y su peliaguda relación con la IA: ganan tiempo con esta tecnología, pero no más dinero",
    "link": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/creativos-peliaguda-relacion-ia-ganan-tiempo-tecnologia-no-dinero",
    "date": "2026-11-22T06:30:00+00:00",
    "summary": "Aun cuando la IA forma parte de las rutinas de la mayor parte de los creativos, lo cierto es que pocos profesionales se están lucrando verdaderamente con esta tecnología.",
-   "image": "",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/creativos-ia.webp",
    "source": "MarketingDirecto",
    "category": "marketing",
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Perplexity and Intelligence",
    "link": "https://openai.com/index/perplexity-and-intelligence",
    "date": "2026-11-22T00:00:00+00:00",
    "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": [
     "seo"
    ]
@@ -4136,6 +4154,7 @@
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -4143,13 +4162,14 @@
    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
    "date": "2026-11-21T21:37:10+00:00",
    "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-   "image": "",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800",
    "source": "TechCrunch IA",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "They built cyborg cockroaches with built-in AI...",
@@ -4171,26 +4191,28 @@
    "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
    "date": "2026-11-21T21:07:42+00:00",
    "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-   "image": "",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
    "source": "TechCrunch IA",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Here are the top AI agents that can live in your text messages",
    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
    "date": "2026-11-21T17:00:00+00:00",
    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-   "image": "",
+   "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
    "source": "TechCrunch IA",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on",
@@ -4210,13 +4232,14 @@
    "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
    "date": "2026-11-21T16:00:00+00:00",
    "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-   "image": "",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Inevitable-Key-Art_3x4-full-size.jpg?resize=899,1200",
    "source": "TechCrunch IA",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "The Outages Are Just Getting Started",
@@ -4236,12 +4259,13 @@
    "link": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
    "date": "2026-11-21T13:00:00+00:00",
    "summary": "This week's SEO Pulse covers WordPress's random redirect, branded data in Search Console API, Google's CDN guidance, and who controls access for bots and agents.",
-   "image": "",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/seo-pulse-november-19-featured-1600x840-1.jpg",
    "source": "Search Engine Journal",
    "category": "marketing",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": [
     "seo"
    ]
@@ -4307,12 +4331,13 @@
    "link": "https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/",
    "date": "2026-11-20T20:20:52+00:00",
    "summary": "Marc Benioff promoted Palmata by saying goodbye to SEO, while Salesforce’s own guide says SEO remains the foundation.",
-   "image": "",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/salesforce-benioff-2640839201.jpg",
    "source": "Search Engine Journal",
    "category": "marketing",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": [
     "seo"
    ]
@@ -4335,12 +4360,13 @@
    "link": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/",
    "date": "2026-11-20T20:00:34+00:00",
    "summary": "Scaled AI content, fake authors, and self-promotional listicles work until they don’t. Here’s why putting real human experts first keeps paying off in search.",
-   "image": "",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/real-people-trust-seo-ai-search-1600x840-1.jpg",
    "source": "Search Engine Journal",
    "category": "marketing",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": [
     "seo"
    ]
@@ -4356,6 +4382,7 @@
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -4378,12 +4405,13 @@
    "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
    "date": "2026-11-20T18:15:15+00:00",
    "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to…",
-   "image": "",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600",
    "source": "MIT Technology Review",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -4397,14 +4425,15 @@
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Google’s ‘Top 10’ Line For CMOs Points At Generic Tips Posts via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/",
    "date": "2026-11-20T16:17:43+00:00",
    "summary": "Google's marketing account told CMOs to replace generic tips posts with content grounded in first-hand expertise.",
-   "image": "",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-listicle-guidance-featured.jpg",
    "source": "Search Engine Journal",
    "category": "marketing",
    "lang": "en",
@@ -4413,14 +4442,15 @@
    "topics": [
     "seo",
     "publicidad"
-   ]
+   ],
+   "og_tried": true
   },
   {
    "title": "A Charity Rescue Dog Outscored Amazon’s Christmas Ad – PPC Accounts Need A Story Before Cyber Week via @sejournal, @gregjarboe",
    "link": "https://www.searchenginejournal.com/a-charity-rescue-dog-outscored-amazons-christmas-ad-ppc-accounts-need-a-story-before-cyber-week/597789/",
    "date": "2026-11-20T15:00:09+00:00",
    "summary": "Give holiday Google Ads a stronger story, using DAIVID's ranking of 75 Christmas ads where Dogs Trust outscored Amazon.",
-   "image": "",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ppc-ad-cyber-212.png",
    "source": "Search Engine Journal",
    "category": "marketing",
    "lang": "en",
@@ -4430,7 +4460,8 @@
     "seo",
     "publicidad",
     "ecommerce"
-   ]
+   ],
+   "og_tried": true
   },
   {
    "title": "Campaign Trail: Tiffany tells human holiday story with Hollywood talent",
@@ -4452,7 +4483,7 @@
    "link": "https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/",
    "date": "2026-11-20T13:00:00+00:00",
    "summary": "Most AI citations that disappear later come back. Here are four things to check about a lost citation before you decide to change a page.",
-   "image": "",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-citations-missing-puzzle-piece.jpg",
    "source": "Search Engine Journal",
    "category": "marketing",
    "lang": "en",
@@ -4460,7 +4491,8 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo"
-   ]
+   ],
+   "og_tried": true
   },
   {
    "title": "Verizon renews LaLiga sponsorship amid World Cup years",
@@ -4496,12 +4528,13 @@
    "link": "https://openai.com/index/combatting-adversarial-distillation",
    "date": "2026-11-20T10:00:00+00:00",
    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/5SUtPGdssrttC7LfP1yoJ1/b6b000846ab3576c1735c29534ab20b0/combatting-adversarial-distillation-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -4535,12 +4568,13 @@
    "link": "https://digiday.com/marketing/future-of-marketing-briefing-consulting-firms-revive-their-marketing-ambitions-in-the-c-suite-the-holdcos-covet/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
    "date": "2026-11-20T05:01:00+00:00",
    "summary": "Consulting giants Deloitte Digital and Accenture Song have started selling marketing in the C-suite with a fresh push.",
-   "image": "",
+   "image": "https://digiday.com/wp-content/uploads/sites/3/2025/04/roladex-contacts-digiday.jpg",
    "source": "Digiday",
    "category": "marketing",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T16:04:26.392260+00:00",
+   "og_tried": true,
    "topics": [
     "publicidad"
    ]
@@ -4550,12 +4584,13 @@
    "link": "https://digiday.com/marketing/anthropic-says-no-to-ads-but-wall-street-may-have-other-ideas/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
    "date": "2026-11-20T05:01:00+00:00",
    "summary": "With shareholders, an $895 billion compute bill and a costly free tier, Anthropic’s no-ads pledge may have a shelf life.",
-   "image": "",
+   "image": "https://digiday.com/wp-content/uploads/sites/3/2026/11/IPO-digiday.jpg",
    "source": "Digiday",
    "category": "marketing",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T16:04:26.392260+00:00",
+   "og_tried": true,
    "topics": [
     "publicidad"
    ]
@@ -4565,12 +4600,13 @@
    "link": "https://digiday.com/marketing/why-more-brands-are-paying-creators-to-make-their-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
    "date": "2026-11-20T05:01:00+00:00",
    "summary": "Creator-led production is the fastest-growing segment of the influencer economy. We explain what’s driving investment in this practice.",
-   "image": "",
+   "image": "https://digiday.com/wp-content/uploads/sites/3/2026/02/controversial-brand-digiday.jpg",
    "source": "Digiday",
    "category": "marketing",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T16:04:26.392260+00:00",
+   "og_tried": true,
    "topics": [
     "redes",
     "publicidad"
@@ -4602,19 +4638,21 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes"
-   ]
+   ],
+   "og_tried": true
   },
   {
    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
    "link": "https://openai.com/business/customer-stories/hebbia",
    "date": "2026-11-20T00:00:00+00:00",
    "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/70gWqYyqb096it9EoD7OqI/5df8cad1c7fdf2a4e942c3183a10f405/hebbia-smoked-depth-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -4622,12 +4660,13 @@
    "link": "https://openai.com/index/introducing-medchembench",
    "date": "2026-11-20T00:00:00+00:00",
    "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -4635,12 +4674,13 @@
    "link": "https://www.anthropic.com/news/ipo-close",
    "date": "2026-11-20T00:00:00+00:00",
    "summary": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional…",
-   "image": "",
+   "image": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
    "source": "Anthropic",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T16:04:26.392260+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -4669,7 +4709,8 @@
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
@@ -4689,7 +4730,7 @@
    "link": "https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/",
    "date": "2026-11-19T20:00:05+00:00",
    "summary": "Compare 21 Google alternatives for everyday search, private search, AI answers, specialist research, and regional results.",
-   "image": "",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/01/search-engine-383.jpg",
    "source": "Search Engine Journal",
    "category": "marketing",
    "lang": "en",
@@ -4697,7 +4738,8 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo"
-   ]
+   ],
+   "og_tried": true
   },
   {
    "title": "Coca-Cola pivots from divisive AI-generated ads for holiday campaign",
@@ -4735,7 +4777,7 @@
    "link": "https://www.searchenginejournal.com/googles-next-update-wont-touch-the-index-and-nobody-will-announce-it/597481/",
    "date": "2026-11-19T18:00:31+00:00",
    "summary": "Stop matching traffic drops to update dates. Sample what AI assistants say about your company on a schedule and track which facts drift.",
-   "image": "",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/duane-forrester-decodes-google-update-543.png",
    "source": "Search Engine Journal",
    "category": "marketing",
    "lang": "en",
@@ -4743,7 +4785,8 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo"
-   ]
+   ],
+   "og_tried": true
   },
   {
    "title": "Introducing Tool Retrieval in the Gemini API",
@@ -4910,6 +4953,7 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": [
     "redes"
    ]
@@ -4949,12 +4993,13 @@
    "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
    "date": "2026-11-19T08:00:00+00:00",
    "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/1GmNPxrS3qwhYU0t43dsaa/0df53811b9acf8f9699ace630362f112/performance-factory-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -4977,12 +5022,13 @@
    "link": "https://openai.com/business/learn/pr-scans-demo",
    "date": "2026-11-19T00:00:00+00:00",
    "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/6pUIP8aRHn6eGeRGBWd0B0/c447f22952fcb14b3c43104989c1e739/pr-scans-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -4990,12 +5036,13 @@
    "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
    "date": "2026-11-19T00:00:00+00:00",
    "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/3oycdkFjJTGZs3kPmqJXJx/e793dee688314652562a63782e000e77/daybreak-blue-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -5003,12 +5050,13 @@
    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
    "date": "2026-11-19T00:00:00+00:00",
    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/5v8vfxgtSsA7NgJTT3kzqU/5c217881e8568e2b342dc59a8e69d7e1/codex-security-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -5016,12 +5064,13 @@
    "link": "https://openai.com/business/learn/deploying-daybreak-red",
    "date": "2026-11-19T00:00:00+00:00",
    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/3oYqbsFOI2UIoDU3S2uqWu/0611437db2ca3c09777cb5ef36c2a812/deploying-daybreak-red-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -5042,13 +5091,14 @@
    "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
    "date": "2026-11-18T21:35:43+00:00",
    "summary": "",
-   "image": "",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
    "source": "Google DeepMind",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
@@ -5098,13 +5148,14 @@
    "link": "https://deepmind.google/blog/genie-4-is-now-available/",
    "date": "2026-11-18T18:13:42+00:00",
    "summary": "",
-   "image": "",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png",
    "source": "Google DeepMind",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Will Wright's next simulation will use AI to mine content from your memories",
@@ -5189,7 +5240,8 @@
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "The PSF end-of-year fundraiser",
@@ -5202,19 +5254,21 @@
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "The AI Hype Index: AI is everywhere",
    "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
    "date": "2026-11-18T14:42:44+00:00",
    "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean…",
-   "image": "",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/11-Hype-thumb2.jpg?resize=1200,600",
    "source": "MIT Technology Review",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": [
     "seo"
    ]
@@ -5292,12 +5346,13 @@
    "link": "https://openai.com/index/the-silent-consensus",
    "date": "2026-11-18T10:00:00+00:00",
    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/3hoPgi2r6EgMRVWO3fPVDh/47ed0d21fdd9f0aca529917ba3ece558/the-silent-consensus-seo-soft-focus-v3.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -5305,12 +5360,13 @@
    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
    "date": "2026-11-18T08:00:00+00:00",
    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/2YS8yWiGpKflhlEnAkcLU/f51ead4391706f6c3198f0d61a0f147a/research-acceleration-the-jagged-frontier-social.png",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -5318,12 +5374,13 @@
    "link": "https://openai.com/business/customer-stories/sumitomo-life",
    "date": "2026-11-18T08:00:00+00:00",
    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/4hobAtsV8r9aiWOWQkUYu6/aec1eae52f5c7241756a43c764ef43f5/sumitomo-life-seo-white-canvas-final.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -5331,26 +5388,28 @@
    "link": "https://openai.com/index/inside-the-codex-sandbox",
    "date": "2026-11-18T08:00:00+00:00",
    "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/1PnylD7lJwgUw7jYNP8wLh/7fa5553001136f3982e8d4db44146de3/inside-the-codex-sandbox-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Managing frontier AI risk: From training to deployment",
    "link": "https://openai.com/index/managing-frontier-ai-risk",
    "date": "2026-11-18T06:00:00+00:00",
    "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/62zvkDv3unaiLBblzJHY4f/d61ad5ec9ebc02f033d0efac3807be3e/managing-frontier-ai-risk-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
@@ -5370,38 +5429,41 @@
    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
    "date": "2026-11-18T00:00:00+00:00",
    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/6oojxLpPBP1EqJiCFQof6r/868dca9f2befad4a1cfa21aeaa7d1cdb/le-groupe-figaro-and-openai-announce-partnership-seo.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Advancing chip design with OpenAI models",
    "link": "https://openai.com/index/advancing-chip-design-with-our-models",
    "date": "2026-11-18T00:00:00+00:00",
    "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/658zg0FHAg7zuL73DTFCfC/fff21fd18c260ce64a10a14ee8d4e851/advancing-chip-design-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Anthropic prices initial public offering",
    "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
    "date": "2026-11-18T00:00:00+00:00",
    "summary": "Anthropic prices initial public offering",
-   "image": "",
+   "image": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
    "source": "Anthropic",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T16:04:26.392260+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -5505,13 +5567,14 @@
    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
    "date": "2026-11-17T17:45:00+00:00",
    "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-   "image": "",
+   "image": "https://cdn.openai.com/mdx-assets/e193aefe-5e58-431c-8cd2-adadac0c1496/44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Put Gemini to work for you",
@@ -5671,6 +5734,7 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": [
     "redes"
    ]
@@ -5680,13 +5744,14 @@
    "link": "https://openai.com/index/introducing-chatgpt-for-sales",
    "date": "2026-11-17T08:00:00+00:00",
    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/5RAGjSlTriroeiI3udypQ4/ae6ec1acddc323df91930bd63f30ddd4/introducing-chatgpt-for-sales-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Quoting Go Proverbs",
@@ -5699,7 +5764,8 @@
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "An Update on the Content We Recommend on Instagram in India",
@@ -5721,7 +5787,7 @@
    "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
    "date": "2026-11-17T00:00:00+00:00",
    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/4AvTdfi4XgE0hchiQH8UhY/6c9c5278cafc000de19c0892beecbf8c/strengthening-nato-and-allied-cyber-defences-with-ai-seo.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
@@ -5729,33 +5795,36 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "publicidad"
-   ]
+   ],
+   "og_tried": true
   },
   {
    "title": "Astra for Law leads in legal intelligence",
    "link": "https://openai.com/index/astra-law-6-2",
    "date": "2026-11-17T00:00:00+00:00",
    "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/3MwSwa1GcJHdJGeOy7u0LZ/7ecfaba7da6555bc46c1e85f50c13bdb/astra-law-legal-intelligence-social-smooth.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Introducing OpenAI for Chile",
    "link": "https://openai.com/index/introducing-openai-for-chile",
    "date": "2026-11-17T00:00:00+00:00",
    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/1rTLbF8FhSFEoyiGB0lTYU/418dfbea2c146e27e301a9f85869eb12/introducing-openai-for-chile-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "llm 0.37.3",
@@ -5768,7 +5837,8 @@
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "This had never been done before!",
@@ -5790,12 +5860,13 @@
    "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
    "date": "2026-11-16T18:38:47+00:00",
    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable…",
-   "image": "",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26289708196110.jpg?resize=1200,600",
    "source": "MIT Technology Review",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": [
     "redes"
    ]
@@ -5805,26 +5876,28 @@
    "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
    "date": "2026-11-16T17:00:00+00:00",
    "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/793p1h1iUmksoWkDep5NRR/580e87d687cea7ef8e8288bef51c7bd4/academic-researchers-seo-card.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
    "link": "https://openai.com/index/strengthening-online-child-safety",
    "date": "2026-11-16T17:00:00+00:00",
    "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/48yJpyhKNBj3OvZAAEeLWN/5a888045c242da8cc8f8dc539f5f92fe/strengthening-online-child-safety-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Why Columbia Sportswear is giving away a doomsday bunker",
@@ -5927,12 +6000,13 @@
    "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
    "date": "2026-11-16T13:00:00+00:00",
    "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows…",
-   "image": "",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTRInfosysSAP-social-card.png?resize=1200,600",
    "source": "MIT Technology Review",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -5940,13 +6014,14 @@
    "link": "https://openai.com/index/science-at-the-frontier",
    "date": "2026-11-16T12:00:00+00:00",
    "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/r0NQL0JSQTS1Kzvpq9Fqm/6b10f87bd44e394bb04737e1ca00b017/science-at-the-frontier-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Jensen Huang weighs a comeback at Nvidia",
@@ -5981,65 +6056,70 @@
    "link": "https://openai.com/business/customer-stories/revolut",
    "date": "2026-11-16T09:30:00+00:00",
    "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/41tqM423rl34f77g33NcJB/df1ae54cfce7ec525cea365c54358579/revolut-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
    "link": "https://openai.com/index/lvmh-media-division-partnership",
    "date": "2026-11-16T09:00:00+00:00",
    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/34LfcwNBjpeCtav2XM8FhI/462f77d234875c50af8cc3368e9c529c/lvmh-media-division-partnership-seo-v2.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Our first phase of embedded assessments",
    "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
    "date": "2026-11-16T08:00:00+00:00",
    "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/1KkjAzVSr4nz5D67tGCxVH/8a47206051b698db4cbdad829eff241b/embedded-assessments-neutral-023-social-revised.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "More ways to move care forward with ChatGPT for Healthcare",
    "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
    "date": "2026-11-16T06:00:00+00:00",
    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/5vgplp4RJGXJ0luyMzW884/de0639288804ff265a54a4222cbac569/more-ways-to-move-care-forward-with-chatgpt-for-healthcare-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Advancing computer-use agents for healthcare teams",
    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
    "date": "2026-11-16T06:00:00+00:00",
    "summary": "",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/JEPsGb10RBI3TRoCF2MGd/07abdbf116e0a370e7e20edddca5e96b/advancing-computer-use-for-healthcare-teams-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "3D Printing Entire Buildings is So Wild To Me",
@@ -6061,26 +6141,28 @@
    "link": "https://openai.com/index/the-kings-trust-and-openai",
    "date": "2026-11-16T00:00:00+00:00",
    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/56F7tT9829W28yYUsIwxk0/fa52b7a1f91fc5b65a70ac92be2150c9/the-king-s-trust-and-openai-launch-1m-partnership-seo.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "At Holiday Extras, dots get to work before anyone asks",
    "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
    "date": "2026-11-16T00:00:00+00:00",
    "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/2Vrrt2eTu8OfGbuliOLQ99/cddb51f7a917c176c63b4d2318a20f15/holiday-extras-dots-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "datasette-maplibre 0.1a0",
@@ -6106,7 +6188,8 @@
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "datasette 0.65.6",
@@ -6119,33 +6202,36 @@
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "A step toward defining the Standard Model on a lattice",
    "link": "https://openai.com/index/step-toward-defining-the-standard-model",
    "date": "2026-11-15T22:00:01+00:00",
    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/1RdsG8XilINGFZUscLvAnj/b3bfb7912b44166e8075581574a7b777/toward-defining-the-standard-model-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Our new blog for science",
    "link": "https://openai.com/index/our-new-blog-for-science",
    "date": "2026-11-15T22:00:00+00:00",
    "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-   "image": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/ZyKta7ePADbiaWqX3EARs/81a2a593e66096fb001987910330e24e/our-new-blog-for-science-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
@@ -6186,7 +6272,8 @@
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
+   "topics": [],
+   "og_tried": true
   },
   {
    "title": "datasette-agent 0.6a0",
