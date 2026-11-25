@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-25T20:26:39.736925+00:00",
+ "updated": "2026-11-25T21:30:10.080884+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 723,
+ "count": 729,
  "trends": [
   {
    "term": "black friday",
-   "count": 39,
-   "growth": 28.0
+   "count": 40,
+   "growth": 28.7
   },
   {
    "term": "jensen huang",
@@ -17,8 +17,8 @@
   },
   {
    "term": "google",
-   "count": 36,
-   "growth": 9.2
+   "count": 35,
+   "growth": 8.1
   },
   {
    "term": "nvidia",
@@ -27,8 +27,8 @@
   },
   {
    "term": "navidad",
-   "count": 25,
-   "growth": 26.0
+   "count": 26,
+   "growth": 27.0
   },
   {
    "term": "meta",
@@ -51,9 +51,19 @@
    "growth": 16.0
   },
   {
+   "term": "marcas",
+   "count": 12,
+   "growth": 13.0
+  },
+  {
    "term": "holiday",
    "count": 12,
    "growth": 4.1
+  },
+  {
+   "term": "gta vi",
+   "count": 9,
+   "growth": 10.0
   },
   {
    "term": "search",
@@ -64,16 +74,6 @@
    "term": "muse",
    "count": 11,
    "growth": 5.2
-  },
-  {
-   "term": "marcas",
-   "count": 11,
-   "growth": 12.0
-  },
-  {
-   "term": "gta vi",
-   "count": 8,
-   "growth": 9.0
   },
   {
    "term": "precio",
@@ -97,6 +97,77 @@
   }
  ],
  "items": [
+  {
+   "title": "Es oficial, Telcel anuncia bonificación de 300 y 500 MB adicionales a usuarios afectados por falla del 20 de noviembre, cómo y cuándo la recibirás",
+   "link": "https://www.merca20.com/es-oficial-telcel-anuncia-bonificacion-de-300-y-500-mb-adicionales-a-usuarios-afectados-por-falla-del-20-de-noviembre-como-y-cuando-la-recibiras/?utm_source=rss&utm_medium=rss&utm_campaign=es-oficial-telcel-anuncia-bonificacion-de-300-y-500-mb-adicionales-a-usuarios-afectados-por-falla-del-20-de-noviembre-como-y-cuando-la-recibiras",
+   "date": "2026-11-25T21:18:57+00:00",
+   "summary": "Telcel compensará con 300 y 500 MB adicionales a usuarios de prepago y pospago afectados por la falla del 20 de noviembre de 2026. Así los recibirás.",
+   "image": "https://files.merca20.com/uploads/2026/11/Es-oficial-Telcel-anuncia-300-y-500-MB-adicionales-a-usuarios-afectados-por-la-falla-del-20-de-noviembre-como-y-cuando-recibiras-la-bonificacion-.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T21:30:10.080884+00:00",
+   "topics": []
+  },
+  {
+   "title": "La IA se convierte en el nuevo asesor de compras y cambia la competencia entre marcas esta Navidad",
+   "link": "https://www.merca20.com/la-ia-se-convierte-en-el-nuevo-asesor-de-compras-y-cambia-la-competencia-entre-marcas-esta-navidad/?utm_source=rss&utm_medium=rss&utm_campaign=la-ia-se-convierte-en-el-nuevo-asesor-de-compras-y-cambia-la-competencia-entre-marcas-esta-navidad",
+   "date": "2026-11-25T21:11:34+00:00",
+   "summary": "La competencia ya no se limita a conseguir un clic, también consiste en convertirse en una recomendación relevante dentro de una conversación.",
+   "image": "https://files.merca20.com/uploads/2026/11/Compras-navidad-foto-de-bigstock-269590.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T21:30:10.080884+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Take-Two frena Leonida, un proyecto que pretendía llevar 'GTA VI' a Windows a partir de una versión filtrada de Xbox",
+   "link": "https://www.xataka.com/videojuegos/take-two-frena-leonida-proyecto-que-pretendia-llevar-gta-vi-a-windows-a-partir-version-filtrada-xbox",
+   "date": "2026-11-25T21:00:31+00:00",
+   "summary": "Para quienes juegan en PC, el lanzamiento de un nuevo 'Grand Theft Auto' tiene un significado algo distinto. Lo vimos con 'GTA V', que debutó en consolas en septiembre de 2013, pero no llegó a los ordenadores hasta abril de 2015. Con ' GTA VI ' volvemos a encontrarnos ante una…",
+   "image": "https://i.blogs.es/d19b02/gta-vi/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T21:30:10.080884+00:00",
+   "topics": []
+  },
+  {
+   "title": "Mopas triangulares, 21.000 Pa y una base que apenas necesita mantenimiento: Dyson rebaja su robot aspirador y fregona por el Black Friday",
+   "link": "https://www.xataka.com/seleccion/mopas-triangulares-21-000-pa-base-que-apenas-necesita-mantenimiento-dyson-rebaja-su-robot-aspirador-fregona-black-friday",
+   "date": "2026-11-25T20:46:19+00:00",
+   "summary": "Si buscase ahora mismo un dispositivo para ayudarme a limpiar, iría a por un robot aspirador. Este Black Friday estamos viendo muy buenas ofertas, incluso en modelos que cuentan con sistema de fregado avanzado y bases de autovaciado que hacen que el mantenimiento que necesiten…",
+   "image": "https://i.blogs.es/06c002/dyson-nurovi-portada/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T21:30:10.080884+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "¿Cómo monetizar una experiencia de compra en la que pagar deja de ser visible?",
+   "link": "https://www.merca20.com/como-monetizar-una-experiencia-de-compra-en-la-que-pagar-deja-de-ser-visible/?utm_source=rss&utm_medium=rss&utm_campaign=como-monetizar-una-experiencia-de-compra-en-la-que-pagar-deja-de-ser-visible",
+   "date": "2026-11-25T20:27:19+00:00",
+   "summary": "Las plataformas de pagos integrados, las soluciones de checkout y los sistemas de cobro automatizado permiten generar ingresos mediante comisiones por transacción, licencias o servicios tecnológicos.",
+   "image": "https://files.merca20.com/uploads/2026/11/Monetizar-foto-de-bigstock-174572341.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T21:30:10.080884+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
   {
    "title": "Brote de varicela en escuela de CDMX, cómo diferenciar los granitos de la varicela del acné y cuándo regresan los alumnos a clases",
    "link": "https://www.merca20.com/brote-de-varicela-en-escuela-de-cdmx-como-diferenciar-los-granitos-de-la-varicela-del-acne-y-cuando-regresan-los-alumnos-a-clases/?utm_source=rss&utm_medium=rss&utm_campaign=brote-de-varicela-en-escuela-de-cdmx-como-diferenciar-los-granitos-de-la-varicela-del-acne-y-cuando-regresan-los-alumnos-a-clases",
@@ -133,8 +204,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T20:26:39.736925+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T20:26:39.736925+00:00",
    "topics": []
   },
   {
@@ -147,8 +218,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T20:26:39.736925+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T20:26:39.736925+00:00",
    "topics": [
     "seo",
     "ecommerce"
@@ -177,8 +248,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T20:26:39.736925+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T20:26:39.736925+00:00",
    "topics": []
   },
   {
@@ -232,8 +303,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T20:26:39.736925+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T20:26:39.736925+00:00",
    "topics": [
     "publicidad"
    ]
@@ -516,6 +587,19 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-25T18:13:23.476607+00:00",
+   "topics": []
+  },
+  {
+   "title": "Ekco remata batería de cocina de 19 piezas con sartenes, ollas, wok y cuchillos color golden rose: cuesta 1,011 pesos",
+   "link": "https://www.merca20.com/ekco-remata-bateria-de-cocina-de-19-piezas-con-sartenes-ollas-wok-y-cuchillos-color-golden-rose-cuesta-1011-pesos/?utm_source=rss&utm_medium=rss&utm_campaign=ekco-remata-bateria-de-cocina-de-19-piezas-con-sartenes-ollas-wok-y-cuchillos-color-golden-rose-cuesta-1011-pesos",
+   "date": "2026-11-25T17:29:43+00:00",
+   "summary": "La batería de cocina Ekco Serum Golden Rose tiene un precio de referencia de 2,279 pesos, pero actualmente aparece rebajada a 1,011.46 pesos, con un descuento anunciado del 55%",
+   "image": "https://files.merca20.com/uploads/2026/11/BATERIA-DE-COCINA-GOLDEN-ROSE-EKCO-CORTESIA-MERCADO-LIBRE.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T21:30:10.080884+00:00",
    "topics": []
   },
   {
