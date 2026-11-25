@@ -1,9 +1,11 @@
 {
- "updated": "2026-11-25T22:29:50.065797+00:00",
- "sources_ok": 32,
+ "updated": "2026-11-25T23:26:27.525776+00:00",
+ "sources_ok": 31,
  "sources_total": 32,
- "sources_failed": [],
- "count": 735,
+ "sources_failed": [
+  "Marketing4eCommerce"
+ ],
+ "count": 741,
  "trends": [
   {
    "term": "black friday",
@@ -17,13 +19,13 @@
   },
   {
    "term": "google",
-   "count": 36,
-   "growth": 8.4
+   "count": 37,
+   "growth": 8.6
   },
   {
    "term": "nvidia",
-   "count": 32,
-   "growth": 14.4
+   "count": 33,
+   "growth": 14.9
   },
   {
    "term": "navidad",
@@ -32,8 +34,8 @@
   },
   {
    "term": "meta",
-   "count": 19,
-   "growth": 7.4
+   "count": 20,
+   "growth": 7.7
   },
   {
    "term": "amazon",
@@ -61,14 +63,19 @@
    "growth": 10.0
   },
   {
-   "term": "search",
-   "count": 11,
-   "growth": 5.2
+   "term": "holiday",
+   "count": 12,
+   "growth": 3.6
   },
   {
    "term": "thanksgiving",
    "count": 10,
    "growth": 11.0
+  },
+  {
+   "term": "search",
+   "count": 10,
+   "growth": 4.8
   },
   {
    "term": "precio",
@@ -86,17 +93,116 @@
    "growth": 11.0
   },
   {
-   "term": "está",
+   "term": "media",
    "count": 10,
-   "growth": 11.0
-  },
-  {
-   "term": "holiday",
-   "count": 11,
-   "growth": 3.4
+   "growth": 5.9
   }
  ],
  "items": [
+  {
+   "title": "WhatsApp rolls out stickers with audio on Android and iPhone, How to create your own, add sound, and where to find them",
+   "link": "https://www.merca20.com/whatsapp-rolls-out-stickers-with-audio-on-android-and-iphone-how-to-create-your-own-add-sound-and-where-to-find-them/?utm_source=rss&utm_medium=rss&utm_campaign=whatsapp-rolls-out-stickers-with-audio-on-android-and-iphone-how-to-create-your-own-add-sound-and-where-to-find-them",
+   "date": "2026-11-25T23:19:50+00:00",
+   "summary": "WhatsApp is rolling out stickers with audio on Android and iPhone. Find out how to create your own and where to get them.",
+   "image": "https://files.merca20.com/uploads/2026/11/WhatsApp-begins-rolling-out-stickers-with-audio-on-Android-and-iPhone-How-to-create-your-own-add-sound-and-where-to-find-them.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T23:26:27.525776+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "Disney+ integra la función de compra de boletos para ver el estreno de Avengers: Doomsday en el cine",
+   "link": "https://www.merca20.com/disney-integra-la-funcion-de-compra-de-boletos-para-ver-el-estreno-de-avengers-doomsday-en-el-cine/?utm_source=rss&utm_medium=rss&utm_campaign=disney-integra-la-funcion-de-compra-de-boletos-para-ver-el-estreno-de-avengers-doomsday-en-el-cine",
+   "date": "2026-11-25T23:00:32+00:00",
+   "summary": "Avengers: Doomsday tiene una iniciativa única porque por primera vez los boletos para verla en el cine se podrán comprar a través de Disney+.",
+   "image": "https://files.merca20.com/uploads/2026/04/bigstock-Moscow-Russia-March-240917248-scaled.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T23:26:27.525776+00:00",
+   "topics": []
+  },
+  {
+   "title": "WhatsApp comienza a estrenar stickers con audio en Android y iPhone, cómo crear los tuyos, añadirles sonido y dónde conseguirlos",
+   "link": "https://www.merca20.com/whatsapp-comienza-a-estrenar-stickers-con-audio-en-android-y-iphone-como-crear-los-tuyos-anadirles-sonido-y-donde-conseguirlos/?utm_source=rss&utm_medium=rss&utm_campaign=whatsapp-comienza-a-estrenar-stickers-con-audio-en-android-y-iphone-como-crear-los-tuyos-anadirles-sonido-y-donde-conseguirlos",
+   "date": "2026-11-25T22:58:42+00:00",
+   "summary": "WhatsApp comienza a estrenar stickers con audio en Android y iPhone. Descubre cómo crear los tuyos y dónde conseguirlos.",
+   "image": "https://files.merca20.com/uploads/2026/11/WhatsApp-comienza-a-estrenar-stickers-con-audio-en-Android-y-iPhone-como-crear-los-tuyos-anadirles-sonido-y-donde-conseguirlos-.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T23:26:27.525776+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "Por qué las empresas de marketing de afiliados quieren ser las próximas plataformas de redes sociales",
+   "link": "https://www.merca20.com/por-que-las-empresas-de-marketing-de-afiliados-quieren-ser-las-proximas-plataformas-de-redes-sociales/?utm_source=rss&utm_medium=rss&utm_campaign=por-que-las-empresas-de-marketing-de-afiliados-quieren-ser-las-proximas-plataformas-de-redes-sociales",
+   "date": "2026-11-25T22:44:33+00:00",
+   "summary": "Plataformas emergentes están utilizando algoritmos para recomendar productos, personalizar feeds y optimizar la experiencia de compra dentro de su propio ecosistema social.",
+   "image": "https://files.merca20.com/uploads/2025/08/Redes-sociales-foto-de-bigstock-7685630.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T23:26:27.525776+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+   "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+   "date": "2026-11-25T22:44:32+00:00",
+   "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T23:26:27.525776+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "ChatGPT Ads New Call-To-Actions, Business Agents Beyond US, More Audience Metrics & More",
+   "link": "https://www.seroundtable.com/chatgpt-ads-updates-42623.html",
+   "date": "2026-11-25T22:40:00+00:00",
+   "summary": "OpenAI just sent out a product update on ChatGPT Ads announcing that Business Agents expand outside the U.S., new learn more call-to-action added to single image ads, more audience metrics in Ads Manager and the Ads API, ability to hide product feed sale prices when a promotion…",
+   "image": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T23:26:27.525776+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo",
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Andy Taylor dies at 65: cause of death and net worth of the Duran Duran guitarist",
+   "link": "https://www.merca20.com/andy-taylor-dies-at-65-cause-of-death-and-net-worth-of-the-duran-duran-guitarist/?utm_source=rss&utm_medium=rss&utm_campaign=andy-taylor-dies-at-65-cause-of-death-and-net-worth-of-the-duran-duran-guitarist",
+   "date": "2026-11-25T22:25:50+00:00",
+   "summary": "Andy Taylor left Duran Duran in 1986 and pursued other musical projects. He reunited with the band's classic lineup in 2001",
+   "image": "https://files.merca20.com/uploads/2026/11/andy-taylor-duran-duran-image-by-gemini-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T23:26:27.525776+00:00",
+   "topics": []
+  },
   {
    "title": "Mientras Dunkin’ tiene sus donas de Santa Claus, Krispy Kreme lanzará su colección Disney con Mickey y Minnie a la cabeza",
    "link": "https://www.merca20.com/mientras-dunkin-tiene-sus-donas-de-santa-claus-krispy-kreme-lanzara-su-coleccion-disney-con-mickey-y-minnie-a-la-cabeza/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-dunkin-tiene-sus-donas-de-santa-claus-krispy-kreme-lanzara-su-coleccion-disney-con-mickey-y-minnie-a-la-cabeza",
@@ -3435,7 +3541,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
+   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -3534,10 +3640,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the U.K.",
+   "title": "Meta expands Muse to the UK",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -3783,7 +3889,7 @@
    "topics": []
   },
   {
-   "title": "What A Billboard Network Knows About Measuring Search Ads That PPC Teams Forgot via @sejournal, @gregjarboe",
+   "title": "A Billboard CEO Says AI Makes Ads Cheaper, Not Better – 3 Tests For Google Ads via @sejournal, @gregjarboe",
    "link": "https://www.searchenginejournal.com/what-a-billboard-network-knows-about-measuring-search-ads-that-ppc-teams-forgot/597854/",
    "date": "2026-11-24T20:00:04+00:00",
    "summary": "Billboard advertisers use holdout tests to measure lift. Borrow their playbook to see which Google Ads campaigns drive extra sales before you set budgets.",
@@ -3955,6 +4061,22 @@
    "type": "article",
    "og_tried": true,
    "first_seen": "2026-11-25T03:57:58.231900+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "Meta says social media is key driver for holiday discovery",
+   "link": "https://www.socialmediatoday.com/news/meta-says-social-media-is-key-driver-for-holiday-discovery/875523/",
+   "date": "2026-11-24T18:59:00+00:00",
+   "summary": "People who shop via social media are more likely to purchase across multiple categories and self-gift, according to the company.",
+   "image": "",
+   "source": "Social Media Today",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T23:26:27.525776+00:00",
+   "og_tried": true,
    "topics": [
     "redes"
    ]
@@ -10619,34 +10741,6 @@
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
-  },
-  {
-   "title": "datasette 1.0a43",
-   "link": "https://simonwillison.net/2026/Nov/15/datasette/",
-   "date": "2026-11-15T23:20:27+00:00",
-   "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone, which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this…",
-   "image": "",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "datasette 0.65.6",
-   "link": "https://simonwillison.net/2026/Nov/15/datasette-2/",
-   "date": "2026-11-15T23:18:17+00:00",
-   "summary": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /<route>.db by actors who were denied access…",
-   "image": "",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
   }
  ]
 }
