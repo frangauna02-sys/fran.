@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T02:36:45.718130+00:00",
+ "updated": "2026-11-25T03:57:58.231900+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 518,
+ "count": 523,
  "trends": [
   {
    "term": "jensen huang",
@@ -32,8 +32,8 @@
   },
   {
    "term": "meta",
-   "count": 13,
-   "growth": 4.5
+   "count": 15,
+   "growth": 5.1
   },
   {
    "term": "trump",
@@ -98,6 +98,19 @@
  ],
  "items": [
   {
+   "title": "Ted Lasso regresa para su temporada 5: Apple TV busca repetir la fórmula de fútbol, comedia y motivación",
+   "link": "https://www.merca20.com/ted-lasso-regresa-para-su-temporada-5-apple-tv-busca-repetir-la-formula-de-futbol-comedia-y-motivacion/?utm_source=rss&utm_medium=rss&utm_campaign=ted-lasso-regresa-para-su-temporada-5-apple-tv-busca-repetir-la-formula-de-futbol-comedia-y-motivacion",
+   "date": "2026-11-25T03:00:12+00:00",
+   "summary": "Apple TV confirmó que Ted Lasso tendrá una temporada 5 para continuar con las aventuras del equipo de fútbol Richmond FC.",
+   "image": "https://files.merca20.com/uploads/2026/10/bigstock-220456099.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T03:57:58.231900+00:00",
+   "topics": []
+  },
+  {
    "title": "El Super Bowl se verá en IMAX por primera vez: Disney y la NFL firman un convenio para llevar el partido a las salas de cine",
    "link": "https://www.merca20.com/el-super-bowl-se-vera-en-imax-por-primera-vez-disney-y-la-nfl-firman-un-convenio-para-llevar-el-partido-a-las-salas-de-cine/?utm_source=rss&utm_medium=rss&utm_campaign=el-super-bowl-se-vera-en-imax-por-primera-vez-disney-y-la-nfl-firman-un-convenio-para-llevar-el-partido-a-las-salas-de-cine",
    "date": "2026-11-25T02:33:59+00:00",
@@ -141,7 +154,7 @@
    ]
   },
   {
-   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
    "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
    "date": "2026-11-25T00:12:02+00:00",
    "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the…",
@@ -335,6 +348,21 @@
    ]
   },
   {
+   "title": "Emplifi shares notes on social media marketing trends",
+   "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
+   "date": "2026-11-24T22:15:49+00:00",
+   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
+   "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
+   "source": "Social Media Today",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T03:57:58.231900+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
    "title": "Cómo sobrevivir a la pérdida de una de tus cuentas más importantes",
    "link": "https://www.merca20.com/como-sobrevivir-a-la-perdida-de-una-de-tus-cuentas-mas-importantes/?utm_source=rss&utm_medium=rss&utm_campaign=como-sobrevivir-a-la-perdida-de-una-de-tus-cuentas-mas-importantes",
    "date": "2026-11-24T22:14:57+00:00",
@@ -360,6 +388,22 @@
    "first_seen": "2026-11-24T22:53:45.317906+00:00",
    "topics": [
     "ecommerce"
+   ]
+  },
+  {
+   "title": "Australian government moves ahead with algorithm opt-out legislation",
+   "link": "https://www.socialmediatoday.com/news/australian-government-moves-ahead-with-algorithm-opt-out-legislation/875698/",
+   "date": "2026-11-24T22:09:16+00:00",
+   "summary": "The proposed bill has passed another Senate hurdle, according to Australia’s ABC News.",
+   "image": "",
+   "source": "Social Media Today",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T03:57:58.231900+00:00",
+   "og_tried": true,
+   "topics": [
+    "redes"
    ]
   },
   {
@@ -417,6 +461,22 @@
    "og_tried": true,
    "first_seen": "2026-11-24T21:54:12.843015+00:00",
    "topics": []
+  },
+  {
+   "title": "Meta expands Muse to the U.K.",
+   "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
+   "date": "2026-11-24T21:47:38+00:00",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
+   "image": "",
+   "source": "Social Media Today",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T03:57:58.231900+00:00",
+   "og_tried": true,
+   "topics": [
+    "redes"
+   ]
   },
   {
    "title": "Google On How Links Are Selected & Shown In AI Overviews & AI Mode",
@@ -784,6 +844,22 @@
    "topics": []
   },
   {
+   "title": "YouTube enables custom Shorts thumbnails",
+   "link": "https://www.socialmediatoday.com/news/youtube-enables-custom-shorts-thumbnails/875687/",
+   "date": "2026-11-24T19:02:58+00:00",
+   "summary": "All users can now add custom thumbnails for their Shorts clips.",
+   "image": "",
+   "source": "Social Media Today",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T03:57:58.231900+00:00",
+   "og_tried": true,
+   "topics": [
+    "redes"
+   ]
+  },
+  {
    "title": "La ciencia llevaba años debatiendo si el cambio climático traería más o menos rayos. Una IA acaba de dar una respuesta inquietante",
    "link": "https://www.xataka.com/ecologia-y-naturaleza/ciencia-llevaba-anos-debatiendo-cambio-climatico-traeria-rayos-ia-acaba-dar-respuesta-inquietante",
    "date": "2026-11-24T19:00:58+00:00",
@@ -795,6 +871,22 @@
    "type": "article",
    "first_seen": "2026-11-24T19:58:51.548086+00:00",
    "topics": []
+  },
+  {
+   "title": "Meta says festive shoppers use social media for gift discovery",
+   "link": "https://www.socialmediatoday.com/news/meta-says-festive-shoppers-use-social-media-for-gift-discovery/875523/",
+   "date": "2026-11-24T18:59:00+00:00",
+   "summary": "The company said that people who shop via social media are more likely to shop across multiple categories and self-gift.",
+   "image": "",
+   "source": "Social Media Today",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T03:57:58.231900+00:00",
+   "og_tried": true,
+   "topics": [
+    "redes"
+   ]
   },
   {
    "title": "Gobierno de México alista 6,710 consultorios del Servicio Universal de Salud para enero de 2027 y ofrece vacantes para médicos y enfermeros",
@@ -3332,7 +3424,7 @@
    "title": "Meta launches iPad version of Edits",
    "link": "https://www.socialmediatoday.com/news/meta-launches-ipad-version-of-edits/875566/",
    "date": "2026-11-23T22:40:37+00:00",
-   "summary": "The larger screen layout will make it easier to manage video projects.",
+   "summary": "The larger screen layout is intended to make it easier for users to manage video projects.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -3501,7 +3593,7 @@
    "title": "TikTok highlights 2026 holiday trends",
    "link": "https://www.socialmediatoday.com/news/tiktok-highlights-2026-holiday-trends/875560/",
    "date": "2026-11-23T21:24:48+00:00",
-   "summary": "Popular hashtags including #diychristmas and #pinkchristmas speak to a shift away from last year’s “Ralph Lauren Christmas” and toward a more whimsical season.",
+   "summary": "Popular hashtags including #diychristmas and #pinkchristmas speak to a shift away from last year’s “Ralph Lauren Christmas” toward a more whimsical season.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -3531,7 +3623,7 @@
    "title": "Pinterest simplifies parental controls",
    "link": "https://www.socialmediatoday.com/news/pinterest-simplifies-parental-controls/875554/",
    "date": "2026-11-23T21:18:03+00:00",
-   "summary": "The platform has updated its parental control dashboard to offer a more streamlined way to manage devices and access options.",
+   "summary": "An updated parental control dashboard offers a more streamlined way to manage devices and access options.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -3547,7 +3639,7 @@
    "title": "Pinterest announces partnership with Microsoft Ads",
    "link": "https://www.socialmediatoday.com/news/pinterest-announces-partnership-with-microsoft-ads/875553/",
    "date": "2026-11-23T21:10:29+00:00",
-   "summary": "The new integration will see Pinterest ad placements extended across Microsoft’s partner platforms.",
+   "summary": "The integration will see Pinterest ad placements extended across Microsoft’s partner platforms.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -7541,19 +7633,6 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [],
    "og_tried": true
-  },
-  {
-   "title": "datasette-agent 0.6a0",
-   "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
-   "date": "2026-11-15T03:49:47+00:00",
-   "summary": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and…",
-   "image": "https://static.simonwillison.net/static/cors-allow/2026/datasette-agent-homepage.webp",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
   }
  ]
 }
