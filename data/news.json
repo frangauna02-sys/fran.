@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T14:41:53.339064+00:00",
+ "updated": "2026-11-25T16:00:33.575488+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 638,
+ "count": 663,
  "trends": [
   {
    "term": "jensen huang",
@@ -12,8 +12,8 @@
   },
   {
    "term": "black friday",
-   "count": 30,
-   "growth": 21.7
+   "count": 33,
+   "growth": 23.8
   },
   {
    "term": "google",
@@ -22,23 +22,33 @@
   },
   {
    "term": "nvidia",
-   "count": 30,
-   "growth": 13.6
+   "count": 31,
+   "growth": 14.0
   },
   {
    "term": "navidad",
-   "count": 18,
-   "growth": 19.0
+   "count": 21,
+   "growth": 22.0
   },
   {
    "term": "meta",
-   "count": 18,
-   "growth": 7.0
+   "count": 19,
+   "growth": 7.4
   },
   {
    "term": "amazon",
-   "count": 14,
-   "growth": 8.1
+   "count": 16,
+   "growth": 9.2
+  },
+  {
+   "term": "holiday",
+   "count": 12,
+   "growth": 4.1
+  },
+  {
+   "term": "search",
+   "count": 11,
+   "growth": 5.2
   },
   {
    "term": "méxico",
@@ -46,24 +56,19 @@
    "growth": 12.0
   },
   {
+   "term": "muse",
+   "count": 11,
+   "growth": 5.2
+  },
+  {
    "term": "marcas",
    "count": 11,
    "growth": 12.0
   },
   {
-   "term": "holiday",
-   "count": 11,
-   "growth": 3.8
-  },
-  {
-   "term": "search",
+   "term": "euros",
    "count": 10,
-   "growth": 4.8
-  },
-  {
-   "term": "muse",
-   "count": 10,
-   "growth": 4.8
+   "growth": 11.0
   },
   {
    "term": "trump",
@@ -71,9 +76,9 @@
    "growth": 7.0
   },
   {
-   "term": "euros",
+   "term": "media",
    "count": 9,
-   "growth": 10.0
+   "growth": 7.0
   },
   {
    "term": "está",
@@ -89,14 +94,298 @@
    "term": "thanksgiving",
    "count": 8,
    "growth": 9.0
-  },
-  {
-   "term": "menos",
-   "count": 8,
-   "growth": 9.0
   }
  ],
  "items": [
+  {
+   "title": "Tech ad spend continues to grow, but AI industry worries could usher in a slowdown: report",
+   "link": "https://www.marketingbrew.com/stories/tech-ad-spend-growth-ai-industry-slowdown?utm_source=&utm_medium=syndication&utm_campaign=feed",
+   "date": "2026-11-25T16:00:00+00:00",
+   "summary": "AI, software, and telco spend helped power double-digit increases from Q1 through Q3, according to the ad intelligence company Guideline.",
+   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80,trim=78;0;78;0/https://storage.morningbrew.com/image/2026-07-09/image-acbe26c19cb4fa027690bcf13504b3970bb9fc7e-1500x1000-jpg/MKB_AIAdSpendBubble_SM_20260708.jpg",
+   "source": "Marketing Brew",
+   "category": "marketing",
+   "lang": "en",
+   "type": "newsletter",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "topics": []
+  },
+  {
+   "title": "Archer Troy: “Apuntar siempre a lo más alto”",
+   "link": "https://www.merca20.com/archer-troy-apuntar-siempre-a-lo-mas-alto/?utm_source=rss&utm_medium=rss&utm_campaign=archer-troy-apuntar-siempre-a-lo-mas-alto",
+   "date": "2026-11-25T15:54:52+00:00",
+   "summary": "La agencia creativa independiente mexicana hizo un balance de sus resultados, de los nuevos clientes, del crecimiento de su plantilla y de la llegada de nuevos líderes.",
+   "image": "https://files.merca20.com/uploads/2026/11/Agencia-Archer-Troy.-Foto-Archer-Troy-e1795622054759.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Sistemas Mesh, repetidores WiFi 7 y routers: estas son las seis mejores ofertas del Black Friday de FRITZ!",
+   "link": "https://www.xataka.com/seleccion/sistemas-mesh-repetidores-wifi-7-routers-estas-seis-mejores-ofertas-black-friday-fritz",
+   "date": "2026-11-25T15:46:18+00:00",
+   "summary": "Aunque tengas contratada una conexión a Internet rápida, puede ocurrir que tengas problemas para aprovecharla en cada rincón de casa. Esta situación es común si, por ejemplo, tienes una vivienda de varias plantas o tienes el router en un extremo de la casa. Ahí, es complicado…",
+   "image": "https://i.blogs.es/056daf/article_cover-image_1350x900px_meshset4200-2_lifestyle/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Geico unites brand icons in holiday ad mixing human craft, nostalgia",
+   "link": "https://www.marketingdive.com/news/geico-unites-brand-icons-in-holiday-ad-mixing-human-craft-nostalgia/875728/",
+   "date": "2026-11-25T15:46:00+00:00",
+   "summary": "The insurance firm’s first holiday effort of this kind aligns with a larger trend of marketers prioritizing handcrafted creative amid AI fatigue.",
+   "image": "https://imgproxy.divecdn.com/3GvVQIVuccpHPW0uEx3hZhDaq5Mj1n7SEdlC-5cIiJA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Ib3dfMTVfUGVyY2VudF9TYXZlZF9DaHJpc3RtYXNfLV8zLnBuZw==.webp",
+   "source": "Marketing Dive",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "topics": []
+  },
+  {
+   "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+   "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+   "date": "2026-11-25T15:41:43+00:00",
+   "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power and a finished building matter more than a pitch…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Anita-Verma-Lallian-2.jpg?w=1024",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Mientras los mexicanos celebran la Navidad con Bolo Fest de Liverpool, en Estados Unidos se realiza el Macy’s Parade por Acción de Gracias",
+   "link": "https://www.merca20.com/mientras-mexicanos-celebran-navidad-bolo-fest-liverpool-macys-parade-estados-unidos/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-mexicanos-celebran-navidad-bolo-fest-liverpool-macys-parade-estados-unidos",
+   "date": "2026-11-25T15:33:40+00:00",
+   "summary": "Liverpool y Macy's convierten sus desfiles en estrategias de marketing navideño. Aunque Bolo Fest y Macy's Thanksgiving Day Parade tienen historias y dimensiones diferentes, ambos representan ejemplos de marketing experiencial desarrollado por tiendas departamentales.",
+   "image": "https://files.merca20.com/uploads/2026/11/liverpool-macys-newsroom-CORTESIA-4.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "2027 no dará un respiro al mercado de los móviles y los más baratos no levantarán cabeza",
+   "link": "https://www.xataka.com/moviles/2027-no-dara-respiro-al-mercado-moviles-baratos-no-levantaran-cabeza",
+   "date": "2026-11-25T15:30:27+00:00",
+   "summary": "2026 está siendo el peor año para el mercado de los móviles y el año que viene no parece que vaya a dar un respiro al sector. La causa no necesita presentación a estas alturas y responde al encarecimiento de la memoria debido a la enorme demanda de la IA. Eso ha hecho que los…",
+   "image": "https://i.blogs.es/2a2d49/original/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "topics": []
+  },
+  {
+   "title": "Los Epica Awards 2026 anuncian su shortlist, que cuenta con una campaña española",
+   "link": "https://www.marketingdirecto.com/marketing-general/eventos-y-formacion/epica-awards-2026-anuncian-shortlist",
+   "date": "2026-11-25T15:29:47+00:00",
+   "summary": "\"Literally, out of home\", de El Hombre del Paraguas, se cuela entre las finalistas del certamen, cuyo jurado está integrado exclusivamente por periodistas y editores de medios de comunicación.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/mupi-nocturno-1.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Huawei es declarada culpable de fraude y robo de secretos en EEUU, pero absuelta de operar como organización criminal",
+   "link": "https://www.xataka.com/empresas-y-economia/huawei-declarada-culpable-fraude-robo-secretos-eeuu-absuelta-operar-como-organizacion-criminal",
+   "date": "2026-11-25T15:16:55+00:00",
+   "summary": "Un jurado federal de Brooklyn ha condenado a Huawei y tres filiales por 10 de los 12 cargos penales que enfrentaban en Estados Unidos, entre ellos conspiración para robar secretos comerciales, fraude bancario y violación de sanciones contra Irán. Eso sí, la compañía ha sido…",
+   "image": "https://i.blogs.es/873033/huawei-tienda/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "topics": []
+  },
+  {
+   "title": "Cinco teles OLED ideales para ver cine y series a oscuras y que están rebajadas en el Black Friday 2026",
+   "link": "https://www.xataka.com/seleccion/cinco-teles-oled-ideales-para-ver-cine-series-a-oscuras-que-estan-rebajadas-black-friday-2026",
+   "date": "2026-11-25T15:16:20+00:00",
+   "summary": "Cuando apagas las luces del salón para ver una película o engancharte a una serie de noche, es cuando realmente se nota la diferencia entre un televisor convencional y un panel OLED. La ausencia de retroiluminación trasera permite apagar cada píxel de forma independiente,…",
+   "image": "https://i.blogs.es/c3d3f3/teles-oled-black-friday-2026/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "El Gobierno aprueba en Consejo de Ministros la prohibición de los váper de sabores. La razón es su repunte en adolescentes",
+   "link": "https://www.xataka.com/medicina-y-salud/gobierno-aprueba-consejo-ministros-prohibicion-vaper-sabores-razon-su-repunte-adolescentes",
+   "date": "2026-11-25T15:10:22+00:00",
+   "summary": "Este martes el Consejo de Ministros llegó cargado de cambios de gran relevancia en el ámbito social y también fiscal, pero a otros cambios legislativos no se les dio tanta publicidad. Uno de ellos es la modificación del Real Decreto 579/2017 para prohibir los sabores en los…",
+   "image": "https://i.blogs.es/926b35/vaperrr/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Profeco compara Netflix, Disney+ y Spotify: esto ofrecen por lo que pagas cada mes",
+   "link": "https://www.merca20.com/profeco-compara-netflix-disney-y-spotify-esto-ofrecen-por-lo-que-pagas-cada-mes/?utm_source=rss&utm_medium=rss&utm_campaign=profeco-compara-netflix-disney-y-spotify-esto-ofrecen-por-lo-que-pagas-cada-mes",
+   "date": "2026-11-25T15:09:33+00:00",
+   "summary": "El análisis de Profeco muestra que pagar una suscripción no solo implica revisar el precio mensual, sino también el número de dispositivos, el acceso sin conexión, los perfiles y las condiciones de cada plataforma",
+   "image": "https://files.merca20.com/uploads/2026/11/profeco-streaming-revision-chatgpt.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "topics": []
+  },
+  {
+   "title": "ChatGPT Ads Are Growing Fast – But Are Advertisers Seeing Results? via @sejournal, @brookeosmundson",
+   "link": "https://www.searchenginejournal.com/chatgpt-ads-are-growing-fast-but-are-advertisers-seeing-results/598052/",
+   "date": "2026-11-25T15:00:31+00:00",
+   "summary": "Early ChatGPT Ads tests show why following leads through to a sale or qualified opportunity can help you decide whether to keep spending.",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/peopleimages-featured-598052-1600x840-1.jpg",
+   "source": "Search Engine Journal",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo",
+    "publicidad"
+   ]
+  },
+  {
+   "title": "En 2027, Netflix hace desaparecer más de 80 series originales. Entre ellas, una magnífica trilogía fantástica de Guillermo del Toro",
+   "link": "https://www.xataka.com/cine-y-tv/2027-netflix-hace-desaparecer-80-series-originales-ellas-magnifica-trilogia-fantastica-guillermo-toro",
+   "date": "2026-11-25T15:00:25+00:00",
+   "summary": "Netflix tiene previsto retirar en 2027 decenas de series y películas que estrenó precedidas por su logo. La trilogía de series animadas de fantasía de Guillermo del Toro para Dreamworks, 'Bloodline', 'Alias Grace' o 'Vis a vis' ya tienen fecha de salida, y hay un motivo muy…",
+   "image": "https://i.blogs.es/23ced2/51985/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "topics": []
+  },
+  {
+   "title": "Daily Search Forum Recap: November 25, 2026",
+   "link": "https://www.seroundtable.com/recap-11-25-2026-42619.html",
+   "date": "2026-11-25T15:00:00+00:00",
+   "summary": "Here is a recap of what happened in the search forums today...",
+   "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo"
+   ]
+  },
+  {
+   "title": "Claves para diseñar una campaña de outreach potente y multiplicar tus reuniones B2B",
+   "link": "https://www.marketingdirecto.com/marketing-general/agencias/claves-disenar-campana-outreach-potente-multiplicar-reuniones-b2b",
+   "date": "2026-11-25T14:55:32+00:00",
+   "summary": "Descubre cómo sustituir los envíos masivos por inteligencia comercial para abrir puertas en nuevas cuentas, aumentar tu tasa de respuesta y llenar tu calendario de oportunidades reales",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/03/phpaDFLLf69c1107bb9f0d.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Qué documentos debes llevar al NUEVO Macromódulo de CDMX para tramitar la licencia de conducir permanente de 1,500 pesos",
+   "link": "https://www.merca20.com/que-documentos-debes-llevar-al-nuevo-macromodulo-de-cdmx-para-tramitar-la-licencia-de-conducir-permanente-de-1500-pesos/?utm_source=rss&utm_medium=rss&utm_campaign=que-documentos-debes-llevar-al-nuevo-macromodulo-de-cdmx-para-tramitar-la-licencia-de-conducir-permanente-de-1500-pesos",
+   "date": "2026-11-25T14:49:36+00:00",
+   "summary": "El gobierno de la Ciudad de México llamó a quienes todavía buscan obtener la licencia permanente a realizar el trámite antes del 31 de diciembre, fecha límite señalada por las autoridades",
+   "image": "https://files.merca20.com/uploads/2026/11/documentos-licencia-conducir-imagen-chatgpt.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "topics": []
+  },
+  {
+   "title": "Amazon está negociando con Meta abrirle la puerta a Muse: el verdadero problema es que una IA no se para a ver anuncios",
+   "link": "https://www.xataka.com/robotica-e-ia/amazon-esta-negociando-meta-abrirle-puerta-a-muse-verdadero-problema-que-ia-no-se-para-a-ver-anuncios",
+   "date": "2026-11-25T14:49:32+00:00",
+   "summary": "A finales de septiembre, quien pedía a Muse que comprase algo en Amazon se encontraba con un muro que el agente no podía traspasar. Según el gigante del ecommerce, un agente de IA no autorizado incumplía las condiciones de uso de su tienda, que estaba reservada solo para los…",
+   "image": "https://i.blogs.es/2febbf/muse/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "topics": [
+    "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "El consejero más influyente de Nvidia no forma parte de su consejo. Vive en la Casa Blanca",
+   "link": "https://www.xataka.com/empresas-y-economia/consejero-influyente-nvidia-no-forma-parte-su-consejo-vive-casa-blanca",
+   "date": "2026-11-25T14:48:19+00:00",
+   "summary": "Para Trump, indultar a Jensen Huang es una opción, según le ha dicho él mismo al New York Post. Pero ni siquiera cree que haga falta llegar ahí. Y lo ha dicho en el Despacho Oval, con la cotización de NVIDIA en la mesa. \"No está mal, ha bajado un par de puntos\", dijo mientras…",
+   "image": "https://i.blogs.es/077582/trump-nvidia/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "topics": []
+  },
+  {
+   "title": "El portátil para estudiar o trabajar que compraría este Black Friday: es de Asus y nunca había estado tan barato",
+   "link": "https://www.xataka.com/seleccion/portatil-para-estudiar-trabajar-que-compraria-este-black-friday-asus-nunca-habia-estado-barato",
+   "date": "2026-11-25T14:46:19+00:00",
+   "summary": "Aunque la subida de precios de la memoria en general no ayuda, todavía podemos encontrar portátiles interesantes para trabajar o estudiar sin gastar mucho. Si a eso le sumamos que estamos en Black Friday, lo cierto es que tenemos una buena ventana de compra si estábamos detrás…",
+   "image": "https://i.blogs.es/649ac2/asus-vivobook-15-portada/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
   {
    "title": "AI Visibility Isn’t the Finish Line. Here’s What Wins Buyers",
    "link": "https://www.marketingaiinstitute.com/blog/ai-that-wins-buyers-maicon-2026",
@@ -141,6 +430,22 @@
    ]
   },
   {
+   "title": "Google pone sobre aviso a los profesionales SEO: la siguiente core update llegará en diciembre",
+   "link": "https://marketing4ecommerce.net/google-anuncia-core-update-diciembre/",
+   "date": "2026-11-25T14:12:45+00:00",
+   "summary": "Esta se centrará en mejorar la clasificación del contenido relevante para preguntas más largas y complejas, y los resultados personalizados.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/google-anuncia-su-core-update-diciembre-2026-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": [
+    "seo",
+    "ecommerce"
+   ]
+  },
+  {
    "title": "Amazon is reportedly in talks to end Muse AI shopping block",
    "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
    "date": "2026-11-25T14:12:33+00:00",
@@ -165,8 +470,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T14:41:53.339064+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
    "topics": [
     "ecommerce"
    ]
@@ -224,6 +529,23 @@
    "topics": []
   },
   {
+   "title": "WPP Media echa el lazo a la cuenta de medios de Amazon MGM Studios, la matriz de James Bond",
+   "link": "https://www.marketingdirecto.com/marketing-general/agencias/wpp-media-echa-lazo-cuenta-medios-amazon-mgm-studios-matriz-james-bond",
+   "date": "2026-11-25T13:46:56+00:00",
+   "summary": "WPP tendrá previsiblemente un rol protagonista en la campaña promocional de la próxima película de James Bond, cuyos derechos detenta Amazon MGM Studios.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/wpp-media-amazon-mgm-studios.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
    "title": "El Xiaomi POCO más ambicioso de la historia no se pierde el Black Friday. Ya está de oferta y viene con un subwoofer firmado por Bose",
    "link": "https://www.xataka.com/seleccion/xiaomi-poco-ambicioso-historia-no-se-pierde-black-friday-esta-oferta-viene-subwoofer-firmado-bose",
    "date": "2026-11-25T13:46:25+00:00",
@@ -239,7 +561,7 @@
    ]
   },
   {
-   "title": "Sam’s Club tendrá horario especial este 25 de noviembre; consulta los horarios de sus tiendas",
+   "title": "Sam’s anuncia cambio de horario en todas sus tiendas y adelanta el cierre de clubes por celebración de Navidad este 25 de noviembre",
    "link": "https://www.merca20.com/sams-club-tendra-horario-especial-este-25-de-noviembre-consulta-los-horarios-de-sus-tiendas/?utm_source=rss&utm_medium=rss&utm_campaign=sams-club-tendra-horario-especial-este-25-de-noviembre-consulta-los-horarios-de-sus-tiendas",
    "date": "2026-11-25T13:41:05+00:00",
    "summary": "Sam’s Club tendrá horarios especiales este 25 de noviembre en sus clubes de México",
@@ -254,9 +576,9 @@
    ]
   },
   {
-   "title": "Jensen Huang se disculpa con los empleados y dice que está en terapia. Quien no tiene remedio es Nvidia",
+   "title": "Jensen Huang ha vuelto a Nvidia entre aplausos, disculpas y terapia: la sucesión de su CEO sigue siendo un asunto tabú",
    "link": "https://www.xataka.com/empresas-y-economia/jensen-huang-se-disculpa-empleados-dice-que-esta-terapia-quien-no-tiene-remedio-nvidia",
-   "date": "2026-11-25T13:40:21+00:00",
+   "date": "2026-11-25T13:40:00+00:00",
    "summary": "El de ayer no fue un martes cualquiera para Nvidia. Sus empleados esperaban nerviosos a Jensen Huang en las escaleras y balcones de la sede de Nvidia en Santa Clara. Al verlo llegar, la plantilla de Nvidia se deshizo en aplausos y, tal como recogía el Wall Street Journal,…",
    "image": "https://i.blogs.es/74d594/jensen/1024_2000.jpeg",
    "source": "Xataka",
@@ -265,6 +587,22 @@
    "type": "article",
    "first_seen": "2026-11-25T14:41:53.339064+00:00",
    "topics": []
+  },
+  {
+   "title": "David Bisbal cambia la «Bulería» por la «Gulería» en la Navidad de La Gula del Norte",
+   "link": "https://www.marketingdirecto.com/campanas-navidenas/david-bisbal-cambia-buleria-guleria-navidad-la-gula-del-norte",
+   "date": "2026-11-25T13:39:59+00:00",
+   "summary": "David Bisbal se enfrenta a una propuesta inesperada en la nueva campaña de La Gula del Norte, que convierte \"Bulería\" en \"Gulería\".",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/La-Gula.-Campana.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
   },
   {
    "title": "Por qué vale la pena tener acceso a un modelo de IA ‘sin censura’: yo me reservo uno para las tareas más delicadas",
@@ -458,8 +796,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T14:41:53.339064+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
    "topics": []
   },
   {
@@ -472,8 +810,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-25T14:41:53.339064+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
    "topics": [
     "publicidad"
    ]
@@ -533,8 +871,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-25T14:41:53.339064+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
    "topics": []
   },
   {
@@ -621,8 +959,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-25T14:41:53.339064+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
    "topics": [
     "redes"
    ]
@@ -715,23 +1053,6 @@
    "topics": []
   },
   {
-   "title": "No, Instagram no te escucha a través de tu móvil: su CEO desmiente esta leyenda urbana",
-   "link": "https://marketing4ecommerce.net/meta-no-te-escucha/",
-   "date": "2026-11-25T12:08:55+00:00",
-   "summary": "¿Tu móvil te espía? Adam Mosseri ha explicado la psicología tras las leyendas sobre los productos que mencionas y los anuncios que ves después[…]",
-   "image": "https://marketing4ecommerce.net/wp-content/uploads/2025/10/el-movil-te-escucha-1-1024x614.jpg",
-   "source": "Marketing4eCommerce",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-25T13:17:47.906371+00:00",
-   "topics": [
-    "redes",
-    "publicidad",
-    "ecommerce"
-   ]
-  },
-  {
    "title": "Hemos pasado 57 años buscando el 'santo grial' de las multiplicaciones de matices. Ahora una IA dice que la descubrimos en octubre y no lo sabíamos",
    "link": "https://www.xataka.com/investigacion/hemos-pasado-57-anos-buscando-santo-grial-multiplicaciones-matices-ahora-ia-dice-que-descubrimos-octubre-no-sabiamos",
    "date": "2026-11-25T12:07:05+00:00",
@@ -771,6 +1092,19 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "topics": []
+  },
+  {
+   "title": "Who is Jennifer Barreto, the winner of Miss Universe 2026? Biography, family, husband, and children",
+   "link": "https://www.merca20.com/who-is-jennifer-barreto-the-winner-of-miss-universe-2026-biography-family-husband-and-children/?utm_source=rss&utm_medium=rss&utm_campaign=who-is-jennifer-barreto-the-winner-of-miss-universe-2026-biography-family-husband-and-children",
+   "date": "2026-11-25T12:01:14+00:00",
+   "summary": "Meet Jennifer Barreto, Miss Universe 2026 and the first mother to win the crown. Discover her biography, age, husband, daughter, education and career",
+   "image": "https://files.merca20.com/uploads/2026/11/JENNIFER-BARRETO-CORTESIA-MISS-UNIVERSE-PRESS-ROOM-4.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
    "topics": []
   },
   {
@@ -925,22 +1259,6 @@
    "type": "article",
    "first_seen": "2026-11-25T11:57:12.233775+00:00",
    "topics": []
-  },
-  {
-   "title": "Google pone sobre aviso a los profesionales SEO: la siguiente core update llegará en diciembre",
-   "link": "https://marketing4ecommerce.net/google-anuncia-core-update-diciembre/",
-   "date": "2026-11-25T11:12:45+00:00",
-   "summary": "Esta se centrará en mejorar la clasificación del contenido relevante para preguntas más largas y complejas, y los resultados personalizados.[…]",
-   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/google-anuncia-su-core-update-diciembre-2026-1024x614.jpg",
-   "source": "Marketing4eCommerce",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-25T11:57:12.233775+00:00",
-   "topics": [
-    "seo",
-    "ecommerce"
-   ]
   },
   {
    "title": "McDonald’s conquista el Gran Effie Argentina 2026 con una hamburguesa que nació de un pedido de sus consumidores",
@@ -1334,6 +1652,37 @@
    ]
   },
   {
+   "title": "The Aflac Duck Finally Meets Its Match in Ben Affleck",
+   "link": "https://www.adweek.com/creativity/the-aflac-duck-finally-meets-its-match-in-ben-affleck/",
+   "date": "2026-11-25T10:00:00+00:00",
+   "summary": "Aflac teamed up with Artists Equity, Affleck and Matt Damon's production company, for a cinematic ad.",
+   "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/AflacBenAffleck.png?w=600&h=315&crop=1",
+   "source": "Adweek",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "El canal online, clave en el plan estratégico por el que El Corte Inglés prevé invertir 5.000 millones de euros en cinco años",
+   "link": "https://marketing4ecommerce.net/el-canal-online-clave-en-el-plan-estrategico-por-el-que-el-corte-ingles-preve-invertir-5-000-millones-de-euros-en-cinco-anos/",
+   "date": "2026-11-25T09:59:19+00:00",
+   "summary": "Experiencia de cliente, canal online y desarrollo de nuevos servicios, ejes del futuro plan estratégico de El Corte Inglés para 2027-2032.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/el-corte-ingles-plan-estrategico-1-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
    "title": "El «efecto GTA VI» desató una fiebre de búsquedas en Internet",
    "link": "https://www.marketingdirecto.com/digital-general/medicion-sin-filtros-gfk/efecto-gta-vi-internet-audiencias-digitales",
    "date": "2026-11-25T09:50:35+00:00",
@@ -1431,8 +1780,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T14:41:53.339064+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
    "topics": [
     "publicidad"
    ]
@@ -1522,6 +1871,23 @@
    "topics": [
     "redes",
     "publicidad"
+   ]
+  },
+  {
+   "title": "No, Instagram no te escucha a través de tu móvil: su CEO desmiente esta leyenda urbana",
+   "link": "https://marketing4ecommerce.net/meta-no-te-escucha/",
+   "date": "2026-11-25T08:08:55+00:00",
+   "summary": "¿Tu móvil te espía? Adam Mosseri ha explicado la psicología tras las leyendas sobre los productos que mencionas y los anuncios que ves después[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2025/10/el-movil-te-escucha-1-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T13:17:47.906371+00:00",
+   "topics": [
+    "redes",
+    "publicidad",
+    "ecommerce"
    ]
   },
   {
