@@ -1,9 +1,11 @@
 {
- "updated": "2026-11-25T03:57:58.231900+00:00",
- "sources_ok": 32,
+ "updated": "2026-11-25T05:08:59.914796+00:00",
+ "sources_ok": 31,
  "sources_total": 32,
- "sources_failed": [],
- "count": 523,
+ "sources_failed": [
+  "Merca2.0"
+ ],
+ "count": 526,
  "trends": [
   {
    "term": "jensen huang",
@@ -22,8 +24,8 @@
   },
   {
    "term": "black friday",
-   "count": 20,
-   "growth": 14.7
+   "count": 21,
+   "growth": 15.4
   },
   {
    "term": "navidad",
@@ -56,6 +58,11 @@
    "growth": 5.4
   },
   {
+   "term": "holiday",
+   "count": 10,
+   "growth": 3.5
+  },
+  {
    "term": "marcas",
    "count": 8,
    "growth": 9.0
@@ -64,11 +71,6 @@
    "term": "ai agents",
    "count": 6,
    "growth": 4.9
-  },
-  {
-   "term": "holiday",
-   "count": 9,
-   "growth": 3.2
   },
   {
    "term": "anthropic",
@@ -81,6 +83,11 @@
    "growth": 4.9
   },
   {
+   "term": "media",
+   "count": 6,
+   "growth": 4.9
+  },
+  {
    "term": "euros",
    "count": 6,
    "growth": 7.0
@@ -89,14 +96,76 @@
    "term": "digital",
    "count": 6,
    "growth": 7.0
-  },
-  {
-   "term": "core",
-   "count": 6,
-   "growth": 7.0
   }
  ],
  "items": [
+  {
+   "title": "Digiday+ Research: A-Frame Brands, Ritual and other brands prioritize new customer acquisition this holiday season",
+   "link": "https://digiday.com/marketing/digiday-research-a-frame-brands-ritual-and-other-brands-prioritize-new-customer-acquisition-this-holiday-season/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-25T05:01:00+00:00",
+   "summary": "As Black Friday Cyber Monday rapidly approaches, brands are most focused on acquiring new customers this holiday season.",
+   "image": "https://digiday.com/wp-content/uploads/sites/3/2026/04/checkout-funnel-digiday.jpg",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T05:08:59.914796+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "The clipping economy is changing as platforms crack down and creators seek control",
+   "link": "https://digiday.com/media/the-clipping-economy-is-changing-as-platforms-crack-down-and-creators-seek-control/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-25T05:01:00+00:00",
+   "summary": "The creator economy is shifting its stance on clipping as platforms crackdown; what does clipping look like in the future?",
+   "image": "https://digiday.com/wp-content/uploads/sites/3/2026/09/Screenshot-2026-09-21-at-2.15.14-PM.png",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T05:08:59.914796+00:00",
+   "og_tried": true,
+   "topics": [
+    "redes",
+    "publicidad"
+   ]
+  },
+  {
+   "title": "In Graphic Detail: How shoppers are adopting AI for product research ahead of Black Friday",
+   "link": "https://digiday.com/marketing/in-graphic-detail-how-shoppers-are-adopting-ai-for-product-research-ahead-of-black-friday/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-25T05:01:00+00:00",
+   "summary": "Product discovery habits are changing, leaving marketers unsure how to pivot ahead of the biggest sales period of the year.",
+   "image": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T05:08:59.914796+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Banking gets a helping hand in media modeling from SpendSight",
+   "link": "https://digiday.com/media-buying/banking-gets-a-helping-hand-in-media-modeling-from-spendsight/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-25T05:01:00+00:00",
+   "summary": "FutureSight's new tool can help banks of all sizes get a side-by-side idea of how their media mix stacks up against the competition.",
+   "image": "https://digiday.com/wp-content/uploads/sites/3/2025/10/floating-money-digiday.jpg",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T05:08:59.914796+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
   {
    "title": "Ted Lasso regresa para su temporada 5: Apple TV busca repetir la fórmula de fútbol, comedia y motivación",
    "link": "https://www.merca20.com/ted-lasso-regresa-para-su-temporada-5-apple-tv-busca-repetir-la-formula-de-futbol-comedia-y-motivacion/?utm_source=rss&utm_medium=rss&utm_campaign=ted-lasso-regresa-para-su-temporada-5-apple-tv-busca-repetir-la-formula-de-futbol-comedia-y-motivacion",
@@ -400,8 +469,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T03:57:58.231900+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T03:57:58.231900+00:00",
    "topics": [
     "redes"
    ]
@@ -472,8 +541,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T03:57:58.231900+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T03:57:58.231900+00:00",
    "topics": [
     "redes"
    ]
@@ -853,8 +922,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T03:57:58.231900+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T03:57:58.231900+00:00",
    "topics": [
     "redes"
    ]
@@ -882,8 +951,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T03:57:58.231900+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T03:57:58.231900+00:00",
    "topics": [
     "redes"
    ]
@@ -2242,7 +2311,7 @@
    ]
   },
   {
-   "title": "What Bing’s AI Actually Cites: 883,000 Citations Analyzed via @sejournal, @dodgejd",
+   "title": "Bing’s AI Cites Support Pages, PDFs & Staff Bios – 883,313 Citations Analyzed via @sejournal, @dodgejd",
    "link": "https://www.searchenginejournal.com/what-bings-ai-actually-cites-883000-citations-analyzed/595708/",
    "date": "2026-11-24T13:00:08+00:00",
    "summary": "An analysis of 883,000 Bing AI citations shows overlooked PDFs, app pages, and support content earn citations and deserve a place in content audits.",
@@ -7619,20 +7688,6 @@
    "topics": [
     "redes"
    ]
-  },
-  {
-   "title": "datasette-apps 0.4a0",
-   "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
-   "date": "2026-11-15T04:02:45+00:00",
-   "summary": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the…",
-   "image": "",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
   }
  ]
 }
