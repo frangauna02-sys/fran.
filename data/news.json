@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T01:02:16.792030+00:00",
+ "updated": "2026-11-25T02:36:45.718130+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 516,
+ "count": 518,
  "trends": [
   {
    "term": "jensen huang",
@@ -71,6 +71,11 @@
    "growth": 3.2
   },
   {
+   "term": "anthropic",
+   "count": 8,
+   "growth": 3.3
+  },
+  {
    "term": "return",
    "count": 6,
    "growth": 4.9
@@ -89,14 +94,37 @@
    "term": "core",
    "count": 6,
    "growth": 7.0
-  },
-  {
-   "term": "corte inglés",
-   "count": 4,
-   "growth": 5.0
   }
  ],
  "items": [
+  {
+   "title": "El Super Bowl se verá en IMAX por primera vez: Disney y la NFL firman un convenio para llevar el partido a las salas de cine",
+   "link": "https://www.merca20.com/el-super-bowl-se-vera-en-imax-por-primera-vez-disney-y-la-nfl-firman-un-convenio-para-llevar-el-partido-a-las-salas-de-cine/?utm_source=rss&utm_medium=rss&utm_campaign=el-super-bowl-se-vera-en-imax-por-primera-vez-disney-y-la-nfl-firman-un-convenio-para-llevar-el-partido-a-las-salas-de-cine",
+   "date": "2026-11-25T02:33:59+00:00",
+   "summary": "El Super Bowl 2027 será el primero de la historia que se transmitirá en salas IMAX, ¿llegará a las salas de cine de México?",
+   "image": "https://files.merca20.com/uploads/2026/09/bigstock-nfl-crocs.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T02:36:45.718130+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Anthropic lanza Claude Ship: ¿cómo cambiará la productividad de las empresas?",
+   "link": "https://www.merca20.com/anthropic-lanza-claude-ship-como-cambiara-la-productividad-de-las-empresas/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-lanza-claude-ship-como-cambiara-la-productividad-de-las-empresas",
+   "date": "2026-11-25T01:04:56+00:00",
+   "summary": "Con Claude Ship lo que Anthropic busca es demostrar que la IA puede ser de utilidad para aumentar la productividad de las empresas.",
+   "image": "https://files.merca20.com/uploads/2026/09/bigstock-Artificial-Intelligence-For-Cr-475590131.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T02:36:45.718130+00:00",
+   "topics": []
+  },
   {
    "title": "Meta lleva Edits al iPad: así funciona la nueva versión de su editor de videos que quiere competir con CapCut",
    "link": "https://www.merca20.com/meta-lleva-edits-al-ipad-asi-funciona-la-nueva-version-de-su-editor-de-videos-que-quiere-competir-con-capcut/?utm_source=rss&utm_medium=rss&utm_campaign=meta-lleva-edits-al-ipad-asi-funciona-la-nueva-version-de-su-editor-de-videos-que-quiere-competir-con-capcut",
@@ -122,8 +150,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T01:02:16.792030+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T01:02:16.792030+00:00",
    "topics": []
   },
   {
@@ -3284,7 +3312,7 @@
    "topics": []
   },
   {
-   "title": "Reddit’s AEO Tool Recommendations Have A Promoter Problem via @sejournal, @MattGSouthern",
+   "title": "Report Flags Most Reddit Users Rating AEO Tools As Likely Promoters via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/check-whos-posting-before-you-trust-reddit-on-aeo-tools/598641/",
    "date": "2026-11-23T22:52:42+00:00",
    "summary": "An analysis of subreddits flagged most users weighing in on AEO tools as likely promoters. Among the rest, accuracy was the top feature complaint.",
