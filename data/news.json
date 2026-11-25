@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-24T23:45:51.011315+00:00",
+ "updated": "2026-11-25T01:02:16.792030+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 513,
+ "count": 516,
  "trends": [
   {
    "term": "jensen huang",
@@ -17,8 +17,8 @@
   },
   {
    "term": "nvidia",
-   "count": 27,
-   "growth": 12.2
+   "count": 28,
+   "growth": 12.7
   },
   {
    "term": "black friday",
@@ -32,8 +32,8 @@
   },
   {
    "term": "meta",
-   "count": 12,
-   "growth": 4.1
+   "count": 13,
+   "growth": 4.5
   },
   {
    "term": "trump",
@@ -66,6 +66,11 @@
    "growth": 4.9
   },
   {
+   "term": "holiday",
+   "count": 9,
+   "growth": 3.2
+  },
+  {
    "term": "return",
    "count": 6,
    "growth": 4.9
@@ -86,17 +91,54 @@
    "growth": 7.0
   },
   {
-   "term": "holiday",
-   "count": 8,
-   "growth": 2.9
-  },
-  {
    "term": "corte inglés",
    "count": 4,
    "growth": 5.0
   }
  ],
  "items": [
+  {
+   "title": "Meta lleva Edits al iPad: así funciona la nueva versión de su editor de videos que quiere competir con CapCut",
+   "link": "https://www.merca20.com/meta-lleva-edits-al-ipad-asi-funciona-la-nueva-version-de-su-editor-de-videos-que-quiere-competir-con-capcut/?utm_source=rss&utm_medium=rss&utm_campaign=meta-lleva-edits-al-ipad-asi-funciona-la-nueva-version-de-su-editor-de-videos-que-quiere-competir-con-capcut",
+   "date": "2026-11-25T00:47:15+00:00",
+   "summary": "Meta anunció el lanzamiento de una nueva versión de Edits exclusiva para iPad para impulsar la producción de reels y otros contenidos audiovisuales.",
+   "image": "https://files.merca20.com/uploads/2026/11/Logo-de-Meta.-Imagen-de-bigstock-Wroclaw-Poland-Apr-452196527.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T01:02:16.792030+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+   "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+   "date": "2026-11-25T00:12:02+00:00",
+   "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-ChatGPT.png?resize=1200,675",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T01:02:16.792030+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Krispy Kreme Launches Rudolph Holiday Collection: What’s Included and When Will It Be Available?",
+   "link": "https://www.merca20.com/krispy-kreme-launches-rudolph-holiday-collection-whats-included-and-when-will-it-be-available/?utm_source=rss&utm_medium=rss&utm_campaign=krispy-kreme-launches-rudolph-holiday-collection-whats-included-and-when-will-it-be-available",
+   "date": "2026-11-24T23:50:07+00:00",
+   "summary": "Krispy Kreme Is Preparing a Collection Inspired by Rudolph the Red-Nosed Reindeer, Featuring Designs Based on Its Most Beloved Characters",
+   "image": "https://files.merca20.com/uploads/2026/11/Krispy-Kreme-x-Rudolph-Krispy-Kreme-Newsroom.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T01:02:16.792030+00:00",
+   "topics": []
+  },
   {
    "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
    "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
@@ -166,6 +208,19 @@
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T23:45:51.011315+00:00",
+   "topics": []
+  },
+  {
+   "title": "Retiran ibuprofeno de 800 mg del mercado por posible contaminación con aluminio: FDA advierte sobre riesgos para el estómago",
+   "link": "https://www.merca20.com/retiran-ibuprofeno-de-800-mg-del-mercado-por-posible-contaminacion-con-aluminio-fda-advierte-sobre-riesgos-para-el-estomago/?utm_source=rss&utm_medium=rss&utm_campaign=retiran-ibuprofeno-de-800-mg-del-mercado-por-posible-contaminacion-con-aluminio-fda-advierte-sobre-riesgos-para-el-estomago",
+   "date": "2026-11-24T22:55:28+00:00",
+   "summary": "La FDA publicó una alerta sanitaria relacionada con el retiro voluntario de un lote de ibuprofeno de 800 miligramos",
+   "image": "https://files.merca20.com/uploads/2026/11/IBUPROFENO-800-FOTO-CORTESIA-FDA-4.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T01:02:16.792030+00:00",
    "topics": []
   },
   {
@@ -779,8 +834,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T23:45:51.011315+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T23:45:51.011315+00:00",
    "topics": [
     "publicidad"
    ]
@@ -3211,8 +3266,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-24T23:45:51.011315+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-24T23:45:51.011315+00:00",
    "topics": []
   },
   {
@@ -7465,19 +7520,6 @@
    "date": "2026-11-15T03:49:47+00:00",
    "summary": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and…",
    "image": "https://static.simonwillison.net/static/cors-allow/2026/datasette-agent-homepage.webp",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "datasette-llm 0.1a11",
-   "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
-   "date": "2026-11-14T23:59:28+00:00",
-   "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that…",
-   "image": "https://static.simonwillison.net/static/2026/lmstudio-datasette-agent.webp",
    "source": "Simon Willison",
    "category": "ia",
    "lang": "en",
