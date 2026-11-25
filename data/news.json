@@ -1,19 +1,21 @@
 {
- "updated": "2026-11-25T17:23:41.854282+00:00",
- "sources_ok": 32,
+ "updated": "2026-11-25T18:13:23.476607+00:00",
+ "sources_ok": 31,
  "sources_total": 32,
- "sources_failed": [],
- "count": 684,
+ "sources_failed": [
+  "Marketing4eCommerce"
+ ],
+ "count": 696,
  "trends": [
+  {
+   "term": "black friday",
+   "count": 35,
+   "growth": 25.2
+  },
   {
    "term": "jensen huang",
    "count": 34,
    "growth": 18.8
-  },
-  {
-   "term": "black friday",
-   "count": 34,
-   "growth": 24.5
   },
   {
    "term": "google",
@@ -41,6 +43,11 @@
    "growth": 9.2
   },
   {
+   "term": "euros",
+   "count": 14,
+   "growth": 15.0
+  },
+  {
    "term": "méxico",
    "count": 13,
    "growth": 14.0
@@ -49,11 +56,6 @@
    "term": "holiday",
    "count": 12,
    "growth": 4.1
-  },
-  {
-   "term": "euros",
-   "count": 12,
-   "growth": 13.0
   },
   {
    "term": "search",
@@ -69,6 +71,11 @@
    "term": "marcas",
    "count": 11,
    "growth": 12.0
+  },
+  {
+   "term": "menos",
+   "count": 10,
+   "growth": 11.0
   },
   {
    "term": "media",
@@ -89,14 +96,122 @@
    "term": "trump",
    "count": 9,
    "growth": 7.0
-  },
-  {
-   "term": "menos",
-   "count": 9,
-   "growth": 10.0
   }
  ],
  "items": [
+  {
+   "title": "Want to buy your kid an AI toy this Christmas? Not in New York.",
+   "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+   "date": "2026-11-25T18:11:46+00:00",
+   "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2237660127.jpg?resize=1200,800",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T18:13:23.476607+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Top Publisher League Tables For U.S. & U.K.",
+   "link": "https://www.searchenginejournal.com/top-publisher-league-tables-for-us-uk/598933/",
+   "date": "2026-11-25T18:00:02+00:00",
+   "summary": "Monthly U.K. and U.S. leaderboards rank publishers on engagement, loyalty, and audience scale using Similarweb data.",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/lightbulb-podium-featured-598933-1600x840-1.webp",
+   "source": "Search Engine Journal",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T18:13:23.476607+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo"
+   ]
+  },
+  {
+   "title": "Burger King le da un giro dulce al Whopper con una inesperada versión de chocolate",
+   "link": "https://www.merca20.com/burger-king-le-da-un-giro-dulce-al-whopper-con-una-inesperada-version-de-chocolate/?utm_source=rss&utm_medium=rss&utm_campaign=burger-king-le-da-un-giro-dulce-al-whopper-con-una-inesperada-version-de-chocolate",
+   "date": "2026-11-25T17:53:45+00:00",
+   "summary": "La creación lleva por nombre Chocolate Whopper y debutó el 19 de noviembre en Flameground by Burger King, el restaurante insignia de la compañía ubicado en Seongsu-dong, Seúl, Corea del Sur.",
+   "image": "https://files.merca20.com/uploads/2026/11/Burger-King-foto-de-bigstock-66781144.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T18:13:23.476607+00:00",
+   "topics": []
+  },
+  {
+   "title": "Protégete cuando navegues por internet al mejor precio: Proton VPN cuesta menos de 3 euros al mes gracias al Black Friday",
+   "link": "https://www.xataka.com/seleccion/protegete-cuando-navegues-internet-al-mejor-precio-proton-vpn-cuesta-3-euros-al-mes-gracias-al-black-friday",
+   "date": "2026-11-25T17:46:20+00:00",
+   "summary": "Navegar por internet se ha convertido en un riesgo que hace años parecía no ser tan preocupante. Las estafas de phising y muchas otras se han vuelto bastante habituales, especialmente cuando hacemos uso de una red pública y accedemos a nuestros cuentas de correo, del banco, etc.…",
+   "image": "https://i.blogs.es/0fb2a4/bf2026-vpn-lifestyle-1600x900-1-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T18:13:23.476607+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+   "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+   "date": "2026-11-25T17:44:51+00:00",
+   "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "source": "The Verge IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T18:13:23.476607+00:00",
+   "topics": []
+  },
+  {
+   "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
+   "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "date": "2026-11-25T17:35:58+00:00",
+   "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/06/Character-Calls-Image-feat.jpg?resize=1200,675",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T18:13:23.476607+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "El 93 por ciento de las personas de 50 a 70 años no se siente representado en la publicidad y Soy Más llevó a las calles una pregunta para escucharlas",
+   "link": "https://www.merca20.com/el-93-por-ciento-de-las-personas-de-50-a-70-anos-no-se-siente-representado-en-la-publicidad-y-soy-mas-llevo-a-las-calles-una-pregunta-para-escucharlas/?utm_source=rss&utm_medium=rss&utm_campaign=el-93-por-ciento-de-las-personas-de-50-a-70-anos-no-se-siente-representado-en-la-publicidad-y-soy-mas-llevo-a-las-calles-una-pregunta-para-escucharlas",
+   "date": "2026-11-25T17:33:33+00:00",
+   "summary": "El 93 por ciento de las personas de 50 a 70 años no se siente representado en la publicidad. Soy Más busca conocer sus aspiraciones y replantear esta conversación.",
+   "image": "https://files.merca20.com/uploads/2026/11/El-93-de-las-personas-de-50-a-70-anos-no-se-siente-representado-en-la-publicidad-y-Soy-Mas-llevo-a-las-calles-una-pregunta-para-escucharlas-2.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T18:13:23.476607+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Aunque suena a abuso, algunas cafeterías están cobrando 3 euros por estar una hora teletrabajando. Lo que dice la ley es más complicado",
+   "link": "https://www.xataka.com/empresas-y-economia/suena-a-abuso-algunas-cafeterias-estan-cobrando-3-euros-estar-hora-teletrabajando-que-dice-ley-complicado",
+   "date": "2026-11-25T17:30:24+00:00",
+   "summary": "El portátil abierto, los auriculares puestos y un único café que lleva dos horas enfriándose, con el dibujito de la espuma disuelto por completo. Esta escena forma parte del paisaje de cualquier ciudad española y es, a partes iguales, el sueño del teletrabajador y la pesadilla…",
+   "image": "https://i.blogs.es/a31c35/pexels-emareynares-17801455/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T18:13:23.476607+00:00",
+   "topics": []
+  },
   {
    "title": "Como un Stream Deck, pero más barato: este gadget te puede ahorrar un montón de tiempo a diario",
    "link": "https://www.xataka.com/seleccion/como-stream-deck-barato-este-gadget-te-puede-ahorrar-monton-tiempo-a-diario",
@@ -151,6 +266,19 @@
     "redes",
     "publicidad"
    ]
+  },
+  {
+   "title": "Quién fue Martha Firestone Ford, la mujer que unió dos imperios de la industria automotriz y murió a los 101 años",
+   "link": "https://www.merca20.com/quien-fue-martha-firestone-ford-la-mujer-que-unio-dos-imperios-de-la-industria-automotriz-y-murio-a-los-101-anos/?utm_source=rss&utm_medium=rss&utm_campaign=quien-fue-martha-firestone-ford-la-mujer-que-unio-dos-imperios-de-la-industria-automotriz-y-murio-a-los-101-anos",
+   "date": "2026-11-25T16:54:09+00:00",
+   "summary": "La historia de Martha Firestone Ford permite entender la importancia que tuvieron las empresas familiares en el desarrollo de la industria automotriz estadounidense",
+   "image": "https://files.merca20.com/uploads/2026/11/Martha-Firestone-Ford-gemini-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T18:13:23.476607+00:00",
+   "topics": []
   },
   {
    "title": "Unos geocientíficos alemanes han inundado Los Santos, la ciudad del GTA, para enseñarnos los efectos del cambio climático sobre Los Ángeles",
@@ -259,7 +387,7 @@
    "topics": []
   },
   {
-   "title": "La Unión Europea quiso frenar a los coches chinos con aranceles. Ahora fabrican en las plantas que los europeos abandonaron",
+   "title": "Europa quería frenar los coches chinos. Ahora China se queda con las fábricas europeas",
    "link": "https://www.xataka.com/movilidad/union-europea-quiso-frenar-a-coches-chinos-aranceles-ahora-fabrican-plantas-que-europeos-abandonaron",
    "date": "2026-11-25T16:22:00+00:00",
    "summary": "BYD fabricará en Francia. Aunque es la intención y las conversaciones siguen adelante, Emmanuel Macron, presidente del país vecino, ya lo da por hecho. La compañía china se hará con la fábrica de Hambach, al norte del país, si finalmente se la compra a Ineos. El gigante chino…",
@@ -356,6 +484,20 @@
    ]
   },
   {
+   "title": "Burger King reinventa el Whopper con una versión de chocolate que cautivará a los más golosos",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/burger-king-reinventa-whopper-version-chocolate-cautivara-golosos",
+   "date": "2026-11-25T15:49:17+00:00",
+   "summary": "Burger King ha lanzado el Corea del Sur el nuevo \"Chocolate Whopper\", que reinterpreta la clásica hamburguesa con ingredientes dulces.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/burger-king-chocolate-burger.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T18:13:23.476607+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
    "title": "Sistemas Mesh, repetidores WiFi 7 y routers: estas son las seis mejores ofertas del Black Friday de FRITZ!",
    "link": "https://www.xataka.com/seleccion/sistemas-mesh-repetidores-wifi-7-routers-estas-seis-mejores-ofertas-black-friday-fritz",
    "date": "2026-11-25T15:46:18+00:00",
@@ -426,6 +568,19 @@
    "topics": [
     "ecommerce"
    ]
+  },
+  {
+   "title": "Martha Firestone Ford died at the age of 101: Net worth, biography, and cause of death of the businesswoman who made history in the automotive industry",
+   "link": "https://www.merca20.com/martha-firestone-ford-died-at-the-age-of-101-net-worth-biography-and-cause-of-death-of-the-businesswoman-who-made-history-in-the-automotive-industry/?utm_source=rss&utm_medium=rss&utm_campaign=martha-firestone-ford-died-at-the-age-of-101-net-worth-biography-and-cause-of-death-of-the-businesswoman-who-made-history-in-the-automotive-industry",
+   "date": "2026-11-25T15:33:00+00:00",
+   "summary": "According to the Detroit Lions, Martha Firestone Ford died at her home in Grosse Pointe, Michigan, surrounded by her family",
+   "image": "https://files.merca20.com/uploads/2026/11/Martha-Firestone-Ford-gemini-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T18:13:23.476607+00:00",
+   "topics": []
   },
   {
    "title": "2027 no dará un respiro al mercado de los móviles y los más baratos no levantarán cabeza",
@@ -1114,6 +1269,22 @@
    "first_seen": "2026-11-25T13:17:47.906371+00:00",
    "topics": [
     "seo",
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Target’s New AI Assistant Is Just For Browsing, For Now",
+   "link": "https://www.adweek.com/commerce/targets-new-ai-assistant-is-just-for-browsing-for-now/",
+   "date": "2026-11-25T12:50:33+00:00",
+   "summary": "Ask Target can't yet order on behalf of customers or manage account details.",
+   "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/Ask-Target.jpg?w=600&h=315&crop=1",
+   "source": "Adweek",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T18:13:23.476607+00:00",
+   "og_tried": true,
+   "topics": [
     "publicidad"
    ]
   },
