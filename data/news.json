@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T16:00:33.575488+00:00",
+ "updated": "2026-11-25T17:23:41.854282+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 663,
+ "count": 684,
  "trends": [
   {
    "term": "jensen huang",
@@ -12,13 +12,13 @@
   },
   {
    "term": "black friday",
-   "count": 33,
-   "growth": 23.8
+   "count": 34,
+   "growth": 24.5
   },
   {
    "term": "google",
-   "count": 35,
-   "growth": 9.0
+   "count": 36,
+   "growth": 9.2
   },
   {
    "term": "nvidia",
@@ -27,8 +27,8 @@
   },
   {
    "term": "navidad",
-   "count": 21,
-   "growth": 22.0
+   "count": 22,
+   "growth": 23.0
   },
   {
    "term": "meta",
@@ -41,19 +41,24 @@
    "growth": 9.2
   },
   {
+   "term": "méxico",
+   "count": 13,
+   "growth": 14.0
+  },
+  {
    "term": "holiday",
    "count": 12,
    "growth": 4.1
   },
   {
+   "term": "euros",
+   "count": 12,
+   "growth": 13.0
+  },
+  {
    "term": "search",
    "count": 11,
    "growth": 5.2
-  },
-  {
-   "term": "méxico",
-   "count": 11,
-   "growth": 12.0
   },
   {
    "term": "muse",
@@ -66,9 +71,19 @@
    "growth": 12.0
   },
   {
-   "term": "euros",
+   "term": "media",
+   "count": 10,
+   "growth": 7.7
+  },
+  {
+   "term": "está",
    "count": 10,
    "growth": 11.0
+  },
+  {
+   "term": "gta vi",
+   "count": 7,
+   "growth": 8.0
   },
   {
    "term": "trump",
@@ -76,27 +91,242 @@
    "growth": 7.0
   },
   {
-   "term": "media",
-   "count": 9,
-   "growth": 7.0
-  },
-  {
-   "term": "está",
+   "term": "menos",
    "count": 9,
    "growth": 10.0
-  },
-  {
-   "term": "anuncio",
-   "count": 9,
-   "growth": 10.0
-  },
-  {
-   "term": "thanksgiving",
-   "count": 8,
-   "growth": 9.0
   }
  ],
  "items": [
+  {
+   "title": "Como un Stream Deck, pero más barato: este gadget te puede ahorrar un montón de tiempo a diario",
+   "link": "https://www.xataka.com/seleccion/como-stream-deck-barato-este-gadget-te-puede-ahorrar-monton-tiempo-a-diario",
+   "date": "2026-11-25T17:16:26+00:00",
+   "summary": "Cuando uno pasa muchas horas delante del PC en casa trabajando, cualquier cosa que nos ayude a optimizar el tiempo siempre es bien recibida. Por ejemplo, imagina un gadget que te permita, pulsando solo un botón, abrir todas las apps que usas a la hora de trabajar. E so es justo…",
+   "image": "https://i.blogs.es/f58cdb/consola-gaming-mars-en-escritorio-oscuro/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": []
+  },
+  {
+   "title": "Mientras McDonald’s lanza la Cajita Feliz del Grinch, Burger King confirma que Snoopy llegará a México el 30 de noviembre",
+   "link": "https://www.merca20.com/mientras-mcdonalds-lanza-la-cajita-feliz-del-grinch-burger-king-confirma-que-snoopy-llegara-a-mexico-el-30-de-noviembre/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-mcdonalds-lanza-la-cajita-feliz-del-grinch-burger-king-confirma-que-snoopy-llegara-a-mexico-el-30-de-noviembre",
+   "date": "2026-11-25T17:09:13+00:00",
+   "summary": "La Navidad ya entró a la batalla de las cadenas de comida rápida en México",
+   "image": "https://files.merca20.com/uploads/2026/11/burger-king-snoopy-foto-burger-king-fb.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": []
+  },
+  {
+   "title": "Santiago, castañero riojano con 44 años de éxito y experiencia: \"Antes 8 castañas costaban 100 pesetas, ahora la docena ronda los 4 euros\"",
+   "link": "https://www.xataka.com/magnet/santiago-castanero-riojano-44-anos-exito-experiencia-antes-8-castanas-costaban-100-pesetas-ahora-docena-ronda-4-euros",
+   "date": "2026-11-25T17:00:27+00:00",
+   "summary": "A mediados de los 80, ocho castañas costaban 100 pesetas. Hoy la docena ronda los 4 euros y el oficio del castañero sigue creciendo. Aunque habría que definir ese “creciendo”. Santiago Palacios Cuesta, castañero autónomo y dueño de la SL Coto de Buriz, comenzó en el oficio…",
+   "image": "https://i.blogs.es/e4300b/-aleson-ha-tenido-hoy-un-sabor-muy-especial-hoy-hemos-disfrutado-de-una-jornada-fantastica-2-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": []
+  },
+  {
+   "title": "Instagram revela que no escucha tus conversaciones para mostrar anuncios, asegura Adam Mosseri",
+   "link": "https://www.merca20.com/instagram-revela-que-no-escucha-tus-conversaciones-para-mostrar-anuncios-asegura-adam-mosseri/?utm_source=rss&utm_medium=rss&utm_campaign=instagram-revela-que-no-escucha-tus-conversaciones-para-mostrar-anuncios-asegura-adam-mosseri",
+   "date": "2026-11-25T16:55:54+00:00",
+   "summary": "La compañía sostiene que los mensajes y las llamadas personales están protegidos mediante cifrado de extremo a extremo. Esto significa que Meta no puede acceder al contenido de esas comunicaciones para utilizarlas con fines publicitarios.",
+   "image": "https://files.merca20.com/uploads/2026/11/Instagram-foto-de-bigstock-224413306.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": [
+    "redes",
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Unos geocientíficos alemanes han inundado Los Santos, la ciudad del GTA, para enseñarnos los efectos del cambio climático sobre Los Ángeles",
+   "link": "https://www.xataka.com/ecologia-y-naturaleza/unos-geocientificos-alemanes-han-inundado-santos-ciudad-gta-para-ensenarnos-efectos-cambio-climatico-angeles",
+   "date": "2026-11-25T16:51:47+00:00",
+   "summary": "Ahora que la atención de tantísimas personas está centrada en el Grand Theft Auto VI, si queremos divulgar sobre un tema puede ser una gran idea meterlo de lleno dentro del juego. Esa es la idea que tuvieron un grupo de geocientíficos de la Universidad de Potsdam, en Alemania.…",
+   "image": "https://i.blogs.es/eb01fd/gta-vi/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": []
+  },
+  {
+   "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+   "link": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+   "date": "2026-11-25T16:47:14+00:00",
+   "summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+   "source": "Ars Technica IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": []
+  },
+  {
+   "title": "Una tele OLED para jugar a 'GTA VI' (o a lo que quieras) en una habitación pequeña: es de Samsung y tiene un descuento de casi 400 euros",
+   "link": "https://www.xataka.com/seleccion/tele-oled-para-jugar-a-gta-vi-a-que-quieras-habitacion-pequena-samsung-tiene-descuento-casi-400-euros",
+   "date": "2026-11-25T16:46:19+00:00",
+   "summary": "No todo el mundo necesita un televisor enorme. Hay opciones compactas que son perfectas para habitaciones pequeñas, pero no por eso hay que renunciar a comprar un modelo con buenas características. Hemos encontrado en el Black Friday de Amazon este S93F de Samsung a su precio…",
+   "image": "https://i.blogs.es/cc0f30/s93f-oled-portada/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Why Don't All Drones Do This??",
+   "link": "https://www.youtube.com/shorts/BWpsNrkt6Z4",
+   "date": "2026-11-25T16:37:45+00:00",
+   "summary": "This shape-shifting drone can bend, bounce off walls, and squeeze through spaces other drones could never fit through! #ai #futuretech",
+   "image": "https://www.youtube.com/v/BWpsNrkt6Z4?version=3",
+   "source": "Matt Wolfe (YouTube)",
+   "category": "ia",
+   "lang": "en",
+   "type": "video",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": []
+  },
+  {
+   "title": "Mientras la jornada laboral de 40 horas avanza en México, empresarios piden definir subsidios para el pago de horas extra a partir de 2027",
+   "link": "https://www.merca20.com/mientras-la-jornada-laboral-de-40-horas-avanza-en-mexico-empresarios-piden-definir-subsidios-para-el-pago-de-horas-extra-a-partir-de-2027/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-la-jornada-laboral-de-40-horas-avanza-en-mexico-empresarios-piden-definir-subsidios-para-el-pago-de-horas-extra-a-partir-de-2027",
+   "date": "2026-11-25T16:30:34+00:00",
+   "summary": "En 2027 comenzará la transición de una jornada laboral de 48 a 46 horas semanales, como parte del proceso para alcanzar las 40 horas en 2030",
+   "image": "https://files.merca20.com/uploads/2026/11/foto-laura-islas-empleo-empleados-trabajadores.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": []
+  },
+  {
+   "title": "Xiaomi ha construido su éxito sobre móviles baratos. La crisis de las memorias le está obligando a vender menos, pero más caro",
+   "link": "https://www.xataka.com/empresas-y-economia/xiaomi-ha-construido-su-exito-moviles-baratos-crisis-memorias-le-esta-obligando-a-vender-caro",
+   "date": "2026-11-25T16:30:29+00:00",
+   "summary": "Xiaomi ha encadenado su tercer trimestre seguido con caída de ingresos, y su beneficio neto ha caído un 68%, hasta 3.900 millones de yuanes (unos 535 millones de euros). La causa principal no es culpa de la propia Xiaomi, sino que viene de fuera: la memoria se ha encarecido…",
+   "image": "https://i.blogs.es/fe97c3/1366_2000/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": []
+  },
+  {
+   "title": "Todavía no hay fecha para el lanzamiento de Spotify Wrapped 2026, pero ya se habilitó el sitio oficial para escuchar tus canciones",
+   "link": "https://www.merca20.com/todavia-no-hay-fecha-para-el-lanzamiento-de-spotify-wrapped-2026-pero-ya-se-habilito-el-sitio-oficial-para-escuchar-tus-canciones/?utm_source=rss&utm_medium=rss&utm_campaign=todavia-no-hay-fecha-para-el-lanzamiento-de-spotify-wrapped-2026-pero-ya-se-habilito-el-sitio-oficial-para-escuchar-tus-canciones",
+   "date": "2026-11-25T16:26:21+00:00",
+   "summary": "Spotify sabe que Wrapped dejó de ser una simple estadística de fin de año, ya que la experiencia se convirtió en una pieza de contenido que los usuarios comparten en redes",
+   "image": "https://files.merca20.com/uploads/2026/11/spotify-wrapped-2026-newsroom-spotify.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": []
+  },
+  {
+   "title": "Checo Pérez y Cadillac llegan a Hot Wheels: ¿cuándo sale a la venta su monoplaza?",
+   "link": "https://www.merca20.com/ccheco-perez-y-cadillac-llegan-a-hot-wheels-cuando-sale-a-la-venta-su-monoplaza/?utm_source=rss&utm_medium=rss&utm_campaign=ccheco-perez-y-cadillac-llegan-a-hot-wheels-cuando-sale-a-la-venta-su-monoplaza",
+   "date": "2026-11-25T16:22:57+00:00",
+   "summary": "La ampliación del portafolio de Hot Wheels forma parte de la estrategia de Mattel para aprovechar el alcance internacional de la Fórmula 1",
+   "image": "https://files.merca20.com/uploads/2026/11/HOT-WHEELS-SET-F1-2026-FOTOS-CORTESIA-MATTEL.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": []
+  },
+  {
+   "title": "La Unión Europea quiso frenar a los coches chinos con aranceles. Ahora fabrican en las plantas que los europeos abandonaron",
+   "link": "https://www.xataka.com/movilidad/union-europea-quiso-frenar-a-coches-chinos-aranceles-ahora-fabrican-plantas-que-europeos-abandonaron",
+   "date": "2026-11-25T16:22:00+00:00",
+   "summary": "BYD fabricará en Francia. Aunque es la intención y las conversaciones siguen adelante, Emmanuel Macron, presidente del país vecino, ya lo da por hecho. La compañía china se hará con la fábrica de Hambach, al norte del país, si finalmente se la compra a Ineos. El gigante chino…",
+   "image": "https://i.blogs.es/5499c5/byd-atto_2_dm-i-2026-hd-da4a07df1c8adcd6f68e69e4af9881970e6d7b67b/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": []
+  },
+  {
+   "title": "Discos duros, SSD y tarjetas microSD rebajados por Black Friday: seis ofertas con las que esquivar los precios desorbitados de 2026",
+   "link": "https://www.xataka.com/seleccion/discos-duros-ssd-tarjetas-microsd-rebajados-black-friday-seis-ofertas-que-esquivar-precios-desorbitados-2026",
+   "date": "2026-11-25T16:16:21+00:00",
+   "summary": "Desde hace ya bastantes meses, los precios de las unidades de almacenamiento (entre otras muchas cosas) no dejan de subir incansablemente. De modo que comprar un SSD de 1 TB o 2 TB (dos capacidades bastantes comunes en el mercado doméstico) sale muchísimo más caro de lo que nos…",
+   "image": "https://i.blogs.es/7569da/ofertas-almacenamiento-black-friday/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Xiaomi ha bajado el precio de su gama media asequible, un móvil con 12 GB de RAM y batería de 8.340 mAh",
+   "link": "https://www.xataka.com/seleccion/xiaomi-ha-bajado-precio-su-gama-media-asequible-movil-12-gb-ram-bateria-8-340-mah",
+   "date": "2026-11-25T16:02:20+00:00",
+   "summary": "El Xiaomi Redmi Note 17 Pro 5G se ha colocado en el radar de la gama media asequible, pero ofreciendo características que parecen de gama superior. Si estabas pensando en cambiar de móvil, el Black Friday puede ser una buena oportunidad para conseguirlo ahora rebajado en Amazon,…",
+   "image": "https://i.blogs.es/c6d0b2/xiaomi-redmi-note-17-pro-5g-1-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "La tecnología más original que hemos probado en 2026 no es un móvil. Es un carrito de bebé",
+   "link": "https://www.xataka.com/xataka/tecnologia-original-que-hemos-probado-2026-no-movil-carrito-bebe",
+   "date": "2026-11-25T16:02:20+00:00",
+   "summary": "En la gala de los Premios Xataka Verisure 2026 hubo trofeo para el iPhone 18 Pro Max, el Galaxy Z Fold8 Ultra o un televisor de LG de nueve milímetros. Y en una de las categorías que estrenábamos, la de lo más original que hemos probado, ha ganado un carrito de bebé: el Cybex…",
+   "image": "https://i.blogs.es/17448a/premio-xataka-cybex-carrito/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": []
+  },
+  {
+   "title": "Nothing offers a full look at its AI earbuds and charging case",
+   "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+   "date": "2026-11-25T16:00:59+00:00",
+   "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ear-note-nothing.jpeg?quality=90&strip=all&crop=0,0,100,100",
+   "source": "The Verge IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": []
+  },
   {
    "title": "Tech ad spend continues to grow, but AI industry worries could usher in a slowdown: report",
    "link": "https://www.marketingbrew.com/stories/tech-ad-spend-growth-ai-industry-slowdown?utm_source=&utm_medium=syndication&utm_campaign=feed",
@@ -157,15 +387,30 @@
    "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
    "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
    "date": "2026-11-25T15:41:43+00:00",
-   "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power and a finished building matter more than a pitch…",
+   "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Anita-Verma-Lallian-2.jpg?w=1024",
    "source": "TechCrunch IA",
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T16:00:33.575488+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
    "topics": []
+  },
+  {
+   "title": "Ford lleva sus autos más reconocidos en GTA VI a una campaña dirigida a gamers",
+   "link": "https://www.merca20.com/ford-lleva-sus-autos-mas-reconocidos-en-gta-vi-a-una-campana-dirigida-a-gamers/?utm_source=rss&utm_medium=rss&utm_campaign=ford-lleva-sus-autos-mas-reconocidos-en-gta-vi-a-una-campana-dirigida-a-gamers",
+   "date": "2026-11-25T15:34:43+00:00",
+   "summary": "En lugar de recrear esas escenas o desarrollar una integración comercial, Ford tomó las capturas originales y las convirtió en piezas publicitarias.",
+   "image": "https://files.merca20.com/uploads/2026/11/Ford-logo-Foto-de-Bigstock-67726195.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": [
+    "publicidad"
+   ]
   },
   {
    "title": "Mientras los mexicanos celebran la Navidad con Bolo Fest de Liverpool, en Estados Unidos se realiza el Macy’s Parade por Acción de Gracias",
@@ -205,8 +450,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-25T16:00:33.575488+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
    "topics": [
     "publicidad"
    ]
@@ -238,6 +483,19 @@
    "topics": [
     "ecommerce"
    ]
+  },
+  {
+   "title": "Mientras los mexicanos comen antojitos y ponche durante las posadas previo a Navidad, en Alemania los mercados navideños ofrecen salchichas, vino caliente y pescado frito",
+   "link": "https://www.merca20.com/mientras-los-mexicanos-comen-antojitos-y-ponche-durante-las-posadas-previo-a-navidad-en-alemania-los-mercados-navidenos-ofrecen-salchichas-vino-caliente-y-pescado-frito/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-los-mexicanos-comen-antojitos-y-ponche-durante-las-posadas-previo-a-navidad-en-alemania-los-mercados-navidenos-ofrecen-salchichas-vino-caliente-y-pescado-frito",
+   "date": "2026-11-25T15:11:36+00:00",
+   "summary": "Los mercados navideños alemanes, conocidos como Weihnachtsmärkte, son espacios comerciales que comienzan a instalarse desde noviembre y que combinan gastronomía, artesanías, decoración y actividades familiares",
+   "image": "https://files.merca20.com/uploads/2026/11/navidad-posadas-vs-mercado-aleman-fotoarte-generado-con-gemini.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": []
   },
   {
    "title": "El Gobierno aprueba en Consejo de Ministros la prohibición de los váper de sabores. La razón es su repunte en adolescentes",
@@ -277,8 +535,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T16:00:33.575488+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
    "topics": [
     "seo",
     "publicidad"
@@ -307,8 +565,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T16:00:33.575488+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
    "topics": [
     "seo"
    ]
@@ -323,8 +581,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-25T16:00:33.575488+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
    "topics": [
     "publicidad"
    ]
@@ -538,8 +796,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-25T16:00:33.575488+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
    "topics": [
     "publicidad",
     "ecommerce"
@@ -598,11 +856,24 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-25T16:00:33.575488+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
    "topics": [
     "publicidad"
    ]
+  },
+  {
+   "title": "FDA Announces Nationwide Recall of Ibuprofen 800 mg Tablets Over Possible Aluminum Contamination",
+   "link": "https://www.merca20.com/fda-announces-nationwide-recall-of-ibuprofen-800-mg-tablets-over-possible-aluminum-contamination/?utm_source=rss&utm_medium=rss&utm_campaign=fda-announces-nationwide-recall-of-ibuprofen-800-mg-tablets-over-possible-aluminum-contamination",
+   "date": "2026-11-25T13:30:45+00:00",
+   "summary": "FDA announces a nationwide recall of ibuprofen 800 mg tablets over possible aluminum contamination. Check the affected lot, health risks and safety recommendations",
+   "image": "https://files.merca20.com/uploads/2026/11/IBUPROFENO-800-FOTO-CORTESIA-FDA-4.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": []
   },
   {
    "title": "Por qué vale la pena tener acceso a un modelo de IA ‘sin censura’: yo me reservo uno para las tareas más delicadas",
@@ -790,7 +1061,7 @@
    "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
    "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
    "date": "2026-11-25T13:00:00+00:00",
-   "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+   "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249127237.jpg?resize=1200,800",
    "source": "TechCrunch IA",
    "category": "ia",
@@ -1661,8 +1932,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T16:00:33.575488+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T16:00:33.575488+00:00",
    "topics": [
     "publicidad"
    ]
@@ -4278,6 +4549,19 @@
    "topics": [
     "seo"
    ]
+  },
+  {
+   "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+   "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+   "date": "2026-11-24T13:07:53+00:00",
+   "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+   "image": "https://lh3.googleusercontent.com/CtAfS_JWygw2R9cuDNty3xd0S4WFRzVew1vtNDiPaN1ZOGa88hCwTiCLxtgCtpSFER2t3jFO-moRkPnQYPjXziNgMvKHVc0wkOkzBTdGRoOYL3Ld=w528-h297-n-nu-rw-lo",
+   "source": "Google DeepMind",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T17:23:41.854282+00:00",
+   "topics": []
   },
   {
    "title": "Permisos por nacimiento de 20 semanas y de duelo de 10 días: en plena campaña electoral, el Gobierno ha metido sexta en política social",
