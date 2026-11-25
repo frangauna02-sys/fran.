@@ -1,9 +1,11 @@
 {
- "updated": "2026-11-25T06:25:29.407584+00:00",
- "sources_ok": 32,
+ "updated": "2026-11-25T07:58:15.082075+00:00",
+ "sources_ok": 31,
  "sources_total": 32,
- "sources_failed": [],
- "count": 528,
+ "sources_failed": [
+  "Reason Why"
+ ],
+ "count": 534,
  "trends": [
   {
    "term": "jensen huang",
@@ -46,6 +48,11 @@
    "growth": 4.4
   },
   {
+   "term": "marcas",
+   "count": 9,
+   "growth": 10.0
+  },
+  {
    "term": "anuncio",
    "count": 9,
    "growth": 10.0
@@ -54,11 +61,6 @@
    "term": "holiday",
    "count": 10,
    "growth": 3.5
-  },
-  {
-   "term": "marcas",
-   "count": 8,
-   "growth": 9.0
   },
   {
    "term": "amazon",
@@ -86,17 +88,113 @@
    "growth": 4.9
   },
   {
+   "term": "menos",
+   "count": 6,
+   "growth": 7.0
+  },
+  {
    "term": "media",
    "count": 6,
    "growth": 4.9
-  },
-  {
-   "term": "digital",
-   "count": 6,
-   "growth": 7.0
   }
  ],
  "items": [
+  {
+   "title": "Gráfica del día: ¿Cuáles son los mejores restaurantes de México?",
+   "link": "https://www.merca20.com/grafica-del-dia-cuales-son-los-mejores-restaurantes-de-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=grafica-del-dia-cuales-son-los-mejores-restaurantes-de-mexico",
+   "date": "2026-11-25T07:50:49+00:00",
+   "summary": "Estos locales fueron reconocidos entre los cien mejores del mundo",
+   "image": "https://files.merca20.com/uploads/2026/11/Grafica-del-dia-¿Cuales-son-los-mejores-restaurantes-de-Mexico.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T07:58:15.082075+00:00",
+   "topics": []
+  },
+  {
+   "title": "GTA 6 dispara las descargas de videojuegos en México, pero los usuarios gastan menos dentro de las apps",
+   "link": "https://www.merca20.com/gta-6-dispara-las-descargas-de-videojuegos-en-mexico-pero-los-usuarios-gastan-menos-dentro-de-las-apps/?utm_source=rss&utm_medium=rss&utm_campaign=gta-6-dispara-las-descargas-de-videojuegos-en-mexico-pero-los-usuarios-gastan-menos-dentro-de-las-apps",
+   "date": "2026-11-25T07:40:32+00:00",
+   "summary": "El lanzamiento de GTA 6 ya modificó el comportamiento de los jugadores mexicanos en las aplicaciones móviles",
+   "image": "https://files.merca20.com/uploads/2026/11/gta-mexico-chatgpt.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T07:58:15.082075+00:00",
+   "topics": []
+  },
+  {
+   "title": "Massive convirtió a WhatsApp en la segunda cancha del Mundial",
+   "link": "https://www.merca20.com/massive-convirtio-a-whatsapp-en-la-segunda-cancha-del-mundial/?utm_source=rss&utm_medium=rss&utm_campaign=massive-convirtio-a-whatsapp-en-la-segunda-cancha-del-mundial",
+   "date": "2026-11-25T07:30:56+00:00",
+   "summary": "Mientras el Mundial se jugó en la pantalla, Massive llevó a las marcas a la conversación que sucedía en WhatsApp.",
+   "image": "https://files.merca20.com/uploads/2026/11/Massive-colaboracion-especoal.-Foto-Massive.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T07:58:15.082075+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "Las obras de un parque en Galicia sacan a la luz una docena de tumbas medievales y ahora no saben si dejarlas a la vista o montar un museo",
+   "link": "https://www.xataka.com/magnet/obras-parque-galicia-sacan-a-luz-docena-tumbas-medievales-ahora-no-saben-dejarlas-a-vista-montar-museo",
+   "date": "2026-11-25T07:01:01+00:00",
+   "summary": "Desde que se inauguró en 1983, los niños de Silleda juegan en el parque de la iglesia de Santa Baia. Hasta el pasado verano, porque lo que había debajo era una necrópolis medieval. En agosto se detuvo la reforma del parque al aparecer un puñado de huesos (y eso que la Xunta…",
+   "image": "https://i.blogs.es/3ab406/foto-parque-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T07:58:15.082075+00:00",
+   "topics": []
+  },
+  {
+   "title": "El cambio silencioso en el martech que está separando a las marcas ganadoras del resto",
+   "link": "https://www.merca20.com/el-cambio-silencioso-en-el-martech-que-esta-separando-a-las-marcas-ganadoras-del-resto/?utm_source=rss&utm_medium=rss&utm_campaign=el-cambio-silencioso-en-el-martech-que-esta-separando-a-las-marcas-ganadoras-del-resto",
+   "date": "2026-11-25T07:00:14+00:00",
+   "summary": "La inteligencia deja de vivir dentro de una herramienta específica y empieza a distribuirse por toda la organización.",
+   "image": "https://files.merca20.com/uploads/2023/11/bigstock-Cyber-Security-And-Data-Protec-473719265.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T07:58:15.082075+00:00",
+   "topics": []
+  },
+  {
+   "title": "¿Estamos enseñando a los clientes a comprar solo cuando hay descuentos?",
+   "link": "https://www.merca20.com/estamos-ensenando-a-los-clientes-a-comprar-solo-cuando-hay-descuentos/?utm_source=rss&utm_medium=rss&utm_campaign=estamos-ensenando-a-los-clientes-a-comprar-solo-cuando-hay-descuentos",
+   "date": "2026-11-25T06:45:28+00:00",
+   "summary": "Noviembre se ha convertido en un mes curioso para las marcas. Apenas termina una promoción y ya estamos recibiendo anuncios de la siguiente. Primero llegan las ofertas anticipadas, después El Buen Fin, luego el Black Friday y, por si todavía quedaba algo pendiente en el carrito,…",
+   "image": "https://files.merca20.com/uploads/2023/08/Arturo-Ortiz.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T07:58:15.082075+00:00",
+   "topics": [
+    "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Rocky no necesitaba otra pelea",
+   "link": "https://www.merca20.com/rocky-no-necesitaba-otra-pelea/?utm_source=rss&utm_medium=rss&utm_campaign=rocky-no-necesitaba-otra-pelea",
+   "date": "2026-11-25T06:25:13+00:00",
+   "summary": "Hay un fenómeno extraordinario que demuestra hasta dónde puede llegar el poder de una marca. Cuando visité Filadelfia hace unos meses, resulta obligatorio subir corriendo las escaleras del Museo de Arte, levantar los brazos como Rocky, fotografiarse junto a su estatua. Como…",
+   "image": "https://files.merca20.com/uploads/2022/07/jorge-valencia.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T07:58:15.082075+00:00",
+   "topics": []
+  },
   {
    "title": "El poder también debe rendir cuentas",
    "link": "https://www.merca20.com/el-poder-tambien-debe-rendir-cuentas/?utm_source=rss&utm_medium=rss&utm_campaign=el-poder-tambien-debe-rendir-cuentas",
@@ -7697,21 +7795,6 @@
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
-  },
-  {
-   "title": "The Self-Driving Car With Balls",
-   "link": "https://www.youtube.com/shorts/X3r-mZtPfP8",
-   "date": "2026-11-15T07:12:15+00:00",
-   "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads:…",
-   "image": "https://www.youtube.com/v/X3r-mZtPfP8?version=3",
-   "source": "Matt Wolfe (YouTube)",
-   "category": "ia",
-   "lang": "en",
-   "type": "video",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
   }
  ]
 }
