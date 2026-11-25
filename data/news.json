@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T21:30:10.080884+00:00",
+ "updated": "2026-11-25T22:29:50.065797+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 729,
+ "count": 735,
  "trends": [
   {
    "term": "black friday",
@@ -17,8 +17,8 @@
   },
   {
    "term": "google",
-   "count": 35,
-   "growth": 8.1
+   "count": 36,
+   "growth": 8.4
   },
   {
    "term": "nvidia",
@@ -56,11 +56,6 @@
    "growth": 13.0
   },
   {
-   "term": "holiday",
-   "count": 12,
-   "growth": 4.1
-  },
-  {
    "term": "gta vi",
    "count": 9,
    "growth": 10.0
@@ -71,9 +66,9 @@
    "growth": 5.2
   },
   {
-   "term": "muse",
-   "count": 11,
-   "growth": 5.2
+   "term": "thanksgiving",
+   "count": 10,
+   "growth": 11.0
   },
   {
    "term": "precio",
@@ -81,22 +76,120 @@
    "growth": 11.0
   },
   {
+   "term": "muse",
+   "count": 10,
+   "growth": 4.1
+  },
+  {
    "term": "menos",
    "count": 10,
    "growth": 11.0
   },
   {
-   "term": "media",
-   "count": 10,
-   "growth": 7.7
-  },
-  {
    "term": "está",
    "count": 10,
    "growth": 11.0
+  },
+  {
+   "term": "holiday",
+   "count": 11,
+   "growth": 3.4
   }
  ],
  "items": [
+  {
+   "title": "Mientras Dunkin’ tiene sus donas de Santa Claus, Krispy Kreme lanzará su colección Disney con Mickey y Minnie a la cabeza",
+   "link": "https://www.merca20.com/mientras-dunkin-tiene-sus-donas-de-santa-claus-krispy-kreme-lanzara-su-coleccion-disney-con-mickey-y-minnie-a-la-cabeza/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-dunkin-tiene-sus-donas-de-santa-claus-krispy-kreme-lanzara-su-coleccion-disney-con-mickey-y-minnie-a-la-cabeza",
+   "date": "2026-11-25T22:18:27+00:00",
+   "summary": "Este movimiento muestra cómo las cadenas utilizan personajes, productos limitados y Navidad para competir por una compra que va más allá del alimento",
+   "image": "https://files.merca20.com/uploads/2026/11/donas-navidad-krispy-dunkin-chatgpt.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T22:29:50.065797+00:00",
+   "topics": []
+  },
+  {
+   "title": "Licencia permanente digital CDMX 2026, conoce si puedes manejar en otros estados sin llevar el documento, esto dice la ley y lo que acordaron las 32 entidades",
+   "link": "https://www.merca20.com/licencia-permanente-digital-cdmx-2026-conoce-si-puedes-manejar-en-otros-estados-sin-llevar-el-documento-esto-dice-la-ley-y-lo-que-acordaron-los-32-estados/?utm_source=rss&utm_medium=rss&utm_campaign=licencia-permanente-digital-cdmx-2026-conoce-si-puedes-manejar-en-otros-estados-sin-llevar-el-documento-esto-dice-la-ley-y-lo-que-acordaron-los-32-estados",
+   "date": "2026-11-25T22:08:59+00:00",
+   "summary": "La licencia permanente digital de CDMX tiene validez nacional. Conoce qué dice la ley sobre viajar por carretera sin plástico y el acuerdo de los 32 estados.",
+   "image": "https://files.merca20.com/uploads/2026/11/Licencia-permanente-digital-CDMX-2026-conoce-si-puedes-manejar-en-otros-estados-sin-llevar-el-documento-esto-dice-la-ley-y-lo-que-acordaron-los-32-estados-.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T22:29:50.065797+00:00",
+   "topics": []
+  },
+  {
+   "title": "Macy’s pospone por primera vez en 100 ediciones su desfile de Thanksgiving debido al clima",
+   "link": "https://www.merca20.com/macys-pospone-por-primera-vez-en-100-ediciones-su-desfile-de-thanksgiving-debido-al-clima/?utm_source=rss&utm_medium=rss&utm_campaign=macys-pospone-por-primera-vez-en-100-ediciones-su-desfile-de-thanksgiving-debido-al-clima",
+   "date": "2026-11-25T21:53:09+00:00",
+   "summary": "La cadena de tiendas departamentales Macy’s decidió posponer su desfile del Día de Acción de Gracias debido a las condiciones meteorológicas adversas en Nueva York",
+   "image": "https://files.merca20.com/uploads/2026/11/macys-parade-2026-cortesia-macys-newsroom.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T22:29:50.065797+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+   "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+   "date": "2026-11-25T21:51:26+00:00",
+   "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=2.859375,3.7218027238494,93.788122558594,91.658221639303",
+   "source": "The Verge IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T22:29:50.065797+00:00",
+   "topics": []
+  },
+  {
+   "title": "Banco Plata apuesta por las PyMEs mexicanas con Plata Negocios: ofrecerá créditos de hasta 200 mil pesos y cuentas sin costos fijos",
+   "link": "https://www.merca20.com/banco-plata-apuesta-por-las-pymes-mexicanas-con-plata-negocios-ofrecera-creditos-de-hasta-200-mil-pesos-y-cuentas-sin-costos-fijos/?utm_source=rss&utm_medium=rss&utm_campaign=banco-plata-apuesta-por-las-pymes-mexicanas-con-plata-negocios-ofrecera-creditos-de-hasta-200-mil-pesos-y-cuentas-sin-costos-fijos",
+   "date": "2026-11-25T21:40:56+00:00",
+   "summary": "Plata Negocios incluye herramientas para administrar las operaciones cotidianas de los negocios",
+   "image": "https://files.merca20.com/uploads/2026/11/PLATA-NEGOCIO-CORTESIA-BANCO-BLATA.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T22:29:50.065797+00:00",
+   "topics": []
+  },
+  {
+   "title": "1Password ha sido hackeado",
+   "link": "https://www.xataka.com/seguridad/1password-ha-sido-hackeado",
+   "date": "2026-11-25T21:39:01+00:00",
+   "summary": "Hemos aprendido que utilizar la misma contraseña para todo no es una buena idea, que conviene generar claves largas y difíciles de adivinar y que nuestra memoria tiene sus límites. Los gestores de contraseñas nos han permitido resolver buena parte de ese problema: podemos…",
+   "image": "https://i.blogs.es/689270/1password-hackeado/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T22:29:50.065797+00:00",
+   "topics": []
+  },
+  {
+   "title": "Primero el FBI, después la CIA y ahora el Tesoro: EEUU encadena incidentes de ciberseguridad y el último salpica a un videojuego",
+   "link": "https://www.xataka.com/seguridad/primero-fbi-despues-cia-ahora-tesoro-eeuu-encadena-incidentes-ciberseguridad-ultimo-salpica-a-videojuego",
+   "date": "2026-11-25T21:30:23+00:00",
+   "summary": "Desde localizar a una persona buscada por la justicia hasta investigar una posible operación de blanqueo de capitales, buena parte del trabajo de las autoridades estadounidenses pasa por consultar información almacenada en sistemas informáticos. Hablamos de herramientas que…",
+   "image": "https://i.blogs.es/8d4660/department_of_the_treasury_sign_washington_dc_2025-12-17_10-40-05/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T22:29:50.065797+00:00",
+   "topics": []
+  },
   {
    "title": "Es oficial, Telcel anuncia bonificación de 300 y 500 MB adicionales a usuarios afectados por falla del 20 de noviembre, cómo y cuándo la recibirás",
    "link": "https://www.merca20.com/es-oficial-telcel-anuncia-bonificacion-de-300-y-500-mb-adicionales-a-usuarios-afectados-por-falla-del-20-de-noviembre-como-y-cuando-la-recibiras/?utm_source=rss&utm_medium=rss&utm_campaign=es-oficial-telcel-anuncia-bonificacion-de-300-y-500-mb-adicionales-a-usuarios-afectados-por-falla-del-20-de-noviembre-como-y-cuando-la-recibiras",
@@ -124,6 +217,19 @@
    "topics": [
     "ecommerce"
    ]
+  },
+  {
+   "title": "Is the Macy’s Thanksgiving Day Parade canceled? What we know",
+   "link": "https://www.merca20.com/is-the-macys-thanksgiving-day-parade-canceled-what-we-know/?utm_source=rss&utm_medium=rss&utm_campaign=is-the-macys-thanksgiving-day-parade-canceled-what-we-know",
+   "date": "2026-11-25T21:11:03+00:00",
+   "summary": "Is the Macy’s Thanksgiving Day Parade 2026 canceled? Searches surge on Google Trends as severe weather forces the historic event to be postponed",
+   "image": "https://files.merca20.com/uploads/2026/11/macys-parade-2026-cortesia-macys-newsroom.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T22:29:50.065797+00:00",
+   "topics": []
   },
   {
    "title": "Take-Two frena Leonida, un proyecto que pretendía llevar 'GTA VI' a Windows a partir de una versión filtrada de Xbox",
@@ -727,7 +833,7 @@
    ]
   },
   {
-   "title": "Why Don't All Drones Do This??",
+   "title": "I've never seen a drone do this...",
    "link": "https://www.youtube.com/shorts/BWpsNrkt6Z4",
    "date": "2026-11-25T16:37:45+00:00",
    "summary": "This shape-shifting drone can bend, bounce off walls, and squeeze through spaces other drones could never fit through! #ai #futuretech #artificialintelligence",
@@ -10538,34 +10644,6 @@
    "category": "ia",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "A step toward defining the Standard Model on a lattice",
-   "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-   "date": "2026-11-15T22:00:01+00:00",
-   "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/1RdsG8XilINGFZUscLvAnj/b3bfb7912b44166e8075581574a7b777/toward-defining-the-standard-model-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "Our new blog for science",
-   "link": "https://openai.com/index/our-new-blog-for-science",
-   "date": "2026-11-15T22:00:00+00:00",
-   "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/ZyKta7ePADbiaWqX3EARs/81a2a593e66096fb001987910330e24e/our-new-blog-for-science-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [],
    "og_tried": true
