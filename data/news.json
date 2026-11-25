@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-25T13:17:47.906371+00:00",
+ "updated": "2026-11-25T14:41:53.339064+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 617,
+ "count": 638,
  "trends": [
   {
    "term": "jensen huang",
-   "count": 32,
-   "growth": 17.8
+   "count": 34,
+   "growth": 18.8
   },
   {
    "term": "black friday",
-   "count": 28,
-   "growth": 20.3
+   "count": 30,
+   "growth": 21.7
   },
   {
    "term": "google",
@@ -22,8 +22,8 @@
   },
   {
    "term": "nvidia",
-   "count": 28,
-   "growth": 12.7
+   "count": 30,
+   "growth": 13.6
   },
   {
    "term": "navidad",
@@ -32,13 +32,13 @@
   },
   {
    "term": "meta",
-   "count": 16,
-   "growth": 5.4
+   "count": 18,
+   "growth": 7.0
   },
   {
    "term": "amazon",
-   "count": 12,
-   "growth": 7.0
+   "count": 14,
+   "growth": 8.1
   },
   {
    "term": "méxico",
@@ -61,9 +61,24 @@
    "growth": 4.8
   },
   {
+   "term": "muse",
+   "count": 10,
+   "growth": 4.8
+  },
+  {
    "term": "trump",
    "count": 9,
    "growth": 7.0
+  },
+  {
+   "term": "euros",
+   "count": 9,
+   "growth": 10.0
+  },
+  {
+   "term": "está",
+   "count": 9,
+   "growth": 10.0
   },
   {
    "term": "anuncio",
@@ -76,27 +91,220 @@
    "growth": 9.0
   },
   {
-   "term": "euros",
+   "term": "menos",
    "count": 8,
    "growth": 9.0
-  },
-  {
-   "term": "ai agents",
-   "count": 6,
-   "growth": 4.9
-  },
-  {
-   "term": "menos",
-   "count": 7,
-   "growth": 8.0
-  },
-  {
-   "term": "media",
-   "count": 7,
-   "growth": 5.6
   }
  ],
  "items": [
+  {
+   "title": "AI Visibility Isn’t the Finish Line. Here’s What Wins Buyers",
+   "link": "https://www.marketingaiinstitute.com/blog/ai-that-wins-buyers-maicon-2026",
+   "date": "2026-11-25T14:30:00+00:00",
+   "summary": "Showing up in an AI answer doesn’t mean a buyer will pick you. Wil Reynolds knows this firsthand. His agency refused to mass-produce self-serving “best of” listicles and lost to competitors who did so for 18 months.",
+   "image": "https://www.marketingaiinstitute.com/hubfs/MAICON26%20Main%20Stage%20-%20Blog%20Post%20Assets/Wil%20Reynolds%20-%20MAICON26%20Blog%20Post.png",
+   "source": "Marketing AI Institute",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Virgilio restaura una cabaña en Asturias: \"Al comprarla pasé un detector de metales y encontré un maravedí de Felipe V de 1740 metido entre el suelo original\"",
+   "link": "https://www.xataka.com/magnet/virgilio-restaura-cabana-asturias-al-comprarla-pase-detector-metales-encontre-maravedi-felipe-v-1740-metido-suelo-original",
+   "date": "2026-11-25T14:24:55+00:00",
+   "summary": "Hace unos seis años, en plena pandemia, Virgilio se propuso cambiar de aires. Literalmente. Harto del confinamiento en Oviedo, decidió comprar una pequeña cabaña en un pueblo de montaña de Asturias, una antigua construcción vaqueira por la que pagó 3.000 euros. La suma no era…",
+   "image": "https://i.blogs.es/65ca63/1200_800-2-/1024_2000.png",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "topics": []
+  },
+  {
+   "title": "El Black Friday de MediaMarkt pone el foco en tu cuidado personal: afeitadoras, depiladoras y cepillos de dientes a grandes precios",
+   "link": "https://www.xataka.com/seleccion/black-friday-mediamarkt-pone-foco-tu-cuidado-personal-afeitadoras-depiladoras-cepillos-dientes-a-grandes-precios",
+   "date": "2026-11-25T14:16:21+00:00",
+   "summary": "El cuidado personal es algo muy importante, pero hay veces que lo vamos dejando y poniendo excusas para no empezar con él. Precisamente, eso es lo que quiere evitar el Black Friday de MediaMarkt, porque durante estos días podemos encontrar grandes ofertas en todo tipo de…",
+   "image": "https://i.blogs.es/c92435/bf_philips/1024_2000.png",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+   "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+   "date": "2026-11-25T14:12:33+00:00",
+   "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0,0,100,100",
+   "source": "The Verge IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+   "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "date": "2026-11-25T14:10:18+00:00",
+   "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "og_tried": true,
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "El iPhone 18 Pro Max no hizo la jugada más vistosa, pero sí el mejor partido. Y por eso es el mejor móvil premium de 2026",
+   "link": "https://www.xataka.com/moviles/iphone-18-pro-max-no-hizo-jugada-vistosa-mejor-partido-eso-mejor-movil-premium-2026",
+   "date": "2026-11-25T14:00:23+00:00",
+   "summary": "El pasado 17 de noviembre celebramos la gala de los Premios Xataka Verisure 2026. Como cada año, repartimos un montón de premios a dispositivos de todo tipo, pero aunque los hay tan importantes como el de \"mejor móvil fotográfico\", cuando hablamos de prestigio, el de \"mejor…",
+   "image": "https://i.blogs.es/36c7e1/iphone-mejor-movil-premium/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "topics": []
+  },
+  {
+   "title": "How to Build a Content Research Database Using AI",
+   "link": "https://www.marketingaiinstitute.com/blog/build-a-content-research-database-with-ai",
+   "date": "2026-11-25T14:00:00+00:00",
+   "summary": "We're in the process of scaling our AI Transformations series, a special series of our podcast, The Artificial Intelligence Show, where we interview leaders about how they're putting AI to work in their companies. We already have a strong network of potential guests, but we…",
+   "image": "https://www.marketingaiinstitute.com/hubfs/Screenshot%202026-11-16%20at%2012.24.34%20PM.png",
+   "source": "Marketing AI Institute",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "topics": []
+  },
+  {
+   "title": "Las tarjetas Panini de GTA VI llegarán en diciembre: así será la colección oficial",
+   "link": "https://www.merca20.com/tarjetas-panini-de-gta-vi-coleccion-oficial/?utm_source=rss&utm_medium=rss&utm_campaign=tarjetas-panini-de-gta-vi-coleccion-oficial",
+   "date": "2026-11-25T13:55:14+00:00",
+   "summary": "Panini y Rockstar Games llevarán las tarjetas coleccionables de GTA VI al mundo físico con una colección que incluirá ediciones limitadas y piezas únicas.",
+   "image": "https://files.merca20.com/uploads/2026/11/Cartas-holograficas-bajo-luces-de-Miami.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "topics": []
+  },
+  {
+   "title": "Europa está a punto de poner pie en el asteroide que la NASA disparó en 2022: hoy sabremos cómo quedó Dimorphos",
+   "link": "https://www.xataka.com/espacio/europa-esta-a-punto-poner-pie-asteroide-que-nasa-disparo-2022-hoy-sabremos-como-quedo-dimorphos",
+   "date": "2026-11-25T13:47:19+00:00",
+   "summary": "En 2022, la NASA hizo historia con la misión DART al impactar deliberadamente una nave contra un asteroide para modificar su órbita. El objeto elegido fue Dimorphos, un asteroide de entre 150 y 170 metros que se encuentra a unos 196 millones de kilómetros de la Tierra,…",
+   "image": "https://i.blogs.es/5d4586/hera-esa/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "topics": []
+  },
+  {
+   "title": "El Xiaomi POCO más ambicioso de la historia no se pierde el Black Friday. Ya está de oferta y viene con un subwoofer firmado por Bose",
+   "link": "https://www.xataka.com/seleccion/xiaomi-poco-ambicioso-historia-no-se-pierde-black-friday-esta-oferta-viene-subwoofer-firmado-bose",
+   "date": "2026-11-25T13:46:25+00:00",
+   "summary": "Hay marcas que buscan diferenciarse del resto, y Xiaomi lo hizo el año pasado con un excelente móvil como lo era (y es) el POCO F8 Ultra. Con el paso de los meses hemos visto llegar una nueva generación con el POCO F9 Ultra y, sin lugar a dudas, se trata del móvil más ambicioso…",
+   "image": "https://i.blogs.es/bc6193/poco-f9-ultra/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Sam’s Club tendrá horario especial este 25 de noviembre; consulta los horarios de sus tiendas",
+   "link": "https://www.merca20.com/sams-club-tendra-horario-especial-este-25-de-noviembre-consulta-los-horarios-de-sus-tiendas/?utm_source=rss&utm_medium=rss&utm_campaign=sams-club-tendra-horario-especial-este-25-de-noviembre-consulta-los-horarios-de-sus-tiendas",
+   "date": "2026-11-25T13:41:05+00:00",
+   "summary": "Sam’s Club tendrá horarios especiales este 25 de noviembre en sus clubes de México",
+   "image": "https://files.merca20.com/uploads/2026/11/sams-club-horario-25-nov-foto-sams-club.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Jensen Huang se disculpa con los empleados y dice que está en terapia. Quien no tiene remedio es Nvidia",
+   "link": "https://www.xataka.com/empresas-y-economia/jensen-huang-se-disculpa-empleados-dice-que-esta-terapia-quien-no-tiene-remedio-nvidia",
+   "date": "2026-11-25T13:40:21+00:00",
+   "summary": "El de ayer no fue un martes cualquiera para Nvidia. Sus empleados esperaban nerviosos a Jensen Huang en las escaleras y balcones de la sede de Nvidia en Santa Clara. Al verlo llegar, la plantilla de Nvidia se deshizo en aplausos y, tal como recogía el Wall Street Journal,…",
+   "image": "https://i.blogs.es/74d594/jensen/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "topics": []
+  },
+  {
+   "title": "Por qué vale la pena tener acceso a un modelo de IA ‘sin censura’: yo me reservo uno para las tareas más delicadas",
+   "link": "https://www.xataka.com/robotica-e-ia/que-vale-pena-tener-acceso-a-modelo-ia-censura-yo-me-reservo-uno-para-tareas-delicadas",
+   "date": "2026-11-25T13:30:23+00:00",
+   "summary": "Tener acceso a una IA no suele ser suficiente, por diversos motivos. Si eres como yo y utilizas los modelos para multitud de tareas, el uso se agota más rápido que las patatas fritas en un buffet libre. Además, no todas las herramientas sirven para lo mismo: combinar sus…",
+   "image": "https://i.blogs.es/d0f072/imagen-sin-censura-portada-2/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "topics": []
+  },
+  {
+   "title": "Kraft Heinz isn’t afraid to get cheesy with its NFL sponsorship",
+   "link": "https://www.marketingbrew.com/stories/nfl-sponsorship-kraft-heinz-velveeta-cheese-pylons?utm_source=&utm_medium=syndication&utm_campaign=feed",
+   "date": "2026-11-25T13:24:49+00:00",
+   "summary": "The company, halfway through year one of a five-year deal with the league, has already seen signs that its quirky activations are driving results.",
+   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80,trim=428;0;428;0/https://storage.morningbrew.com/image/2026-11-24/image-76f7d560e10452da0763d9df41179446e5558327-8192x5464-jpg/VelveetaPylon2.jpg",
+   "source": "Marketing Brew",
+   "category": "marketing",
+   "lang": "en",
+   "type": "newsletter",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "topics": []
+  },
+  {
+   "title": "Europa prepara 50.000 millones de euros para sus empresas de tecnología. La pregunta es si es suficiente para competir con EEUU y China",
+   "link": "https://www.xataka.com/empresas-y-economia/europa-prepara-50-000-millones-euros-para-sus-empresas-tecnologia-pregunta-suficiente-para-competir-eeuu-china",
+   "date": "2026-11-25T13:17:00+00:00",
+   "summary": "La Unión Europea está decidida a evitar que las empresas tecnológicas europeas terminen desarrollándose bajo el control de capital procedente de EEUU o China. Para evitarlo, según Financial Times, Bruselas está preparando un fondo de hasta 50.000 millones de euros denominado…",
+   "image": "https://i.blogs.es/7b55a4/asml_berlin_cleanroom_007/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "topics": []
+  },
   {
    "title": "Termina el Black Friday de PcComponentes con las últimas ofertas en MacBooks, teles, portátiles gaming y más",
    "link": "https://www.xataka.com/seleccion/termina-black-friday-pccomponentes-ultimas-ofertas-macbooks-teles-portatiles-gaming",
@@ -190,8 +398,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T13:17:47.906371+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T13:17:47.906371+00:00",
    "topics": [
     "seo"
    ]
@@ -241,6 +449,36 @@
    ]
   },
   {
+   "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+   "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+   "date": "2026-11-25T13:00:00+00:00",
+   "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249127237.jpg?resize=1200,800",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Agencias de medios: Publicis Media lidera por ahora el maratón global del nuevo negocio en 2026",
+   "link": "https://www.marketingdirecto.com/marketing-general/agencias/agencias-medios-publicis-media-lidera-maraton-global-nuevo-negocio-2026",
+   "date": "2026-11-25T12:57:35+00:00",
+   "summary": "Publicis Media lideró la generación de nuevo negocio durante los nueve primeros meses del año con mucha holgura con respecto a sus rivales.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/publicis-groupe-nuevo-negocio.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
    "title": "Las dos posturas frente a la música creada con IA: Tidal la prohibe mientras que el artista virtual Antonio Roma tirunfa en Spotify",
    "link": "https://www.reasonwhy.es/actualidad/postura-plataformas-audio-musica-inteligencia-artificial-tidal-spotify",
    "date": "2026-11-25T12:53:00+00:00",
@@ -263,8 +501,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T13:17:47.906371+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T13:17:47.906371+00:00",
    "topics": [
     "seo",
     "publicidad"
@@ -286,6 +524,20 @@
    ]
   },
   {
+   "title": "Yatekomo conquista Madrid y Barcelona con su receta de noodles 100% naturales",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/yatekomo-conquista-madrid-barcelona-noodles-naturales",
+   "date": "2026-11-25T12:41:30+00:00",
+   "summary": "GBfoods Europe lleva su nueva receta a las calles con degustaciones gratuitas en un food truck en Madrid y Barcelona.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Yatekomo-conquista-Madrid-y-Barcelona-con-su-receta-de-noodles-naturales.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
    "title": "Bing Image Search Ask Visual Search Button",
    "link": "https://www.seroundtable.com/bing-search-ask-visual-search-image-button-42590.html",
    "date": "2026-11-25T12:41:00+00:00",
@@ -295,8 +547,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T13:17:47.906371+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T13:17:47.906371+00:00",
    "topics": [
     "seo"
    ]
@@ -311,8 +563,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T13:17:47.906371+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T13:17:47.906371+00:00",
    "topics": [
     "seo"
    ]
@@ -340,18 +592,47 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T13:17:47.906371+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T13:17:47.906371+00:00",
    "topics": [
     "seo"
    ]
   },
   {
-   "title": "Amazon venderá coches en Reino Unido y tiene la mejor baza para convencernos: que no hablemos con humanos",
+   "title": "PepsiCo cambia su estrategia de bebidas: menos dependencia del refresco tradicional y más inversiones en Gatorade, Celsius y Pepsi Zero Sugar",
+   "link": "https://www.merca20.com/pepsico-cambia-su-estrategia-de-bebidas-menos-dependencia-del-refresco-tradicional-y-mas-inversiones-en-gatorade-celsius-y-pepsi-zero-sugar/?utm_source=rss&utm_medium=rss&utm_campaign=pepsico-cambia-su-estrategia-de-bebidas-menos-dependencia-del-refresco-tradicional-y-mas-inversiones-en-gatorade-celsius-y-pepsi-zero-sugar",
+   "date": "2026-11-25T12:20:09+00:00",
+   "summary": "La nueva estrategia de PepsiCo refleja cómo la industria de bebidas está diversificando sus portafolios: los refrescos siguen siendo relevantes, pero el crecimiento futuro dependerá cada vez más de ofrecer productos para diferentes necesidades, preferencias y ocasiones de…",
+   "image": "https://files.merca20.com/uploads/2026/06/PROPEL-GATORADE-cortesia-PEPSICO-NEWSROOM-4.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "topics": []
+  },
+  {
+   "title": "Cómo proteger a los adolescentes del algoritmo de TikTok: las propuestas de los expertos",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/como-proteger-adolescentes-algoritmo-tiktok-propuestas-expertos",
+   "date": "2026-11-25T12:20:07+00:00",
+   "summary": "Camino López García (UOC) plantea incorporar una herramienta que permita a los menores definir qué contenidos quieren consumir, cuáles prefieren evitar y cuánto tiempo desean permanecer en la plataforma.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2025/10/tiktok-red-algoritmica.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "og_tried": true,
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "Amazon venderá coches online en Reino Unido en 2027 con Tesla como gran referente",
    "link": "https://www.xataka.com/movilidad/amazon-vendera-coches-reino-unido-tiene-mejor-baza-para-convencernos-que-no-hablemos-humanos",
-   "date": "2026-11-25T12:18:44+00:00",
+   "date": "2026-11-25T12:18:00+00:00",
    "summary": "Amazon Autos llega a Reino Unido. Es el primer paso para su expansión fuera de Estados Unidos donde la compañía hace tiempo que vende coches online. Pero, ¿realmente los vende? ¿Cómo es comprarse un coche por Amazon? ¿Qué diferencias hay con el proceso tradicional de comprarse…",
-   "image": "https://i.blogs.es/0ba57d/amazon-coches/1024_2000.jpeg",
+   "image": "https://i.blogs.es/c862a0/diseno-de-coche-rojo-en-el-portatil/1024_2000.png",
    "source": "Xataka",
    "category": "tech",
    "lang": "es",
@@ -414,8 +695,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T13:17:47.906371+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T13:17:47.906371+00:00",
    "topics": [
     "seo"
    ]
@@ -473,11 +754,24 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T13:17:47.906371+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T13:17:47.906371+00:00",
    "topics": [
     "seo"
    ]
+  },
+  {
+   "title": "Mientras los mexicanos compran Lonchibón y Vikingos en el OXXO, en Alemania FEMSA vende pretzels y pizzas de Ditsch",
+   "link": "https://www.merca20.com/mientras-los-mexicanos-compran-lonchibon-y-vikingos-en-el-oxxo-en-alemania-femsa-vende-pretzels-y-pizzas-de-ditsch/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-los-mexicanos-compran-lonchibon-y-vikingos-en-el-oxxo-en-alemania-femsa-vende-pretzels-y-pizzas-de-ditsch",
+   "date": "2026-11-25T12:01:44+00:00",
+   "summary": "En México, OXXO combina productos listos para consumir, marcas reconocidas como Lonchibón de Bimbo; mientras que en Alemania, Ditsch concentra una propuesta en productos especializados de panadería",
+   "image": "https://files.merca20.com/uploads/2026/11/OXXO-DITSCH-FOTO-LAURA-ISLAS-Y-CORTESIA-FEMSA-4.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "topics": []
   },
   {
    "title": "Mientras Barbie pierde ventas, KPop Demon Hunters de Netflix impulsa el negocio de muñecas de Mattel en 2026",
@@ -1125,6 +1419,22 @@
    "first_seen": "2026-11-25T10:32:32.718091+00:00",
    "topics": [
     "ecommerce"
+   ]
+  },
+  {
+   "title": "AI Agent Traffic to Surge 150x This Cyber Week, Driven Mostly by Meta Muse",
+   "link": "https://www.adweek.com/commerce/ai-agent-traffic-to-surge-150x-this-cyber-week-driven-mostly-by-meta-muse/",
+   "date": "2026-11-25T09:13:52+00:00",
+   "summary": "Meta's popular personal assistant Muse accounts for the vast majority of agent-led site requests, new data indicates.",
+   "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=600&h=315&crop=1",
+   "source": "Adweek",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T14:41:53.339064+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
    ]
   },
   {
@@ -8969,19 +9279,6 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [],
    "og_tried": true
-  },
-  {
-   "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
-   "link": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
-   "date": "2026-11-15T13:31:28+00:00",
-   "summary": "Listen now | Mona Sarantakos on going from a weekend with OpenClaw to shipping the fastest-growing consumer AI product in history",
-   "image": "https://substackcdn.com/image/fetch/$s_!rRh7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb505beb0-3925-48b7-a1be-fec2a7cc272e_1920x1080.png",
-   "source": "Lenny's Newsletter",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
   }
  ]
 }
