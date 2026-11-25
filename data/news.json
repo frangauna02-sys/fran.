@@ -1,11 +1,9 @@
 {
- "updated": "2026-11-25T07:58:15.082075+00:00",
- "sources_ok": 31,
+ "updated": "2026-11-25T09:04:20.925405+00:00",
+ "sources_ok": 32,
  "sources_total": 32,
- "sources_failed": [
-  "Reason Why"
- ],
- "count": 534,
+ "sources_failed": [],
+ "count": 541,
  "trends": [
   {
    "term": "jensen huang",
@@ -18,14 +16,14 @@
    "growth": 7.5
   },
   {
+   "term": "black friday",
+   "count": 22,
+   "growth": 16.1
+  },
+  {
    "term": "nvidia",
    "count": 28,
    "growth": 12.7
-  },
-  {
-   "term": "black friday",
-   "count": 21,
-   "growth": 15.4
   },
   {
    "term": "navidad",
@@ -63,6 +61,11 @@
    "growth": 3.5
   },
   {
+   "term": "euros",
+   "count": 8,
+   "growth": 9.0
+  },
+  {
    "term": "amazon",
    "count": 8,
    "growth": 4.8
@@ -73,7 +76,7 @@
    "growth": 4.9
   },
   {
-   "term": "euros",
+   "term": "menos",
    "count": 7,
    "growth": 8.0
   },
@@ -88,17 +91,96 @@
    "growth": 4.9
   },
   {
-   "term": "menos",
-   "count": 6,
-   "growth": 7.0
-  },
-  {
    "term": "media",
    "count": 6,
    "growth": 4.9
   }
  ],
  "items": [
+  {
+   "title": "¿Trend or Hype?: Cómo sobrevivir a la fiebre tecnológica cuando el yo virtual y el real se confunden",
+   "link": "https://www.marketingdirecto.com/especiales/reportajes-a-fondo/trend-or-hype-sobrevivir-fiebre-tecnologica",
+   "date": "2026-11-25T08:42:16+00:00",
+   "summary": "En el nuevo capítulo del podcast de MarketingDirecto.com y Publicis Groupe, Alfredo Torres y Jorge Morata repasan las claves tecnológicas del observatorio Trend or Hype y explican cómo posicionar una marca cuando son los propios modelos de lenguaje quienes prescriben qué comprar.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/MASTER-2.00_01_57_01.Still001.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T09:04:20.925405+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Gentle Monster presenta sus gafas inteligentes con un cortometraje surrealista junto a Joaquin Phoenix",
+   "link": "https://www.reasonwhy.es/actualidad/gentle-monster-cortometraje-surrealista-joaquin-phoenix-gafas-inteligentes",
+   "date": "2026-11-25T08:31:00+00:00",
+   "summary": "La marca promociona la colección con un universo fantástico en el que lo extraordinario forma parte de la cotidianidad.",
+   "image": "https://www.reasonwhy.es/media/library/gentle-monster-gafas-inteligentes.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T09:04:20.925405+00:00",
+   "topics": []
+  },
+  {
+   "title": "El móvil bueno, bonito y por menos de 300 euros durante el Black Friday. Un Nothing que destaca hasta por su cámara principal",
+   "link": "https://www.xataka.com/seleccion/movil-bueno-bonito-300-euros-durante-black-friday-nothing-que-destaca-su-camara-principal",
+   "date": "2026-11-25T08:30:23+00:00",
+   "summary": "El precio de los móviles se ha disparado por la crisis de la memoria RAM, pero afortunadamente podemos encontrara algunos smartphones que se siguen manteniendo con precios comedidos, sobre todo ahora durante el Black Friday. Si queremos un móvil que no sobrepase los 300 euros,…",
+   "image": "https://i.blogs.es/7a0abb/nothing-phone-4b-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T09:04:20.925405+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Instagram no escucha las conversaciones para saber qué anuncios mostrar, según Adam Mosseri",
+   "link": "https://www.reasonwhy.es/actualidad/instagram-no-escucha-conversaciones-usuarios-personalizacion-publicidad-adam-mosseri",
+   "date": "2026-11-25T08:28:00+00:00",
+   "summary": "Adam Mosseri ha asegurado en un vídeo que todo responde a la capacidad predictiva de la tecnología publicitaria de Meta.",
+   "image": "https://www.reasonwhy.es/media/library/chica-mirando-movil-instagram.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T09:04:20.925405+00:00",
+   "topics": [
+    "redes",
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Un agricultor uruguayo quería sustituir los herbicidas. Ha acabado inventando el negocio del siglo: las ovejas cortacésped que no miran hacia arriba",
+   "link": "https://www.xataka.com/ecologia-y-naturaleza/agricultor-uruguayo-queria-sustituir-herbicidas-ha-acabado-inventando-negocio-siglo-ovejas-cortacesped-que-no-puede-mirar-arriba",
+   "date": "2026-11-25T08:02:59+00:00",
+   "summary": "En la agricultura hay problemas que se resuelven con maquinaria de última generación, otros con productos químicos y algunos con una buena dosis de imaginación. En Uruguay, un productor de limones ecológicos acabó desarrollando un insólito invento después de descubrir que sus…",
+   "image": "https://i.blogs.es/87264a/ovejas-con-bozales-entre-vinedos-verdosos/1024_2000.png",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T09:04:20.925405+00:00",
+   "topics": []
+  },
+  {
+   "title": "Walmart mantiene sin cambios los precios de 4,000 productos durante 90 días y este fue el resultado de su estrategia",
+   "link": "https://www.merca20.com/walmart-mantiene-sin-cambios-los-precios-de-4000-productos-durante-90-dias-y-este-fue-el-resultado-de-su-estrategia/?utm_source=rss&utm_medium=rss&utm_campaign=walmart-mantiene-sin-cambios-los-precios-de-4000-productos-durante-90-dias-y-este-fue-el-resultado-de-su-estrategia",
+   "date": "2026-11-25T08:00:59+00:00",
+   "summary": "Durante 2026, Walmart de México y Centroamérica (Walmex) implementó la iniciativa denominada \"Precios que No se Tocan\"",
+   "image": "https://files.merca20.com/uploads/2026/08/walmart-precios-que-no-se-tocan-foto-laura-islas-merca20.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T09:04:20.925405+00:00",
+   "topics": []
+  },
   {
    "title": "Gráfica del día: ¿Cuáles son los mejores restaurantes de México?",
    "link": "https://www.merca20.com/grafica-del-dia-cuales-son-los-mejores-restaurantes-de-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=grafica-del-dia-cuales-son-los-mejores-restaurantes-de-mexico",
@@ -164,6 +246,20 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-25T07:58:15.082075+00:00",
+   "topics": []
+  },
+  {
+   "title": "El Tamagotchi: 30 años del juguete que marcó generaciones (y ahora nos hace sentir viejos)",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/tamagotchi-30-anos-juguete-generaciones-sentirnos-viejos",
+   "date": "2026-11-25T07:00:00+00:00",
+   "summary": "El pequeño huevo electrónico que requería tantos cuidados cumple tres décadas de historia, habiéndose convertido en icono de los noventa.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Tamagotchi-aniversario.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T09:04:20.925405+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
