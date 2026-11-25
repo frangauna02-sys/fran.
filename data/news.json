@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T09:04:20.925405+00:00",
+ "updated": "2026-11-25T10:32:32.718091+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 541,
+ "count": 560,
  "trends": [
   {
    "term": "jensen huang",
@@ -11,14 +11,14 @@
    "growth": 17.8
   },
   {
+   "term": "black friday",
+   "count": 23,
+   "growth": 16.8
+  },
+  {
    "term": "google",
    "count": 29,
    "growth": 7.5
-  },
-  {
-   "term": "black friday",
-   "count": 22,
-   "growth": 16.1
   },
   {
    "term": "nvidia",
@@ -32,8 +32,13 @@
   },
   {
    "term": "meta",
-   "count": 15,
-   "growth": 5.1
+   "count": 16,
+   "growth": 5.4
+  },
+  {
+   "term": "méxico",
+   "count": 11,
+   "growth": 12.0
   },
   {
    "term": "trump",
@@ -56,6 +61,11 @@
    "growth": 10.0
   },
   {
+   "term": "amazon",
+   "count": 9,
+   "growth": 5.4
+  },
+  {
    "term": "holiday",
    "count": 10,
    "growth": 3.5
@@ -66,14 +76,14 @@
    "growth": 9.0
   },
   {
-   "term": "amazon",
-   "count": 8,
-   "growth": 4.8
-  },
-  {
    "term": "ai agents",
    "count": 6,
    "growth": 4.9
+  },
+  {
+   "term": "marketing",
+   "count": 9,
+   "growth": 3.2
   },
   {
    "term": "menos",
@@ -81,22 +91,265 @@
    "growth": 8.0
   },
   {
-   "term": "anthropic",
-   "count": 8,
-   "growth": 3.3
-  },
-  {
-   "term": "return",
-   "count": 6,
-   "growth": 4.9
-  },
-  {
    "term": "media",
-   "count": 6,
-   "growth": 4.9
+   "count": 7,
+   "growth": 5.6
   }
  ],
  "items": [
+  {
+   "title": "Albert Einstein sobre la pedagogía y educación: “La sobrecarga conduce a la superficialidad. La enseñanza debe ser tal que lo que se ofrece se perciba como un valioso regalo y no como una obligación pesada”",
+   "link": "https://www.merca20.com/albert-einstein-sobre-la-pedagogia-y-educacion-la-sobrecarga-conduce-a-la-superficialidad-la-ensenanza-debe-ser-tal-que-lo-que-se-ofrece-se-perciba-como-un-valioso-regalo-y-no-como-una-obligacion/?utm_source=rss&utm_medium=rss&utm_campaign=albert-einstein-sobre-la-pedagogia-y-educacion-la-sobrecarga-conduce-a-la-superficialidad-la-ensenanza-debe-ser-tal-que-lo-que-se-ofrece-se-perciba-como-un-valioso-regalo-y-no-como-una-obligacion",
+   "date": "2026-11-25T10:21:09+00:00",
+   "summary": "Albert Einstein, físico de origen alemán y ganador del Premio Nobel de Física, defendió una educación capaz de despertar la curiosidad",
+   "image": "https://files.merca20.com/uploads/2026/11/fotoarte-de-albert-einstein-generado-con-gemini-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "topics": []
+  },
+  {
+   "title": "Lo que funciona en un mercado puede fracasar en otro. La importancia de desaprender para liderar sin prejuicios",
+   "link": "https://www.reasonwhy.es/actualidad/luz-luces-sarah-chemouli-banco-santander-liderazgo-prejuicios",
+   "date": "2026-11-25T10:18:00+00:00",
+   "summary": "Sarah Chemouli (Banco Santander) explica en Luz & Luces cómo dos errores transformaron su manera de entender el liderazgo.",
+   "image": "https://www.reasonwhy.es/media/library/sarah-chemouli-luz-luces-1.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "topics": []
+  },
+  {
+   "title": "John Dewey, pedagogo, sobre la educación: “La creencia de que toda educación auténtica procede de la experiencia no significa que todas las experiencias sean igualmente educativas”",
+   "link": "https://www.merca20.com/john-dewey-pedagogo-sobre-la-educacion-la-creencia-de-que-toda-educacion-autentica-procede-de-la-experiencia-no-significa-que-todas-las-experiencias-sean-igualmente-educativas/?utm_source=rss&utm_medium=rss&utm_campaign=john-dewey-pedagogo-sobre-la-educacion-la-creencia-de-que-toda-educacion-autentica-procede-de-la-experiencia-no-significa-que-todas-las-experiencias-sean-igualmente-educativas",
+   "date": "2026-11-25T10:11:01+00:00",
+   "summary": "Para John Dewey, lo verdaderamente importante era la calidad de las experiencias y su capacidad para favorecer el desarrollo intelectual y personal de los estudiantes",
+   "image": "https://files.merca20.com/uploads/2026/11/John-Dewey-gemini-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "topics": []
+  },
+  {
+   "title": "Los espacios físicos son activos de comunicación y utilizarlos de manera personalizada debería ser rentable",
+   "link": "https://www.reasonwhy.es/actualidad/luz-luces-sarah-chemouli-banco-santander-escaparates-sucursales-soporte-publicitario",
+   "date": "2026-11-25T10:11:00+00:00",
+   "summary": "Sarah Chemouli (Banco Santander) explica en Luz & Luces que la entidad quiere usar sus cristaleras para comunicar.",
+   "image": "https://www.reasonwhy.es/media/library/sarah-chemouli-luz-luces-ok.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "topics": []
+  },
+  {
+   "title": "Más allá del paid media: Por qué el marketing educativo necesita una estrategia 360º",
+   "link": "https://marketing4ecommerce.net/marketing-educativo-paid-media-seo-captacion-alumnos/",
+   "date": "2026-11-25T10:06:31+00:00",
+   "summary": "Descubre cómo combinar SEO, contenidos y publicidad para acompañar al futuro estudiante durante todo su proceso de decisión educativa.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/javier-fernandez-sciremk.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "topics": [
+    "seo",
+    "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Cinco preguntas para reducir el margen de error en la toma de decisiones y dar autonomía a los equipos",
+   "link": "https://www.reasonwhy.es/actualidad/luz-luces-sarah-chemouli-banco-santander-preguntas-ayudan-definir-estrategia",
+   "date": "2026-11-25T10:06:00+00:00",
+   "summary": "La Directora de Marketing en Banco Santander comparte en Luz & Luces el modelo que utiliza para la toma de decisiones.",
+   "image": "https://www.reasonwhy.es/media/library/sarah-chemouli-luz-luces-3.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "topics": []
+  },
+  {
+   "title": "Aristóteles sobre el dinero: “La riqueza no es el bien que buscamos, pues solo es útil como medio para conseguir otra cosa”",
+   "link": "https://www.merca20.com/aristoteles-sobre-el-dinero-la-riqueza-no-es-el-bien-que-buscamos-pues-solo-es-util-como-medio-para-conseguir-otra-cosa/?utm_source=rss&utm_medium=rss&utm_campaign=aristoteles-sobre-el-dinero-la-riqueza-no-es-el-bien-que-buscamos-pues-solo-es-util-como-medio-para-conseguir-otra-cosa",
+   "date": "2026-11-25T10:01:52+00:00",
+   "summary": "Aristóteles plantea que el valor del dinero reside en aquello que permite conseguir y no necesariamente en su acumulación",
+   "image": "https://files.merca20.com/uploads/2026/11/ARISTOTELES-gemini-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "topics": []
+  },
+  {
+   "title": "Las Meta Quest 3S bajan de precio durante el Black Friday y vienen con un regalazo: uno de los mejores remakes de Resident Evil",
+   "link": "https://www.xataka.com/seleccion/meta-quest-3s-bajan-precio-durante-black-friday-vienen-regalazo-uno-mejores-remakes-resident-evil",
+   "date": "2026-11-25T10:01:01+00:00",
+   "summary": "Aunque las gafas de realidad virtual parece que no llegan a despegar del todo, siguen recibiendo títulos muy atractivos. Si llevamos mucho tiempo queriendo dar el salto a este tipo de tecnología, las Meta Quest 3S son una de las gafas con mejor relación calidad-precio, sobre…",
+   "image": "https://i.blogs.es/a3a69e/meta-quest-3s/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Los supermercados llevan años debatiendo los pros y contras de aplicar precios dinámicos. En Málaga han pasado a la acción",
+   "link": "https://www.xataka.com/magnet/supermercados-llevan-anos-debatiendo-pros-contras-aplicar-precios-dinamicos-malaga-han-pasado-a-accion",
+   "date": "2026-11-25T10:01:01+00:00",
+   "summary": "Un vuelo no cuesta lo mismo un día cualquiera de marzo que justo antes de Navidades, igual que no pagamos lo mismo por una habitación de hotel en temporada alta o un servicio de Uber en pleno pico de demanda. Son cosas que a nadie sorprenden porque en España (igual que en otros…",
+   "image": "https://i.blogs.es/c7e094/empleadas-reponiendo-productos-en-supermercado/1024_2000.png",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "topics": []
+  },
+  {
+   "title": "AI is straining America’s open records systems",
+   "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+   "date": "2026-11-25T10:00:00+00:00",
+   "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure…",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/loc-sales2a.jpg?resize=1200,600",
+   "source": "MIT Technology Review",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "How Hundy landed on the ‘Hexed’ red carpet",
+   "link": "https://www.marketingbrew.com/stories/hundy-disney-hexed-red-carpet-brand-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+   "date": "2026-11-25T10:00:00+00:00",
+   "summary": "Ahead of its launch into retailers nationwide, the frozen fruit-pop brand made a big brand awareness play at the premiere of the Disney animated film.",
+   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80,trim=78;0;78;0/https://storage.morningbrew.com/image/2026-11-24/image-c8c605e20277104da4004836c6633335a87fbaee-1500x1000-png/UntitledDesign2.png",
+   "source": "Marketing Brew",
+   "category": "marketing",
+   "lang": "en",
+   "type": "newsletter",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Cheetos México crea un micrófono con la forma de su snack para creadores de contenido",
+   "link": "https://www.reasonwhy.es/actualidad/cheetos-mexico-microfono-forma-snack-creadores-contenido",
+   "date": "2026-11-25T09:50:00+00:00",
+   "summary": "La marca busca integrarse en el lenguaje digital y llevar su personalidad desenfadada a los contenidos.",
+   "image": "https://www.reasonwhy.es/media/library/cheetos-mexico-microfono.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "Tidal va a borrar 27 millones de canciones hechas con IA. El 96% no ha sonado ni una vez en tres meses",
+   "link": "https://www.xataka.com/musica/tidal-va-a-borrar-27-millones-canciones-hechas-ia-96-no-ha-sonado-vez-tres-meses",
+   "date": "2026-11-25T09:46:39+00:00",
+   "summary": "Tidal empieza el 9 de diciembre a borrar de su catálogo todas las canciones generadas íntegramente con IA, unos 27 millones de temas en total. La purga es enorme pero, a juzgar por los datos que proporciona la propia plataforma, casi ningún suscriptor va a notar los cambios: el…",
+   "image": "https://i.blogs.es/ce96db/captura-de-pantalla-2026-11-25-a-las-9.36.42/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "topics": []
+  },
+  {
+   "title": "Perrhijos: ¿y si el próximo influenciador en el punto de venta tiene cuatro patas?",
+   "link": "https://www.merca20.com/perrhijos-marketing-punto-de-venta/?utm_source=rss&utm_medium=rss&utm_campaign=perrhijos-marketing-punto-de-venta",
+   "date": "2026-11-25T09:45:40+00:00",
+   "summary": "Algunos supermercados permiten hacer las compras acompañado por perros. La iniciativa abre una discusión sobre cómo las marcas podrían incorporar a las mascotas en sus estrategias comerciales.",
+   "image": "https://files.merca20.com/uploads/2026/11/Compras-con-mascota-en-el-supermercado.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "ESIC University inviste a Pablo Isla como su primer doctor honoris causa",
+   "link": "https://www.marketingdirecto.com/marketing-general/eventos-y-formacion/esic-university-inviste-pablo-isla-primer-doctor-honoris-causa",
+   "date": "2026-11-25T09:20:49+00:00",
+   "summary": "La Universidad reconoce la trayectoria internacional del directivo y su contribución a la transformación empresarial, la digitalización y la sostenibilidad",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/DoctorHonorisCausa-PabloIsla-2.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Las gangas del día hoy, 25 de noviembre en Amazon, MediaMarkt, Ninja y más",
+   "link": "https://www.xataka.com/seleccion/gangas-dia-hoy-25-noviembre-amazon-mediamarkt-ninja",
+   "date": "2026-11-25T09:17:04+00:00",
+   "summary": "No ha llegado aún el Black Friday (que tiene lugar oficialmente este viernes, 27 de noviembre) pero prácticamente todas las tiendas tienen ya activas miles de ofertas. Y entre los chollos disponibles hoy, miércoles 25, destacamos todos estos: Nintendo Switch 2 Hoy en Amazon —…",
+   "image": "https://i.blogs.es/bcf3d7/gangas-dia/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "LG se lleva el premio a mejor televisor innovador no por llamar la atención en el salón, sino por querer desaparecer de él",
+   "link": "https://www.xataka.com/televisores/lg-se-lleva-premio-a-mejor-televisor-innovador-no-llamar-atencion-salon-sino-querer-desaparecer",
+   "date": "2026-11-25T09:00:59+00:00",
+   "summary": "Durante años, la innovación en televisores se centraba en hacer paneles de más resolución, con negros más profundos, más brillantes y con la mejor tecnología. Hay otro frente en el que los fabricantes están empujando cada vez más y es el diseño, concretamente en hacer que la…",
+   "image": "https://i.blogs.es/cc488e/lg-oled-evo-w6-ai/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "topics": []
+  },
+  {
+   "title": "Scrooge es un apuesto galán con el rostro de Jonathan Bailey en el spot navideño de Verizon",
+   "link": "https://www.marketingdirecto.com/campanas-navidenas/scrooge-es-apuesto-galan-rostro-jonathan-bailey-spot-navideno-verizon",
+   "date": "2026-11-25T08:59:31+00:00",
+   "summary": "Verizon ha fichado a Jonathan Bailey, que fue ungido el año pasado con el título de hombre más sexy del mundo por la revista People, para meterse en la piel de Mr. Scrooge.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/verizon-jonathan-bailey.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
   {
    "title": "¿Trend or Hype?: Cómo sobrevivir a la fiebre tecnológica cuando el yo virtual y el real se confunden",
    "link": "https://www.marketingdirecto.com/especiales/reportajes-a-fondo/trend-or-hype-sobrevivir-fiebre-tecnologica",
@@ -107,8 +360,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-25T09:04:20.925405+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T09:04:20.925405+00:00",
    "topics": []
   },
   {
@@ -258,8 +511,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-25T09:04:20.925405+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T09:04:20.925405+00:00",
    "topics": []
   },
   {
@@ -316,6 +569,22 @@
    "type": "article",
    "first_seen": "2026-11-25T06:25:29.407584+00:00",
    "topics": []
+  },
+  {
+   "title": "6 Brands Going Big at the 2026 Macy’s Thanksgiving Day Parade: Planters, Levi’s and More",
+   "link": "https://www.adweek.com/brand-marketing/6-brands-going-big-at-the-2026-macys-thanksgiving-day-parade-planters-levis-and-more/",
+   "date": "2026-11-25T05:20:17+00:00",
+   "summary": "Mr. Peanut returns, while Fuzzyeti makes his debut at the event's 100th edition.",
+   "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/mr-peanut-macys-parade.png?w=600&h=315&crop=1",
+   "source": "Adweek",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
   },
   {
    "title": "Digiday+ Research: A-Frame Brands, Ritual and other brands prioritize new customer acquisition this holiday season",
@@ -852,19 +1121,6 @@
    "topics": []
   },
   {
-   "title": "Microsoft declara un \"Código Rojo\" tras la caída global de 24 horas que afectó a Outlook, Teams y otros servicios",
-   "link": "https://www.xataka.com/aplicaciones/microsoft-declara-codigo-rojo-caida-global-24-horas-que-afecto-a-outlook-teams-otros-servicios",
-   "date": "2026-11-24T21:01:02+00:00",
-   "summary": "Puede que el pasado 13 de noviembre tuvieras problemas para consultar tu correo electrónico o que algún compañero de trabajo te comentara que Outlook no funcionaba correctamente. Quizás ni siquiera utilices las herramientas de Microsoft, pero es posible que las empresas con las…",
-   "image": "https://i.blogs.es/c90e58/microsoft/1024_2000.jpeg",
-   "source": "Xataka",
-   "category": "tech",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T21:54:12.843015+00:00",
-   "topics": []
-  },
-  {
    "title": "Godzilla Minus Zero tendrá una segunda oportunidad en cines: fecha oficial en la que se proyectará la versión en blanco y negro",
    "link": "https://www.merca20.com/godzilla-minus-zero-tendra-una-segunda-oportunidad-en-cines-fecha-oficial-en-la-que-se-proyectara-la-version-en-blanco-y-negro/?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-tendra-una-segunda-oportunidad-en-cines-fecha-oficial-en-la-que-se-proyectara-la-version-en-blanco-y-negro",
    "date": "2026-11-24T21:00:33+00:00",
@@ -872,6 +1128,19 @@
    "image": "https://files.merca20.com/uploads/2026/10/bigstock-Empty-Movie-Theatre-Cinema-Ha-318290341.jpg",
    "source": "Merca2.0",
    "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-24T21:54:12.843015+00:00",
+   "topics": []
+  },
+  {
+   "title": "Microsoft declara un \"Código Rojo\" tras la caída global de 24 horas que afectó a Outlook, Teams y otros servicios",
+   "link": "https://www.xataka.com/aplicaciones/microsoft-declara-codigo-rojo-caida-global-24-horas-que-afecto-a-outlook-teams-otros-servicios",
+   "date": "2026-11-24T21:00:00+00:00",
+   "summary": "Puede que el pasado 13 de noviembre tuvieras problemas para consultar tu correo electrónico o que algún compañero de trabajo te comentara que Outlook no funcionaba correctamente. Quizás ni siquiera utilices las herramientas de Microsoft, pero es posible que las empresas con las…",
+   "image": "https://i.blogs.es/c90e58/microsoft/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T21:54:12.843015+00:00",

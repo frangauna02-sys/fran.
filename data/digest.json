@@ -3,104 +3,205 @@
   "intro": "Los titulares más recientes de IA y marketing.",
   "stories": [
    {
-    "title": "Aprovecha descuentos de hasta el 60% en electrodomésticos gracias al Black Friday de AEG",
-    "summary": "La celebración del Black Friday ya está llegando a su punto álgido, a pesar de que el auténtico viernes negro será el próximo 27 de noviembre. Sin embargo, prácticamente todas las marcas llevan varias semanas con descuentos, como por ejemplo ocurre con AEG y su Black November.…",
+    "title": "AI is straining America’s open records systems",
+    "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure…",
     "why": "",
-    "link": "https://www.xataka.com/seleccion/aprovecha-descuentos-60-electrodomesticos-gracias-al-black-friday-aeg",
-    "source": "Xataka",
-    "category": "ia",
-    "original_title": "Aprovecha descuentos de hasta el 60% en electrodomésticos gracias al Black Friday de AEG"
-   },
-   {
-    "title": "Raising the stakes for enterprise networks with AI modernization",
-    "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more…",
-    "why": "",
-    "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+    "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
     "source": "MIT Technology Review",
     "category": "ia",
-    "original_title": "Raising the stakes for enterprise networks with AI modernization"
+    "original_title": "AI is straining America’s open records systems"
    },
    {
-    "title": "Este es el smartwatch que me compraría durante el Black Friday: en diseño se parece a un Apple Watch y tiene mucha autonomía",
-    "summary": "Durante el Black Friday 2026 estamos viendo muy buenas ofertas en smartwatches, ya tengan diseños más elegantes o que estén orientados al deporte. El Huawei Watch Fit 4 tiene una de las mejores relaciones calidad-precio, sobre todo ahora que se encuentra en Amazon por 99 euros.…",
+    "title": "Tidal va a borrar 27 millones de canciones hechas con IA. El 96% no ha sonado ni una vez en tres meses",
+    "summary": "Tidal empieza el 9 de diciembre a borrar de su catálogo todas las canciones generadas íntegramente con IA, unos 27 millones de temas en total. La purga es enorme pero, a juzgar por los datos que proporciona la propia plataforma, casi ningún suscriptor va a notar los cambios: el…",
     "why": "",
-    "link": "https://www.xataka.com/seleccion/este-smartwatch-que-me-compraria-durante-black-friday-diseno-se-parece-a-apple-watch-tiene-mucha-autonomia",
+    "link": "https://www.xataka.com/musica/tidal-va-a-borrar-27-millones-canciones-hechas-ia-96-no-ha-sonado-vez-tres-meses",
     "source": "Xataka",
     "category": "ia",
-    "original_title": "Este es el smartwatch que me compraría durante el Black Friday: en diseño se parece a un Apple Watch y tiene mucha autonomía"
+    "original_title": "Tidal va a borrar 27 millones de canciones hechas con IA. El 96% no ha sonado ni una vez en tres meses"
    },
    {
-    "title": "El mejor televisor de 2026 es MicroRGB y no OLED. La batalla del televisor de gama alta necesita una explicación",
-    "summary": "Con los aplausos de la gala de entrega de los Premios Xataka Verisure 2026 todavía resonando en los oídos, llega el momento de analizar los resultados que llevaron a la Samsung MicroRGB R95H a ser reconocida por nuestros lectores como el Mejor televisor de gama alta de 2026.…",
+    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+    "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the…",
     "why": "",
-    "link": "https://www.xataka.com/televisores/mejor-televisor-2026-microrgb-no-oled-batalla-televisor-gama-alta-necesita-explicacion",
-    "source": "Xataka",
+    "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "source": "TechCrunch IA",
     "category": "ia",
-    "original_title": "El mejor televisor de 2026 es MicroRGB y no OLED. La batalla del televisor de gama alta necesita una explicación"
+    "original_title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion"
    },
    {
-    "title": "El jefe de IA de Meta duda de que podamos controlar una superinteligencia \"1.000 veces más inteligente\". Hay quien lo llama \"locura de mierda\"",
-    "summary": "Alexandr Wang es uno de los 'Galácticos' de la IA. Es el jefe de IA en Meta y el \"niño prodigio\" que fundó la Scale AI que Zuckerberg adquirió por 14.300 millones de dólares con el único objetivo de que Wang pusiera orden en Meta Superintelligence Labs. Las cosas han ido…",
+    "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+    "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
     "why": "",
-    "link": "https://www.xataka.com/robotica-e-ia/jefe-ia-meta-duda-que-podamos-controlar-superinteligencia-1-000-veces-inteligente-hay-quien-llama-locura-mierda",
-    "source": "Xataka",
+    "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+    "source": "Wired IA",
     "category": "ia",
-    "original_title": "El jefe de IA de Meta duda de que podamos controlar una superinteligencia \"1.000 veces más inteligente\". Hay quien lo llama \"locura de mierda\""
+    "original_title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police"
    },
    {
-    "title": "Google Announces December 2026 Core Update Ahead Of Rollout via @sejournal, @MattGSouthern",
-    "summary": "Google announced a December core update focused on ranking relevant content for longer questions and improving results when personalization is on.",
+    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+    "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
     "why": "",
-    "link": "https://www.searchenginejournal.com/google-december-2026-core-update/598760/",
-    "source": "Search Engine Journal",
-    "category": "marketing",
-    "original_title": "Google Announces December 2026 Core Update Ahead Of Rollout via @sejournal, @MattGSouthern"
+    "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+    "source": "TechCrunch IA",
+    "category": "ia",
+    "original_title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy"
    },
    {
-    "title": "WordPress Drops To 38.4% Of The Web, Down Nearly 5 Points In A Year via @sejournal, @MattGSouthern",
-    "summary": "WordPress fell to 38.4% of all websites as the share with no detected CMS rose to 33.0%.",
+    "title": "Albert Einstein sobre la pedagogía y educación: “La sobrecarga conduce a la superficialidad. La enseñanza debe ser tal que lo que se ofrece se perciba como un valioso regalo y no como una obligación pesada”",
+    "summary": "Albert Einstein, físico de origen alemán y ganador del Premio Nobel de Física, defendió una educación capaz de despertar la curiosidad",
     "why": "",
-    "link": "https://www.searchenginejournal.com/wordpress-drops-to-38-5-of-the-web-down-nearly-5-points-in-a-year/598175/",
-    "source": "Search Engine Journal",
+    "link": "https://www.merca20.com/albert-einstein-sobre-la-pedagogia-y-educacion-la-sobrecarga-conduce-a-la-superficialidad-la-ensenanza-debe-ser-tal-que-lo-que-se-ofrece-se-perciba-como-un-valioso-regalo-y-no-como-una-obligacion/?utm_source=rss&utm_medium=rss&utm_campaign=albert-einstein-sobre-la-pedagogia-y-educacion-la-sobrecarga-conduce-a-la-superficialidad-la-ensenanza-debe-ser-tal-que-lo-que-se-ofrece-se-perciba-como-un-valioso-regalo-y-no-como-una-obligacion",
+    "source": "Merca2.0",
     "category": "marketing",
-    "original_title": "WordPress Drops To 38.4% Of The Web, Down Nearly 5 Points In A Year via @sejournal, @MattGSouthern"
+    "original_title": "Albert Einstein sobre la pedagogía y educación: “La sobrecarga conduce a la superficialidad. La enseñanza debe ser tal que lo que se ofrece se perciba como un valioso regalo y no como una obligación pesada”"
    },
    {
-    "title": "Domino’s revoluciona a la comunidad gamer en las calles tras el lanzamiento de GTA VI",
-    "summary": "La iniciativa involucró a creadores y jugadores en una experiencia omnicanal que conectó Twitch, redes sociales y las calles de la capital.",
+    "title": "Lo que funciona en un mercado puede fracasar en otro. La importancia de desaprender para liderar sin prejuicios",
+    "summary": "Sarah Chemouli (Banco Santander) explica en Luz & Luces cómo dos errores transformaron su manera de entender el liderazgo.",
     "why": "",
-    "link": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/dominos-pizza-gta-vi-calles-lanzamiento-repartidores",
-    "source": "MarketingDirecto",
+    "link": "https://www.reasonwhy.es/actualidad/luz-luces-sarah-chemouli-banco-santander-liderazgo-prejuicios",
+    "source": "Reason Why",
     "category": "marketing",
-    "original_title": "Domino’s revoluciona a la comunidad gamer en las calles tras el lanzamiento de GTA VI"
+    "original_title": "Lo que funciona en un mercado puede fracasar en otro. La importancia de desaprender para liderar sin prejuicios"
    },
    {
-    "title": "Google Confirms November 2026 Core Update Is Complete via @sejournal, @MattGSouthern",
-    "summary": "Google’s November 2026 core update finished Nov. 24, just before a holiday week that could complicate Search Console comparisons for retailers.",
+    "title": "John Dewey, pedagogo, sobre la educación: “La creencia de que toda educación auténtica procede de la experiencia no significa que todas las experiencias sean igualmente educativas”",
+    "summary": "Para John Dewey, lo verdaderamente importante era la calidad de las experiencias y su capacidad para favorecer el desarrollo intelectual y personal de los estudiantes",
     "why": "",
-    "link": "https://www.searchenginejournal.com/google-november-2026-core-update-complete/598751/",
-    "source": "Search Engine Journal",
+    "link": "https://www.merca20.com/john-dewey-pedagogo-sobre-la-educacion-la-creencia-de-que-toda-educacion-autentica-procede-de-la-experiencia-no-significa-que-todas-las-experiencias-sean-igualmente-educativas/?utm_source=rss&utm_medium=rss&utm_campaign=john-dewey-pedagogo-sobre-la-educacion-la-creencia-de-que-toda-educacion-autentica-procede-de-la-experiencia-no-significa-que-todas-las-experiencias-sean-igualmente-educativas",
+    "source": "Merca2.0",
     "category": "marketing",
-    "original_title": "Google Confirms November 2026 Core Update Is Complete via @sejournal, @MattGSouthern"
+    "original_title": "John Dewey, pedagogo, sobre la educación: “La creencia de que toda educación auténtica procede de la experiencia no significa que todas las experiencias sean igualmente educativas”"
    },
    {
-    "title": "Así triplicó Fisura sus ingresos en Europa con Geotelecom: del marketplace a la tienda propia",
-    "summary": "La marca leonesa ha aumentado un 290% sus ingresos online en Italia, Alemania y Francia este verano gracias a la estrategia de paid media diseñada por la agencia Geotelecom",
+    "title": "Los espacios físicos son activos de comunicación y utilizarlos de manera personalizada debería ser rentable",
+    "summary": "Sarah Chemouli (Banco Santander) explica en Luz & Luces que la entidad quiere usar sus cristaleras para comunicar.",
     "why": "",
-    "link": "https://www.marketingdirecto.com/marketing-general/asi-triplico-fisura-ingresos-europa-geotelecom-marketplace-tienda-propia",
-    "source": "MarketingDirecto",
+    "link": "https://www.reasonwhy.es/actualidad/luz-luces-sarah-chemouli-banco-santander-escaparates-sucursales-soporte-publicitario",
+    "source": "Reason Why",
     "category": "marketing",
-    "original_title": "Así triplicó Fisura sus ingresos en Europa con Geotelecom: del marketplace a la tienda propia"
+    "original_title": "Los espacios físicos son activos de comunicación y utilizarlos de manera personalizada debería ser rentable"
+   },
+   {
+    "title": "Más allá del paid media: Por qué el marketing educativo necesita una estrategia 360º",
+    "summary": "Descubre cómo combinar SEO, contenidos y publicidad para acompañar al futuro estudiante durante todo su proceso de decisión educativa.[…]",
+    "why": "",
+    "link": "https://marketing4ecommerce.net/marketing-educativo-paid-media-seo-captacion-alumnos/",
+    "source": "Marketing4eCommerce",
+    "category": "marketing",
+    "original_title": "Más allá del paid media: Por qué el marketing educativo necesita una estrategia 360º"
    }
   ],
   "trend_note": "",
   "action_idea": "",
   "ai": false,
-  "date": "2026-11-24",
-  "label": "martes 24 de noviembre",
-  "created": "2026-11-24T15:23:49.252438+00:00"
+  "date": "2026-11-25",
+  "label": "miércoles 25 de noviembre",
+  "created": "2026-11-25T10:32:38.390423+00:00"
  },
  "archive": [
+  {
+   "intro": "Los titulares más recientes de IA y marketing.",
+   "stories": [
+    {
+     "title": "AI is straining America’s open records systems",
+     "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure…",
+     "why": "",
+     "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+     "source": "MIT Technology Review",
+     "category": "ia",
+     "original_title": "AI is straining America’s open records systems"
+    },
+    {
+     "title": "Tidal va a borrar 27 millones de canciones hechas con IA. El 96% no ha sonado ni una vez en tres meses",
+     "summary": "Tidal empieza el 9 de diciembre a borrar de su catálogo todas las canciones generadas íntegramente con IA, unos 27 millones de temas en total. La purga es enorme pero, a juzgar por los datos que proporciona la propia plataforma, casi ningún suscriptor va a notar los cambios: el…",
+     "why": "",
+     "link": "https://www.xataka.com/musica/tidal-va-a-borrar-27-millones-canciones-hechas-ia-96-no-ha-sonado-vez-tres-meses",
+     "source": "Xataka",
+     "category": "ia",
+     "original_title": "Tidal va a borrar 27 millones de canciones hechas con IA. El 96% no ha sonado ni una vez en tres meses"
+    },
+    {
+     "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+     "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the…",
+     "why": "",
+     "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+     "source": "TechCrunch IA",
+     "category": "ia",
+     "original_title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion"
+    },
+    {
+     "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+     "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+     "why": "",
+     "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+     "source": "Wired IA",
+     "category": "ia",
+     "original_title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police"
+    },
+    {
+     "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+     "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+     "why": "",
+     "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+     "source": "TechCrunch IA",
+     "category": "ia",
+     "original_title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy"
+    },
+    {
+     "title": "Albert Einstein sobre la pedagogía y educación: “La sobrecarga conduce a la superficialidad. La enseñanza debe ser tal que lo que se ofrece se perciba como un valioso regalo y no como una obligación pesada”",
+     "summary": "Albert Einstein, físico de origen alemán y ganador del Premio Nobel de Física, defendió una educación capaz de despertar la curiosidad",
+     "why": "",
+     "link": "https://www.merca20.com/albert-einstein-sobre-la-pedagogia-y-educacion-la-sobrecarga-conduce-a-la-superficialidad-la-ensenanza-debe-ser-tal-que-lo-que-se-ofrece-se-perciba-como-un-valioso-regalo-y-no-como-una-obligacion/?utm_source=rss&utm_medium=rss&utm_campaign=albert-einstein-sobre-la-pedagogia-y-educacion-la-sobrecarga-conduce-a-la-superficialidad-la-ensenanza-debe-ser-tal-que-lo-que-se-ofrece-se-perciba-como-un-valioso-regalo-y-no-como-una-obligacion",
+     "source": "Merca2.0",
+     "category": "marketing",
+     "original_title": "Albert Einstein sobre la pedagogía y educación: “La sobrecarga conduce a la superficialidad. La enseñanza debe ser tal que lo que se ofrece se perciba como un valioso regalo y no como una obligación pesada”"
+    },
+    {
+     "title": "Lo que funciona en un mercado puede fracasar en otro. La importancia de desaprender para liderar sin prejuicios",
+     "summary": "Sarah Chemouli (Banco Santander) explica en Luz & Luces cómo dos errores transformaron su manera de entender el liderazgo.",
+     "why": "",
+     "link": "https://www.reasonwhy.es/actualidad/luz-luces-sarah-chemouli-banco-santander-liderazgo-prejuicios",
+     "source": "Reason Why",
+     "category": "marketing",
+     "original_title": "Lo que funciona en un mercado puede fracasar en otro. La importancia de desaprender para liderar sin prejuicios"
+    },
+    {
+     "title": "John Dewey, pedagogo, sobre la educación: “La creencia de que toda educación auténtica procede de la experiencia no significa que todas las experiencias sean igualmente educativas”",
+     "summary": "Para John Dewey, lo verdaderamente importante era la calidad de las experiencias y su capacidad para favorecer el desarrollo intelectual y personal de los estudiantes",
+     "why": "",
+     "link": "https://www.merca20.com/john-dewey-pedagogo-sobre-la-educacion-la-creencia-de-que-toda-educacion-autentica-procede-de-la-experiencia-no-significa-que-todas-las-experiencias-sean-igualmente-educativas/?utm_source=rss&utm_medium=rss&utm_campaign=john-dewey-pedagogo-sobre-la-educacion-la-creencia-de-que-toda-educacion-autentica-procede-de-la-experiencia-no-significa-que-todas-las-experiencias-sean-igualmente-educativas",
+     "source": "Merca2.0",
+     "category": "marketing",
+     "original_title": "John Dewey, pedagogo, sobre la educación: “La creencia de que toda educación auténtica procede de la experiencia no significa que todas las experiencias sean igualmente educativas”"
+    },
+    {
+     "title": "Los espacios físicos son activos de comunicación y utilizarlos de manera personalizada debería ser rentable",
+     "summary": "Sarah Chemouli (Banco Santander) explica en Luz & Luces que la entidad quiere usar sus cristaleras para comunicar.",
+     "why": "",
+     "link": "https://www.reasonwhy.es/actualidad/luz-luces-sarah-chemouli-banco-santander-escaparates-sucursales-soporte-publicitario",
+     "source": "Reason Why",
+     "category": "marketing",
+     "original_title": "Los espacios físicos son activos de comunicación y utilizarlos de manera personalizada debería ser rentable"
+    },
+    {
+     "title": "Más allá del paid media: Por qué el marketing educativo necesita una estrategia 360º",
+     "summary": "Descubre cómo combinar SEO, contenidos y publicidad para acompañar al futuro estudiante durante todo su proceso de decisión educativa.[…]",
+     "why": "",
+     "link": "https://marketing4ecommerce.net/marketing-educativo-paid-media-seo-captacion-alumnos/",
+     "source": "Marketing4eCommerce",
+     "category": "marketing",
+     "original_title": "Más allá del paid media: Por qué el marketing educativo necesita una estrategia 360º"
+    }
+   ],
+   "trend_note": "",
+   "action_idea": "",
+   "ai": false,
+   "date": "2026-11-25",
+   "label": "miércoles 25 de noviembre",
+   "created": "2026-11-25T10:32:38.390423+00:00"
+  },
   {
    "intro": "Los titulares más recientes de IA y marketing.",
    "stories": [
