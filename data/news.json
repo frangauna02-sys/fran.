@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T10:32:32.718091+00:00",
+ "updated": "2026-11-25T11:57:12.233775+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 560,
+ "count": 588,
  "trends": [
   {
    "term": "jensen huang",
@@ -12,13 +12,13 @@
   },
   {
    "term": "black friday",
-   "count": 23,
-   "growth": 16.8
+   "count": 26,
+   "growth": 18.9
   },
   {
    "term": "google",
-   "count": 29,
-   "growth": 7.5
+   "count": 30,
+   "growth": 7.8
   },
   {
    "term": "nvidia",
@@ -27,8 +27,8 @@
   },
   {
    "term": "navidad",
-   "count": 16,
-   "growth": 17.0
+   "count": 18,
+   "growth": 19.0
   },
   {
    "term": "meta",
@@ -41,6 +41,16 @@
    "growth": 12.0
   },
   {
+   "term": "marcas",
+   "count": 11,
+   "growth": 12.0
+  },
+  {
+   "term": "amazon",
+   "count": 10,
+   "growth": 5.9
+  },
+  {
    "term": "trump",
    "count": 9,
    "growth": 7.0
@@ -51,19 +61,9 @@
    "growth": 4.4
   },
   {
-   "term": "marcas",
-   "count": 9,
-   "growth": 10.0
-  },
-  {
    "term": "anuncio",
    "count": 9,
    "growth": 10.0
-  },
-  {
-   "term": "amazon",
-   "count": 9,
-   "growth": 5.4
   },
   {
    "term": "holiday",
@@ -81,9 +81,9 @@
    "growth": 4.9
   },
   {
-   "term": "marketing",
-   "count": 9,
-   "growth": 3.2
+   "term": "thanksgiving",
+   "count": 7,
+   "growth": 8.0
   },
   {
    "term": "menos",
@@ -98,6 +98,347 @@
  ],
  "items": [
   {
+   "title": "De manera inédita, decenas de serpientes que se criaron en cautiverio han regresado a su hábitat natural en California",
+   "link": "https://www.xataka.com/ecologia-y-naturaleza/manera-inedita-decenas-serpientes-que-se-criaron-cautiverio-han-regresado-a-su-habitat-natural-california",
+   "date": "2026-11-25T11:51:00+00:00",
+   "summary": "A pocos kilómetros al sur del puente Golden Gate, entre los humedales costeros y los pastizales, habita uno de los reptiles más llamativos y esquivos de Norteamérica. Con un vientre de color azul turquesa y una cabeza rojiza, la culebra rayada de San Francisco parece diseñada…",
+   "image": "https://i.blogs.es/63ec5a/culebra-california/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": []
+  },
+  {
+   "title": "El remate final de Black Friday tiene varias freidoras de aire top rebajadas: estas son las cinco mejores",
+   "link": "https://www.xataka.com/seleccion/remate-final-black-friday-tiene-varias-freidoras-aire-top-rebajadas-estas-cinco-mejores",
+   "date": "2026-11-25T11:46:20+00:00",
+   "summary": "Si hay un electrodoméstico versátil que nos puede ayudar mucho a la hora de cocinar, es una freidora de aire. Estas han evolucionado mucho y hoy en día tenemos modelos muy completos y versátiles que nos permiten, incluso, cocinar dos platos a la vez. Como no podía ser de otra…",
+   "image": "https://i.blogs.es/b460f5/recopilatorio-freidoras-de-aire-black-friday/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "La alianza de L'Oréal París con The Royal Ballet y el delicado equilibrio del storyteling en redes sociales",
+   "link": "https://www.reasonwhy.es/actualidad/loreal-paris-royal-ballet-accion-influencers-marketing",
+   "date": "2026-11-25T11:36:00+00:00",
+   "summary": "Ha anunciado su colaboración con The Royal Ballet recurriendo a creadoras de contenido en lugar de bailarines profesionales, lo que ha despertado críticas.",
+   "image": "https://www.reasonwhy.es/media/library/loreal-paris-royal-ballet.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "Una franja marrón de 8.850 km de longitud atraviesa el Atlántico. Está creciendo enormemente y ahora conecta el Caribe con África Occidental",
+   "link": "https://www.xataka.com/ecologia-y-naturaleza/franja-marron-8-850-km-longitud-atraviesa-atlantico-esta-creciendo-enormemente-ahora-conecta-caribe-africa-occidental",
+   "date": "2026-11-25T11:30:21+00:00",
+   "summary": "En el Caribe, desde que tenemos memoria, el invierno es la temporada baja del sargazo. La serie satelital toca fondo y los boletines que publica la Universidad del Sur de Florida cada fin de mes se vuelven un mero trámite. Pero en enero de 2026, alguien miró los datos y se llevó…",
+   "image": "https://i.blogs.es/a76e36/hugh-whyte-ybs-k7o73ik-unsplash-1-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": []
+  },
+  {
+   "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+   "link": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+   "date": "2026-11-25T11:30:00+00:00",
+   "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+   "image": "https://media.wired.com/photos/6b0548d39ef0144d4a117a16/master/pass/GettyImages-1291069581.jpg",
+   "source": "Wired IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": []
+  },
+  {
+   "title": "Más allá del GEO: cómo cambiará la relación entre las marcas y los consumidores en 2027",
+   "link": "https://marketing4ecommerce.net/mas-alla-geo-relevancia-marcas-ia/",
+   "date": "2026-11-25T11:26:35+00:00",
+   "summary": "La publicidad conversacional, los agentes de IA y los datos comerciales transforman las estrategias de marketing digital.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/adsmurai.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": [
+    "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Móviles, Nintendo Switch 2 y más: los mejores chollos que hemos encontrado en el Black Friday de AliExpress hoy, 25 de noviembre",
+   "link": "https://www.xataka.com/seleccion/moviles-nintendo-switch-2-mejores-chollos-que-hemos-encontrado-black-friday-aliexpress-hoy-25-noviembre",
+   "date": "2026-11-25T11:20:24+00:00",
+   "summary": "El Black Friday cada vez se adelanta más y ya la mayoría de tiendas online tienen activa esta campaña. AliExpress es una de ellas y hemos estado buscando las mejores gangas para ti. Estas son las que hemos encontrado hoy, con móviles, tablets y otros dispositivos como…",
+   "image": "https://i.blogs.es/a94bc9/chollos-black-friday-aliexpress/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": [
+    "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "EEUU prepara una regulación que amenaza con dejar a ASML fuera del mercado chino",
+   "link": "https://www.xataka.com/empresas-y-economia/eeuu-prepara-regulacion-que-amenaza-dejar-a-asml-fuera-mercado-chino",
+   "date": "2026-11-25T11:14:00+00:00",
+   "summary": "El Gobierno de EEUU está decidido a incrementar la presión que está ejerciendo sobre la industria china de los semiconductores. Actualmente está preparando una iniciativa legislativa, la MATCH Act ( Multilateral Alignment of Technology Controls on Hardware Act o Ley de…",
+   "image": "https://i.blogs.es/3a3c40/asml_development_and_engineering_wttr_061/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": []
+  },
+  {
+   "title": "Google pone sobre aviso a los profesionales SEO: la siguiente core update llegará en diciembre",
+   "link": "https://marketing4ecommerce.net/google-anuncia-core-update-diciembre/",
+   "date": "2026-11-25T11:12:45+00:00",
+   "summary": "Esta se centrará en mejorar la clasificación del contenido relevante para preguntas más largas y complejas, y los resultados personalizados.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/google-anuncia-su-core-update-diciembre-2026-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": [
+    "seo",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "McDonald’s conquista el Gran Effie Argentina 2026 con una hamburguesa que nació de un pedido de sus consumidores",
+   "link": "https://www.merca20.com/effie-argentina-2026-mcdonalds-ganadores/?utm_source=rss&utm_medium=rss&utm_campaign=effie-argentina-2026-mcdonalds-ganadores",
+   "date": "2026-11-25T11:11:17+00:00",
+   "summary": "Una idea surgida de las conversaciones de los consumidores llegó al menú de McDonald’s y consiguió el máximo reconocimiento de efectividad publicitaria en Argentina.",
+   "image": "https://files.merca20.com/uploads/2026/11/Captura-de-pantalla_17-4-2026_84750_dms.licdn_.com_.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Cabify propone descubrir las luces de Navidad de Madrid bajo un techo de cristal",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/cabify-propone-descubrir-luces-navidad-madrid-bajo-techo-cristal",
+   "date": "2026-11-25T11:02:53+00:00",
+   "summary": "Cabify estrena \"Luces\", una experiencia para recorrer Madrid en Navidad desde vehículos con techo de cristal y disfrutar del alumbrado.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Cabify-Luces-Navidad.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Hace años compré un Echo Dot pensando que lo utilizaría con Alexa. El mayor uso que le he dado es con una Nintendo Switch",
+   "link": "https://www.xataka.com/seleccion/hace-anos-compre-echo-dot-pensando-que-utilizaria-alexa-mayor-uso-que-le-he-dado-nintendo-switch",
+   "date": "2026-11-25T11:01:00+00:00",
+   "summary": "Han pasado ya casi cuatro años desde que compré mi Echo Dot para construir una red inteligente en casa. Si bien es cierto que lo he utilizado de este modo, al final me he decantado más por conectarlo a una Nintendo Switch. Se trata de un dispositivo más práctico de lo que…",
+   "image": "https://i.blogs.es/a6caf8/echo-dot/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": []
+  },
+  {
+   "title": "Qué opinan PSOE, PP, Vox y Frente Amplio de los centros de datos: las propuestas incluidas en sus programas",
+   "link": "https://www.xataka.com/robotica-e-ia/que-opinan-cuatro-grandes-partidos-espana-centros-datos-energia-agua-soberania-nube",
+   "date": "2026-11-25T11:01:00+00:00",
+   "summary": "¿Qué proponen los diferentes partidos, a un lado y otro del espectro, sobre la construcción de nuevos centros de datos? ¿Qué va a pasar con nuestra soberanía energética y la disposición de fuentes de agua, fuente también de disputa y queja constante? La respuesta corta: ningún…",
+   "image": "https://i.blogs.es/00c0c3/candidatos/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": []
+  },
+  {
+   "title": "Snack’IN convierte sus Mini Bites en el aliado perfecto para esquivar preguntas incómodas en Navidad",
+   "link": "https://www.marketingdirecto.com/campanas-navidenas/snackin-mini-bites-evitar-preguntas-incomodas-navidad",
+   "date": "2026-11-25T11:00:12+00:00",
+   "summary": "La marca presenta un packaging navideño enmarcado en la campaña \"con la boca llena no se habla”, una divertida estrategia para evitar cuestiones peliagudas.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/snackin-campofrio-fuet-navidad-mini-bits.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Three xAI founders want AI to predict the future",
+   "link": "https://therundownai.beehiiv.com/p/three-xai-founders-want-ai-to-predict-the-future",
+   "date": "2026-11-25T11:00:00+00:00",
+   "summary": "PLUS: How to put Microsoft Copilot to work",
+   "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/802ee9e2-1a13-4b41-93bc-50377d18a80f/epochal.png",
+   "source": "The Rundown AI",
+   "category": "ia",
+   "lang": "en",
+   "type": "newsletter",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": []
+  },
+  {
+   "title": "Amazon lidera el top de los marketplaces que más venden en Europa. La gran sorpresa es el tamaño de los gigantes rusos",
+   "link": "https://marketing4ecommerce.net/amazon-lidera-el-top-de-los-marketplaces-que-mas-venden-en-europa-la-gran-sorpresa-es-el-tamano-de-los-gigantes-rusos/",
+   "date": "2026-11-25T10:51:00+00:00",
+   "summary": "Wildberries y Ozon se sitúan entre los mayores marketplaces de Europa por GMV, en un ranking encabezado por Amazon.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/marketplaces-europa-1-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": [
+    "seo",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "España levanta 21 estatuillas en los ADCE Awards, la élite de la creatividad europea",
+   "link": "https://www.marketingdirecto.com/marketing-general/eventos-y-formacion/espana-levanta-estatuillas-adce-awards-elite-creatividad-europea",
+   "date": "2026-11-25T10:44:21+00:00",
+   "summary": "España ha conquistado 21 estatuillas (4 oros, 4 platas, 11 bronces y 2 galardones especiales) en la última edición de los ADCE Awards.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/adce-awards-tan-como-tu.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Hemos abusado tanto del sistema ES-Alert, que Protección Civil ha creado dos tipos de alertas. Y uno puede desactivarse",
+   "link": "https://www.xataka.com/seguridad/hemos-abusado-sistema-alert-que-proteccion-civil-tiene-dos-tipos-alertas-uno-puede-desactivarse",
+   "date": "2026-11-25T10:43:00+00:00",
+   "summary": "Aunque se estuvo probando a finales de 2022, fue en septiembre de 2023, en la DANA que azotó Madrid, cuando se estrenó oficialmente ES-Alert. Desde entonces, el sistema de alertas de emergencia se ha activado en multitud de ocasiones haciendo sonar millones de móviles. Algunas…",
+   "image": "https://i.blogs.es/3aac71/incendio-alerta-movil/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": []
+  },
+  {
+   "title": "Arturo Elías Ayub sobre el liderazgo: “Qué grande es el que para brillar no necesita apagar la luz de los demás”",
+   "link": "https://www.merca20.com/arturo-elias-ayub-sobre-el-liderazgo-que-grande-es-el-que-para-brillar-no-necesita-apagar-la-luz-de-los-demas/?utm_source=rss&utm_medium=rss&utm_campaign=arturo-elias-ayub-sobre-el-liderazgo-que-grande-es-el-que-para-brillar-no-necesita-apagar-la-luz-de-los-demas",
+   "date": "2026-11-25T10:41:52+00:00",
+   "summary": "Arturo Elías Ayub es un empresario mexicano que ha construido buena parte de su trayectoria en áreas de comunicación, negocios, alianzas estratégicas y liderazgo",
+   "image": "https://files.merca20.com/uploads/2026/11/FRASES-ARTURO-AYUB-CHATGPT.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": []
+  },
+  {
+   "title": "The Glass House de Seagram’s: un espacio de pádel, gastronomía y música en el Palacio de Santoña",
+   "link": "https://www.marketingdirecto.com/marketing-general/eventos-y-formacion/the-glass-house-seagrams-espacio-padel-gastronomia-musica-palacio-santona",
+   "date": "2026-11-25T10:41:42+00:00",
+   "summary": "Del 11 al 13 de diciembre, la marca reunirá propuestas gastronómicas y sesiones de DJ en una experiencia que busca trasladar el universo del pádel al territorio del lifestyle.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/SEAGRAMS-THE-GLASS-HOUSE.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "No hace falta gastarse un dineral en unos AirPods: los Beats Solo Buds caen de precio por el Black Friday",
+   "link": "https://www.xataka.com/seleccion/no-hace-falta-gastarse-dineral-unos-airpods-beats-solo-buds-caen-precio-black-friday",
+   "date": "2026-11-25T10:31:02+00:00",
+   "summary": "Si buscas unos auriculares inalámbricos pequeños, cómodos y con una buena integración en el ecosistema Apple sin tener que pagar lo que cuestan unos AirPods, el Black Friday es un buen momento para conseguirlos. Ahora, en Amazon, tienes rebajados los Beats Solo Buds, que están…",
+   "image": "https://i.blogs.es/495df5/auriculares-beats-solo-buds-1-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "En silencio, Ryanair ha modificado las normas para los pasajeros que no reservan asiento antes del vuelo",
+   "link": "https://www.xataka.com/movilidad/silencio-ryanair-ha-modificado-normas-para-pasajeros-que-no-reservan-asiento-antes-vuelo",
+   "date": "2026-11-25T10:31:02+00:00",
+   "summary": "En el negocio de los vuelos de bajo coste, pequeños cambios en las condiciones de viaje pueden tener enormes consecuencias. Ryanair, la mayor aerolínea europea por número de pasajeros, acaba de introducir uno de esos cambios sin apenas hacer ruido. Y afecta directamente a…",
+   "image": "https://i.blogs.es/de3308/ryanair_737_max_8200_departing_man/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": []
+  },
+  {
+   "title": "Nike, Zara o Adidas, las marcas que más conectan con la Gen Z",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/nike-zara-adidas-marcas-mas-conectan-gen-z",
+   "date": "2026-11-25T10:30:59+00:00",
+   "summary": "Nike, Zara y Adidas lideran las marcas que más conectan con la Generación Z en España, según el último estudio de IAB Spain y Mazinn.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Marcas-que-mas-conectan-Gen-Z.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "China ya tiene fecha para sacar agua y oxígeno de la Luna: 2030",
+   "link": "https://www.xataka.com/espacio/china-tiene-fecha-para-sacar-agua-oxigeno-luna-2030",
+   "date": "2026-11-25T10:30:10+00:00",
+   "summary": "Aunque la NASA está haciendo mucho más ruido en lo referente a su carrera particular hacia la Luna, China también está en la lid, pisándole los talones. La agencia espacial estadounidense espera volver a pisar la Luna en 2028, con su misión Artemis IV. China es más cautelosa y…",
+   "image": "https://i.blogs.es/ad86c9/recursos-lunares/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
    "title": "Albert Einstein sobre la pedagogía y educación: “La sobrecarga conduce a la superficialidad. La enseñanza debe ser tal que lo que se ofrece se perciba como un valioso regalo y no como una obligación pesada”",
    "link": "https://www.merca20.com/albert-einstein-sobre-la-pedagogia-y-educacion-la-sobrecarga-conduce-a-la-superficialidad-la-ensenanza-debe-ser-tal-que-lo-que-se-ofrece-se-perciba-como-un-valioso-regalo-y-no-como-una-obligacion/?utm_source=rss&utm_medium=rss&utm_campaign=albert-einstein-sobre-la-pedagogia-y-educacion-la-sobrecarga-conduce-a-la-superficialidad-la-ensenanza-debe-ser-tal-que-lo-que-se-ofrece-se-perciba-como-un-valioso-regalo-y-no-como-una-obligacion",
    "date": "2026-11-25T10:21:09+00:00",
@@ -111,6 +452,20 @@
    "topics": []
   },
   {
+   "title": "Las cinco tendencias de diseño que marcarán el 2027: más creatividad, autenticidad y fantasía",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/cinco-tendencias-diseno-marcaran-2027-creatividad-autenticidad-fantasia",
+   "date": "2026-11-25T10:19:24+00:00",
+   "summary": "El informe anual de Canva detecta un cambio hacia propuestas visuales más personales y alejadas de la uniformidad.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/TENDENCIAS-DISENOS-2027-CANVA.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
    "title": "Lo que funciona en un mercado puede fracasar en otro. La importancia de desaprender para liderar sin prejuicios",
    "link": "https://www.reasonwhy.es/actualidad/luz-luces-sarah-chemouli-banco-santander-liderazgo-prejuicios",
    "date": "2026-11-25T10:18:00+00:00",
@@ -121,6 +476,20 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-25T10:32:32.718091+00:00",
+   "topics": []
+  },
+  {
+   "title": "Hunter y Marqués de Murrieta se unen en una edición especial que celebra casi dos siglos de historia",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/hunter-marques-de-murrieta-edicion-especial-dos-siglos-historia",
+   "date": "2026-11-25T10:17:53+00:00",
+   "summary": "La bodega pionera de Rioja y las icónicas botas británicas lanzan una edición especial que rinde homenaje al legado de ambas firmas.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Hunter-y-Marques-de-Murrieta-colaboracion.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -230,8 +599,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T10:32:32.718091+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
    "topics": []
   },
   {
@@ -247,6 +616,22 @@
    "first_seen": "2026-11-25T10:32:32.718091+00:00",
    "topics": [
     "ecommerce"
+   ]
+  },
+  {
+   "title": "El «efecto GTA VI» desató una fiebre de búsquedas en Internet",
+   "link": "https://www.marketingdirecto.com/digital-general/medicion-sin-filtros-gfk/efecto-gta-vi-internet-audiencias-digitales",
+   "date": "2026-11-25T09:50:35+00:00",
+   "summary": "El interés masivo por el videojuego de Rockstar Games se tradujo en un fuerte fenómeno de audiencia digital, según los datos de GfK.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/gta-vi-busquedas-internet.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo"
    ]
   },
   {
@@ -302,8 +687,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-25T10:32:32.718091+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
    "topics": []
   },
   {
@@ -344,8 +729,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-25T10:32:32.718091+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
    "topics": [
     "publicidad"
    ]
@@ -571,6 +956,22 @@
    "topics": []
   },
   {
+   "title": "Soaring GLP-1 Use Is Changing the Thanksgiving Table",
+   "link": "https://www.adweek.com/commerce/soaring-glp-1-use-is-changing-the-thanksgiving-table/",
+   "date": "2026-11-25T06:00:00+00:00",
+   "summary": "Users of weight loss drugs such as Ozempic, Wegovy, and Mounjaro have increased drastically over the last two years, changing the grocery landscape and the Thanksgiving table.",
+   "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/GLP1-Thanksgiving.jpg?w=600&h=315&crop=1",
+   "source": "Adweek",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T11:57:12.233775+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
    "title": "6 Brands Going Big at the 2026 Macy’s Thanksgiving Day Parade: Planters, Levi’s and More",
    "link": "https://www.adweek.com/brand-marketing/6-brands-going-big-at-the-2026-macys-thanksgiving-day-parade-planters-levis-and-more/",
    "date": "2026-11-25T05:20:17+00:00",
@@ -580,8 +981,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T10:32:32.718091+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T10:32:32.718091+00:00",
    "topics": [
     "publicidad"
    ]
