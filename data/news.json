@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-25T19:28:29.904528+00:00",
+ "updated": "2026-11-25T20:26:39.736925+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 711,
+ "count": 723,
  "trends": [
   {
    "term": "black friday",
-   "count": 38,
-   "growth": 27.3
+   "count": 39,
+   "growth": 28.0
   },
   {
    "term": "jensen huang",
-   "count": 34,
-   "growth": 18.8
+   "count": 35,
+   "growth": 19.4
   },
   {
    "term": "google",
@@ -22,13 +22,13 @@
   },
   {
    "term": "nvidia",
-   "count": 31,
-   "growth": 14.0
+   "count": 32,
+   "growth": 14.4
   },
   {
    "term": "navidad",
-   "count": 23,
-   "growth": 24.0
+   "count": 25,
+   "growth": 26.0
   },
   {
    "term": "meta",
@@ -47,8 +47,8 @@
   },
   {
    "term": "euros",
-   "count": 14,
-   "growth": 15.0
+   "count": 15,
+   "growth": 16.0
   },
   {
    "term": "holiday",
@@ -76,6 +76,11 @@
    "growth": 9.0
   },
   {
+   "term": "precio",
+   "count": 10,
+   "growth": 11.0
+  },
+  {
    "term": "menos",
    "count": 10,
    "growth": 11.0
@@ -89,14 +94,163 @@
    "term": "está",
    "count": 10,
    "growth": 11.0
-  },
-  {
-   "term": "trump",
-   "count": 9,
-   "growth": 7.0
   }
  ],
  "items": [
+  {
+   "title": "Brote de varicela en escuela de CDMX, cómo diferenciar los granitos de la varicela del acné y cuándo regresan los alumnos a clases",
+   "link": "https://www.merca20.com/brote-de-varicela-en-escuela-de-cdmx-como-diferenciar-los-granitos-de-la-varicela-del-acne-y-cuando-regresan-los-alumnos-a-clases/?utm_source=rss&utm_medium=rss&utm_campaign=brote-de-varicela-en-escuela-de-cdmx-como-diferenciar-los-granitos-de-la-varicela-del-acne-y-cuando-regresan-los-alumnos-a-clases",
+   "date": "2026-11-25T20:21:13+00:00",
+   "summary": "Ante el brote de varicela en CCH Azcapotzalco de la UNAM, conoce cómo diferenciar la varicela del acné y cuándo regresarán los alumnos a clases.",
+   "image": "https://files.merca20.com/uploads/2026/11/Brote-de-varicela-en-escuela-de-CDMX-como-diferenciar-los-granitos-de-la-varicela-del-acne-y-cuando-regresan-los-alumnos-a-clases-.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T20:26:39.736925+00:00",
+   "topics": []
+  },
+  {
+   "title": "For some brands, humor plus niche targeting is a winning formula",
+   "link": "https://www.marketingbrew.com/stories/humor-niche-targeting-marketing-columbia-goodwipes?utm_source=&utm_medium=syndication&utm_campaign=feed",
+   "date": "2026-11-25T20:10:00+00:00",
+   "summary": "Marketers from Columbia Sportswear and goodwipes said strategically deployed punchlines can break through the noise and drive connections with smaller communities.",
+   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80,trim=87;0;87;0/https://storage.morningbrew.com/image/2026-11-24/image-c9ac559c7b687b7e68a670f91390b6e0a481f62c-1540x1040-jpg/MKB-Humor-Marketing-BHB-112426.jpg",
+   "source": "Marketing Brew",
+   "category": "marketing",
+   "lang": "en",
+   "type": "newsletter",
+   "first_seen": "2026-11-25T20:26:39.736925+00:00",
+   "topics": []
+  },
+  {
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "date": "2026-11-25T20:03:27+00:00",
+   "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/openai-chatgpt.jpg?resize=1200,800",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T20:26:39.736925+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "AI Shopping Agents Bought A Fake Deal 37% Of The Time – Claude Opus Never Did via @sejournal, @slobodanmanic",
+   "link": "https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/",
+   "date": "2026-11-25T20:00:32+00:00",
+   "summary": "AI models flagged a deal as suspicious 315 times, bought the fake anyway 137 times, and never asked the shopper about the deal.",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp",
+   "source": "Search Engine Journal",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T20:26:39.736925+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Siempre nos han dicho que parar 15 minutos a hacer ejercicio mejora el estudio. La ciencia dice que no es tan sencillo",
+   "link": "https://www.xataka.com/medicina-y-salud/siempre-nos-han-dicho-que-parar-15-minutos-a-hacer-ejercicio-mejora-estudio-ciencia-dice-que-no-sencillo",
+   "date": "2026-11-25T20:00:26+00:00",
+   "summary": "Cuando nos ponemos a estudiar delante de un tocho de apuntes, es fácil que al rato la concentración comience a flaquear. En este caso, levantarse de la silla para hacer 15 minutos de ejercicio moderado es algo que siempre nos han dicho que puede despejarnos y mejorar el…",
+   "image": "https://i.blogs.es/0f3137/estudiandoo/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T20:26:39.736925+00:00",
+   "topics": []
+  },
+  {
+   "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+   "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+   "date": "2026-11-25T19:54:57+00:00",
+   "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T20:26:39.736925+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "UNAM suspende clases presenciales en CCH Azcapotzalco por brote de varicela; alumnos tomarán clases en línea desde el 25 de noviembre",
+   "link": "https://www.merca20.com/unam-suspende-clases-presenciales-en-cch-azcapotzalco-por-brote-de-varicela-alumnos-tomaran-clases-en-linea-desde-el-25-de-noviembre/?utm_source=rss&utm_medium=rss&utm_campaign=unam-suspende-clases-presenciales-en-cch-azcapotzalco-por-brote-de-varicela-alumnos-tomaran-clases-en-linea-desde-el-25-de-noviembre",
+   "date": "2026-11-25T19:53:40+00:00",
+   "summary": "La UNAM suspende clases presenciales en CCH Azcapotzalco por un brote de varicela. Conoce cuándo regresan los alumnos y cuáles son los síntomas.",
+   "image": "https://files.merca20.com/uploads/2026/11/UNAM-suspende-clases-presenciales-en-CCH-Azcapotzalco-por-brote-de-varicela-alumnos-tomaran-clases-en-linea-desde-el-25-de-noviembre-.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T20:26:39.736925+00:00",
+   "topics": []
+  },
+  {
+   "title": "Feliz Navidad: Rematan set de 12 flores de nochebuena para el árbol, hay en rojo, dorado, plata y rojo con dorado",
+   "link": "https://www.merca20.com/feliz-navidad-rematan-set-de-12-flores-de-nochebuena-para-el-arbol-hay-en-rojo-dorado-plata-y-rojo-con-dorado/?utm_source=rss&utm_medium=rss&utm_campaign=feliz-navidad-rematan-set-de-12-flores-de-nochebuena-para-el-arbol-hay-en-rojo-dorado-plata-y-rojo-con-dorado",
+   "date": "2026-11-25T19:50:08+00:00",
+   "summary": "Este set de 12 piezas de flores de nochebuena para decorar en Navidad tiene un precio de 158.98 pesos",
+   "image": "https://files.merca20.com/uploads/2026/11/adornos-de-navidad-nochebuenas-mercado-libre.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T20:26:39.736925+00:00",
+   "topics": []
+  },
+  {
+   "title": "Los Sony WH-1000XM4C a precio de liquidación, ofertas en AirPods, Beats y otros auriculares Bluetooth durante el Black Friday 2026",
+   "link": "https://www.xataka.com/seleccion/sony-wh-1000xm4c-a-precio-liquidacion-ofertas-airpods-beats-otros-auriculares-bluetooth-durante-black-friday-2026",
+   "date": "2026-11-25T19:46:14+00:00",
+   "summary": "Los auriculares suelen acompañarnos durante un gran número de momentos, ya sea en casa, en el transporte público o incluso en el trabajo. Por ello, viene bien tener a mano unos buenos auriculares; y si los encontramos de oferta con un buen precio, mucho mejor. Por ello,…",
+   "image": "https://i.blogs.es/2c5f79/sony-wh-1000xm4-y-airpods-pro-3/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T20:26:39.736925+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "date": "2026-11-25T19:44:24+00:00",
+   "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-25T20:26:39.736925+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "España tiene gas para afrontar el invierno, pero la crisis de Ormuz le va a costar 6.000 millones de euros",
+   "link": "https://www.xataka.com/energia/espana-tiene-gas-para-afrontar-invierno-crisis-ormuz-le-va-a-costar-6-000-millones-euros",
+   "date": "2026-11-25T19:30:00+00:00",
+   "summary": "El 28 de febrero, Teherán decidió bloquear en gran medida el tránsito energético por el estrecho de Ormuz y, desde entonces, el mundo no ha vuelto a ser el mismo. La escasez de crudo y gas, las subidas del precio de la energía que están asumiendo tanto hogares como industria y…",
+   "image": "https://i.blogs.es/808476/pexels-diego-f-parra-33199-24244231/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T20:26:39.736925+00:00",
+   "topics": []
+  },
   {
    "title": "Amazon México lanza millones de ofertas por Black Friday y Cyber Monday; estos son los descuentos de hasta 65%",
    "link": "https://www.merca20.com/amazon-mexico-lanza-millones-de-ofertas-por-black-friday-y-cyber-monday-estos-son-los-descuentos-de-hasta-65/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-mexico-lanza-millones-de-ofertas-por-black-friday-y-cyber-monday-estos-son-los-descuentos-de-hasta-65",
@@ -365,6 +519,19 @@
    "topics": []
   },
   {
+   "title": "Feliz Navidad: Rematan camioneta roja estilo farmhouse con árboles nevados y luces LED, cuesta 231 pesos",
+   "link": "https://www.merca20.com/feliz-navidad-rematan-camioneta-roja-estilo-farmhouse-con-arboles-nevados-y-luces-led-cuesta-231-pesos/?utm_source=rss&utm_medium=rss&utm_campaign=feliz-navidad-rematan-camioneta-roja-estilo-farmhouse-con-arboles-nevados-y-luces-led-cuesta-231-pesos",
+   "date": "2026-11-25T17:27:35+00:00",
+   "summary": "Esta camioneta navideña roja de estilo vintage que transporta árboles de Navidad cubiertos de nieve y cuenta con iluminación LED, cuyo precio disminuyó de 453 a 231.03 pesos en Mercado Libre",
+   "image": "https://files.merca20.com/uploads/2026/11/mercado-libre-camioneta-navidad-farm-vintage.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-25T20:26:39.736925+00:00",
+   "topics": []
+  },
+  {
    "title": "Como un Stream Deck, pero más barato: este gadget te puede ahorrar un montón de tiempo a diario",
    "link": "https://www.xataka.com/seleccion/como-stream-deck-barato-este-gadget-te-puede-ahorrar-monton-tiempo-a-diario",
    "date": "2026-11-25T17:16:26+00:00",
@@ -378,17 +545,19 @@
    "topics": []
   },
   {
-   "title": "Mientras McDonald’s lanza la Cajita Feliz del Grinch, Burger King confirma que Snoopy llegará a México el 30 de noviembre",
+   "title": "McDonald’s apuesta por el Grinch y Burger King responde con Snoopy en México",
    "link": "https://www.merca20.com/mientras-mcdonalds-lanza-la-cajita-feliz-del-grinch-burger-king-confirma-que-snoopy-llegara-a-mexico-el-30-de-noviembre/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-mcdonalds-lanza-la-cajita-feliz-del-grinch-burger-king-confirma-que-snoopy-llegara-a-mexico-el-30-de-noviembre",
    "date": "2026-11-25T17:09:13+00:00",
-   "summary": "La Navidad ya entró a la batalla de las cadenas de comida rápida en México",
+   "summary": "Burger King México confirmó en sus redes sociales que Snoopy llegará a la parrilla de la cadena el 30 de noviembre.",
    "image": "https://files.merca20.com/uploads/2026/11/burger-king-snoopy-foto-burger-king-fb.jpg",
    "source": "Merca2.0",
    "category": "marketing",
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-25T17:23:41.854282+00:00",
-   "topics": []
+   "topics": [
+    "redes"
+   ]
   },
   {
    "title": "Santiago, castañero riojano con 44 años de éxito y experiencia: \"Antes 8 castañas costaban 100 pesetas, ahora la docena ronda los 4 euros\"",
@@ -1002,8 +1171,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T19:28:29.904528+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T19:28:29.904528+00:00",
    "topics": [
     "publicidad"
    ]
@@ -1080,8 +1249,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T19:28:29.904528+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T19:28:29.904528+00:00",
    "topics": [
     "publicidad"
    ]
@@ -1180,8 +1349,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T19:28:29.904528+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T19:28:29.904528+00:00",
    "topics": [
     "publicidad"
    ]
@@ -1266,8 +1435,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T19:28:29.904528+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T19:28:29.904528+00:00",
    "topics": [
     "publicidad"
    ]
