@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T05:02:09.256336+00:00",
+ "updated": "2026-11-26T06:25:08.576843+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 758,
+ "count": 759,
  "trends": [
   {
    "term": "black friday",
@@ -56,9 +56,14 @@
    "growth": 13.0
   },
   {
-   "term": "gta vi",
-   "count": 9,
-   "growth": 10.0
+   "term": "gta",
+   "count": 12,
+   "growth": 13.0
+  },
+  {
+   "term": "precio",
+   "count": 11,
+   "growth": 12.0
   },
   {
    "term": "muse",
@@ -67,11 +72,6 @@
   },
   {
    "term": "thanksgiving",
-   "count": 10,
-   "growth": 11.0
-  },
-  {
-   "term": "precio",
    "count": 10,
    "growth": 11.0
   },
@@ -88,7 +88,7 @@
   {
    "term": "agents",
    "count": 10,
-   "growth": 4.1
+   "growth": 4.8
   },
   {
    "term": "ads",
@@ -97,6 +97,59 @@
   }
  ],
  "items": [
+  {
+   "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+   "link": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+   "date": "2026-11-26T06:08:25+00:00",
+   "summary": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025. It was only today that I understood one of its most…",
+   "image": "",
+   "source": "Simon Willison",
+   "category": "ia",
+   "lang": "en",
+   "type": "newsletter",
+   "first_seen": "2026-11-26T06:25:08.576843+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "El nombre de la fuente no es el precio de informar.",
+   "link": "https://www.merca20.com/el-nombre-de-la-fuente-no-es-el-precio-de-informar/?utm_source=rss&utm_medium=rss&utm_campaign=el-nombre-de-la-fuente-no-es-el-precio-de-informar",
+   "date": "2026-11-26T06:05:45+00:00",
+   "summary": "“Descalificar al mensajero es mas barato que cambiar la estrategia.” Anónimo.",
+   "image": "https://files.merca20.com/uploads/2026/03/Guillermo_Pous_2026.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T06:25:08.576843+00:00",
+   "topics": []
+  },
+  {
+   "title": "En Jerez, un hombre con tres órdenes judiciales para ir a prisión aparece haciendo ejercicio tranquilamente en el gimnasio de un polígono",
+   "link": "https://www.xataka.com/magnet/jerez-hombre-tres-ordenes-judiciales-para-ir-a-prision-aparece-haciendo-ejercicio-tranquilamente-gimnasio-poligono",
+   "date": "2026-11-26T06:02:20+00:00",
+   "summary": "Dos años en paradero desconocido. Tres órdenes de ingreso en prisión. Y, aun así, la Policía lo encontró en ese lugar donde cualquiera puede entrar con mochila e ir a su bola: el gimnasio de un polígono. Esconderse de la justicia suena a vida de película pero, en la práctica,…",
+   "image": "https://i.blogs.es/f8af02/poli/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T06:25:08.576843+00:00",
+   "topics": []
+  },
+  {
+   "title": "Cómo convertir tu selfie en una portada inspirada en GTA 6 con ChatGPT y qué prompt usar para conservar tus rasgos",
+   "link": "https://www.merca20.com/como-convertir-tu-selfie-en-una-portada-inspirada-en-gta-6-con-chatgpt-y-que-prompt-usar-para-conservar-tus-rasgos/?utm_source=rss&utm_medium=rss&utm_campaign=como-convertir-tu-selfie-en-una-portada-inspirada-en-gta-6-con-chatgpt-y-que-prompt-usar-para-conservar-tus-rasgos",
+   "date": "2026-11-26T05:07:22+00:00",
+   "summary": "Aprende a crear tu foto al estilo GTA 6 en ChatGPT. Sube una selfie y copia este prompt para conservar tu rostro y darle a la imagen un aire de Vice City.",
+   "image": "https://files.merca20.com/uploads/2026/11/Como-convertir-tu-selfie-en-una-portada-inspirada-en-GTA-6-con-ChatGPT-y-que-prompt-usar-para-conservar-tus-rasgos.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T06:25:08.576843+00:00",
+   "topics": []
+  },
   {
    "title": "Brands race to systematize how to know what makes creator content worth paying for",
    "link": "https://digiday.com/marketing/brands-race-to-systematize-how-to-know-what-makes-creator-content-worth-paying-for/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -107,8 +160,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-26T05:02:09.256336+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T05:02:09.256336+00:00",
    "topics": [
     "redes",
     "seo",
@@ -125,8 +178,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-26T05:02:09.256336+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T05:02:09.256336+00:00",
    "topics": [
     "publicidad"
    ]
@@ -154,8 +207,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-26T05:02:09.256336+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T05:02:09.256336+00:00",
    "topics": [
     "seo",
     "publicidad"
@@ -6695,8 +6748,8 @@
    "category": "ia",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-26T05:02:09.256336+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T05:02:09.256336+00:00",
    "topics": []
   },
   {
@@ -10943,49 +10996,6 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [],
    "og_tried": true
-  },
-  {
-   "title": "More ways to move care forward with ChatGPT for Healthcare",
-   "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-   "date": "2026-11-16T06:00:00+00:00",
-   "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/5vgplp4RJGXJ0luyMzW884/de0639288804ff265a54a4222cbac569/more-ways-to-move-care-forward-with-chatgpt-for-healthcare-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "Advancing computer-use agents for healthcare teams",
-   "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-   "date": "2026-11-16T06:00:00+00:00",
-   "summary": "",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/JEPsGb10RBI3TRoCF2MGd/07abdbf116e0a370e7e20edddca5e96b/advancing-computer-use-for-healthcare-teams-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "3D Printing Entire Buildings is So Wild To Me",
-   "link": "https://www.youtube.com/shorts/ETw45WHQ6Z4",
-   "date": "2026-11-16T05:35:39+00:00",
-   "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads:…",
-   "image": "https://www.youtube.com/v/ETw45WHQ6Z4?version=3",
-   "source": "Matt Wolfe (YouTube)",
-   "category": "ia",
-   "lang": "en",
-   "type": "video",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
   }
  ]
 }
