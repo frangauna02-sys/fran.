@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-26T06:25:08.576843+00:00",
+ "updated": "2026-11-26T07:55:53.514292+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 759,
+ "count": 769,
  "trends": [
   {
    "term": "black friday",
-   "count": 40,
-   "growth": 22.1
+   "count": 41,
+   "growth": 22.6
   },
   {
    "term": "jensen huang",
@@ -27,8 +27,8 @@
   },
   {
    "term": "navidad",
-   "count": 26,
-   "growth": 27.0
+   "count": 25,
+   "growth": 18.2
   },
   {
    "term": "meta",
@@ -37,13 +37,13 @@
   },
   {
    "term": "amazon",
-   "count": 17,
-   "growth": 9.7
+   "count": 18,
+   "growth": 10.2
   },
   {
    "term": "méxico",
-   "count": 16,
-   "growth": 17.0
+   "count": 17,
+   "growth": 18.0
   },
   {
    "term": "euros",
@@ -53,7 +53,7 @@
   {
    "term": "marcas",
    "count": 12,
-   "growth": 13.0
+   "growth": 9.1
   },
   {
    "term": "gta",
@@ -71,17 +71,17 @@
    "growth": 4.4
   },
   {
+   "term": "está",
+   "count": 11,
+   "growth": 12.0
+  },
+  {
    "term": "thanksgiving",
    "count": 10,
    "growth": 11.0
   },
   {
    "term": "menos",
-   "count": 10,
-   "growth": 11.0
-  },
-  {
-   "term": "está",
    "count": 10,
    "growth": 11.0
   },
@@ -98,6 +98,142 @@
  ],
  "items": [
   {
+   "title": "RetroMarketing: Parece una película de terror, pero es un comercial del año 2000 protagonizado por un bailarín de ballet de más de 1.90 metros",
+   "link": "https://www.merca20.com/retromarketing-parece-una-pelicula-de-terror-pero-es-un-comercial-del-ano-2000-protagonizado-por-un-bailarin-de-ballet-de-mas-de-1-90-metros/?utm_source=rss&utm_medium=rss&utm_campaign=retromarketing-parece-una-pelicula-de-terror-pero-es-un-comercial-del-ano-2000-protagonizado-por-un-bailarin-de-ballet-de-mas-de-1-90-metros",
+   "date": "2026-11-26T07:55:01+00:00",
+   "summary": "En 2000, Metz creó al Judderman, un monstruo interpretado por un bailarín de ballet que protagonizó un premiado comercial de terror británico.",
+   "image": "https://files.merca20.com/uploads/2026/11/Este-articulo-forma-parte-de-RetroMarketing-una-seccion-que-recupera-campanas.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T07:55:53.514292+00:00",
+   "topics": []
+  },
+  {
+   "title": "Gráfica del día: Las profesiones peor pagadas en México",
+   "link": "https://www.merca20.com/grafica-del-dia-las-profesiones-peor-pagadas-en-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=grafica-del-dia-las-profesiones-peor-pagadas-en-mexico",
+   "date": "2026-11-26T07:50:34+00:00",
+   "summary": "Estas carreras tienen los salarios mensuales más bajos del país",
+   "image": "https://files.merca20.com/uploads/2026/11/Grafica-del-dia-Las-profesiones-peor-pagadas-en-Mexico.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T07:55:53.514292+00:00",
+   "topics": []
+  },
+  {
+   "title": "Las gangas del día hoy, 26 de noviembre en Amazon, PcComponentes y más",
+   "link": "https://www.xataka.com/seleccion/gangas-dia-hoy-26-noviembre-amazon-pccomponentes",
+   "date": "2026-11-26T07:46:18+00:00",
+   "summary": "Aunque el Black Friday oficial de 2026 tendrá lugar mañana, viernes 27 de noviembre, muchas tiendas tienen aplicadas cientos de descuentos desde hace semanas. Y estas son algunas de las mejores (y mayores) rebajas que encontramos hoy, jueves 26: roborock Qrevo 2 Pro Set Hoy en…",
+   "image": "https://i.blogs.es/734531/gangas-hoy/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T07:55:53.514292+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Las apps conquistan la atención de los consumidores y abren nuevas oportunidades para las marcas",
+   "link": "https://www.merca20.com/las-apps-conquistan-la-atencion-de-los-consumidores-y-abren-nuevas-oportunidades-para-las-marcas/?utm_source=rss&utm_medium=rss&utm_campaign=las-apps-conquistan-la-atencion-de-los-consumidores-y-abren-nuevas-oportunidades-para-las-marcas",
+   "date": "2026-11-26T07:40:35+00:00",
+   "summary": "El teléfono móvil se convirtió en uno de los principales puntos de contacto entre consumidores y marcas",
+   "image": "https://files.merca20.com/uploads/2026/11/apps-marcas-chatgpt.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T07:55:53.514292+00:00",
+   "topics": []
+  },
+  {
+   "title": "Marketing 2027: cómo cambiará la distribución de los presupuestos publicitarios",
+   "link": "https://www.merca20.com/marketing-2027-como-cambiara-la-distribucion-de-los-presupuestos-publicitarios/?utm_source=rss&utm_medium=rss&utm_campaign=marketing-2027-como-cambiara-la-distribucion-de-los-presupuestos-publicitarios",
+   "date": "2026-11-26T07:00:42+00:00",
+   "summary": "La presión por demostrar resultados seguirá influyendo en la distribución de los presupuestos, pero una estrategia centrada exclusivamente en conversiones puede limitar el crecimiento de las marcas.",
+   "image": "https://files.merca20.com/uploads/2026/11/Marketing-foto-de-bigstock-4046272-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T07:55:53.514292+00:00",
+   "topics": []
+  },
+  {
+   "title": "Rusia acaba de conseguir que Corea del Sur haga algo inédito: mandar a toda una isla a los refugios antiaéreos",
+   "link": "https://www.xataka.com/magnet/rusia-acaba-conseguir-que-corea-sur-haga-algo-inedito-mandar-a-toda-isla-a-refugios-antiaereos",
+   "date": "2026-11-26T07:00:28+00:00",
+   "summary": "Una pequeña isla volcánica situada frente a la costa oriental de Corea del Sur se ha convertido en el escenario de un incidente militar sin precedentes. Lo ocurrido el martes ilustra hasta qué punto las tensiones entre Rusia y los aliados de Estados Unidos han trascendido las…",
+   "image": "https://i.blogs.es/a4d811/tu160-restaurada/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T07:55:53.514292+00:00",
+   "topics": []
+  },
+  {
+   "title": "La televisión se mantiene como el medio más fiable para informarse, según el Barómetro 2026 de UTECA",
+   "link": "https://www.reasonwhy.es/actualidad/barometro-uteca-2026-confianza-television-redes-sociales",
+   "date": "2026-11-26T06:58:00+00:00",
+   "summary": "El 59% consideran que ofrece la información más veraz y confiable, frente al 10% que señalan las redes.",
+   "image": "https://www.reasonwhy.es/media/library/familia-viendo-la-tv.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T07:55:53.514292+00:00",
+   "topics": []
+  },
+  {
+   "title": "El calefactor retro y de colores que querrás para tu casa este invierno está rebajado en el Black Friday",
+   "link": "https://www.xataka.com/seleccion/calefactor-retro-colores-que-querras-para-tu-casa-este-invierno-esta-rebajado-black-friday",
+   "date": "2026-11-26T06:57:00+00:00",
+   "summary": "El Black Friday es uno de esos momentos del año en el que solemos esperar para comprar muchas de las cosas que llevamos queriendo desde hace tiempo, los regalos de Navidad o incluso equipar nuestro hogar de cara al frío del invierno. Para esto último, en Amazon hemos encontrado…",
+   "image": "https://i.blogs.es/bca3ef/create-warm-handy/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T07:55:53.514292+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Tetra Pak presenta Reva, un envase a base de papel diseñado para alimentos que se comen con cuchara",
+   "link": "https://www.reasonwhy.es/actualidad/tetra-pak-reva-envase-papel-alimentos-cuchara",
+   "date": "2026-11-26T06:56:00+00:00",
+   "summary": "Está fabricado en papel, tiene forma cuadrada y cuenta con una tapa con anilla que facilita el consumo “on the go”.",
+   "image": "https://www.reasonwhy.es/media/library/tetra-pak-tetra-reva.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T07:55:53.514292+00:00",
+   "topics": []
+  },
+  {
+   "title": "Lenovo explora la creatividad de lo ordinario con una miniserie musical hecha con artistas en IA",
+   "link": "https://www.reasonwhy.es/actualidad/lenovo-explora-creatividad-ordinario-miniserie-inteligencia-artificial",
+   "date": "2026-11-26T06:55:00+00:00",
+   "summary": "La campaña forma parte de la plataforma “Made with Lenovo Yoga x Microsoft” y destaca las capacidades de su ordenador.",
+   "image": "https://www.reasonwhy.es/media/library/lenovo-ode-to-ordinary.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T07:55:53.514292+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
    "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
    "link": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
    "date": "2026-11-26T06:08:25+00:00",
@@ -107,8 +243,8 @@
    "category": "ia",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-26T06:25:08.576843+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T06:25:08.576843+00:00",
    "topics": []
   },
   {
