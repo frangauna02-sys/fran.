@@ -1,34 +1,36 @@
 {
- "updated": "2026-11-26T14:38:31.178819+00:00",
- "sources_ok": 32,
+ "updated": "2026-11-26T15:57:18.402808+00:00",
+ "sources_ok": 31,
  "sources_total": 32,
- "sources_failed": [],
- "count": 840,
+ "sources_failed": [
+  "Marketing4eCommerce"
+ ],
+ "count": 857,
  "trends": [
   {
    "term": "black friday",
-   "count": 50,
-   "growth": 27.5
+   "count": 51,
+   "growth": 28.0
   },
   {
    "term": "jensen huang",
-   "count": 33,
-   "growth": 14.9
+   "count": 29,
+   "growth": 7.5
   },
   {
    "term": "google",
-   "count": 37,
-   "growth": 6.6
+   "count": 35,
+   "growth": 5.5
   },
   {
    "term": "nvidia",
-   "count": 30,
-   "growth": 9.9
+   "count": 26,
+   "growth": 5.6
   },
   {
    "term": "navidad",
-   "count": 20,
-   "growth": 5.2
+   "count": 21,
+   "growth": 5.0
   },
   {
    "term": "meta",
@@ -47,13 +49,18 @@
   },
   {
    "term": "está",
-   "count": 17,
-   "growth": 18.0
+   "count": 18,
+   "growth": 19.0
   },
   {
    "term": "euros",
    "count": 16,
    "growth": 11.9
+  },
+  {
+   "term": "precio",
+   "count": 13,
+   "growth": 14.0
   },
   {
    "term": "marcas",
@@ -64,11 +71,6 @@
    "term": "gta",
    "count": 13,
    "growth": 14.0
-  },
-  {
-   "term": "precio",
-   "count": 12,
-   "growth": 13.0
   },
   {
    "term": "muse",
@@ -83,7 +85,7 @@
   {
    "term": "thanksgiving",
    "count": 11,
-   "growth": 12.0
+   "growth": 8.4
   },
   {
    "term": "ofertas",
@@ -97,6 +99,192 @@
   }
  ],
  "items": [
+  {
+   "title": "Oreo convierte la Navidad en una dulce venganza contra Santa Claus en esta campaña",
+   "link": "https://www.merca20.com/oreo-convierte-la-navidad-en-una-dulce-venganza-contra-santa-claus-en-esta-campana/?utm_source=rss&utm_medium=rss&utm_campaign=oreo-convierte-la-navidad-en-una-dulce-venganza-contra-santa-claus-en-esta-campana",
+   "date": "2026-11-26T15:56:23+00:00",
+   "summary": "El anuncio comienza cuando un padre aprovecha un descuido para morder una de las Oreo que sus hijos habían preparado para Santa Claus",
+   "image": "https://files.merca20.com/uploads/2026/11/Oreo-campana-de-Navidad.-Foto-Bicstockt-94362044.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Este Garmin es de lo mejor que hay si buscas un reloj para running: buen seguimiento, hasta 13 días de autonomía y precio mínimo",
+   "link": "https://www.xataka.com/seleccion/este-garmin-mejor-que-hay-buscas-reloj-para-running-buen-seguimiento-13-dias-autonomia-precio-minimo",
+   "date": "2026-11-26T15:46:20+00:00",
+   "summary": "A la hora de practicar running, pocas cosas hay tan útiles que un reloj con GPS. Lo bueno es que hay alternativas económicas que no exigen hacer un desembolso importante, y más ahora que estamos en Black Friday, donde tenemos ofertas bastante jugosas. Una está protagonizada por…",
+   "image": "https://i.blogs.es/54e428/garmin-forerunner-265-3-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "FIFA Suffers Cyberattack as Hackers Claim to Have Stolen 12 GB of Confidential Information",
+   "link": "https://www.merca20.com/fifa-suffers-cyberattack-as-hackers-claim-to-have-stolen-12-gb-of-confidential-information/?utm_source=rss&utm_medium=rss&utm_campaign=fifa-suffers-cyberattack-as-hackers-claim-to-have-stolen-12-gb-of-confidential-information",
+   "date": "2026-11-26T15:43:33+00:00",
+   "summary": "FIFA confirmed that it had been the victim of a cyberattack that allowed unauthorized access to a limited amount of personal and corporate information,",
+   "image": "https://files.merca20.com/uploads/2026/11/FIFA-NEWSROOM-FIFA.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
+   "topics": []
+  },
+  {
+   "title": "Llevamos décadas tratando de unir la relatividad y la física cuántica. Un investigador de OpenAI dice que lo ha conseguido (parcialmente)",
+   "link": "https://www.xataka.com/investigacion/llevamos-decadas-tratando-unir-relatividad-fisica-cuantica-investigador-openai-dice-que-ha-conseguido-parcialmente",
+   "date": "2026-11-26T15:43:18+00:00",
+   "summary": "El miércoles 25 de noviembre, a las 18:58 (hora universal), llegó a arXiv un documento de 54 páginas, 34 figuras y un solo autor. No me voy a andar por las ramas: si lo que se dice en ese paper es cierto, estaríamos ante uno de los avances más importantes de la física teórica en…",
+   "image": "https://i.blogs.es/e6db2e/retrato-editorial-sobre-fondo-verde-texturizado/1024_2000.png",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
+   "topics": []
+  },
+  {
+   "title": "Mientras los mexicanos se preparan para el Black Friday, BBVA, Santander, Banamex y HSBC dan este importante anuncio en el DOF",
+   "link": "https://www.merca20.com/mientras-los-mexicanos-se-preparan-para-el-black-friday-bbva-santander-banamex-y-hsbc-dan-este-importante-anuncio-en-el-dof/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-los-mexicanos-se-preparan-para-el-black-friday-bbva-santander-banamex-y-hsbc-dan-este-importante-anuncio-en-el-dof",
+   "date": "2026-11-26T15:27:18+00:00",
+   "summary": "BBVA, Banorte, Santander, Banamex y HSBC, entre otros, forman parte del sistema financiero al que impactan las nuevas disposiciones",
+   "image": "https://files.merca20.com/uploads/2026/11/BANCOS-DOF-ANTONIO-MIRANDA-CHATGPT.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
+   "topics": [
+    "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Acciona vuelve a apostar por la animación artesanal en su anuncio de Navidad, hecho a mano con tiza",
+   "link": "https://www.reasonwhy.es/actualidad/anuncio-navidad-acciona-2026-animacion-artesanal-tiza",
+   "date": "2026-11-26T15:17:00+00:00",
+   "summary": "La compañía da continuidad al territorio de comunicación inaugurado el año pasado y reivindica el cuidado de las personas.",
+   "image": "https://www.reasonwhy.es/media/library/anuncio-navidad-acciona-2026.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Hisense presenta el 32S6S, un televisor portátil con Hi-QLED y hasta 10 horas de batería para moverlo o llevarlo fuera de casa",
+   "link": "https://www.xataka.com/seleccion/hisense-presenta-32s6s-televisor-portatil-hi-qled-10-horas-bateria-para-moverlo-llevarlo-fuera-casa",
+   "date": "2026-11-26T15:16:20+00:00",
+   "summary": "Los televisores han pasado históricamente por un mismo guión: se anclan a la pared o a un mueble del salón y ahí se quedan. Hisense busca romper esa dinámica en España con el lanzamiento del 32S6S, un televisor portátil de su familia lifestyle que integra batería propia y…",
+   "image": "https://i.blogs.es/e9ea8f/tele-portatil-hisense-32s6s/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
+   "topics": []
+  },
+  {
+   "title": "Quoting Jack Despain Zhou",
+   "link": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+   "date": "2026-11-26T15:09:31+00:00",
+   "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with…",
+   "image": "",
+   "source": "Simon Willison",
+   "category": "ia",
+   "lang": "en",
+   "type": "newsletter",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
+   "og_tried": true,
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "FIFA sufre ciberataque y hackers aseguran tener 12 GB de información confidencial",
+   "link": "https://www.merca20.com/fifa-sufre-ciberataque-y-hackers-aseguran-tener-12-gb-de-informacion-confidencial/?utm_source=rss&utm_medium=rss&utm_campaign=fifa-sufre-ciberataque-y-hackers-aseguran-tener-12-gb-de-informacion-confidencial",
+   "date": "2026-11-26T15:09:11+00:00",
+   "summary": "La FIFA confirmó que fue víctima de un ciberataque que permitió el acceso no autorizado a una cantidad limitada de información personal y empresarial",
+   "image": "https://files.merca20.com/uploads/2026/11/FIFA-CIBERATAQUE-NEWSROOM-FIFA.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
+   "topics": []
+  },
+  {
+   "title": "The Missing Step In Prompt Tracking Was Written Down In 1995 via @sejournal, @DuaneForrester",
+   "link": "https://www.searchenginejournal.com/the-missing-step-in-prompt-tracking-was-written-down-in-1995/598461/",
+   "date": "2026-11-26T15:00:36+00:00",
+   "summary": "Competency questions, a 30-year-old knowledge engineering method, define which questions matter and what a correct answer is.",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/duane-forrester-tracking-featured-598461-1600x840-1.webp",
+   "source": "Search Engine Journal",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo"
+   ]
+  },
+  {
+   "title": "La sombra del 'pucherazo' está marcando la recta final del 29N. La pregunta es de dónde viene y si es posible en España",
+   "link": "https://www.xataka.com/magnet/sombra-pucherazo-esta-marcando-recta-final-29n-pregunta-donde-viene-posible-espana",
+   "date": "2026-11-26T15:00:00+00:00",
+   "summary": "Lo lógico (lo esperable al menos) es que a estas alturas de la campaña estuviésemos hablando de vivienda, migración, política social, infraestructura ferroviaria o, en fin, cualquiera de las cuestiones que han marcado la agenda de las últimas semanas. La realidad, a 72 horas de…",
+   "image": "https://i.blogs.es/cdd740/55667337499_807ee960d0_k/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Los expertos lo tienen claro: el tipo de calefacción que tienes en casa determina cuánto ahorrarás este invierno",
+   "link": "https://www.xataka.com/energia/expertos-tienen-claro-tipo-calefaccion-que-tienes-casa-determina-cuanto-ahorraras-este-invierno",
+   "date": "2026-11-26T14:46:21+00:00",
+   "summary": "La bajada en el mercurio ya se ha hecho notar y muchos hogares ya han tenido que encender la calefacción en algún momento. Con el invierno a la vuelta de la esquina, este gesto se repetirá cada vez más en las próximas semanas, con el consecuente aumento de la factura. Y este…",
+   "image": "https://i.blogs.es/b4995d/daniel-targonskyi-kon7vsdtmqk-unsplash/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
+   "topics": []
+  },
+  {
+   "title": "Mientras los mexicanos compran piñatas para las posadas, en Alemania los cascanueces representan protección y abundancia y se venden como regalos en los mercados navideños",
+   "link": "https://www.merca20.com/mientras-los-mexicanos-compran-pinatas-para-las-posadas-en-alemania-los-cascanueces-representan-proteccion-y-abundancia-y-se-venden-como-regalos-en-los-mercados-navidenos/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-los-mexicanos-compran-pinatas-para-las-posadas-en-alemania-los-cascanueces-representan-proteccion-y-abundancia-y-se-venden-como-regalos-en-los-mercados-navidenos",
+   "date": "2026-11-26T14:21:07+00:00",
+   "summary": "Las piñatas mexicanas simbolizan la lucha contra los pecados, mientras los cascanueces alemanes representan protección, buena suerte y abundancia en Navidad",
+   "image": "https://files.merca20.com/uploads/2026/11/posadas-cascanueces-mercado-aleman-navidad-GEMINI-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
+   "topics": []
+  },
   {
    "title": "WhatsApp, basta ya",
    "link": "https://www.xataka.com/aplicaciones/whatsapp-basta",
@@ -169,9 +357,23 @@
    "topics": []
   },
   {
-   "title": "Alemania acaba de explicar de forma muy sencilla por qué sigue pagando la factura militar de Ucrania: porque \"Rusia quiere algo más que Ucrania\"",
+   "title": "Canal de Isabel II desmonta los falsos mitos sobre las toallitas y los residuos que se tiran al váter",
+   "link": "https://www.marketingdirecto.com/marketing-general/agencias/canal-isabel-ii-desmonta-falsos-mitos-toallitas-residuos-tiran-vater",
+   "date": "2026-11-26T13:22:15+00:00",
+   "summary": "La entidad recurre al humor para concienciar sobre los riesgos de arrojar determinados productos al inodoro, incluso cuando sus envases los presentan como biodegradables o aptos para el saneamiento.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/IMAGEN-SPOT-2.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Alemania empieza a intuir que Ucrania no es el destino final de las ambiciones de Rusia, sino la primera parada",
    "link": "https://www.xataka.com/magnet/alemania-acaba-explicar-forma-muy-sencilla-que-sigue-pagando-factura-militar-ucrania-porque-rusia-quiere-algo-que-ucrania",
-   "date": "2026-11-26T13:22:40+00:00",
+   "date": "2026-11-26T13:22:00+00:00",
    "summary": "Durante décadas, Alemania pudo permitirse mantener un gasto militar relativamente reducido mientras destinaba buena parte de sus recursos a sostener su Estado del bienestar. Esa época, qué duda cabe, parece haber llegado a su fin. El Gobierno alemán se dispone a asumir un…",
    "image": "https://i.blogs.es/2ba37a/merz/1024_2000.jpeg",
    "source": "Xataka",
@@ -180,6 +382,22 @@
    "type": "article",
    "first_seen": "2026-11-26T14:38:31.178819+00:00",
    "topics": []
+  },
+  {
+   "title": "En esta tienda de IKEA suena el teléfono cada 16 minutos (y la razón es absolutamente demoledora)",
+   "link": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/tienda-ikea-suena-telefono-minutos-razon-es-absolutamente-demoledora",
+   "date": "2026-11-26T13:17:53+00:00",
+   "summary": "En una tienda de IKEA suena el teléfono cada 16 minutos, exactamente el mismo intervalo de tiempo en que se reportan incidentes de violencia doméstica en Portugal.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/ikea-a-wake-up-call.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
+   "og_tried": true,
+   "topics": [
+    "ecommerce"
+   ]
   },
   {
    "title": "Las mejores ofertas de Amazon en vísperas del Black Friday: descuentazos en portátiles, teles de 75 pulgadas y más",
@@ -300,6 +518,19 @@
    ]
   },
   {
+   "title": "Adultos mayores con credencial del INAPAM tienen descuento en estas pizzerías; hay beneficios de hasta 30%",
+   "link": "https://www.merca20.com/adultos-mayores-con-credencial-del-inapam-tienen-descuento-en-estas-pizzerias-hay-beneficios-de-hasta-30/?utm_source=rss&utm_medium=rss&utm_campaign=adultos-mayores-con-credencial-del-inapam-tienen-descuento-en-estas-pizzerias-hay-beneficios-de-hasta-30",
+   "date": "2026-11-26T12:29:24+00:00",
+   "summary": "Los adultos mayores con credencial del INAPAM tienen descuentos de hasta 30% en pizzerías de México. Consulta la lista de establecimientos y beneficios en 2026",
+   "image": "https://files.merca20.com/uploads/2026/11/pizza-pepperoni-gemini-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
+   "topics": []
+  },
+  {
    "title": "Ana (26 años) pasa seis horas al día en autobús para trabajar en Madrid: “Vivo en Aranda de Duero y me sale mucho más barato”",
    "link": "https://www.xataka.com/movilidad/ana-26-anos-pasa-seis-horas-al-dia-autobus-para-trabajar-madrid-vivo-aranda-duero-me-sale-mucho-barato",
    "date": "2026-11-26T12:25:44+00:00",
@@ -313,7 +544,7 @@
    "topics": []
   },
   {
-   "title": "«En el Black Friday hay que cuidar la experiencia de pago de principio a fin», Lena Hackelöe (Brite Payments)",
+   "title": "«En el Black Friday hay que cuidar la experiencia de pago de principio a fin», Lena Hackelöer (Brite Payments)",
    "link": "https://www.marketingdirecto.com/marketing-general/entrevistas/black-friday-hay-cuidar-experiencia-pago-principio-fin-lena-hackeloe-brite-payments",
    "date": "2026-11-26T12:23:27+00:00",
    "summary": "La escasa diligencia de los retailers en los reembolsos puede terminar devaluando las experiencia de cliente en el Black Friday.",
@@ -598,6 +829,19 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "topics": []
+  },
+  {
+   "title": "Grocery stores open on Thanksgiving 2026: Are Walmart, Costco, Sam’s Club, Dollar General, Kroger, and Target open today?",
+   "link": "https://www.merca20.com/grocery-stores-open-on-thanksgiving-2026-are-walmart-costco-sams-club-dollar-general-kroger-and-target-open-today/?utm_source=rss&utm_medium=rss&utm_campaign=grocery-stores-open-on-thanksgiving-2026-are-walmart-costco-sams-club-dollar-general-kroger-and-target-open-today",
+   "date": "2026-11-26T11:13:11+00:00",
+   "summary": "Are grocery stores open on Thanksgiving 2026? Check Walmart, Costco, Sam's Club, Dollar General, Kroger and Target holiday hours for November 26",
+   "image": "https://files.merca20.com/uploads/2026/11/walmart-cortesia-4.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
    "topics": []
   },
   {
@@ -1444,6 +1688,20 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-26T06:25:08.576843+00:00",
+   "topics": []
+  },
+  {
+   "title": "The New York Times warns photographers not to update Photoshop over AI features",
+   "link": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+   "date": "2026-11-26T05:08:46+00:00",
+   "summary": "My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if I…",
+   "image": "",
+   "source": "Simon Willison",
+   "category": "ia",
+   "lang": "en",
+   "type": "newsletter",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -5175,7 +5433,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
+   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -5274,10 +5532,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the U.K.",
+   "title": "Meta expands Muse to the UK",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -6278,21 +6536,6 @@
    "first_seen": "2026-11-24T16:56:29.470529+00:00",
    "topics": [
     "seo"
-   ]
-  },
-  {
-   "title": "The New York Times warns photographers not to update Photoshop over AI features",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-   "date": "2026-11-24T16:09:23+00:00",
-   "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0,0,100,100",
-   "source": "The Verge IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T16:14:09.069235+00:00",
-   "topics": [
-    "redes"
    ]
   },
   {
