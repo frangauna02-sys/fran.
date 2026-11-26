@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:53:04.518135+00:00",
+ "updated": "2026-11-26T23:52:43.532474+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
@@ -7,8 +7,8 @@
  "trends": [
   {
    "term": "black friday",
-   "count": 56,
-   "growth": 30.7
+   "count": 57,
+   "growth": 31.2
   },
   {
    "term": "google",
@@ -21,14 +21,14 @@
    "growth": 5.9
   },
   {
+   "term": "méxico",
+   "count": 22,
+   "growth": 23.0
+  },
+  {
    "term": "amazon",
    "count": 22,
    "growth": 8.5
-  },
-  {
-   "term": "méxico",
-   "count": 21,
-   "growth": 22.0
   },
   {
    "term": "está",
@@ -39,6 +39,11 @@
    "term": "precio",
    "count": 16,
    "growth": 17.0
+  },
+  {
+   "term": "marcas",
+   "count": 16,
+   "growth": 7.4
   },
   {
    "term": "euros",
@@ -54,11 +59,6 @@
    "term": "thanksgiving",
    "count": 15,
    "growth": 11.2
-  },
-  {
-   "term": "marcas",
-   "count": 15,
-   "growth": 7.0
   },
   {
    "term": "gta",
@@ -97,6 +97,73 @@
   }
  ],
  "items": [
+  {
+   "title": "Mexico’s First Winter Storm of the Season, Where Snow and Heavy Rain Are Expected in November 2026",
+   "link": "https://www.merca20.com/mexicos-first-winter-storm-of-the-season-where-snow-and-heavy-rain-are-expected-in-november-2026/?utm_source=rss&utm_medium=rss&utm_campaign=mexicos-first-winter-storm-of-the-season-where-snow-and-heavy-rain-are-expected-in-november-2026",
+   "date": "2026-11-26T23:52:28+00:00",
+   "summary": "Conagua issues Weather Advisory No. 659 for the first winter storm of the season, forecasting possible overnight snow or sleet and heavy rainfall on November 26, 2026.",
+   "image": "https://files.merca20.com/uploads/2026/11/Mexicos-First-Winter-Storm-Which-States-Could-See-Snow-in-November-2026-and-Where-Heavy-Rain-Is-Expected.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T23:52:43.532474+00:00",
+   "topics": []
+  },
+  {
+   "title": "Primera tormenta invernal en México, en qué estados va a nevar en noviembre de 2026 y dónde hay alertas por lluvias",
+   "link": "https://www.merca20.com/primera-tormenta-invernal-en-mexico-en-que-estados-va-a-nevar-en-noviembre-de-2026-y-donde-hay-alertas-por-lluvias/?utm_source=rss&utm_medium=rss&utm_campaign=primera-tormenta-invernal-en-mexico-en-que-estados-va-a-nevar-en-noviembre-de-2026-y-donde-hay-alertas-por-lluvias",
+   "date": "2026-11-26T23:34:21+00:00",
+   "summary": "Conagua emite el Aviso No. 659 por la primera tormenta invernal: prevé posible nieve o aguanieve nocturna y lluvias intensas este 26 de noviembre de 2026.",
+   "image": "https://files.merca20.com/uploads/2026/11/Primera-tormenta-invernal-en-Mexico-en-que-estados-va-a-nevar-en-noviembre-de-2026-y-donde-hay-alertas-por-lluvias-.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T23:52:43.532474+00:00",
+   "topics": []
+  },
+  {
+   "title": "Cuando las marcas convierten sus archivos publicitarios en activos creativos",
+   "link": "https://www.merca20.com/cuando-las-marcas-convierten-sus-archivos-publicitarios-en-activos-creativos/?utm_source=rss&utm_medium=rss&utm_campaign=cuando-las-marcas-convierten-sus-archivos-publicitarios-en-activos-creativos",
+   "date": "2026-11-26T23:28:30+00:00",
+   "summary": "La reutilización de archivos también tiene una dimensión económica, donde cada nueva producción implica presupuestos, tiempos de planeación, equipos y procesos de aprobación.",
+   "image": "https://files.merca20.com/uploads/2026/11/Creatividad-foto-de-bigstock-166565033.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T23:52:43.532474+00:00",
+   "topics": []
+  },
+  {
+   "title": "Starbucks prepares 1,200 new coffee shops by 2027—nearly 3 international openings per day",
+   "link": "https://www.merca20.com/starbucks-prepares-1200-new-coffee-shops-by-2027-nearly-3-international-openings-per-day/?utm_source=rss&utm_medium=rss&utm_campaign=starbucks-prepares-1200-new-coffee-shops-by-2027-nearly-3-international-openings-per-day",
+   "date": "2026-11-26T23:23:31+00:00",
+   "summary": "Starbucks aims to combine global expansion, profitability, and brand strengthening, with a network that could exceed 42,800 coffee shops by the end of 2027",
+   "image": "https://files.merca20.com/uploads/2026/09/brian-niccol-ceo-starbucks_-2026-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T23:52:43.532474+00:00",
+   "topics": []
+  },
+  {
+   "title": "Black Friday en McDonald’s: cómo conseguir una hamburguesa por 29 pesos y qué necesitas para aprovechar la oferta",
+   "link": "https://www.merca20.com/black-friday-en-mcdonalds-como-conseguir-una-hamburguesa-por-29-pesos-y-que-necesitas-para-aprovechar-la-oferta/?utm_source=rss&utm_medium=rss&utm_campaign=black-friday-en-mcdonalds-como-conseguir-una-hamburguesa-por-29-pesos-y-que-necesitas-para-aprovechar-la-oferta",
+   "date": "2026-11-26T22:59:48+00:00",
+   "summary": "El Black Friday llega a McDonald’s con una promoción que reduce el precio de uno de sus productos más conocidos",
+   "image": "https://files.merca20.com/uploads/2026/11/mcdonalds-black-friday-foto-mcdonads.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T23:52:43.532474+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
   {
    "title": "KFC Avengers Doomsday: códigos para conseguir las 5 figuras sin repetir",
    "link": "https://www.merca20.com/kfc-avengers-doomsday-codigos-para-conseguir-las-5-figuras-sin-repetir/?utm_source=rss&utm_medium=rss&utm_campaign=kfc-avengers-doomsday-codigos-para-conseguir-las-5-figuras-sin-repetir",
@@ -6270,7 +6337,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
+   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -6369,10 +6436,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the UK",
+   "title": "Meta expands Muse to the U.K.",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -12918,71 +12985,6 @@
    "image": "https://static.simonwillison.net/static/cors-allow/2026/datasette-maplibre.webp",
    "source": "Simon Willison",
    "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
-   "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-   "date": "2026-11-17T15:28:59+00:00",
-   "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
-   "source": "Ars Technica IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": []
-  },
-  {
-   "title": "Research Reports",
-   "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-   "date": "2026-11-17T14:39:46+00:00",
-   "summary": "To access a report, click on the corresponding image below.",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Screenshot-2026-11-09-at-3.15.07-PM-edited.png",
-   "source": "MIT Technology Review",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Coworking with Megan Driscoll",
-   "link": "https://www.marketingbrew.com/stories/coworking-with-megan-driscoll?utm_source=&utm_medium=syndication&utm_campaign=feed",
-   "date": "2026-11-17T14:16:52+00:00",
-   "summary": "She’s CEO and founder of EvolveMKD.",
-   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80,trim=78;0;78;0/https://storage.morningbrew.com/image/2026-11-16/image-999238f75ff720d6f7f4c6ee67d82540df09ee82-1500x1000-jpg/MKB_coworking_Driscoll_SM_1126.jpg",
-   "source": "Marketing Brew",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Productiv-icky",
-   "link": "https://www.bensbites.com/p/productiv-icky",
-   "date": "2026-11-17T14:14:18+00:00",
-   "summary": "Digging holes on the beach",
-   "image": "https://substackcdn.com/image/fetch/$s_!1gPk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09d649a8-ce78-4942-8987-e610f220531a_1100x1156.gif",
-   "source": "Ben's Bites",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Why Geico bet big on a youth sports docuseries",
-   "link": "https://www.marketingbrew.com/stories/geico-youth-sports-docuseries-miles-that-matter?utm_source=&utm_medium=syndication&utm_campaign=feed",
-   "date": "2026-11-17T14:12:43+00:00",
-   "summary": "The latest installment of the brand’s “Miles that Matter” series highlights a middle school football team with star coaches and is designed to not be “overly branded,” an exec said.",
-   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80,trim=94;0;93;0/https://storage.morningbrew.com/image/2026-11-16/image-200f36722792c0c2ef4931ca65061adef3706259-1800x1200-jpg/mtm-photo-03.jpg",
-   "source": "Marketing Brew",
-   "category": "marketing",
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
