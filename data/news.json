@@ -1,34 +1,29 @@
 {
- "updated": "2026-11-26T19:35:02.975189+00:00",
+ "updated": "2026-11-26T20:50:54.338062+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 889,
+ "count": 899,
  "trends": [
   {
    "term": "black friday",
-   "count": 55,
-   "growth": 30.2
-  },
-  {
-   "term": "jensen huang",
-   "count": 25,
-   "growth": 4.9
+   "count": 56,
+   "growth": 30.7
   },
   {
    "term": "google",
-   "count": 30,
-   "growth": 3.6
+   "count": 33,
+   "growth": 3.9
+  },
+  {
+   "term": "jensen huang",
+   "count": 23,
+   "growth": 3.9
   },
   {
    "term": "navidad",
-   "count": 24,
-   "growth": 5.6
-  },
-  {
-   "term": "nvidia",
-   "count": 23,
-   "growth": 3.9
+   "count": 25,
+   "growth": 5.9
   },
   {
    "term": "amazon",
@@ -37,8 +32,13 @@
   },
   {
    "term": "méxico",
-   "count": 20,
-   "growth": 21.0
+   "count": 21,
+   "growth": 22.0
+  },
+  {
+   "term": "nvidia",
+   "count": 22,
+   "growth": 3.3
   },
   {
    "term": "meta",
@@ -61,24 +61,19 @@
    "growth": 11.9
   },
   {
+   "term": "thanksgiving",
+   "count": 15,
+   "growth": 11.2
+  },
+  {
    "term": "marcas",
    "count": 14,
    "growth": 6.6
   },
   {
-   "term": "thanksgiving",
-   "count": 13,
-   "growth": 9.8
-  },
-  {
-   "term": "media",
-   "count": 13,
-   "growth": 7.5
-  },
-  {
    "term": "gta",
-   "count": 13,
-   "growth": 14.0
+   "count": 14,
+   "growth": 15.0
   },
   {
    "term": "ofertas",
@@ -91,12 +86,130 @@
    "growth": 4.8
   },
   {
-   "term": "móvil",
-   "count": 10,
-   "growth": 7.7
+   "term": "media",
+   "count": 12,
+   "growth": 5.7
+  },
+  {
+   "term": "descuento",
+   "count": 11,
+   "growth": 12.0
   }
  ],
  "items": [
+  {
+   "title": "Snoopy stars in Google’s Thanksgiving 2026 Doodle, The intergenerational appeal of a beloved character",
+   "link": "https://www.merca20.com/snoopy-stars-in-googles-thanksgiving-2026-doodle-the-intergenerational-appeal-of-a-beloved-character/?utm_source=rss&utm_medium=rss&utm_campaign=snoopy-stars-in-googles-thanksgiving-2026-doodle-the-intergenerational-appeal-of-a-beloved-character",
+   "date": "2026-11-26T20:45:54+00:00",
+   "summary": "Google celebrates Thanksgiving 2026 with Snoopy and Woodstock, characters who also star in campaigns for Burger King and other brands.",
+   "image": "https://files.merca20.com/uploads/2026/11/Snoopy-stars-in-Googles-Thanksgiving-2026-Doodle-The-intergenerational-appeal-of-a-beloved-character-.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T20:50:54.338062+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "El comercio conversacional redefine el futuro de las compras con inteligencia artificial",
+   "link": "https://www.merca20.com/el-comercio-conversacional-redefine-el-futuro-de-las-compras-con-inteligencia-artificial/?utm_source=rss&utm_medium=rss&utm_campaign=el-comercio-conversacional-redefine-el-futuro-de-las-compras-con-inteligencia-artificial",
+   "date": "2026-11-26T20:26:14+00:00",
+   "summary": "La inteligencia artificial comienza a intervenir antes de que el consumidor llegue a una tienda digital, pues participa en la identificación de necesidades, la evaluación de alternativas y la selección de productos.",
+   "image": "https://files.merca20.com/uploads/2026/11/Comercio-foto-de-bigstock-167175914.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T20:50:54.338062+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "While the Adidas Samba and Superstar continue to attract consumer interest, the brand is betting on new versions of its classic sneakers",
+   "link": "https://www.merca20.com/while-the-adidas-samba-and-superstar-continue-to-attract-consumer-interest-the-brand-is-betting-on-new-versions-of-its-classic-sneakers/?utm_source=rss&utm_medium=rss&utm_campaign=while-the-adidas-samba-and-superstar-continue-to-attract-consumer-interest-the-brand-is-betting-on-new-versions-of-its-classic-sneakers",
+   "date": "2026-11-26T20:25:15+00:00",
+   "summary": "Bjørn Gulden, CEO of Adidas, acknowledged that the lifestyle footwear market is facing challenges related to excess inventory and the prevalence of discounts",
+   "image": "https://files.merca20.com/uploads/2026/08/ADIDAS-SAMBA-cortesia-5.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T20:50:54.338062+00:00",
+   "topics": []
+  },
+  {
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "date": "2026-11-26T20:03:54+00:00",
+   "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-26T20:50:54.338062+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Menú DOOM KFC por Avengers: Doomsday: qué contiene la hamburguesa negra y cuánto cuesta sola o en paquete en México",
+   "link": "https://www.merca20.com/menu-doom-kfc-por-avengers-doomsday-que-contiene-la-hamburguesa-negra-y-cuanto-cuesta-sola-o-en-paquete-en-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=menu-doom-kfc-por-avengers-doomsday-que-contiene-la-hamburguesa-negra-y-cuanto-cuesta-sola-o-en-paquete-en-mexico",
+   "date": "2026-11-26T19:55:51+00:00",
+   "summary": "KFC arma una colección que combina alimentos y productos promocionales alrededor de Avengers: Doomsday",
+   "image": "https://files.merca20.com/uploads/2026/11/KFC-hamburguesa-doom-menu-FOTO-KFC.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T20:50:54.338062+00:00",
+   "topics": []
+  },
+  {
+   "title": "PlayStation Plus revela sus juegos de diciembre 2026, estos son los títulos disponibles",
+   "link": "https://www.merca20.com/playstation-plus-revela-sus-juegos-de-diciembre-2026-estos-son-los-titulos-disponibles/?utm_source=rss&utm_medium=rss&utm_campaign=playstation-plus-revela-sus-juegos-de-diciembre-2026-estos-son-los-titulos-disponibles",
+   "date": "2026-11-26T19:53:19+00:00",
+   "summary": "Los suscriptores de PlayStation Plus cerrarán el año con una nueva selección de videojuegos que combina nostalgia, combates inspirados en el anime y experiencias de terror. Sony Interactive Entertainment confirmó los títulos que formarán parte de los juegos mensuales de…",
+   "image": "https://files.merca20.com/uploads/2026/11/DRAGONBALL-2-XENOVERSE-CORTESIA-PLAYSTATION.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T20:50:54.338062+00:00",
+   "topics": []
+  },
+  {
+   "title": "Black Friday BBVA 2026, cómo comprar y pagar hasta marzo de 2027 a meses sin intereses",
+   "link": "https://www.merca20.com/black-friday-bbva-2026-como-comprar-y-pagar-hasta-marzo-de-2027-a-meses-sin-intereses/?utm_source=rss&utm_medium=rss&utm_campaign=black-friday-bbva-2026-como-comprar-y-pagar-hasta-marzo-de-2027-a-meses-sin-intereses",
+   "date": "2026-11-26T19:42:21+00:00",
+   "summary": "BBVA ofrece una promoción para compras del 27 de noviembre con tarjetas de crédito, siempre que se active previamente y se cumplan los requisitos.",
+   "image": "https://files.merca20.com/uploads/2026/11/BBVA-Cortesia-Cesar-Eduardo-Torres-Vargas-Revista-Merca2.0.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T20:50:54.338062+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Snoopy llega a Google con su Doodle de Thanksgiving 2026, así funciona el poder intergeneracional de un personaje adorable",
+   "link": "https://www.merca20.com/snoopy-llega-a-google-con-su-doodle-de-thanksgiving-2026-asi-funciona-el-poder-intergeneracional-de-un-personaje-adorable/?utm_source=rss&utm_medium=rss&utm_campaign=snoopy-llega-a-google-con-su-doodle-de-thanksgiving-2026-asi-funciona-el-poder-intergeneracional-de-un-personaje-adorable",
+   "date": "2026-11-26T19:39:13+00:00",
+   "summary": "Google celebra Thanksgiving 2026 con Snoopy y Woodstock, personajes que también protagonizan campañas de Burger King y otras marcas.",
+   "image": "https://files.merca20.com/uploads/2026/11/Snoopy-llega-a-Google-con-su-Doodle-de-Thanksgiving-2026-el-poder-intergeneracional-de-un-personaje-amado-por-millones-de-consumidores-.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T20:50:54.338062+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
   {
    "title": "¿Una lavadora para llenarla de palomitas? Así aprovecharon tres mujeres la promoción “Trae tu canasta” de Cinépolis",
    "link": "https://www.merca20.com/una-lavadora-para-llenarla-de-palomitas-asi-aprovecharon-tres-mujeres-la-promocion-trae-tu-canasta-de-cinepolis/?utm_source=rss&utm_medium=rss&utm_campaign=una-lavadora-para-llenarla-de-palomitas-asi-aprovecharon-tres-mujeres-la-promocion-trae-tu-canasta-de-cinepolis",
@@ -128,6 +241,19 @@
    ]
   },
   {
+   "title": "¡Feliz Navidad! Rematan Smart TV TCL de 40 pulgadas con Google TV, Full HD y HDR10 con 63% de descuento: cuesta 3,299 pesos",
+   "link": "https://www.merca20.com/feliz-navidad-rematan-smart-tv-tcl-de-40-pulgadas-con-google-tv-full-hd-y-hdr10-con-63-de-descuento-cuesta-3299-pesos/?utm_source=rss&utm_medium=rss&utm_campaign=feliz-navidad-rematan-smart-tv-tcl-de-40-pulgadas-con-google-tv-full-hd-y-hdr10-con-63-de-descuento-cuesta-3299-pesos",
+   "date": "2026-11-26T19:11:32+00:00",
+   "summary": "Uno de los principales atractivos de esta pantalla Smart TV TCL es la incorporación de Google TV",
+   "image": "https://files.merca20.com/uploads/2026/11/pantalla-tcl-CORTESIA-mercado-libre.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T20:50:54.338062+00:00",
+   "topics": []
+  },
+  {
    "title": "Ask Jeeves At Macy's Thanksgiving Day Parade (Old Photos)",
    "link": "https://www.seroundtable.com/ask-jeeves-macys-thanksgiving-day-parade-42628.html",
    "date": "2026-11-26T19:10:00+00:00",
@@ -137,8 +263,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-26T19:35:02.975189+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T19:35:02.975189+00:00",
    "topics": [
     "seo"
    ]
@@ -2285,6 +2411,24 @@
    "og_tried": true,
    "first_seen": "2026-11-26T05:02:09.256336+00:00",
    "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "In Graphic Detail: The GTA 6 creator industrial complex",
+   "link": "https://digiday.com/media/in-graphic-detail-the-gta-6-creator-industrial-complex/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-26T05:01:00+00:00",
+   "summary": "A look at how GTA 6 has impacted the creator economy, with stream numbers, viewership, top creators, and organic hype.",
+   "image": "https://digiday.com/wp-content/uploads/sites/3/2026/11/GTA_MR_5.jpg",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-26T20:50:54.338062+00:00",
+   "og_tried": true,
+   "topics": [
+    "redes",
+    "seo",
     "publicidad"
    ]
   },
