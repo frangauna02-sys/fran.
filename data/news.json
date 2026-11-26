@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T01:53:19.205017+00:00",
+ "updated": "2026-11-26T02:51:14.166542+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 749,
+ "count": 751,
  "trends": [
   {
    "term": "black friday",
@@ -42,8 +42,8 @@
   },
   {
    "term": "méxico",
-   "count": 15,
-   "growth": 16.0
+   "count": 16,
+   "growth": 17.0
   },
   {
    "term": "euros",
@@ -97,6 +97,34 @@
   }
  ],
  "items": [
+  {
+   "title": "Tidal sigue el ejemplo de Spotify y eliminará millones de canciones creadas con IA de su catálogo musical",
+   "link": "https://www.merca20.com/tidal-sigue-el-ejemplo-de-spotify-y-eliminara-millones-de-canciones-creadas-con-ia-de-su-catalogo-musical/?utm_source=rss&utm_medium=rss&utm_campaign=tidal-sigue-el-ejemplo-de-spotify-y-eliminara-millones-de-canciones-creadas-con-ia-de-su-catalogo-musical",
+   "date": "2026-11-26T02:30:22+00:00",
+   "summary": "A partir del 9 de diciembre de 2026 Tidal tiene previsto eliminar más de 29 millones de canciones creadas con IA.",
+   "image": "https://files.merca20.com/uploads/2026/11/Audio-en-marketing-foto-de-bigstock-848205.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T02:51:14.166542+00:00",
+   "topics": []
+  },
+  {
+   "title": "WhatsApp permitirá programar mensajes y fotografías como Telegram: ¿cuándo llegará a México?",
+   "link": "https://www.merca20.com/whatsapp-permitira-programar-mensajes-y-fotografias-como-telegram-cuando-llegara-a-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=whatsapp-permitira-programar-mensajes-y-fotografias-como-telegram-cuando-llegara-a-mexico",
+   "date": "2026-11-26T02:00:34+00:00",
+   "summary": "Después de una larga espera por fin WhatsApp hizo oficial que se podrán programar mensajes de texto e incluso fotografías para su posterior publicación.",
+   "image": "https://files.merca20.com/uploads/2026/09/bigstock-223521637.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T02:51:14.166542+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
   {
    "title": "Avatar 4 confirma su fecha de estreno: ¿podrá superar el récord de taquilla de Avengers: Endgame?",
    "link": "https://www.merca20.com/avatar-4-confirma-su-fecha-de-estreno-podra-superar-el-record-de-taquilla-de-avengers-endgame/?utm_source=rss&utm_medium=rss&utm_campaign=avatar-4-confirma-su-fecha-de-estreno-podra-superar-el-record-de-taquilla-de-avengers-endgame",
