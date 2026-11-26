@@ -1,36 +1,39 @@
 {
- "updated": "2026-11-26T15:57:18.402808+00:00",
- "sources_ok": 31,
+ "updated": "2026-11-26T17:07:23.121252+00:00",
+ "sources_ok": 32,
  "sources_total": 32,
- "sources_failed": [
-  "Marketing4eCommerce"
- ],
- "count": 857,
+ "sources_failed": [],
+ "count": 871,
  "trends": [
   {
    "term": "black friday",
-   "count": 51,
-   "growth": 28.0
+   "count": 52,
+   "growth": 28.5
   },
   {
    "term": "jensen huang",
-   "count": 29,
-   "growth": 7.5
+   "count": 27,
+   "growth": 5.8
   },
   {
    "term": "google",
-   "count": 35,
-   "growth": 5.5
+   "count": 34,
+   "growth": 5.0
   },
   {
    "term": "nvidia",
-   "count": 26,
-   "growth": 5.6
+   "count": 25,
+   "growth": 4.9
   },
   {
    "term": "navidad",
    "count": 21,
    "growth": 5.0
+  },
+  {
+   "term": "méxico",
+   "count": 19,
+   "growth": 20.0
   },
   {
    "term": "meta",
@@ -43,14 +46,9 @@
    "growth": 8.8
   },
   {
-   "term": "méxico",
-   "count": 18,
-   "growth": 19.0
-  },
-  {
    "term": "está",
-   "count": 18,
-   "growth": 19.0
+   "count": 17,
+   "growth": 18.0
   },
   {
    "term": "euros",
@@ -58,14 +56,19 @@
    "growth": 11.9
   },
   {
+   "term": "marcas",
+   "count": 14,
+   "growth": 6.6
+  },
+  {
    "term": "precio",
    "count": 13,
    "growth": 14.0
   },
   {
-   "term": "marcas",
+   "term": "media",
    "count": 13,
-   "growth": 6.1
+   "growth": 7.5
   },
   {
    "term": "gta",
@@ -78,11 +81,6 @@
    "growth": 4.8
   },
   {
-   "term": "media",
-   "count": 12,
-   "growth": 7.0
-  },
-  {
    "term": "thanksgiving",
    "count": 11,
    "growth": 8.4
@@ -93,12 +91,251 @@
    "growth": 11.0
   },
   {
-   "term": "agents",
+   "term": "ads",
    "count": 10,
    "growth": 4.8
   }
  ],
  "items": [
+  {
+   "title": "Javier Alagón asume la AMAI y busca reposicionar la investigación de mercados frente al avance de la IA",
+   "link": "https://www.merca20.com/javier-alagon-asume-la-amai-y-busca-reposicionar-la-investigacion-de-mercados-frente-al-avance-de-la-ia/?utm_source=rss&utm_medium=rss&utm_campaign=javier-alagon-asume-la-amai-y-busca-reposicionar-la-investigacion-de-mercados-frente-al-avance-de-la-ia",
+   "date": "2026-11-26T17:01:59+00:00",
+   "summary": "El nuevo periodo de la Asociación Mexicana de Agencias de Inteligencia de Mercado y Opinión, deja sobre la mesa un desafío que va más allá de la adopción tecnológica.",
+   "image": "https://files.merca20.com/uploads/2026/11/Evento-AMAI-Foto-Merca2.0.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "La inseguridad se ha convertido en una condición estructural de Internet",
+   "link": "https://www.xataka.com/opinion/inseguridad-se-ha-convertido-condicion-estructural-internet",
+   "date": "2026-11-26T17:00:25+00:00",
+   "summary": "Llevo años escuchando la cantinela de que la ciberseguridad es, sobre todo, un problema técnico. Lo primero que nos dicen los expertos es instalar actualizaciones, usar contraseñas complejas y distintas, activar la verificación en dos pasos, y, en el caso de negocios, contratar…",
+   "image": "https://i.blogs.es/7e6ec3/xataka-opinion-era-inseguridad-digital/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "topics": []
+  },
+  {
+   "title": "MediaMarkt quiere que cambiemos de tele en este Black Friday: descuentos de hasta el 50% en todo tipo de modelos",
+   "link": "https://www.xataka.com/seleccion/mediamarkt-quiere-que-cambiemos-tele-este-black-friday-descuentos-50-todo-tipo-modelos",
+   "date": "2026-11-26T17:00:25+00:00",
+   "summary": "Históricamente, el Black Friday siempre ha sido el mejor momento para actualizar nuestros dispositivos electrónicos. Los móviles, ordenadores y televisores siempre han sido protagonistas de estas ofertas. Precisamente, durante el Black Friday de MediaMarkt, todos estos están…",
+   "image": "https://i.blogs.es/f0c97a/television-con-friends-de-fondo/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "En los pantanos de Florida hay conejos de peluche con paneles solares montando guardia: su presa son serpientes invasoras",
+   "link": "https://www.xataka.com/magnet/pantanos-florida-hay-conejos-peluche-paneles-solares-montando-guardia-su-presa-serpientes-invasoras",
+   "date": "2026-11-26T16:51:00+00:00",
+   "summary": "En los Everglades de Florida hay cocodrilos, serpientes y también conejos de peluche dentro de pequeñas jaulas. Aunque la escena suene bastante absurda, en realidad tiene todo el sentido porque forma parte de un experimento llevado a cabo por la South Florida Water Management…",
+   "image": "https://i.blogs.es/36d99c/roboterhase-florida_6451877/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "topics": []
+  },
+  {
+   "title": "Día de Acción de Gracias 2026, lo que sucede cuando comienzas a agradecer y 20 frases para hacerlo todos los días",
+   "link": "https://www.merca20.com/dia-de-accion-de-gracias-2026-lo-que-sucede-cuando-comienzas-a-agradecer-y-20-frases-para-hacerlo-todos-los-dias/?utm_source=rss&utm_medium=rss&utm_campaign=dia-de-accion-de-gracias-2026-lo-que-sucede-cuando-comienzas-a-agradecer-y-20-frases-para-hacerlo-todos-los-dias",
+   "date": "2026-11-26T16:49:01+00:00",
+   "summary": "Conoce el significado del Día de Acción de Gracias 2026, los beneficios de practicar la gratitud según la ciencia y 20 frases para agradecer la vida.",
+   "image": "https://files.merca20.com/uploads/2026/11/Dia-de-Accion-de-Gracias-2026-lo-que-sucede-cuando-comienzas-a-agradecer-y-20-frases-para-hacerlo-todos-los-dias-.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "topics": []
+  },
+  {
+   "title": "La publicidad española crece, pero pierde inversión en 2025",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/publicidad-espanola-crece-pierde-inversion-empleo-2025",
+   "date": "2026-11-26T16:40:44+00:00",
+   "summary": "La AEA identifica la IA, la medición y la diferenciación de marca como los principales desafíos de la industria en la undécima edición del Observatorio de la Publicidad en España.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/OBSERVATORIO-DE-LA-PUBLICIDAD-2026.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "OpenAI lanza OpenWorks y así pagará hasta 156 mil pesos mexicanos por enseñar ChatGPT a pequeños negocios",
+   "link": "https://www.merca20.com/openai-lanza-openworks-y-asi-pagara-hasta-156-mil-pesos-mexicanos-por-ensenar-chatgpt-a-pequenos-negocios/?utm_source=rss&utm_medium=rss&utm_campaign=openai-lanza-openworks-y-asi-pagara-hasta-156-mil-pesos-mexicanos-por-ensenar-chatgpt-a-pequenos-negocios",
+   "date": "2026-11-26T16:32:30+00:00",
+   "summary": "La pérdida de influencia de los medios tradicionales tiene una dimensión económica que va más allá de la circulación impresa o la audiencia televisiva.",
+   "image": "https://files.merca20.com/uploads/2026/11/OpenAI-foto-de-bigstock-468581859-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "topics": []
+  },
+  {
+   "title": "Licencia para enamorar: McCann rescata el modelo Bond para que las marcas sobrevivan al paso del tiempo",
+   "link": "https://www.marketingdirecto.com/especiales/enamorando-al-consumidor/licencia-para-enamorar-mccann-modelo-bond",
+   "date": "2026-11-26T16:28:24+00:00",
+   "summary": "Agentes hay muchos, pero ninguno como Bond. Inspirándose en el entrañable espía, Iolanda Casalà, Head of Strategy & Effectiveness de McCann refleja cómo construir relevancia de marca de forma efectiva en el tiempo.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/133432.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "SEP cambia las reglas del uniforme escolar y ahora estas son las nuevas reglas que deberán respetar las escuelas de nivel medio superior",
+   "link": "https://www.merca20.com/sep-cambia-las-reglas-del-uniforme-escolar-y-ahora-estas-son-las-nuevas-reglas-que-deberan-respetar-las-escuelas-de-nivel-medio-superior/?utm_source=rss&utm_medium=rss&utm_campaign=sep-cambia-las-reglas-del-uniforme-escolar-y-ahora-estas-son-las-nuevas-reglas-que-deberan-respetar-las-escuelas-de-nivel-medio-superior",
+   "date": "2026-11-26T16:21:46+00:00",
+   "summary": "La SEP establece el uniforme escolar neutro en el Bachillerato Nacional. Los estudiantes podrán elegir entre falda y pantalón sin restricciones ni sanciones",
+   "image": "https://files.merca20.com/uploads/2026/11/MARIO-DELGADO-FOTO-CORTESIA-COM-SOC-SEP.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "topics": []
+  },
+  {
+   "title": "La Comer opera cinco formatos comerciales en México: las diferencias entre City Market, Fresko, Sumesa y sus otros establecimientos",
+   "link": "https://www.merca20.com/la-comer-opera-cinco-formatos-comerciales-en-mexico-las-diferencias-entre-city-market-fresko-sumesa-y-sus-otros-establecimientos/?utm_source=rss&utm_medium=rss&utm_campaign=la-comer-opera-cinco-formatos-comerciales-en-mexico-las-diferencias-entre-city-market-fresko-sumesa-y-sus-otros-establecimientos",
+   "date": "2026-11-26T16:21:30+00:00",
+   "summary": "La Comer, City Market, Fresko, Sumesa y City Market Café son formatos de tienda con diferentes dimensiones, propuestas comerciales y experiencias de compra",
+   "image": "https://files.merca20.com/uploads/2026/11/LA-COMER-SALA-DE-PRENSA-CORTESIA-4.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Vera, la plataforma de Advia que simula los comportamientos de los consumidores para predecirlos",
+   "link": "https://www.marketingdirecto.com/especiales/enamorando-al-consumidor/vera-plataforma-advia-simula-comportamientos-predecirlos",
+   "date": "2026-11-26T16:17:23+00:00",
+   "summary": "En una era en la que los consumidores delegan sus decisiones de compra en asistentes conversacionales, Pablo Martínez, Co-Founder de Advia, desveló en Enamorando al Consumidor cómo transformar los anuncios en respuestas útiles.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/133419.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Acaba el Black November de AEG, pero estos cuatro chollos siguen disponibles: tenemos un horno, una lavadora con eficiencia A y más",
+   "link": "https://www.xataka.com/seleccion/acaba-black-november-aeg-estos-cuatro-chollos-siguen-disponibles-tenemos-horno-lavadora-eficiencia-a",
+   "date": "2026-11-26T16:16:25+00:00",
+   "summary": "Aunque el Black Friday es oficialmente el próximo viernes, siempre es mejor si la ventana para aprovechar ofertas y descuentos es más grande. Eso es justo lo que ha hecho AEG, que ha ido mucho más allá con su Black November: todo un mes de ofertas. Nuestros compañeros de TikTok…",
+   "image": "https://i.blogs.es/0db235/black-november-aeg/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "topics": [
+    "redes",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "'Olga', una tuneladora de 2.600 toneladas y 183 metros de longitud, completa el último tramo del túnel ferroviario más ambicioso de Europa",
+   "link": "https://www.xataka.com/ingenieria-y-megaconstrucciones/olga-tuneladora-2-600-toneladas-183-metros-longitud-completa-ultimo-tramo-tunel-ferroviario-ambicioso-europa",
+   "date": "2026-11-26T16:07:00+00:00",
+   "summary": "Aquí somos muy fans de las tuneladoras, no os vamos a engañar. Y en Europa existen numerosos proyectos en curso que utilizan estas colosales máquinas, la mayoría proyectos bastante ambiciosos. En este artículo hablamos de “Olga”, una de las nueve tuneladoras que atravesó el…",
+   "image": "https://i.blogs.es/b7cb81/tunel/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "topics": []
+  },
+  {
+   "title": "Ester García Cosín toma el relevo de Sandra Sotelo como directora general de PHD Media en España",
+   "link": "https://www.marketingdirecto.com/marketing-general/gente/ester-garcia-cosin-toma-relevo-sandra-sotelo-directora-general-phd-media-espana",
+   "date": "2026-11-26T16:05:33+00:00",
+   "summary": "El cargo de directora general de PHD Media en nuestro país que desempeñaba hasta hace sólo unos días Sandra Sotelo será asumido por Ester García Cosín.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/ester-garcia-cosin-phd-media.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Telcel realizará bonificación voluntaria de MB a usuarios de prepago y pospago; qué son y cuáles son sus diferencias",
+   "link": "https://www.merca20.com/telcel-realizara-bonificacion-voluntaria-de-mb-a-usuarios-de-prepago-y-pospago-que-son-y-cuales-son-sus-diferencias/?utm_source=rss&utm_medium=rss&utm_campaign=telcel-realizara-bonificacion-voluntaria-de-mb-a-usuarios-de-prepago-y-pospago-que-son-y-cuales-son-sus-diferencias",
+   "date": "2026-11-26T16:04:50+00:00",
+   "summary": "La empresa precisó que la bonificación aplicará a los usuarios afectados y tendrá una vigencia de 30 días naturales",
+   "image": "https://files.merca20.com/uploads/2026/11/prepago-pospago-telcel-imagen-chatgp.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "topics": []
+  },
+  {
+   "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+   "date": "2026-11-26T16:00:00+00:00",
+   "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.117_b11r13mg5.jpg?resize=1200,675",
+   "source": "TechCrunch IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Nuclear, renovables y factura de la luz: qué propone cada partido para la energía en las elecciones del 29N",
+   "link": "https://www.xataka.com/energia/nuclear-renovables-factura-luz-que-propone-cada-partido-para-energia-elecciones-29n",
+   "date": "2026-11-26T16:00:00+00:00",
+   "summary": "El calendario de cierre de las centrales nucleares, el papel de las renovables, la regulación del mercado eléctrico, la fiscalidad energética y la protección de los consumidores… La política energética juega un papel fundamental en el día a día de los hogares españoles y, por…",
+   "image": "https://i.blogs.es/b484cc/pexels-emilio-sanchez-hernandez-285921208-30831269/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "topics": []
+  },
   {
    "title": "Oreo convierte la Navidad en una dulce venganza contra Santa Claus en esta campaña",
    "link": "https://www.merca20.com/oreo-convierte-la-navidad-en-una-dulce-venganza-contra-santa-claus-en-esta-campana/?utm_source=rss&utm_medium=rss&utm_campaign=oreo-convierte-la-navidad-en-una-dulce-venganza-contra-santa-claus-en-esta-campana",
@@ -112,6 +349,21 @@
    "first_seen": "2026-11-26T15:57:18.402808+00:00",
    "topics": [
     "publicidad"
+   ]
+  },
+  {
+   "title": "La tecnológica Newborn Town compra la española Softonic por cerca de 50M€",
+   "link": "https://marketing4ecommerce.net/newborn-town-compra-softonic/",
+   "date": "2026-11-26T15:49:20+00:00",
+   "summary": "Fiona Garvey continuará al frente de Softonic, que seguirá operando bajo su propia marca, mantendrá su equipo y su sede en Barcelona.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/venta-softonic-1-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "topics": [
+    "ecommerce"
    ]
   },
   {
@@ -143,9 +395,9 @@
    "topics": []
   },
   {
-   "title": "Llevamos décadas tratando de unir la relatividad y la física cuántica. Un investigador de OpenAI dice que lo ha conseguido (parcialmente)",
+   "title": "Llevamos décadas tratando de unir la relatividad y la física cuántica. Un investigador de OpenAI dice que lo ha conseguido",
    "link": "https://www.xataka.com/investigacion/llevamos-decadas-tratando-unir-relatividad-fisica-cuantica-investigador-openai-dice-que-ha-conseguido-parcialmente",
-   "date": "2026-11-26T15:43:18+00:00",
+   "date": "2026-11-26T15:43:00+00:00",
    "summary": "El miércoles 25 de noviembre, a las 18:58 (hora universal), llegó a arXiv un documento de 54 páginas, 34 figuras y un solo autor. No me voy a andar por las ramas: si lo que se dice en ese paper es cierto, estaríamos ante uno de los avances más importantes de la física teórica en…",
    "image": "https://i.blogs.es/e6db2e/retrato-editorial-sobre-fondo-verde-texturizado/1024_2000.png",
    "source": "Xataka",
@@ -209,8 +461,8 @@
    "category": "ia",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-26T15:57:18.402808+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
    "topics": [
     "redes"
    ]
@@ -229,6 +481,20 @@
    "topics": []
   },
   {
+   "title": "Una marca llamada deseo: así nace (y se mantiene en la cresta de la ola) una «love brand»",
+   "link": "https://www.marketingdirecto.com/especiales/enamorando-al-consumidor/love-brand-ikea-burger-king-cheil-experiencia",
+   "date": "2026-11-26T15:00:44+00:00",
+   "summary": "IKEA y Burger King comparten junto a Cheil, INNN, Spark Foundry y Dakari Brand Experience el elixir para convertirse en una marca que enamora al consumidor.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Enamorando-Consumidor-lovebrands.jpg",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
    "title": "The Missing Step In Prompt Tracking Was Written Down In 1995 via @sejournal, @DuaneForrester",
    "link": "https://www.searchenginejournal.com/the-missing-step-in-prompt-tracking-was-written-down-in-1995/598461/",
    "date": "2026-11-26T15:00:36+00:00",
@@ -238,14 +504,14 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-26T15:57:18.402808+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
    "topics": [
     "seo"
    ]
   },
   {
-   "title": "La sombra del 'pucherazo' está marcando la recta final del 29N. La pregunta es de dónde viene y si es posible en España",
+   "title": "La teoría de la conspiración del \"pucherazo\" domina la recta final de la campaña electoral en España",
    "link": "https://www.xataka.com/magnet/sombra-pucherazo-esta-marcando-recta-final-29n-pregunta-donde-viene-posible-espana",
    "date": "2026-11-26T15:00:00+00:00",
    "summary": "Lo lógico (lo esperable al menos) es que a estas alturas de la campaña estuviésemos hablando de vivienda, migración, política social, infraestructura ferroviaria o, en fin, cualquiera de las cuestiones que han marcado la agenda de las últimas semanas. La realidad, a 72 horas de…",
@@ -286,9 +552,9 @@
    "topics": []
   },
   {
-   "title": "WhatsApp, basta ya",
+   "title": "WhatsApp, basta ya, te lo pedimos por favor",
    "link": "https://www.xataka.com/aplicaciones/whatsapp-basta",
-   "date": "2026-11-26T14:00:25+00:00",
+   "date": "2026-11-26T14:00:00+00:00",
    "summary": "WhatsApp ha tomado esta semana dos decisiones (una y media, realmente) a las que habría que darles una vuelta. La primera: los mensajes programados. La segunda, o la media, los stickers con sonido que, de acuerdo a WaBetaInfo, están en el horno. No lo veo. No lo veo, pero para…",
    "image": "https://i.blogs.es/13cf40/original/1024_2000.jpeg",
    "source": "Xataka",
@@ -329,9 +595,9 @@
    ]
   },
   {
-   "title": "El Black Friday de la crisis de los chips: por qué los descuentos en productos este año no son los que eran",
+   "title": "Los descuentos de este Black Friday son más reducidos que nunca: la culpa la tiene la gran crisis de componentes",
    "link": "https://www.xataka.com/componentes/black-friday-crisis-chips-que-descuentos-productos-este-ano-no-que-eran",
-   "date": "2026-11-26T13:34:45+00:00",
+   "date": "2026-11-26T13:34:00+00:00",
    "summary": "El auge de la IA ha desatado una carrera por desarrollar los mejores chips de memoria y por construir y alimentar cada vez más centros de datos que los alberguen. Y como consecuencia de ello, muchos dispositivos de consumo han encarecido significativamente su precio durante el…",
    "image": "https://i.blogs.es/94f25b/black-friday-destacada/1024_2000.jpeg",
    "source": "Xataka",
@@ -344,9 +610,9 @@
    ]
   },
   {
-   "title": "SpaceX ya no lanzará más satélites pequeños ajenos y Blue Origin ha sacado tajada de ello",
+   "title": "Blue Origin quiere ocupar el hueco que SpaceX deja libre: el del negocio del lanzamiento de satélites pequeños",
    "link": "https://www.xataka.com/espacio/spacex-no-lanzara-satelites-pequenos-ajenos-blue-origin-ha-sacado-tajada-ello",
-   "date": "2026-11-26T13:26:47+00:00",
+   "date": "2026-11-26T13:26:00+00:00",
    "summary": "SpaceX se está preparando para terminar con el programa de rideshare que tanto ha usado en el pasado, así que algunas de las empresas que contaban con sus cohetes Falcon para lanzar satélites pequeños han buscado alternativas lo antes posible. Es el caso de Endurosat, la empresa…",
    "image": "https://i.blogs.es/bf528b/new-glenn-1-/1024_2000.jpeg",
    "source": "Xataka",
@@ -366,8 +632,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-26T15:57:18.402808+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
    "topics": []
   },
   {
@@ -393,8 +659,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-26T15:57:18.402808+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
    "topics": [
     "ecommerce"
    ]
@@ -473,9 +739,72 @@
    ]
   },
   {
+   "title": "Bizum en eCommerce: cómo mejorar la experiencia de pago online y aprovechar sus nuevas funcionalidades",
+   "link": "https://marketing4ecommerce.net/bizum-ecommerce-pagos-recurrentes-checkout/",
+   "date": "2026-11-26T12:50:40+00:00",
+   "summary": "Descubre cómo simplificar el checkout, incorporar suscripciones y facilitar cobros recurrentes con herramientas adaptadas a los ecommerce.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/bizum-ecommerce-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "WhatsApp no quiere que te vuelvas a olvidar de felicitar un cumpleaños: ya es posible programar mensajes en la plataforma",
+   "link": "https://marketing4ecommerce.net/whatsapp-programar-mensajes/",
+   "date": "2026-11-26T12:49:54+00:00",
+   "summary": "Puedes programar mensajes de texto, fotos y vídeos en los chats individuales y grupales para que se envíen entre 10 minutos y 14 días después[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/programar-mensajes-en-whatsapp-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T13:14:10.474085+00:00",
+   "topics": [
+    "redes",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Así es Hostinger AI Builder: crea webs, tiendas online y aplicaciones con ayuda de agentes de IA",
+   "link": "https://marketing4ecommerce.net/hostinger-ai-builder-crear-webs-tiendas-online-ia/",
+   "date": "2026-11-26T12:48:41+00:00",
+   "summary": "Descubre las diferencias entre el modo manual y agéntico, sus funciones de comercio electrónico, precios y opciones de personalización.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/hostinger-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Instagram entra en la campaña electoral: quién gana en volumen de seguidores y tasa de engagement",
+   "link": "https://marketing4ecommerce.net/instagram-entra-en-la-campana-electoral-quien-gana-en-volumen-de-seguidores-y-tasa-de-engagement/",
+   "date": "2026-11-26T12:47:40+00:00",
+   "summary": "Según un análisis de Metricool, las derechas ganan en volumen de seguidores en Instagram, pero las izquierdas lideran en interacciones.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/partidos-politicos-instagram-1-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T13:14:10.474085+00:00",
+   "topics": [
+    "redes",
+    "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
    "title": "WhatsApp presenta los stickers con audio: cómo funcionan y cómo crear los tuyos",
    "link": "https://marketing4ecommerce.net/whatsapp-stickers-con-audio/",
-   "date": "2026-11-26T12:47:55+00:00",
+   "date": "2026-11-26T12:45:55+00:00",
    "summary": "Te enseñamos los pasos a seguir para crear tus propios stickers con audio de cero o editar stickers que ya tienes desde WhatsApp.[…]",
    "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/stickers-con-audio-en-whatsapp-1024x614.jpg",
    "source": "Marketing4eCommerce",
@@ -727,39 +1056,6 @@
    "type": "article",
    "first_seen": "2026-11-26T11:55:52.948231+00:00",
    "topics": []
-  },
-  {
-   "title": "WhatsApp no quiere que te vuelvas a olvidar de felicitar un cumpleaños: ya es posible programar mensajes en la plataforma",
-   "link": "https://marketing4ecommerce.net/whatsapp-programar-mensajes/",
-   "date": "2026-11-26T11:40:54+00:00",
-   "summary": "Puedes programar mensajes de texto, fotos y vídeos en los chats individuales y grupales para que se envíen entre 10 minutos y 14 días después[…]",
-   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/programar-mensajes-en-whatsapp-1024x614.jpg",
-   "source": "Marketing4eCommerce",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-26T13:14:10.474085+00:00",
-   "topics": [
-    "redes",
-    "ecommerce"
-   ]
-  },
-  {
-   "title": "Instagram entra en la campaña electoral: quién gana en volumen de seguidores y tasa de engagement",
-   "link": "https://marketing4ecommerce.net/instagram-entra-en-la-campana-electoral-quien-gana-en-volumen-de-seguidores-y-tasa-de-engagement/",
-   "date": "2026-11-26T11:38:40+00:00",
-   "summary": "Según un análisis de Metricool, las derechas ganan en volumen de seguidores en Instagram, pero las izquierdas lideran en interacciones.[…]",
-   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/partidos-politicos-instagram-1-1024x614.jpg",
-   "source": "Marketing4eCommerce",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-26T13:14:10.474085+00:00",
-   "topics": [
-    "redes",
-    "publicidad",
-    "ecommerce"
-   ]
   },
   {
    "title": "Da igual que vendas 25.000 ejemplares en una semana: si eres una novela de romantasy estás vetada de las listas",
@@ -1209,21 +1505,6 @@
    ]
   },
   {
-   "title": "Así es Hostinger AI Builder: crea webs, tiendas online y aplicaciones con ayuda de agentes de IA",
-   "link": "https://marketing4ecommerce.net/hostinger-ai-builder-crear-webs-tiendas-online-ia/",
-   "date": "2026-11-26T09:47:41+00:00",
-   "summary": "Descubre las diferencias entre el modo manual y agéntico, sus funciones de comercio electrónico, precios y opciones de personalización.[…]",
-   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/hostinger-1024x614.jpg",
-   "source": "Marketing4eCommerce",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-26T10:31:02.716325+00:00",
-   "topics": [
-    "ecommerce"
-   ]
-  },
-  {
    "title": "Google no para de decirme que no me queda espacio en Drive. Este disco duro de 5 TB (muy barato) me solucionaría la papeleta",
    "link": "https://www.xataka.com/seleccion/google-no-para-decirme-que-no-me-queda-espacio-drive-este-disco-duro-5-tb-muy-barato-me-solucionaria-papeleta",
    "date": "2026-11-26T09:46:18+00:00",
@@ -1367,21 +1648,6 @@
    "first_seen": "2026-11-26T09:00:32.033250+00:00",
    "topics": [
     "publicidad"
-   ]
-  },
-  {
-   "title": "Bizum en eCommerce: cómo mejorar la experiencia de pago online y aprovechar sus nuevas funcionalidades",
-   "link": "https://marketing4ecommerce.net/bizum-ecommerce-pagos-recurrentes-checkout/",
-   "date": "2026-11-26T08:50:40+00:00",
-   "summary": "Descubre cómo simplificar el checkout, incorporar suscripciones y facilitar cobros recurrentes con herramientas adaptadas a los ecommerce.[…]",
-   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/bizum-ecommerce-1024x614.jpg",
-   "source": "Marketing4eCommerce",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-26T10:31:02.716325+00:00",
-   "topics": [
-    "ecommerce"
    ]
   },
   {
@@ -1700,8 +1966,8 @@
    "category": "ia",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-26T15:57:18.402808+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
    "topics": []
   },
   {
@@ -3203,7 +3469,7 @@
    "topics": []
   },
   {
-   "title": "ChatGPT Ads Are Growing Fast – But Are Advertisers Seeing Results? via @sejournal, @brookeosmundson",
+   "title": "ChatGPT Ads Hit 100,000 Advertisers – But Are They Seeing Results? via @sejournal, @brookeosmundson",
    "link": "https://www.searchenginejournal.com/chatgpt-ads-are-growing-fast-but-are-advertisers-seeing-results/598052/",
    "date": "2026-11-25T15:00:31+00:00",
    "summary": "Early ChatGPT Ads tests show why following leads through to a sale or qualified opportunity can help you decide whether to keep spending.",
@@ -5433,7 +5699,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
+   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -5532,10 +5798,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the UK",
+   "title": "Meta expands Muse to the U.K.",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -12326,73 +12592,6 @@
    "topics": [
     "redes"
    ]
-  },
-  {
-   "title": "Broadening access to AI for scientists",
-   "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-   "date": "2026-11-16T17:00:00+00:00",
-   "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/793p1h1iUmksoWkDep5NRR/580e87d687cea7ef8e8288bef51c7bd4/academic-researchers-seo-card.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-   "link": "https://openai.com/index/strengthening-online-child-safety",
-   "date": "2026-11-16T17:00:00+00:00",
-   "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/48yJpyhKNBj3OvZAAEeLWN/5a888045c242da8cc8f8dc539f5f92fe/strengthening-online-child-safety-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "Why Columbia Sportswear is giving away a doomsday bunker",
-   "link": "https://www.marketingbrew.com/stories/columbia-sportswear-doomsday-bunker-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
-   "date": "2026-11-16T16:14:38+00:00",
-   "summary": "The stunt is designed to signal that the outfitter is a “democratized outdoor brand” for everyone, its head of marketing told us.",
-   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80/https://storage.morningbrew.com/image/2026-11-16/image-d6f1e31fb92412a9b6da878ff6be7180880662be-3840x2160-jpg/DontPanicRoomBillboard.jpg",
-   "source": "Marketing Brew",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Building trustworthy AI by fencing it in, not predicting it",
-   "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-   "date": "2026-11-16T16:04:28+00:00",
-   "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it…",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/BA5098150_Post-NEXUS_MIT_1920x1080.jpg?w=840",
-   "source": "MIT Technology Review",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS",
-   "link": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
-   "date": "2026-11-16T16:02:55+00:00",
-   "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/a088136b-9831-4903-9b32-15ecbdbccc89_1456x1048.png",
-   "source": "Lenny's Newsletter",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
   }
  ]
 }
