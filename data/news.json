@@ -1,16 +1,14 @@
 {
- "updated": "2026-11-25T23:26:27.525776+00:00",
- "sources_ok": 31,
+ "updated": "2026-11-26T00:23:13.230780+00:00",
+ "sources_ok": 32,
  "sources_total": 32,
- "sources_failed": [
-  "Marketing4eCommerce"
- ],
- "count": 741,
+ "sources_failed": [],
+ "count": 745,
  "trends": [
   {
    "term": "black friday",
-   "count": 40,
-   "growth": 28.7
+   "count": 41,
+   "growth": 29.4
   },
   {
    "term": "jensen huang",
@@ -34,8 +32,8 @@
   },
   {
    "term": "meta",
-   "count": 20,
-   "growth": 7.7
+   "count": 21,
+   "growth": 8.1
   },
   {
    "term": "amazon",
@@ -58,14 +56,19 @@
    "growth": 13.0
   },
   {
+   "term": "holiday",
+   "count": 12,
+   "growth": 4.1
+  },
+  {
    "term": "gta vi",
    "count": 9,
    "growth": 10.0
   },
   {
-   "term": "holiday",
-   "count": 12,
-   "growth": 3.6
+   "term": "muse",
+   "count": 11,
+   "growth": 4.4
   },
   {
    "term": "thanksgiving",
@@ -83,11 +86,6 @@
    "growth": 11.0
   },
   {
-   "term": "muse",
-   "count": 10,
-   "growth": 4.1
-  },
-  {
    "term": "menos",
    "count": 10,
    "growth": 11.0
@@ -99,6 +97,76 @@
   }
  ],
  "items": [
+  {
+   "title": "Netflix compra los estudios Radford para aumentar su presencia en Hollywood; es el mismo lugar donde se grabó “Seinfeld”",
+   "link": "https://www.merca20.com/netflix-compra-los-estudios-radford-para-aumentar-su-presencia-en-hollywood-es-el-mismo-lugar-donde-se-grabo-seinfeld/?utm_source=rss&utm_medium=rss&utm_campaign=netflix-compra-los-estudios-radford-para-aumentar-su-presencia-en-hollywood-es-el-mismo-lugar-donde-se-grabo-seinfeld",
+   "date": "2026-11-26T00:00:03+00:00",
+   "summary": "Netflix es la empresa que domina el streaming mundial pero ahora desea tener un papel protagónico dentro de la industria de Hollywood.",
+   "image": "https://files.merca20.com/uploads/2026/09/bigstock-Sankt-petersburg-Russia-Febr-227801113.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T00:23:13.230780+00:00",
+   "topics": []
+  },
+  {
+   "title": "Mientras Sears anuncia el Black to Cyber, Suburbia ofrecerá descuentos a adultos mayores con INAPAM durante Black Days 2026",
+   "link": "https://www.merca20.com/mientras-sears-anuncia-el-black-to-cyber-suburbia-ofrecera-descuentos-a-adultos-mayores-con-inapam-durante-black-days-2026/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-sears-anuncia-el-black-to-cyber-suburbia-ofrecera-descuentos-a-adultos-mayores-con-inapam-durante-black-days-2026",
+   "date": "2026-11-25T23:36:49+00:00",
+   "summary": "En México, las cadenas también buscan aprovechar el último gran tramo promocional del año",
+   "image": "https://files.merca20.com/uploads/2026/11/sears-suburbia-promociones-imagen-chatgpt.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T00:23:13.230780+00:00",
+   "topics": []
+  },
+  {
+   "title": "E-agency, el salto de las agencias tradicionales hacia la creatividad tecnológica",
+   "link": "https://www.merca20.com/e-agency-el-salto-de-las-agencias-tradicionales-hacia-la-creatividad-tecnologica/?utm_source=rss&utm_medium=rss&utm_campaign=e-agency-el-salto-de-las-agencias-tradicionales-hacia-la-creatividad-tecnologica",
+   "date": "2026-11-25T23:32:07+00:00",
+   "summary": "La creatividad ya no se basa únicamente en intuiciones brillantes o inspiración artística, sino que es alimentada por patrones, análisis, predicciones y modelos computacionales.",
+   "image": "https://files.merca20.com/uploads/2025/08/Tecnologia-foto-de-bigstock-85025996.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T00:23:13.230780+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Walmart apuesta por las compras con IA: así funcionará su alianza con Meta Muse durante el Black Friday 2026",
+   "link": "https://www.merca20.com/walmart-apuesta-por-las-compras-con-ia-asi-funcionara-su-alianza-con-meta-muse-durante-el-black-friday-2026/?utm_source=rss&utm_medium=rss&utm_campaign=walmart-apuesta-por-las-compras-con-ia-asi-funcionara-su-alianza-con-meta-muse-durante-el-black-friday-2026",
+   "date": "2026-11-25T23:30:26+00:00",
+   "summary": "Con esta alianza, los consumidores podrá utilizar el agente Muse de Meta para buscar las ofertas de Walmart durante el Black Friday 2026.",
+   "image": "https://files.merca20.com/uploads/2025/12/bigstock-Indianapolis-Circa-May-366411703.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T00:23:13.230780+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Quoting Scott Aaronson",
+   "link": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+   "date": "2026-11-25T23:26:32+00:00",
+   "summary": "It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on pondwater, or Galileo…",
+   "image": "",
+   "source": "Simon Willison",
+   "category": "ia",
+   "lang": "en",
+   "type": "newsletter",
+   "first_seen": "2026-11-26T00:23:13.230780+00:00",
+   "og_tried": true,
+   "topics": []
+  },
   {
    "title": "WhatsApp rolls out stickers with audio on Android and iPhone, How to create your own, add sound, and where to find them",
    "link": "https://www.merca20.com/whatsapp-rolls-out-stickers-with-audio-on-android-and-iphone-how-to-create-your-own-add-sound-and-where-to-find-them/?utm_source=rss&utm_medium=rss&utm_campaign=whatsapp-rolls-out-stickers-with-audio-on-android-and-iphone-how-to-create-your-own-add-sound-and-where-to-find-them",
@@ -167,8 +235,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T23:26:27.525776+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T23:26:27.525776+00:00",
    "topics": [
     "publicidad"
    ]
@@ -183,8 +251,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T23:26:27.525776+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T23:26:27.525776+00:00",
    "topics": [
     "seo",
     "publicidad"
@@ -294,6 +362,19 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-25T22:29:50.065797+00:00",
+   "topics": []
+  },
+  {
+   "title": "Nearly half of Gen Z and millennials experience burnout: long hours and a lack of recognition drive up work-related stress",
+   "link": "https://www.merca20.com/nearly-half-of-gen-z-and-millennials-experience-burnout-long-hours-and-a-lack-of-recognition-drive-up-work-related-stress/?utm_source=rss&utm_medium=rss&utm_campaign=nearly-half-of-gen-z-and-millennials-experience-burnout-long-hours-and-a-lack-of-recognition-drive-up-work-related-stress",
+   "date": "2026-11-25T21:27:20+00:00",
+   "summary": "71% of Gen Z state that they have at some point needed to take time off work due to stress, compared to 63% of millennials",
+   "image": "https://files.merca20.com/uploads/2026/11/gen-z-gemini-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T00:23:13.230780+00:00",
    "topics": []
   },
   {
@@ -590,6 +671,23 @@
    "type": "article",
    "first_seen": "2026-11-25T19:28:29.904528+00:00",
    "topics": []
+  },
+  {
+   "title": "Want to Sell an Agency? Launch a Creator Marketing Firm",
+   "link": "https://www.adweek.com/agencies/creator-influencer-agency-mergers-acquisitions-2026/",
+   "date": "2026-11-25T19:00:00+00:00",
+   "summary": "New buyers, new kinds of targets, and a fragmented market have made 2026 the busiest year on record for creator agency deals.",
+   "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/Handshake-and-Rising-MA-Arrow.png?w=600&h=315&crop=1",
+   "source": "Adweek",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-26T00:23:13.230780+00:00",
+   "og_tried": true,
+   "topics": [
+    "redes",
+    "publicidad"
+   ]
   },
   {
    "title": "El Black Friday es el momento perfecto para dar el salto a una tele más grande. Esta TCL Mini LED llega hasta las 98 pulgadas",
@@ -4075,8 +4173,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-25T23:26:27.525776+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-25T23:26:27.525776+00:00",
    "topics": [
     "redes"
    ]
@@ -10700,47 +10798,6 @@
    "topics": [
     "redes"
    ]
-  },
-  {
-   "title": "The King’s Trust and OpenAI launch £1m partnership",
-   "link": "https://openai.com/index/the-kings-trust-and-openai",
-   "date": "2026-11-16T00:00:00+00:00",
-   "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/56F7tT9829W28yYUsIwxk0/fa52b7a1f91fc5b65a70ac92be2150c9/the-king-s-trust-and-openai-launch-1m-partnership-seo.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "At Holiday Extras, dots get to work before anyone asks",
-   "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
-   "date": "2026-11-16T00:00:00+00:00",
-   "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/2Vrrt2eTu8OfGbuliOLQ99/cddb51f7a917c176c63b4d2318a20f15/holiday-extras-dots-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "datasette-maplibre 0.1a0",
-   "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
-   "date": "2026-11-15T23:58:36+00:00",
-   "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap, the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub.) I built most of this with a…",
-   "image": "https://static.simonwillison.net/static/cors-allow/2026/datasette-maplibre.webp",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
   }
  ]
 }
