@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T20:50:54.338062+00:00",
+ "updated": "2026-11-26T21:50:29.300862+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 899,
+ "count": 900,
  "trends": [
   {
    "term": "black friday",
@@ -13,11 +13,6 @@
   {
    "term": "google",
    "count": 33,
-   "growth": 3.9
-  },
-  {
-   "term": "jensen huang",
-   "count": 23,
    "growth": 3.9
   },
   {
@@ -31,14 +26,14 @@
    "growth": 8.5
   },
   {
+   "term": "jensen huang",
+   "count": 21,
+   "growth": 3.1
+  },
+  {
    "term": "méxico",
    "count": 21,
    "growth": 22.0
-  },
-  {
-   "term": "nvidia",
-   "count": 22,
-   "growth": 3.3
   },
   {
    "term": "meta",
@@ -59,6 +54,11 @@
    "term": "euros",
    "count": 16,
    "growth": 11.9
+  },
+  {
+   "term": "nvidia",
+   "count": 21,
+   "growth": 3.0
   },
   {
    "term": "thanksgiving",
@@ -97,6 +97,97 @@
   }
  ],
  "items": [
+  {
+   "title": "Los fanáticos de Marvel esperan las tarjetas Panini de Avengers: Doomsday; cuándo salen y cuánto costarán",
+   "link": "https://www.merca20.com/los-fanaticos-de-marvel-esperan-las-tarjetas-panini-de-avengers-doomsday-cuando-salen-y-cuanto-costaran/?utm_source=rss&utm_medium=rss&utm_campaign=los-fanaticos-de-marvel-esperan-las-tarjetas-panini-de-avengers-doomsday-cuando-salen-y-cuanto-costaran",
+   "date": "2026-11-26T21:42:20+00:00",
+   "summary": "Los fanáticos de Marvel ya pueden apartar la nueva colección de Panini Avengers: Doomsday, un producto que reúne stickers, tarjetas coleccionables y artículos especiales",
+   "image": "https://files.merca20.com/uploads/2026/11/panini-doomsday-avengers-foto-paniniFB.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T21:50:29.300862+00:00",
+   "topics": []
+  },
+  {
+   "title": "Países Bajos se planta ante EEUU por las restricciones a las máquinas de ASML",
+   "link": "https://www.xataka.com/empresas-y-economia/paises-bajos-se-planta-eeuu-restricciones-a-maquinas-asml",
+   "date": "2026-11-26T21:30:26+00:00",
+   "summary": "Durante los últimos años hemos visto cómo Estados Unidos ha intentado limitar el acceso de China a determinadas tecnologías de fabricación de semiconductores. Es una estrategia en la que ha necesitado la colaboración de otros países, porque no todo el conocimiento ni todos los…",
+   "image": "https://i.blogs.es/b28925/asml_euv_nxe3800e_source_main_module_floor_subfab_0286/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T21:50:29.300862+00:00",
+   "topics": []
+  },
+  {
+   "title": "Unilever anticipates further price increases toward the end of 2026 and warns that inflation will continue to put pressure on its costs",
+   "link": "https://www.merca20.com/unilever-anticipates-further-price-increases-toward-the-end-of-2026-and-warns-that-inflation-will-continue-to-put-pressure-on-its-costs/?utm_source=rss&utm_medium=rss&utm_campaign=unilever-anticipates-further-price-increases-toward-the-end-of-2026-and-warns-that-inflation-will-continue-to-put-pressure-on-its-costs",
+   "date": "2026-11-26T21:27:31+00:00",
+   "summary": "Unilever explained that it is facing pressures related to the prices of oil, raw materials, transport, and energy, as well as currency fluctuations",
+   "image": "https://files.merca20.com/uploads/2026/06/UNILEVER-DETERGENTES_.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T21:50:29.300862+00:00",
+   "topics": []
+  },
+  {
+   "title": "Qué necesitan las empresas de IA para competir más allá de la innovación",
+   "link": "https://www.merca20.com/que-necesitan-las-empresas-de-ia-para-competir-mas-alla-de-la-innovacion/?utm_source=rss&utm_medium=rss&utm_campaign=que-necesitan-las-empresas-de-ia-para-competir-mas-alla-de-la-innovacion",
+   "date": "2026-11-26T21:27:10+00:00",
+   "summary": "Las organizaciones necesitan encontrar modelos de negocio que permitan monetizar sus desarrollos sin depender exclusivamente de grandes rondas de financiamiento o de una expansión permanente de infraestructura.",
+   "image": "https://files.merca20.com/uploads/2026/11/Competencia-Foto-bigstock-93583814.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T21:50:29.300862+00:00",
+   "topics": []
+  },
+  {
+   "title": "PepsiCo is taking Doritos beyond the snack aisle, partnering with KFC and Subway to transform the brand into new meal options",
+   "link": "https://www.merca20.com/pepsico-is-taking-doritos-beyond-the-snack-aisle-partnering-with-kfc-and-subway-to-transform-the-brand-into-new-meal-options/?utm_source=rss&utm_medium=rss&utm_campaign=pepsico-is-taking-doritos-beyond-the-snack-aisle-partnering-with-kfc-and-subway-to-transform-the-brand-into-new-meal-options",
+   "date": "2026-11-26T21:25:09+00:00",
+   "summary": "For PepsiCo, these collaborations make it possible to expand consumption occasions for its brands and reach consumers who typically interact with them in supermarkets or convenience stores",
+   "image": "https://files.merca20.com/uploads/2026/07/pepsico-newsroom-pepsico-kfc-cortesia-3.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T21:50:29.300862+00:00",
+   "topics": []
+  },
+  {
+   "title": "\"Tenemos que prepararnos para los próximos meses\": el presidente de Microsoft alerta del riesgo de más caídas ligado a la IA",
+   "link": "https://www.xataka.com/seguridad/tenemos-que-prepararnos-para-proximos-meses-presidente-microsoft-alerta-riesgo-caidas-ligado-a-ia",
+   "date": "2026-11-26T21:00:29+00:00",
+   "summary": "Mantener en funcionamiento los servicios digitales que utilizamos a diario exige encontrar un equilibrio entre dos necesidades: proteger los sistemas frente a posibles ataques y garantizar que las intervenciones destinadas a mejorar su seguridad no comprometan su funcionamiento.…",
+   "image": "https://i.blogs.es/5dca5f/brad-smith-president-microsoft-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T21:50:29.300862+00:00",
+   "topics": []
+  },
+  {
+   "title": "Panam lanza tenis de FRIENDS para conquistar a los fanáticos nostálgicos de la serie",
+   "link": "https://www.merca20.com/panam-lanza-tenis-de-friends-para-conquistar-a-los-fanaticos-nostalgicos-de-la-serie/?utm_source=rss&utm_medium=rss&utm_campaign=panam-lanza-tenis-de-friends-para-conquistar-a-los-fanaticos-nostalgicos-de-la-serie",
+   "date": "2026-11-26T20:59:27+00:00",
+   "summary": "La nostalgia por FRIENDS encontró una nueva forma de llegar al guardarropa, ya que Panam lanzó un par de tenis inspirado en la popular serie estadounidense",
+   "image": "https://files.merca20.com/uploads/2026/11/panam-tenis-friends-foto-panam-Fb.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T21:50:29.300862+00:00",
+   "topics": []
+  },
   {
    "title": "Snoopy stars in Google’s Thanksgiving 2026 Doodle, The intergenerational appeal of a beloved character",
    "link": "https://www.merca20.com/snoopy-stars-in-googles-thanksgiving-2026-doodle-the-intergenerational-appeal-of-a-beloved-character/?utm_source=rss&utm_medium=rss&utm_campaign=snoopy-stars-in-googles-thanksgiving-2026-doodle-the-intergenerational-appeal-of-a-beloved-character",
@@ -150,8 +241,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-26T20:50:54.338062+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T20:50:54.338062+00:00",
    "topics": []
   },
   {
@@ -2424,8 +2515,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-26T20:50:54.338062+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T20:50:54.338062+00:00",
    "topics": [
     "redes",
     "seo",
@@ -12903,94 +12994,6 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [],
    "og_tried": true
-  },
-  {
-   "title": "An Update on the Content We Recommend on Instagram in India",
-   "link": "https://about.fb.com/news/2026/11/an-update-on-the-content-we-recommend-on-instagram-in-india/",
-   "date": "2026-11-17T03:58:09+00:00",
-   "summary": "We've strengthened the default protections behind what Instagram recommends in India to reduce unwanted content and improve people’s experience on Instagram. This work has been guided by what our users told us they want from their recommendations.",
-   "image": "https://about.fb.com/wp-content/uploads/2026/11/Meta-logo.png?fit=2174%2C1216",
-   "source": "Meta Newsroom",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "Strengthening NATO and allied cyber defenses with AI",
-   "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-   "date": "2026-11-17T00:00:00+00:00",
-   "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/4AvTdfi4XgE0hchiQH8UhY/6c9c5278cafc000de19c0892beecbf8c/strengthening-nato-and-allied-cyber-defences-with-ai-seo.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "publicidad"
-   ],
-   "og_tried": true
-  },
-  {
-   "title": "Astra for Law leads in legal intelligence",
-   "link": "https://openai.com/index/astra-law-6-2",
-   "date": "2026-11-17T00:00:00+00:00",
-   "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/3MwSwa1GcJHdJGeOy7u0LZ/7ecfaba7da6555bc46c1e85f50c13bdb/astra-law-legal-intelligence-social-smooth.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "Introducing OpenAI for Chile",
-   "link": "https://openai.com/index/introducing-openai-for-chile",
-   "date": "2026-11-17T00:00:00+00:00",
-   "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/1rTLbF8FhSFEoyiGB0lTYU/418dfbea2c146e27e301a9f85869eb12/introducing-openai-for-chile-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "llm 0.37.3",
-   "link": "https://simonwillison.net/2026/Nov/16/llm/",
-   "date": "2026-11-16T23:57:26+00:00",
-   "summary": "Release: llm 0.37.3 A bug fix release for LLM, mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1, which includes a fix that broke LLM's logging code. Short version: in SQLite 3.54.0 the following SQL:…",
-   "image": "",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "This had never been done before!",
-   "link": "https://www.youtube.com/shorts/btjS7OaffpM",
-   "date": "2026-11-16T22:27:42+00:00",
-   "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads:…",
-   "image": "https://www.youtube.com/v/btjS7OaffpM?version=3",
-   "source": "Matt Wolfe (YouTube)",
-   "category": "ia",
-   "lang": "en",
-   "type": "video",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
   }
  ]
 }
