@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T02:51:14.166542+00:00",
+ "updated": "2026-11-26T03:54:36.203218+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 751,
+ "count": 752,
  "trends": [
   {
    "term": "black friday",
@@ -17,8 +17,8 @@
   },
   {
    "term": "google",
-   "count": 37,
-   "growth": 8.6
+   "count": 38,
+   "growth": 8.8
   },
   {
    "term": "nvidia",
@@ -97,6 +97,23 @@
   }
  ],
  "items": [
+  {
+   "title": "Google Adds Pageburst & 11 Other Existing Bots To Its Crawler Docs via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/google-adds-pageburst-11-other-existing-bots-to-its-crawler-docs/599120/",
+   "date": "2026-11-26T03:22:22+00:00",
+   "summary": "Google's crawler docs now list pageburst, which renders pages for Google Ads and ignores robots.txt, plus more existing user agents to check in server logs.",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ads-dashboard-balkanscat-shutterstock.jpg",
+   "source": "Search Engine Journal",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-26T03:54:36.203218+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo",
+    "publicidad"
+   ]
+  },
   {
    "title": "Tidal sigue el ejemplo de Spotify y eliminará millones de canciones creadas con IA de su catálogo musical",
    "link": "https://www.merca20.com/tidal-sigue-el-ejemplo-de-spotify-y-eliminara-millones-de-canciones-creadas-con-ia-de-su-catalogo-musical/?utm_source=rss&utm_medium=rss&utm_campaign=tidal-sigue-el-ejemplo-de-spotify-y-eliminara-millones-de-canciones-creadas-con-ia-de-su-catalogo-musical",
@@ -3719,7 +3736,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
+   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -3762,7 +3779,7 @@
    ]
   },
   {
-   "title": "Google Documents Advance Notice For Significant Ranking Updates via @sejournal, @MattGSouthern",
+   "title": "Google Explains How To Send Feedback On A Core Update via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/google-documents-advance-notice-for-significant-ranking-updates/598773/",
    "date": "2026-11-24T22:06:57+00:00",
    "summary": "New Search documentation explains when sites get advance notice of significant ranking updates, how to send feedback on them, and a new UK appeal route.",
@@ -3818,10 +3835,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the UK",
+   "title": "Meta expands Muse to the U.K.",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
