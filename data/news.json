@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T00:23:13.230780+00:00",
+ "updated": "2026-11-26T01:53:19.205017+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 745,
+ "count": 749,
  "trends": [
   {
    "term": "black friday",
@@ -98,6 +98,58 @@
  ],
  "items": [
   {
+   "title": "Avatar 4 confirma su fecha de estreno: ¿podrá superar el récord de taquilla de Avengers: Endgame?",
+   "link": "https://www.merca20.com/avatar-4-confirma-su-fecha-de-estreno-podra-superar-el-record-de-taquilla-de-avengers-endgame/?utm_source=rss&utm_medium=rss&utm_campaign=avatar-4-confirma-su-fecha-de-estreno-podra-superar-el-record-de-taquilla-de-avengers-endgame",
+   "date": "2026-11-26T01:30:19+00:00",
+   "summary": "Avatar 4 se estrenará en las salas de cine el 21 de diciembre de 2029 y Avatar 5 llegará a la gran pantalla el 19 de diciembre de 2031.",
+   "image": "https://files.merca20.com/uploads/2026/10/bigstock-Empty-Movie-Theatre-Cinema-Ha-318290341.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T01:53:19.205017+00:00",
+   "topics": []
+  },
+  {
+   "title": "Aviso oficial Bienestar Edomex abre registro hasta el 27 de noviembre para mujeres de 18 a 64 años, pueden inscribir hasta 3 personas más y recibir medicamentos gratis y lentes cada año",
+   "link": "https://www.merca20.com/aviso-oficial-bienestar-edomex-abre-registro-hasta-el-27-de-noviembre-para-mujeres-de-18-a-64-anos-pueden-inscribir-hasta-3-personas-mas-y-recibir-medicamentos-gratis-y-lentes-cada-ano/?utm_source=rss&utm_medium=rss&utm_campaign=aviso-oficial-bienestar-edomex-abre-registro-hasta-el-27-de-noviembre-para-mujeres-de-18-a-64-anos-pueden-inscribir-hasta-3-personas-mas-y-recibir-medicamentos-gratis-y-lentes-cada-ano",
+   "date": "2026-11-26T01:27:42+00:00",
+   "summary": "Bienestar Edomex abre registro hasta el 27 de noviembre de 2026 para mujeres de 18 a 64 años. Conoce cómo recibir medicamentos, lentes y consultas gratis.",
+   "image": "https://files.merca20.com/uploads/2026/11/Bienestar-Edomex-abre-registro-hasta-el-27-de-noviembre-para-mujeres-de-18-a-64-anos-como-recibir-medicamentos-lentes-y-consultas-gratis-.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T01:53:19.205017+00:00",
+   "topics": []
+  },
+  {
+   "title": "Epochal: ¿Qué es y cómo funciona la nueva IA de los fundadores de xAI que busca predecir el futuro?",
+   "link": "https://www.merca20.com/epochal-que-es-y-como-funciona-la-nueva-ia-de-los-fundadores-de-xai-que-busca-predecir-el-futuro/?utm_source=rss&utm_medium=rss&utm_campaign=epochal-que-es-y-como-funciona-la-nueva-ia-de-los-fundadores-de-xai-que-busca-predecir-el-futuro",
+   "date": "2026-11-26T01:00:24+00:00",
+   "summary": "Epochal presentó su primera herramienta llamada Time Portal y algunos la describen como una máquina del tiempo digital, ¿pero cómo funciona?",
+   "image": "https://files.merca20.com/uploads/2026/09/bigstock-Artificial-Intelligence-For-Cr-475590131.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T01:53:19.205017+00:00",
+   "topics": []
+  },
+  {
+   "title": "Keanu Reeves ofrece una firma de libros secreta en Librerías Gandhi de la CDMX: así puedes conseguir un ejemplar autografiado",
+   "link": "https://www.merca20.com/keanu-reeves-ofrece-una-firma-de-libros-secreta-en-librerias-gandhi-de-la-cdmx-asi-puedes-conseguir-un-ejemplar-autografiado/?utm_source=rss&utm_medium=rss&utm_campaign=keanu-reeves-ofrece-una-firma-de-libros-secreta-en-librerias-gandhi-de-la-cdmx-asi-puedes-conseguir-un-ejemplar-autografiado",
+   "date": "2026-11-26T00:30:38+00:00",
+   "summary": "Keanu Reeves acudió en secreto a una sucursal de Librerías Gandhi para firmar libros de su primera novela de ciencia ficción.",
+   "image": "https://files.merca20.com/uploads/2026/09/bigstock-221849182.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T01:53:19.205017+00:00",
+   "topics": []
+  },
+  {
    "title": "Netflix compra los estudios Radford para aumentar su presencia en Hollywood; es el mismo lugar donde se grabó “Seinfeld”",
    "link": "https://www.merca20.com/netflix-compra-los-estudios-radford-para-aumentar-su-presencia-en-hollywood-es-el-mismo-lugar-donde-se-grabo-seinfeld/?utm_source=rss&utm_medium=rss&utm_campaign=netflix-compra-los-estudios-radford-para-aumentar-su-presencia-en-hollywood-es-el-mismo-lugar-donde-se-grabo-seinfeld",
    "date": "2026-11-26T00:00:03+00:00",
@@ -163,8 +215,8 @@
    "category": "ia",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-26T00:23:13.230780+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T00:23:13.230780+00:00",
    "topics": []
   },
   {
@@ -682,8 +734,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-26T00:23:13.230780+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T00:23:13.230780+00:00",
    "topics": [
     "redes",
     "publicidad"
