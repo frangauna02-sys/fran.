@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-26T07:55:53.514292+00:00",
+ "updated": "2026-11-26T09:00:32.033250+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 769,
+ "count": 776,
  "trends": [
   {
    "term": "black friday",
-   "count": 41,
-   "growth": 22.6
+   "count": 42,
+   "growth": 23.2
   },
   {
    "term": "jensen huang",
@@ -27,13 +27,13 @@
   },
   {
    "term": "navidad",
-   "count": 25,
-   "growth": 18.2
+   "count": 24,
+   "growth": 13.5
   },
   {
    "term": "meta",
-   "count": 21,
-   "growth": 8.1
+   "count": 20,
+   "growth": 6.7
   },
   {
    "term": "amazon",
@@ -52,11 +52,16 @@
   },
   {
    "term": "marcas",
-   "count": 12,
-   "growth": 9.1
+   "count": 13,
+   "growth": 9.8
   },
   {
    "term": "gta",
+   "count": 12,
+   "growth": 13.0
+  },
+  {
+   "term": "está",
    "count": 12,
    "growth": 13.0
   },
@@ -71,11 +76,6 @@
    "growth": 4.4
   },
   {
-   "term": "está",
-   "count": 11,
-   "growth": 12.0
-  },
-  {
    "term": "thanksgiving",
    "count": 10,
    "growth": 11.0
@@ -86,17 +86,118 @@
    "growth": 11.0
   },
   {
-   "term": "agents",
+   "term": "media",
    "count": 10,
-   "growth": 4.8
+   "growth": 5.9
   },
   {
-   "term": "ads",
+   "term": "europa",
    "count": 10,
-   "growth": 4.8
+   "growth": 11.0
   }
  ],
  "items": [
+  {
+   "title": "Premios W!N: el Gran Premio recae en manos de AcentoenlaCé, Havas Play, Arena Media y Pikolin",
+   "link": "https://www.marketingdirecto.com/marketing-general/eventos-y-formacion/premios-wn-gran-premio-recae-manos-acentoenlace-havas-play-arena-media-pikolin",
+   "date": "2026-11-26T08:57:33+00:00",
+   "summary": "Los Premios W!N han otorgado el Gran Premio del Jurado a la campaña \"Intimidad y Pantallas: #21NochesConectados\" de AcentoenlaCé, Havas Play y Arena Media para Pikolin.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/pikolin-premios-wn.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T09:00:32.033250+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "El formato digital arrasa en Black Friday: el gasto online superó en un 190% a las tiendas físicas",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/black-friday-gasto-online-supera-tiendas-fisicas-global",
+   "date": "2026-11-26T08:34:46+00:00",
+   "summary": "El análisis de las transacciones de 2025 ofrece pistas para este año sobre el peso de las compras por internet y un consumidor cada vez más dispuesto a comprar fuera de España.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/black-friday-2026-compras-online.jpg",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T09:00:32.033250+00:00",
+   "og_tried": true,
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Una llamada cada 16 minutos: Ikea Portugal escenifica las denuncias por violencia doméstica en una de sus tiendas",
+   "link": "https://www.reasonwhy.es/actualidad/ikea-portugal-telefono-escenificacion-llamadas-denuncias-violencia-domestica",
+   "date": "2026-11-26T08:27:00+00:00",
+   "summary": "Ha llevado a cabo una acción de concienciación en Portugal por el Día Internacional de la Eliminación de la Violencia contra la Mujer.",
+   "image": "https://www.reasonwhy.es/media/library/ikea-portugal-violencia-domestica.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T09:00:32.033250+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Hay un modelo de IA local que está causando furor. Se llama Inkling 2 Mini y tenemos sorpresa: no es chino",
+   "link": "https://www.xataka.com/robotica-e-ia/hay-modelo-ia-local-que-esta-causando-furor-se-llama-inkling-2-mini-tenemos-sorpresa-no-chino",
+   "date": "2026-11-26T08:15:38+00:00",
+   "summary": "El pasado 5 de noviembre Thinking Machines Lab, la startup de Mira Murati, presentaba su modelo Inkling 2 Mini sin demasiada fanfarria. En tan solo tres semanas el modelo se ha convertido en una de las sensaciones de los expertos en IA, y hay buenas razones para ello. Es bueno,…",
+   "image": "https://i.blogs.es/8da5ad/murati/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T09:00:32.033250+00:00",
+   "topics": []
+  },
+  {
+   "title": "En 2014, EEUU envió a sus marines al Pirineo español. Su capitán regresó con una revelación: \"Son auténticos expertos en guerra de montaña\"",
+   "link": "https://www.xataka.com/magnet/2014-eeuu-envio-a-sus-marines-al-pirineo-espanol-su-capitan-regreso-revelacion-autenticos-expertos-guerra-montana",
+   "date": "2026-11-26T08:12:00+00:00",
+   "summary": "Estados Unidos dispone de centros de entrenamiento militar repartidos por todo el planeta y de algunos de los escenarios naturales más exigentes del mundo. Sin embargo, en 2014, cuando un grupo de marines quiso perfeccionar sus conocimientos sobre la guerra de montaña, puso…",
+   "image": "https://i.blogs.es/a014cd/candanchu_enfocada/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T09:00:32.033250+00:00",
+   "topics": []
+  },
+  {
+   "title": "Un oso pardo ha muerto de un disparo durante una batida de jabalíes en Picos de Europa. Ahora hay una investigación abierta",
+   "link": "https://www.xataka.com/magnet/oso-pardo-ha-muerto-disparo-durante-batida-jabalies-picos-europa-ahora-hay-investigacion-abierta",
+   "date": "2026-11-26T08:00:27+00:00",
+   "summary": "El viernes 20 de noviembre se rastreó la zona y no apareció ningún indicio de oso. Sin embargo, al día siguiente, en Posada de Valdeón, dentro del Parque Nacional de los Picos de Europa, un disparo mataba a un oso pardo durante una batida de jabalíes. Este es uno de los grandes…",
+   "image": "https://i.blogs.es/99229f/53521371534_4819649487_k/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T09:00:32.033250+00:00",
+   "topics": []
+  },
+  {
+   "title": "YouTube presume más de 3 millones de creadores en su programa de influencer marketing y así lo pueden aprovechar las marcas",
+   "link": "https://www.merca20.com/youtube-presume-mas-de-3-millones-de-creadores-en-su-programa-de-influencer-marketing-y-asi-lo-pueden-aprovechar-las-marcas/?utm_source=rss&utm_medium=rss&utm_campaign=youtube-presume-mas-de-3-millones-de-creadores-en-su-programa-de-influencer-marketing-y-asi-lo-pueden-aprovechar-las-marcas",
+   "date": "2026-11-26T08:00:05+00:00",
+   "summary": "Google informó que más de 20 millones de videos se suben diariamente a YouTube, una cifra que refleja la magnitud de su ecosistema de producción audiovisual",
+   "image": "https://files.merca20.com/uploads/2026/08/youtube-marketing-influencer-shorts-imagen-gemini-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T09:00:32.033250+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
   {
    "title": "RetroMarketing: Parece una película de terror, pero es un comercial del año 2000 protagonizado por un bailarín de ballet de más de 1.90 metros",
    "link": "https://www.merca20.com/retromarketing-parece-una-pelicula-de-terror-pero-es-un-comercial-del-ano-2000-protagonizado-por-un-bailarin-de-ballet-de-mas-de-1-90-metros/?utm_source=rss&utm_medium=rss&utm_campaign=retromarketing-parece-una-pelicula-de-terror-pero-es-un-comercial-del-ano-2000-protagonizado-por-un-bailarin-de-ballet-de-mas-de-1-90-metros",
@@ -108,6 +209,19 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-26T07:55:53.514292+00:00",
+   "topics": []
+  },
+  {
+   "title": "Moritz Schularick, economista alemán: \"Deberíamos vender Volkswagen a los chinos mientras consigamos algo\"",
+   "link": "https://www.xataka.com/movilidad/moritz-schularick-economista-aleman-deberiamos-vender-volkswagen-a-chinos-consigamos-algo",
+   "date": "2026-11-26T07:52:30+00:00",
+   "summary": "Sin medias tintas. Moritz Schularick, presidente del Instituto de Economía Mundial de Kiel (centro de investigación y asesoramiento económico con gran renombre en Alemania) apuesta por vender \"cierta marca de Wolfsburgo\" a China. Las declaraciones las ha pronunciado en la…",
+   "image": "https://i.blogs.es/fd865e/vw/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T09:00:32.033250+00:00",
    "topics": []
   },
   {
@@ -150,6 +264,22 @@
    "type": "article",
    "first_seen": "2026-11-26T07:55:53.514292+00:00",
    "topics": []
+  },
+  {
+   "title": "«El gran diferencial de la publicidad exterior seguirá siendo estar presente donde transcurre la vida», M. Kühnel (Amvia)",
+   "link": "https://www.marketingdirecto.com/marketing-general/entrevistas/entrevista-monica-kuhnel-directora-comercial-de-amvia",
+   "date": "2026-11-26T07:30:00+00:00",
+   "summary": "Mónica Kühnel explica cómo Amvia afronta su nueva etapa tras incorporarse a Atresmedia, con la mirada puesta en el futuro de la publicidad exterior.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Monica-Kuhnel.-Amvia.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T09:00:32.033250+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
   },
   {
    "title": "Marketing 2027: cómo cambiará la distribución de los presupuestos publicitarios",
@@ -11097,34 +11227,6 @@
    "date": "2026-11-16T09:30:00+00:00",
    "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
    "image": "https://images.ctfassets.net/kftzwdyauwt9/41tqM423rl34f77g33NcJB/df1ae54cfce7ec525cea365c54358579/revolut-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-   "link": "https://openai.com/index/lvmh-media-division-partnership",
-   "date": "2026-11-16T09:00:00+00:00",
-   "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/34LfcwNBjpeCtav2XM8FhI/462f77d234875c50af8cc3368e9c529c/lvmh-media-division-partnership-seo-v2.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "Our first phase of embedded assessments",
-   "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-   "date": "2026-11-16T08:00:00+00:00",
-   "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/1KkjAzVSr4nz5D67tGCxVH/8a47206051b698db4cbdad829eff241b/embedded-assessments-neutral-023-social-revised.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",
