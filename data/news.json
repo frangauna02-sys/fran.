@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-26T13:14:10.474085+00:00",
+ "updated": "2026-11-26T14:38:31.178819+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 835,
+ "count": 840,
  "trends": [
   {
    "term": "black friday",
-   "count": 47,
-   "growth": 21.0
+   "count": 50,
+   "growth": 27.5
   },
   {
    "term": "jensen huang",
-   "count": 35,
-   "growth": 25.2
+   "count": 33,
+   "growth": 14.9
   },
   {
    "term": "google",
@@ -22,13 +22,13 @@
   },
   {
    "term": "nvidia",
-   "count": 32,
-   "growth": 14.4
+   "count": 30,
+   "growth": 9.9
   },
   {
    "term": "navidad",
-   "count": 21,
-   "growth": 6.2
+   "count": 20,
+   "growth": 5.2
   },
   {
    "term": "meta",
@@ -36,14 +36,14 @@
    "growth": 5.0
   },
   {
+   "term": "amazon",
+   "count": 19,
+   "growth": 8.8
+  },
+  {
    "term": "méxico",
    "count": 18,
    "growth": 19.0
-  },
-  {
-   "term": "amazon",
-   "count": 18,
-   "growth": 8.3
   },
   {
    "term": "está",
@@ -57,8 +57,8 @@
   },
   {
    "term": "marcas",
-   "count": 14,
-   "growth": 8.1
+   "count": 13,
+   "growth": 6.1
   },
   {
    "term": "gta",
@@ -66,9 +66,19 @@
    "growth": 14.0
   },
   {
+   "term": "precio",
+   "count": 12,
+   "growth": 13.0
+  },
+  {
    "term": "muse",
    "count": 12,
    "growth": 4.8
+  },
+  {
+   "term": "media",
+   "count": 12,
+   "growth": 7.0
   },
   {
    "term": "thanksgiving",
@@ -76,27 +86,129 @@
    "growth": 12.0
   },
   {
-   "term": "precio",
-   "count": 11,
-   "growth": 12.0
-  },
-  {
-   "term": "media",
-   "count": 11,
-   "growth": 6.5
+   "term": "ofertas",
+   "count": 10,
+   "growth": 11.0
   },
   {
    "term": "agents",
    "count": 10,
    "growth": 4.8
-  },
-  {
-   "term": "ads",
-   "count": 10,
-   "growth": 4.8
   }
  ],
  "items": [
+  {
+   "title": "WhatsApp, basta ya",
+   "link": "https://www.xataka.com/aplicaciones/whatsapp-basta",
+   "date": "2026-11-26T14:00:25+00:00",
+   "summary": "WhatsApp ha tomado esta semana dos decisiones (una y media, realmente) a las que habría que darles una vuelta. La primera: los mensajes programados. La segunda, o la media, los stickers con sonido que, de acuerdo a WaBetaInfo, están en el horno. No lo veo. No lo veo, pero para…",
+   "image": "https://i.blogs.es/13cf40/original/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T14:38:31.178819+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "PHD Media nombra a Ester García Cosín Directora General en España",
+   "link": "https://www.reasonwhy.es/actualidad/phd-media-nombra-ester-garcia-cosin-directora-general-espana",
+   "date": "2026-11-26T13:53:00+00:00",
+   "summary": "La directiva, que fue CEO de Havas Media Network durante cinco años, toma el relevo de Sandra Sotelo.",
+   "image": "https://www.reasonwhy.es/media/library/ester-garcia-cosin-phd.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T14:38:31.178819+00:00",
+   "topics": []
+  },
+  {
+   "title": "Café de barista en casa a precio de Black Friday: esta cafetera De’Longhi con molinillo integrado es muy fácil de usar y de limpiar",
+   "link": "https://www.xataka.com/seleccion/cafe-barista-casa-a-precio-black-friday-esta-cafetera-longhi-molinillo-integrado-muy-facil-usar-limpiar",
+   "date": "2026-11-26T13:46:21+00:00",
+   "summary": "De entre todas las opciones que hay de cafeteras, una de las más fáciles de usar son las superautomáticas. Son cafeteras que, pulsando uno o unos pocos botones, preparan muy buenas bebidas, ya sea café solo o incluso bebidas con leche. Este Black Friday es un buen momento para…",
+   "image": "https://i.blogs.es/95df4f/delonghi-magnifica-evo-portada/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T14:38:31.178819+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "El Black Friday de la crisis de los chips: por qué los descuentos en productos este año no son los que eran",
+   "link": "https://www.xataka.com/componentes/black-friday-crisis-chips-que-descuentos-productos-este-ano-no-que-eran",
+   "date": "2026-11-26T13:34:45+00:00",
+   "summary": "El auge de la IA ha desatado una carrera por desarrollar los mejores chips de memoria y por construir y alimentar cada vez más centros de datos que los alberguen. Y como consecuencia de ello, muchos dispositivos de consumo han encarecido significativamente su precio durante el…",
+   "image": "https://i.blogs.es/94f25b/black-friday-destacada/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T14:38:31.178819+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "SpaceX ya no lanzará más satélites pequeños ajenos y Blue Origin ha sacado tajada de ello",
+   "link": "https://www.xataka.com/espacio/spacex-no-lanzara-satelites-pequenos-ajenos-blue-origin-ha-sacado-tajada-ello",
+   "date": "2026-11-26T13:26:47+00:00",
+   "summary": "SpaceX se está preparando para terminar con el programa de rideshare que tanto ha usado en el pasado, así que algunas de las empresas que contaban con sus cohetes Falcon para lanzar satélites pequeños han buscado alternativas lo antes posible. Es el caso de Endurosat, la empresa…",
+   "image": "https://i.blogs.es/bf528b/new-glenn-1-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T14:38:31.178819+00:00",
+   "topics": []
+  },
+  {
+   "title": "Alemania acaba de explicar de forma muy sencilla por qué sigue pagando la factura militar de Ucrania: porque \"Rusia quiere algo más que Ucrania\"",
+   "link": "https://www.xataka.com/magnet/alemania-acaba-explicar-forma-muy-sencilla-que-sigue-pagando-factura-militar-ucrania-porque-rusia-quiere-algo-que-ucrania",
+   "date": "2026-11-26T13:22:40+00:00",
+   "summary": "Durante décadas, Alemania pudo permitirse mantener un gasto militar relativamente reducido mientras destinaba buena parte de sus recursos a sostener su Estado del bienestar. Esa época, qué duda cabe, parece haber llegado a su fin. El Gobierno alemán se dispone a asumir un…",
+   "image": "https://i.blogs.es/2ba37a/merz/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T14:38:31.178819+00:00",
+   "topics": []
+  },
+  {
+   "title": "Las mejores ofertas de Amazon en vísperas del Black Friday: descuentazos en portátiles, teles de 75 pulgadas y más",
+   "link": "https://www.xataka.com/seleccion/mejores-ofertas-amazon-visperas-black-friday-descuentazos-portatiles-teles-75-pulgadas",
+   "date": "2026-11-26T13:16:21+00:00",
+   "summary": "Ahora sí que sí: ya casi es Black Friday. Dentro de unas horas tendrá lugar este evento, pero no por eso quiere decir que nos tengamos que esperar para encontrar descuentos importantes. Tenemos activas ahora mismo un montón de ofertas en tecnología dentro de Amazon y nosotros…",
+   "image": "https://i.blogs.es/778f14/black-friday-amazon-26-de-noviembre/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T14:38:31.178819+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Un millón de satélites de SpaceX: el proyecto que llevará la competencia por la inteligencia artificial al espacio",
+   "link": "https://www.merca20.com/millon-satelites-spacex-inteligencia-artificial-espacio/?utm_source=rss&utm_medium=rss&utm_campaign=millon-satelites-spacex-inteligencia-artificial-espacio",
+   "date": "2026-11-26T13:11:28+00:00",
+   "summary": "Elon Musk recibió autorización para desarrollar una infraestructura orbital de inteligencia artificial que competirá con los proyectos espaciales de Blue Origin, Google y Starcloud.",
+   "image": "https://files.merca20.com/uploads/2026/11/Satel·lits-sobre-la-Terra-blava.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T14:38:31.178819+00:00",
+   "topics": []
+  },
   {
    "title": "Rafael Guerrero, psicólogo: \"Los niños nacidos en diciembre tienen un 39% más de probabilidades de ser diagnosticados de TDAH que aquellos niños nacidos en enero”",
    "link": "https://www.xataka.com/medicina-y-salud/rafael-guerrero-psicologo-ninos-nacidos-diciembre-tienen-39-probabilidades-ser-diagnosticados-tdah-que-ninos-nacidos-enero",
@@ -120,8 +232,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-26T13:14:10.474085+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T13:14:10.474085+00:00",
    "topics": [
     "seo"
    ]
@@ -210,8 +322,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-26T13:14:10.474085+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T13:14:10.474085+00:00",
    "topics": [
     "ecommerce"
    ]
@@ -226,8 +338,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-26T13:14:10.474085+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T13:14:10.474085+00:00",
    "topics": [
     "ecommerce"
    ]
@@ -255,8 +367,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-26T13:14:10.474085+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T13:14:10.474085+00:00",
    "topics": [
     "publicidad"
    ]
@@ -271,8 +383,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-26T13:14:10.474085+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T13:14:10.474085+00:00",
    "topics": [
     "seo"
    ]
@@ -291,9 +403,9 @@
    "topics": []
   },
   {
-   "title": "Si quieres ir a votar con el móvil en las Elecciones del 29N, hay varios detalles que debes tener en cuenta",
+   "title": "MiDNI sí, MiDGT no: así podremos ir a votar con el móvil en las elecciones del 29N",
    "link": "https://www.xataka.com/aplicaciones/quieres-ir-a-votar-movil-elecciones-29n-hay-varios-detalles-que-debes-tener-cuenta",
-   "date": "2026-11-26T12:10:33+00:00",
+   "date": "2026-11-26T12:10:00+00:00",
    "summary": "El próximo domingo, 29 de noviembre, se celebrarán elecciones al Congreso de los Diputados y al Senado, de manera que todos aquellos que tengan la nacionalidad española, sean mayores de edad y estén inscritos en el censo electoral podrán acudir a las urnas a depositar su voto.…",
    "image": "https://i.blogs.es/1221e2/voto-elecciones/1024_2000.jpeg",
    "source": "Xataka",
@@ -360,9 +472,9 @@
    "topics": []
   },
   {
-   "title": "Hay un nombre que Alemania no ha querido pronunciar en 81 años. Hasta que unos padres han llamado así a su hija, y han resucitado a Hitler",
+   "title": "Unos padres alemanes han llamado Germania a su hija. El problema es que Hitler ya había elegido ese nombre para otra cosa",
    "link": "https://www.xataka.com/magnet/hay-nombre-que-alemania-no-ha-querido-pronunciar-81-anos-que-unos-padres-han-llamado-asi-a-su-hija-han-resucitado-a-hitler",
-   "date": "2026-11-26T11:57:52+00:00",
+   "date": "2026-11-26T11:57:00+00:00",
    "summary": "En el sur de Berlín, rodeado de bloques de viviendas, sobrevive un gigantesco cilindro de hormigón de más de 12.000 toneladas. Es uno de los pocos vestigios de una ciudad que Adolf Hitler soñó con construir y que habría cambiado para siempre la fisonomía de la capital alemana.…",
    "image": "https://i.blogs.es/6931c6/nature-girl-play-sweet-cute-young-614801-pxhere.com/1024_2000.jpeg",
    "source": "Xataka",
@@ -471,8 +583,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-26T13:14:10.474085+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T13:14:10.474085+00:00",
    "topics": []
   },
   {
@@ -12036,50 +12148,6 @@
    "category": "marketing",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "New Ask Maps features to help with holiday travel and prep",
-   "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-   "date": "2026-11-16T14:00:00+00:00",
-   "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp",
-   "source": "Google AI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "seo"
-   ]
-  },
-  {
-   "title": "How to find the best Black Friday deals and shop smarter",
-   "link": "https://blog.google/products-and-platforms/products/shopping/black-friday-cyber-monday-shopping-tips-2026/",
-   "date": "2026-11-16T14:00:00+00:00",
-   "summary": "Track price drops, organize your cart, and find thoughtful gifts faster this Black Friday and Cyber Monday with these Google tools.",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Black_Friday_herosocial_alt.max-600x600.format-webp.webp",
-   "source": "Google Ads & Commerce",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "publicidad",
-    "ecommerce"
-   ]
-  },
-  {
-   "title": "If AI Does the Entry-Level Work, Who Becomes the Next Generation of Leaders?",
-   "link": "https://www.marketingaiinstitute.com/blog/ai-and-the-future-of-work-maicon-2026",
-   "date": "2026-11-16T13:30:01+00:00",
-   "summary": "SmarterX founder and CEO Paul Roetzer opened MAICON 2026 with a striking admission: Had ChatGPT existed in 2000, he likely never would have gotten his start in marketing.",
-   "image": "https://www.marketingaiinstitute.com/hubfs/MAICON26%20Main%20Stage%20-%20Blog%20Post%20Assets/Paul%20Roetzer%20-%20MAICON26%20Blog%20Post.png",
-   "source": "Marketing AI Institute",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   }
