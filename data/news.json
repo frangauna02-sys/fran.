@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-26T03:54:36.203218+00:00",
+ "updated": "2026-11-26T05:02:09.256336+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 752,
+ "count": 758,
  "trends": [
   {
    "term": "black friday",
-   "count": 41,
-   "growth": 29.4
+   "count": 40,
+   "growth": 22.1
   },
   {
    "term": "jensen huang",
@@ -56,11 +56,6 @@
    "growth": 13.0
   },
   {
-   "term": "holiday",
-   "count": 12,
-   "growth": 4.1
-  },
-  {
    "term": "gta vi",
    "count": 9,
    "growth": 10.0
@@ -76,11 +71,6 @@
    "growth": 11.0
   },
   {
-   "term": "search",
-   "count": 10,
-   "growth": 4.8
-  },
-  {
    "term": "precio",
    "count": 10,
    "growth": 11.0
@@ -91,12 +81,86 @@
    "growth": 11.0
   },
   {
-   "term": "media",
+   "term": "está",
    "count": 10,
-   "growth": 5.9
+   "growth": 11.0
+  },
+  {
+   "term": "agents",
+   "count": 10,
+   "growth": 4.1
+  },
+  {
+   "term": "ads",
+   "count": 10,
+   "growth": 4.8
   }
  ],
  "items": [
+  {
+   "title": "Brands race to systematize how to know what makes creator content worth paying for",
+   "link": "https://digiday.com/marketing/brands-race-to-systematize-how-to-know-what-makes-creator-content-worth-paying-for/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-26T05:01:00+00:00",
+   "summary": "As social trends accelerate, brands like General Mills are scoring creator posts for shareability to bridge the gap between organic buzz and paid media.",
+   "image": "https://digiday.com/wp-content/uploads/sites/3/2022/02/social-platforms-money.png",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-26T05:02:09.256336+00:00",
+   "og_tried": true,
+   "topics": [
+    "redes",
+    "seo",
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Dick’s Sporting Goods is turning youth sports into a premium ad business",
+   "link": "https://digiday.com/marketing/dicks-sporting-goods-is-turning-youth-sports-into-a-premium-ad-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-26T05:01:00+00:00",
+   "summary": "Dick’s is betting that youth sports can fuel its next phase of ad growth through GameChanger—if it can overcome limits on scale.",
+   "image": "https://digiday.com/wp-content/uploads/sites/3/2024/07/sports-revenue-digiday.gif",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-26T05:02:09.256336+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Aviso SEP, Alumnos de preescolar, primaria y secundaria tendrán último megapuente esta semana noviembre 2026 y solo 15 días de clases antes de las vacaciones",
+   "link": "https://www.merca20.com/aviso-sep-alumnos-de-preescolar-primaria-y-secundaria-tendran-ultimo-megapuente-esta-semana-noviembre-2026-y-solo-15-dias-de-clases-antes-de-las-vacaciones/?utm_source=rss&utm_medium=rss&utm_campaign=aviso-sep-alumnos-de-preescolar-primaria-y-secundaria-tendran-ultimo-megapuente-esta-semana-noviembre-2026-y-solo-15-dias-de-clases-antes-de-las-vacaciones",
+   "date": "2026-11-26T04:58:56+00:00",
+   "summary": "El último megapuente SEP de noviembre 2026 comienza el viernes 27. Consulta las fechas de descanso y cuándo inician las vacaciones de diciembre.",
+   "image": "https://files.merca20.com/uploads/2026/11/Aviso-SEP-Alumnos-de-preescolar-primaria-y-secundaria-tendran-ultimo-megapuente-esta-semana-noviembre-2026-y-solo-15-dias-de-clases-antes-de-las-vacaciones.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T05:02:09.256336+00:00",
+   "topics": []
+  },
+  {
+   "title": "OpenAI Isn’t Planning Prompt-Level Reports For ChatGPT Ads via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/openai-isnt-planning-prompt-level-reports-for-chatgpt-ads/599126/",
+   "date": "2026-11-26T04:15:54+00:00",
+   "summary": "OpenAI says ChatGPT advertisers can see aggregate results but won’t get reports showing the prompts or intent behind their ads.",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-ads-openai-featured.jpg",
+   "source": "Search Engine Journal",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-26T05:02:09.256336+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo",
+    "publicidad"
+   ]
+  },
   {
    "title": "Google Adds Pageburst & 11 Other Existing Bots To Its Crawler Docs via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/google-adds-pageburst-11-other-existing-bots-to-its-crawler-docs/599120/",
@@ -107,8 +171,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-26T03:54:36.203218+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T03:54:36.203218+00:00",
    "topics": [
     "seo",
     "publicidad"
@@ -853,6 +917,19 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-25T19:28:29.904528+00:00",
+   "topics": []
+  },
+  {
+   "title": "datasette-charts 0.3a0",
+   "link": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+   "date": "2026-11-25T18:16:50+00:00",
+   "summary": "Release: datasette-charts 0.3a0 I added chart annotations to datasette-charts! You can now render a chart and then annotate it with lines, shaded areas, labels, or a combination of the three. A chart with annotations looks like this: Here's that same chart in Datasette Lite,…",
+   "image": "https://static.simonwillison.net/static/2026/chart-with-annotations.webp",
+   "source": "Simon Willison",
+   "category": "ia",
+   "lang": "en",
+   "type": "newsletter",
+   "first_seen": "2026-11-26T05:02:09.256336+00:00",
    "topics": []
   },
   {
@@ -6605,6 +6682,20 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "datasette-charts 0.2a1",
+   "link": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
+   "date": "2026-11-24T06:07:19+00:00",
+   "summary": "Release: datasette-charts 0.2a1 Minor UI improvements: Collapsing the suggested charts section now leaves the chart visible. Following a link to a chart opens it with the suggestions collapsed for that visit. On table pages the panel now sits below the \"4,235 rows where country…",
+   "image": "",
+   "source": "Simon Willison",
+   "category": "ia",
+   "lang": "en",
+   "type": "newsletter",
+   "first_seen": "2026-11-26T05:02:09.256336+00:00",
    "og_tried": true,
    "topics": []
   },
