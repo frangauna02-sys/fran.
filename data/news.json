@@ -1,44 +1,39 @@
 {
- "updated": "2026-11-26T09:00:32.033250+00:00",
+ "updated": "2026-11-26T10:31:02.716325+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 776,
+ "count": 791,
  "trends": [
   {
    "term": "black friday",
-   "count": 42,
-   "growth": 23.2
+   "count": 43,
+   "growth": 23.7
   },
   {
    "term": "jensen huang",
    "count": 35,
-   "growth": 19.4
+   "growth": 25.2
   },
   {
    "term": "google",
-   "count": 38,
-   "growth": 8.8
+   "count": 39,
+   "growth": 9.0
   },
   {
    "term": "nvidia",
    "count": 33,
-   "growth": 14.9
+   "growth": 18.3
   },
   {
    "term": "navidad",
-   "count": 24,
-   "growth": 13.5
+   "count": 23,
+   "growth": 10.5
   },
   {
    "term": "meta",
-   "count": 20,
-   "growth": 6.7
-  },
-  {
-   "term": "amazon",
-   "count": 18,
-   "growth": 10.2
+   "count": 19,
+   "growth": 5.6
   },
   {
    "term": "méxico",
@@ -46,9 +41,19 @@
    "growth": 18.0
   },
   {
+   "term": "amazon",
+   "count": 17,
+   "growth": 7.9
+  },
+  {
    "term": "euros",
    "count": 15,
    "growth": 16.0
+  },
+  {
+   "term": "está",
+   "count": 14,
+   "growth": 15.0
   },
   {
    "term": "marcas",
@@ -57,13 +62,8 @@
   },
   {
    "term": "gta",
-   "count": 12,
-   "growth": 13.0
-  },
-  {
-   "term": "está",
-   "count": 12,
-   "growth": 13.0
+   "count": 13,
+   "growth": 14.0
   },
   {
    "term": "precio",
@@ -98,6 +98,221 @@
  ],
  "items": [
   {
+   "title": "Un barco cargado de combustible y materiales químicos se acaba de hundir frente a Ibiza",
+   "link": "https://www.xataka.com/ecologia-y-naturaleza/barco-cargado-combustible-materiales-quimicos-se-acaba-hundir-frente-a-ibiza",
+   "date": "2026-11-26T10:23:00+00:00",
+   "summary": "A las 07:37 del jueves 26 de noviembre, la Guardamar Talía, una embarcación de Salvamento Marítimo, llegó a un punto concreto a unos 55 kilómetros al norte de Ibiza y comunicó que solo había agua. No observaba \"restos del buque, objetos flotantes ni indicios de contaminación\".…",
+   "image": "https://i.blogs.es/787444/mapa-med-emre-xataka/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": []
+  },
+  {
+   "title": "Alex Dakov, empresario: “A los mejores empleados no los ascienden. Al que rinde lo necesitas donde está. Si lo asciendes, deja un hueco difícil de llenar”",
+   "link": "https://www.merca20.com/alex-dakov-empresario-a-los-mejores-empleados-no-los-ascienden-al-que-rinde-lo-necesitas-donde-esta-si-lo-asciendes-deja-un-hueco-dificil-de-llenar/?utm_source=rss&utm_medium=rss&utm_campaign=alex-dakov-empresario-a-los-mejores-empleados-no-los-ascienden-al-que-rinde-lo-necesitas-donde-esta-si-lo-asciendes-deja-un-hueco-dificil-de-llenar",
+   "date": "2026-11-26T10:11:58+00:00",
+   "summary": "Alex Dakov, empresario y emprendedor, reflexiona sobre el liderazgo, la gestión del talento y las oportunidades de crecimiento dentro de las organizaciones",
+   "image": "https://files.merca20.com/uploads/2026/11/EMPLEO-BURNOUT-GEMINI-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": []
+  },
+  {
+   "title": "John Locke sobre la educación: “De todos los hombres con quienes nos encontramos, nueve de cada diez son lo que son, buenos o malos, útiles o inútiles, por la educación que han recibido”",
+   "link": "https://www.merca20.com/john-locke-sobre-la-educacion-de-todos-los-hombres-con-quienes-nos-encontramos-nueve-de-cada-diez-son-lo-que-son-buenos-o-malos-utiles-o-inutiles-por-la-educacion-que-han-recibido/?utm_source=rss&utm_medium=rss&utm_campaign=john-locke-sobre-la-educacion-de-todos-los-hombres-con-quienes-nos-encontramos-nueve-de-cada-diez-son-lo-que-son-buenos-o-malos-utiles-o-inutiles-por-la-educacion-que-han-recibido",
+   "date": "2026-11-26T10:11:18+00:00",
+   "summary": "Para John Locke, la educación constituye una de las influencias más importantes en la formación de las personas",
+   "image": "https://files.merca20.com/uploads/2026/11/John-Locke-GEMINI-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": []
+  },
+  {
+   "title": "How to turn your selfie into GTA 6-inspired cover art with ChatGPT, The prompt to preserve your facial features",
+   "link": "https://www.merca20.com/how-to-turn-your-selfie-into-gta-6-inspired-cover-art-with-chatgpt-the-prompt-to-preserve-your-facial-features/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-turn-your-selfie-into-gta-6-inspired-cover-art-with-chatgpt-the-prompt-to-preserve-your-facial-features",
+   "date": "2026-11-26T10:05:35+00:00",
+   "summary": "Learn how to create a GTA 6-style photo in ChatGPT. Upload a selfie and copy this prompt to preserve your facial features and give your image a Vice City-inspired look.",
+   "image": "https://files.merca20.com/uploads/2026/11/How-to-turn-your-selfie-into-GTA-6-inspired-cover-art-with-ChatGPT-The-prompt-to-preserve-your-facial-features.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": []
+  },
+  {
+   "title": "1Password confirma el robo de datos de clientes tras el hackeo de una cuenta de GitHub de un empleado",
+   "link": "https://www.xataka.com/seguridad/1password-confirma-robo-datos-clientes-hackeo-cuenta-github-empleado",
+   "date": "2026-11-26T10:03:25+00:00",
+   "summary": "1Password ha ofrecido más detalles sobre su reciente brecha de datos y la información que se extrajo de ella. Y es que tras irrumpir en la cuenta corporativa de GitHub de un empleado, hubo acceso a registros de cuenta de un subconjunto de clientes, a código fuente interno y a…",
+   "image": "https://i.blogs.es/30b278/1password/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": []
+  },
+  {
+   "title": "Michelle Obama sobre el trabajo en equipo: “Nadie llega a donde está por sí solo. Cada uno de nosotros tiene una comunidad de personas que nos ayuda a avanzar”",
+   "link": "https://www.merca20.com/michelle-obama-sobre-el-trabajo-en-equipo-nadie-llega-a-donde-esta-por-si-solo-cada-uno-de-nosotros-tiene-una-comunidad-de-personas-que-nos-ayuda-a-avanzar/?utm_source=rss&utm_medium=rss&utm_campaign=michelle-obama-sobre-el-trabajo-en-equipo-nadie-llega-a-donde-esta-por-si-solo-cada-uno-de-nosotros-tiene-una-comunidad-de-personas-que-nos-ayuda-a-avanzar",
+   "date": "2026-11-26T10:01:52+00:00",
+   "summary": "La reflexión de Michelle Obama también puede aplicarse al liderazgo. Un directivo que reconoce las aportaciones de sus colaboradores y escucha diferentes puntos de vista puede favorecer un entorno de confianza y cooperación",
+   "image": "https://files.merca20.com/uploads/2026/11/michelle-obama-foto-CORTESIA-netflix.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": []
+  },
+  {
+   "title": "¡Últimas horas para participar en el sorteo de una impresora 3D Elegoo Centauri Carbon 2 Combo! Solo para miembros de Xataka Xtra",
+   "link": "https://www.xataka.com/xataka-xtra/ultimas-horas-para-participar-sorteo-impresora-3d-elegoo-centauri-carbon-2-combo-solo-para-miembros-xataka-xtra",
+   "date": "2026-11-26T10:00:31+00:00",
+   "summary": "Última llamada, xatakeros. Mañana se termina el plazo para llevarte una Elegoo Centauri Carbon 2 Combo, una impresora 3D cerrada de alta velocidad preparada para la impresión multicolor, valorada en 439 euros y reservada, como es habitual, a los miembros de Xataka Xtra. Si…",
+   "image": "https://i.blogs.es/e583ef/sorteo-elegoo-centauri-carbon-2-combo-1-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": []
+  },
+  {
+   "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+   "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+   "date": "2026-11-26T09:54:40+00:00",
+   "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "source": "The Verge IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": []
+  },
+  {
+   "title": "Compras “aprobadas por el marido” o cómo visibilizar la violencia económica",
+   "link": "https://www.reasonwhy.es/actualidad/compras-pegatina-aprobado-marido-concienciacion-violencia-economica",
+   "date": "2026-11-26T09:51:00+00:00",
+   "summary": "La organización israelí No2Violence ha incluido una pegatina en las entregas de la plataforma Wolt para concienciar.",
+   "image": "https://www.reasonwhy.es/media/library/no2violence-pegatina-marido.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Así es Hostinger AI Builder: crea webs, tiendas online y aplicaciones con ayuda de agentes de IA",
+   "link": "https://marketing4ecommerce.net/hostinger-ai-builder-crear-webs-tiendas-online-ia/",
+   "date": "2026-11-26T09:47:41+00:00",
+   "summary": "Descubre las diferencias entre el modo manual y agéntico, sus funciones de comercio electrónico, precios y opciones de personalización.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/hostinger-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Google no para de decirme que no me queda espacio en Drive. Este disco duro de 5 TB (muy barato) me solucionaría la papeleta",
+   "link": "https://www.xataka.com/seleccion/google-no-para-decirme-que-no-me-queda-espacio-drive-este-disco-duro-5-tb-muy-barato-me-solucionaria-papeleta",
+   "date": "2026-11-26T09:46:18+00:00",
+   "summary": "Llevo ya bastantes meses en los que el mensaje de \" tienes el almacenamiento lleno \" me aparece casi a diario en Drive. Elimino archivos, pero hay algunos que me gusta tenerlos ahí para poder utilizarlos en todos mis dispositivos. De momento, no tengo planeado suscribirme al…",
+   "image": "https://i.blogs.es/49be95/seagate-expansion/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": []
+  },
+  {
+   "title": "Ya van 1.400 choques en un año: los jabalíes ya representan la tercera causa de retrasos de los trenes en Francia",
+   "link": "https://www.xataka.com/ecologia-y-naturaleza/van-1-400-choques-ano-jabalies-representan-tercera-causa-retrasos-trenes-francia",
+   "date": "2026-11-26T09:40:16+00:00",
+   "summary": "Cuando un tren regional o de alta velocidad circula a más de 160 kilómetros por hora, el mayor enemigo de su puntualidad no siempre es una avería en la catenaria ni un fallo de señalización. En Francia, el operador ferroviario nacional lleva meses lidiando con un problema…",
+   "image": "https://i.blogs.es/30dc15/jabalines/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": []
+  },
+  {
+   "title": "La Guardia Civil encuentra bajo un parque infantil de Granada un búnker de 180 metros con más de 2.000 plantas de marihuana",
+   "link": "https://www.xataka.com/magnet/guardia-civil-encuentra-parque-infantil-granada-bunker-180-metros-2-000-plantas-marihuana",
+   "date": "2026-11-26T09:30:24+00:00",
+   "summary": "En una finca de Las Gabias, a las afueras de Granada, se construyó un rincón pensado para no levantar sospechas: césped artificial, un columpio, una casita de juegos y una colchoneta. Cualquier vecino, o cualquier agente, habría visto lo que era, el típico espacio para niños.…",
+   "image": "https://i.blogs.es/551896/captura-de-pantalla-2026-11-26-a-las-09.17.28/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": []
+  },
+  {
+   "title": "Los mejores relojes de HUAWEI, con doble descuento: últimos días del Black Friday de su tienda oficial",
+   "link": "https://www.xataka.com/seleccion/mejores-relojes-huawei-doble-descuento-ultimos-dias-black-friday-su-tienda-oficial",
+   "date": "2026-11-26T09:16:20+00:00",
+   "summary": "Aunque muchas ofertas de Black Friday volaron, todavía quedan muchas que merece la pena aprovechar. Nuestros compañeros de TikTok han estado buscando en la tienda de HUAWEI las más destacadas y han dado con cuatro que sobresalen sobre el resto. Lo mejor es que tienen doble…",
+   "image": "https://i.blogs.es/f0e91a/huawei-watch-d3-portada-black-friday-2026/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": [
+    "redes",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Renfe retira trenes de la línea de Cercanías más concurrida de Madrid por un problema en la infraestructura",
+   "link": "https://www.xataka.com/movilidad/renfe-retira-trenes-linea-cercanias-concurrida-madrid-problema-infraestructura",
+   "date": "2026-11-26T09:13:00+00:00",
+   "summary": "La historia de la princesa y el garbanzo explica bien lo que está sucediendo con Cercanías en Madrid. Hay un problema en la infraestructura que, con el paso continuado de los trenes, ha provocado un desgaste anormal en la rueda de los mismos. ¿Cuál es el problema y dónde está?…",
+   "image": "https://i.blogs.es/abb628/c-5_renfe_cercanias_arrives_at_las_retamas_station_in_madrid-_spain_in_december-_2016/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": []
+  },
+  {
+   "title": "Diseñar el móvil alrededor de la cámara y no al revés: el secreto del Vivo X300 Ultra para ser el móvil fotográfico del año",
+   "link": "https://www.xataka.com/moviles/disenar-movil-alrededor-camara-no-al-reves-secreto-vivo-x300-ultra-para-ser-movil-fotografico-ano",
+   "date": "2026-11-26T09:00:24+00:00",
+   "summary": "En una dura batalla que se jugaba en las distancias largas (hablando de focales), el Vivo X300 Ultra ha sido el ganador del 'Mejor móvil fotográfico' en los Premios Xataka Verisure 2026. Este año la competencia era realmente dura porque todos los fabricantes chinos han echado el…",
+   "image": "https://i.blogs.es/12ec22/prremios-xataka/1024_2000.png",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": []
+  },
+  {
    "title": "Premios W!N: el Gran Premio recae en manos de AcentoenlaCé, Havas Play, Arena Media y Pikolin",
    "link": "https://www.marketingdirecto.com/marketing-general/eventos-y-formacion/premios-wn-gran-premio-recae-manos-acentoenlace-havas-play-arena-media-pikolin",
    "date": "2026-11-26T08:57:33+00:00",
@@ -107,10 +322,25 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-26T09:00:32.033250+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T09:00:32.033250+00:00",
    "topics": [
     "publicidad"
+   ]
+  },
+  {
+   "title": "Bizum en eCommerce: cómo mejorar la experiencia de pago online y aprovechar sus nuevas funcionalidades",
+   "link": "https://marketing4ecommerce.net/bizum-ecommerce-pagos-recurrentes-checkout/",
+   "date": "2026-11-26T08:50:40+00:00",
+   "summary": "Descubre cómo simplificar el checkout, incorporar suscripciones y facilitar cobros recurrentes con herramientas adaptadas a los ecommerce.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/bizum-ecommerce-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": [
+    "ecommerce"
    ]
   },
   {
@@ -123,8 +353,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-26T09:00:32.033250+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T09:00:32.033250+00:00",
    "topics": [
     "ecommerce"
    ]
@@ -182,6 +412,22 @@
    "type": "article",
    "first_seen": "2026-11-26T09:00:32.033250+00:00",
    "topics": []
+  },
+  {
+   "title": "Cómo eliminar tu cuenta de Instagram desde el móvil",
+   "link": "https://marketing4ecommerce.net/como-eliminar-tu-cuenta-de-instagram-desde-el-movil/",
+   "date": "2026-11-26T08:00:22+00:00",
+   "summary": "Descubre cómo eliminar tu cuenta de Instagram o desactivarla temporalmente, y todo paso a paso fácilmente desde cualquier dispositivo.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2024/03/Eliminar-cuenta-de-Instagram-desde-el-movil.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T10:31:02.716325+00:00",
+   "topics": [
+    "redes",
+    "ecommerce"
+   ]
   },
   {
    "title": "YouTube presume más de 3 millones de creadores en su programa de influencer marketing y así lo pueden aprovechar las marcas",
@@ -275,8 +521,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-26T09:00:32.033250+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T09:00:32.033250+00:00",
    "topics": [
     "publicidad"
    ]
@@ -295,9 +541,9 @@
    "topics": []
   },
   {
-   "title": "Rusia acaba de conseguir que Corea del Sur haga algo inédito: mandar a toda una isla a los refugios antiaéreos",
+   "title": "Rusia acaba de convertir una tranquila isla volcánica de Corea del Sur en un simulacro de la Tercera Guerra Mundial",
    "link": "https://www.xataka.com/magnet/rusia-acaba-conseguir-que-corea-sur-haga-algo-inedito-mandar-a-toda-isla-a-refugios-antiaereos",
-   "date": "2026-11-26T07:00:28+00:00",
+   "date": "2026-11-26T07:00:00+00:00",
    "summary": "Una pequeña isla volcánica situada frente a la costa oriental de Corea del Sur se ha convertido en el escenario de un incidente militar sin precedentes. Lo ocurrido el martes ilustra hasta qué punto las tensiones entre Rusia y los aliados de Estados Unidos han trascendido las…",
    "image": "https://i.blogs.es/a4d811/tu160-restaurada/1024_2000.jpeg",
    "source": "Xataka",
@@ -4132,7 +4378,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
+   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -4231,10 +4477,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the U.K.",
+   "title": "Meta expands Muse to the UK",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -11185,48 +11431,6 @@
    "date": "2026-11-16T12:00:00+00:00",
    "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
    "image": "https://images.ctfassets.net/kftzwdyauwt9/r0NQL0JSQTS1Kzvpq9Fqm/6b10f87bd44e394bb04737e1ca00b017/science-at-the-frontier-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "Jensen Huang weighs a comeback at Nvidia",
-   "link": "https://therundownai.beehiiv.com/p/jensen-huang-weighs-a-comeback-at-nvidia",
-   "date": "2026-11-16T10:00:00+00:00",
-   "summary": "PLUS: Turn a messy plan into a shared board",
-   "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/26db78da-2581-4815-a196-d2648134e27c/image-1794763394581-new.png",
-   "source": "The Rundown AI",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "How do you advertise AI to an increasingly skeptical public?",
-   "link": "https://www.marketingbrew.com/stories/ai-marketing-skeptical-public?utm_source=&utm_medium=syndication&utm_campaign=feed",
-   "date": "2026-11-16T10:00:00+00:00",
-   "summary": "Agencies say it’s become a tricky tonal balance.",
-   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80,trim=78;0;78;0/https://storage.morningbrew.com/gif/2026-11-10/image-377bf29ead65b40609b436583de8bd8bc0b7134b-1500x1000-gif/MKB-AI-Advertisting-Sketpics-BHB-111026.gif",
-   "source": "Marketing Brew",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "How Revolut raises ambition without lowering the bar",
-   "link": "https://openai.com/business/customer-stories/revolut",
-   "date": "2026-11-16T09:30:00+00:00",
-   "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/41tqM423rl34f77g33NcJB/df1ae54cfce7ec525cea365c54358579/revolut-social.png?w=1600&h=900&fit=fill",
    "source": "OpenAI",
    "category": "ia",
    "lang": "en",

@@ -3,104 +3,205 @@
   "intro": "Los titulares más recientes de IA y marketing.",
   "stories": [
    {
-    "title": "AI is straining America’s open records systems",
-    "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure…",
+    "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private…",
     "why": "",
-    "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-    "source": "MIT Technology Review",
+    "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+    "source": "The Verge IA",
     "category": "ia",
-    "original_title": "AI is straining America’s open records systems"
+    "original_title": "42 state AGs are trying to stop Character.AI from selling users’ chats"
    },
    {
-    "title": "Tidal va a borrar 27 millones de canciones hechas con IA. El 96% no ha sonado ni una vez en tres meses",
-    "summary": "Tidal empieza el 9 de diciembre a borrar de su catálogo todas las canciones generadas íntegramente con IA, unos 27 millones de temas en total. La purga es enorme pero, a juzgar por los datos que proporciona la propia plataforma, casi ningún suscriptor va a notar los cambios: el…",
+    "title": "La Guardia Civil encuentra bajo un parque infantil de Granada un búnker de 180 metros con más de 2.000 plantas de marihuana",
+    "summary": "En una finca de Las Gabias, a las afueras de Granada, se construyó un rincón pensado para no levantar sospechas: césped artificial, un columpio, una casita de juegos y una colchoneta. Cualquier vecino, o cualquier agente, habría visto lo que era, el típico espacio para niños.…",
     "why": "",
-    "link": "https://www.xataka.com/musica/tidal-va-a-borrar-27-millones-canciones-hechas-ia-96-no-ha-sonado-vez-tres-meses",
+    "link": "https://www.xataka.com/magnet/guardia-civil-encuentra-parque-infantil-granada-bunker-180-metros-2-000-plantas-marihuana",
     "source": "Xataka",
     "category": "ia",
-    "original_title": "Tidal va a borrar 27 millones de canciones hechas con IA. El 96% no ha sonado ni una vez en tres meses"
+    "original_title": "La Guardia Civil encuentra bajo un parque infantil de Granada un búnker de 180 metros con más de 2.000 plantas de marihuana"
    },
    {
-    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-    "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the…",
+    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
     "why": "",
-    "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
     "source": "TechCrunch IA",
     "category": "ia",
-    "original_title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion"
+    "original_title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks"
    },
    {
-    "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
-    "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+    "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might…",
     "why": "",
-    "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
-    "source": "Wired IA",
+    "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+    "source": "The Verge IA",
     "category": "ia",
-    "original_title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police"
+    "original_title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future"
    },
    {
-    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-    "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
     "why": "",
-    "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
     "source": "TechCrunch IA",
     "category": "ia",
-    "original_title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy"
+    "original_title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work"
    },
    {
-    "title": "Albert Einstein sobre la pedagogía y educación: “La sobrecarga conduce a la superficialidad. La enseñanza debe ser tal que lo que se ofrece se perciba como un valioso regalo y no como una obligación pesada”",
-    "summary": "Albert Einstein, físico de origen alemán y ganador del Premio Nobel de Física, defendió una educación capaz de despertar la curiosidad",
+    "title": "Alex Dakov, empresario: “A los mejores empleados no los ascienden. Al que rinde lo necesitas donde está. Si lo asciendes, deja un hueco difícil de llenar”",
+    "summary": "Alex Dakov, empresario y emprendedor, reflexiona sobre el liderazgo, la gestión del talento y las oportunidades de crecimiento dentro de las organizaciones",
     "why": "",
-    "link": "https://www.merca20.com/albert-einstein-sobre-la-pedagogia-y-educacion-la-sobrecarga-conduce-a-la-superficialidad-la-ensenanza-debe-ser-tal-que-lo-que-se-ofrece-se-perciba-como-un-valioso-regalo-y-no-como-una-obligacion/?utm_source=rss&utm_medium=rss&utm_campaign=albert-einstein-sobre-la-pedagogia-y-educacion-la-sobrecarga-conduce-a-la-superficialidad-la-ensenanza-debe-ser-tal-que-lo-que-se-ofrece-se-perciba-como-un-valioso-regalo-y-no-como-una-obligacion",
+    "link": "https://www.merca20.com/alex-dakov-empresario-a-los-mejores-empleados-no-los-ascienden-al-que-rinde-lo-necesitas-donde-esta-si-lo-asciendes-deja-un-hueco-dificil-de-llenar/?utm_source=rss&utm_medium=rss&utm_campaign=alex-dakov-empresario-a-los-mejores-empleados-no-los-ascienden-al-que-rinde-lo-necesitas-donde-esta-si-lo-asciendes-deja-un-hueco-dificil-de-llenar",
     "source": "Merca2.0",
     "category": "marketing",
-    "original_title": "Albert Einstein sobre la pedagogía y educación: “La sobrecarga conduce a la superficialidad. La enseñanza debe ser tal que lo que se ofrece se perciba como un valioso regalo y no como una obligación pesada”"
+    "original_title": "Alex Dakov, empresario: “A los mejores empleados no los ascienden. Al que rinde lo necesitas donde está. Si lo asciendes, deja un hueco difícil de llenar”"
    },
    {
-    "title": "Lo que funciona en un mercado puede fracasar en otro. La importancia de desaprender para liderar sin prejuicios",
-    "summary": "Sarah Chemouli (Banco Santander) explica en Luz & Luces cómo dos errores transformaron su manera de entender el liderazgo.",
+    "title": "John Locke sobre la educación: “De todos los hombres con quienes nos encontramos, nueve de cada diez son lo que son, buenos o malos, útiles o inútiles, por la educación que han recibido”",
+    "summary": "Para John Locke, la educación constituye una de las influencias más importantes en la formación de las personas",
     "why": "",
-    "link": "https://www.reasonwhy.es/actualidad/luz-luces-sarah-chemouli-banco-santander-liderazgo-prejuicios",
-    "source": "Reason Why",
-    "category": "marketing",
-    "original_title": "Lo que funciona en un mercado puede fracasar en otro. La importancia de desaprender para liderar sin prejuicios"
-   },
-   {
-    "title": "John Dewey, pedagogo, sobre la educación: “La creencia de que toda educación auténtica procede de la experiencia no significa que todas las experiencias sean igualmente educativas”",
-    "summary": "Para John Dewey, lo verdaderamente importante era la calidad de las experiencias y su capacidad para favorecer el desarrollo intelectual y personal de los estudiantes",
-    "why": "",
-    "link": "https://www.merca20.com/john-dewey-pedagogo-sobre-la-educacion-la-creencia-de-que-toda-educacion-autentica-procede-de-la-experiencia-no-significa-que-todas-las-experiencias-sean-igualmente-educativas/?utm_source=rss&utm_medium=rss&utm_campaign=john-dewey-pedagogo-sobre-la-educacion-la-creencia-de-que-toda-educacion-autentica-procede-de-la-experiencia-no-significa-que-todas-las-experiencias-sean-igualmente-educativas",
+    "link": "https://www.merca20.com/john-locke-sobre-la-educacion-de-todos-los-hombres-con-quienes-nos-encontramos-nueve-de-cada-diez-son-lo-que-son-buenos-o-malos-utiles-o-inutiles-por-la-educacion-que-han-recibido/?utm_source=rss&utm_medium=rss&utm_campaign=john-locke-sobre-la-educacion-de-todos-los-hombres-con-quienes-nos-encontramos-nueve-de-cada-diez-son-lo-que-son-buenos-o-malos-utiles-o-inutiles-por-la-educacion-que-han-recibido",
     "source": "Merca2.0",
     "category": "marketing",
-    "original_title": "John Dewey, pedagogo, sobre la educación: “La creencia de que toda educación auténtica procede de la experiencia no significa que todas las experiencias sean igualmente educativas”"
+    "original_title": "John Locke sobre la educación: “De todos los hombres con quienes nos encontramos, nueve de cada diez son lo que son, buenos o malos, útiles o inútiles, por la educación que han recibido”"
    },
    {
-    "title": "Los espacios físicos son activos de comunicación y utilizarlos de manera personalizada debería ser rentable",
-    "summary": "Sarah Chemouli (Banco Santander) explica en Luz & Luces que la entidad quiere usar sus cristaleras para comunicar.",
+    "title": "How to turn your selfie into GTA 6-inspired cover art with ChatGPT, The prompt to preserve your facial features",
+    "summary": "Learn how to create a GTA 6-style photo in ChatGPT. Upload a selfie and copy this prompt to preserve your facial features and give your image a Vice City-inspired look.",
     "why": "",
-    "link": "https://www.reasonwhy.es/actualidad/luz-luces-sarah-chemouli-banco-santander-escaparates-sucursales-soporte-publicitario",
+    "link": "https://www.merca20.com/how-to-turn-your-selfie-into-gta-6-inspired-cover-art-with-chatgpt-the-prompt-to-preserve-your-facial-features/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-turn-your-selfie-into-gta-6-inspired-cover-art-with-chatgpt-the-prompt-to-preserve-your-facial-features",
+    "source": "Merca2.0",
+    "category": "marketing",
+    "original_title": "How to turn your selfie into GTA 6-inspired cover art with ChatGPT, The prompt to preserve your facial features"
+   },
+   {
+    "title": "Michelle Obama sobre el trabajo en equipo: “Nadie llega a donde está por sí solo. Cada uno de nosotros tiene una comunidad de personas que nos ayuda a avanzar”",
+    "summary": "La reflexión de Michelle Obama también puede aplicarse al liderazgo. Un directivo que reconoce las aportaciones de sus colaboradores y escucha diferentes puntos de vista puede favorecer un entorno de confianza y cooperación",
+    "why": "",
+    "link": "https://www.merca20.com/michelle-obama-sobre-el-trabajo-en-equipo-nadie-llega-a-donde-esta-por-si-solo-cada-uno-de-nosotros-tiene-una-comunidad-de-personas-que-nos-ayuda-a-avanzar/?utm_source=rss&utm_medium=rss&utm_campaign=michelle-obama-sobre-el-trabajo-en-equipo-nadie-llega-a-donde-esta-por-si-solo-cada-uno-de-nosotros-tiene-una-comunidad-de-personas-que-nos-ayuda-a-avanzar",
+    "source": "Merca2.0",
+    "category": "marketing",
+    "original_title": "Michelle Obama sobre el trabajo en equipo: “Nadie llega a donde está por sí solo. Cada uno de nosotros tiene una comunidad de personas que nos ayuda a avanzar”"
+   },
+   {
+    "title": "Compras “aprobadas por el marido” o cómo visibilizar la violencia económica",
+    "summary": "La organización israelí No2Violence ha incluido una pegatina en las entregas de la plataforma Wolt para concienciar.",
+    "why": "",
+    "link": "https://www.reasonwhy.es/actualidad/compras-pegatina-aprobado-marido-concienciacion-violencia-economica",
     "source": "Reason Why",
     "category": "marketing",
-    "original_title": "Los espacios físicos son activos de comunicación y utilizarlos de manera personalizada debería ser rentable"
-   },
-   {
-    "title": "Más allá del paid media: Por qué el marketing educativo necesita una estrategia 360º",
-    "summary": "Descubre cómo combinar SEO, contenidos y publicidad para acompañar al futuro estudiante durante todo su proceso de decisión educativa.[…]",
-    "why": "",
-    "link": "https://marketing4ecommerce.net/marketing-educativo-paid-media-seo-captacion-alumnos/",
-    "source": "Marketing4eCommerce",
-    "category": "marketing",
-    "original_title": "Más allá del paid media: Por qué el marketing educativo necesita una estrategia 360º"
+    "original_title": "Compras “aprobadas por el marido” o cómo visibilizar la violencia económica"
    }
   ],
   "trend_note": "",
   "action_idea": "",
   "ai": false,
-  "date": "2026-11-25",
-  "label": "miércoles 25 de noviembre",
-  "created": "2026-11-25T10:32:38.390423+00:00"
+  "date": "2026-11-26",
+  "label": "jueves 26 de noviembre",
+  "created": "2026-11-26T10:31:07.935663+00:00"
  },
  "archive": [
+  {
+   "intro": "Los titulares más recientes de IA y marketing.",
+   "stories": [
+    {
+     "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+     "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private…",
+     "why": "",
+     "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+     "source": "The Verge IA",
+     "category": "ia",
+     "original_title": "42 state AGs are trying to stop Character.AI from selling users’ chats"
+    },
+    {
+     "title": "La Guardia Civil encuentra bajo un parque infantil de Granada un búnker de 180 metros con más de 2.000 plantas de marihuana",
+     "summary": "En una finca de Las Gabias, a las afueras de Granada, se construyó un rincón pensado para no levantar sospechas: césped artificial, un columpio, una casita de juegos y una colchoneta. Cualquier vecino, o cualquier agente, habría visto lo que era, el típico espacio para niños.…",
+     "why": "",
+     "link": "https://www.xataka.com/magnet/guardia-civil-encuentra-parque-infantil-granada-bunker-180-metros-2-000-plantas-marihuana",
+     "source": "Xataka",
+     "category": "ia",
+     "original_title": "La Guardia Civil encuentra bajo un parque infantil de Granada un búnker de 180 metros con más de 2.000 plantas de marihuana"
+    },
+    {
+     "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+     "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+     "why": "",
+     "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+     "source": "TechCrunch IA",
+     "category": "ia",
+     "original_title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks"
+    },
+    {
+     "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+     "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might…",
+     "why": "",
+     "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+     "source": "The Verge IA",
+     "category": "ia",
+     "original_title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future"
+    },
+    {
+     "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+     "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+     "why": "",
+     "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+     "source": "TechCrunch IA",
+     "category": "ia",
+     "original_title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work"
+    },
+    {
+     "title": "Alex Dakov, empresario: “A los mejores empleados no los ascienden. Al que rinde lo necesitas donde está. Si lo asciendes, deja un hueco difícil de llenar”",
+     "summary": "Alex Dakov, empresario y emprendedor, reflexiona sobre el liderazgo, la gestión del talento y las oportunidades de crecimiento dentro de las organizaciones",
+     "why": "",
+     "link": "https://www.merca20.com/alex-dakov-empresario-a-los-mejores-empleados-no-los-ascienden-al-que-rinde-lo-necesitas-donde-esta-si-lo-asciendes-deja-un-hueco-dificil-de-llenar/?utm_source=rss&utm_medium=rss&utm_campaign=alex-dakov-empresario-a-los-mejores-empleados-no-los-ascienden-al-que-rinde-lo-necesitas-donde-esta-si-lo-asciendes-deja-un-hueco-dificil-de-llenar",
+     "source": "Merca2.0",
+     "category": "marketing",
+     "original_title": "Alex Dakov, empresario: “A los mejores empleados no los ascienden. Al que rinde lo necesitas donde está. Si lo asciendes, deja un hueco difícil de llenar”"
+    },
+    {
+     "title": "John Locke sobre la educación: “De todos los hombres con quienes nos encontramos, nueve de cada diez son lo que son, buenos o malos, útiles o inútiles, por la educación que han recibido”",
+     "summary": "Para John Locke, la educación constituye una de las influencias más importantes en la formación de las personas",
+     "why": "",
+     "link": "https://www.merca20.com/john-locke-sobre-la-educacion-de-todos-los-hombres-con-quienes-nos-encontramos-nueve-de-cada-diez-son-lo-que-son-buenos-o-malos-utiles-o-inutiles-por-la-educacion-que-han-recibido/?utm_source=rss&utm_medium=rss&utm_campaign=john-locke-sobre-la-educacion-de-todos-los-hombres-con-quienes-nos-encontramos-nueve-de-cada-diez-son-lo-que-son-buenos-o-malos-utiles-o-inutiles-por-la-educacion-que-han-recibido",
+     "source": "Merca2.0",
+     "category": "marketing",
+     "original_title": "John Locke sobre la educación: “De todos los hombres con quienes nos encontramos, nueve de cada diez son lo que son, buenos o malos, útiles o inútiles, por la educación que han recibido”"
+    },
+    {
+     "title": "How to turn your selfie into GTA 6-inspired cover art with ChatGPT, The prompt to preserve your facial features",
+     "summary": "Learn how to create a GTA 6-style photo in ChatGPT. Upload a selfie and copy this prompt to preserve your facial features and give your image a Vice City-inspired look.",
+     "why": "",
+     "link": "https://www.merca20.com/how-to-turn-your-selfie-into-gta-6-inspired-cover-art-with-chatgpt-the-prompt-to-preserve-your-facial-features/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-turn-your-selfie-into-gta-6-inspired-cover-art-with-chatgpt-the-prompt-to-preserve-your-facial-features",
+     "source": "Merca2.0",
+     "category": "marketing",
+     "original_title": "How to turn your selfie into GTA 6-inspired cover art with ChatGPT, The prompt to preserve your facial features"
+    },
+    {
+     "title": "Michelle Obama sobre el trabajo en equipo: “Nadie llega a donde está por sí solo. Cada uno de nosotros tiene una comunidad de personas que nos ayuda a avanzar”",
+     "summary": "La reflexión de Michelle Obama también puede aplicarse al liderazgo. Un directivo que reconoce las aportaciones de sus colaboradores y escucha diferentes puntos de vista puede favorecer un entorno de confianza y cooperación",
+     "why": "",
+     "link": "https://www.merca20.com/michelle-obama-sobre-el-trabajo-en-equipo-nadie-llega-a-donde-esta-por-si-solo-cada-uno-de-nosotros-tiene-una-comunidad-de-personas-que-nos-ayuda-a-avanzar/?utm_source=rss&utm_medium=rss&utm_campaign=michelle-obama-sobre-el-trabajo-en-equipo-nadie-llega-a-donde-esta-por-si-solo-cada-uno-de-nosotros-tiene-una-comunidad-de-personas-que-nos-ayuda-a-avanzar",
+     "source": "Merca2.0",
+     "category": "marketing",
+     "original_title": "Michelle Obama sobre el trabajo en equipo: “Nadie llega a donde está por sí solo. Cada uno de nosotros tiene una comunidad de personas que nos ayuda a avanzar”"
+    },
+    {
+     "title": "Compras “aprobadas por el marido” o cómo visibilizar la violencia económica",
+     "summary": "La organización israelí No2Violence ha incluido una pegatina en las entregas de la plataforma Wolt para concienciar.",
+     "why": "",
+     "link": "https://www.reasonwhy.es/actualidad/compras-pegatina-aprobado-marido-concienciacion-violencia-economica",
+     "source": "Reason Why",
+     "category": "marketing",
+     "original_title": "Compras “aprobadas por el marido” o cómo visibilizar la violencia económica"
+    }
+   ],
+   "trend_note": "",
+   "action_idea": "",
+   "ai": false,
+   "date": "2026-11-26",
+   "label": "jueves 26 de noviembre",
+   "created": "2026-11-26T10:31:07.935663+00:00"
+  },
   {
    "intro": "Los titulares más recientes de IA y marketing.",
    "stories": [
