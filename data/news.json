@@ -1,29 +1,29 @@
 {
- "updated": "2026-11-26T17:07:23.121252+00:00",
+ "updated": "2026-11-26T18:16:50.581733+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 871,
+ "count": 877,
  "trends": [
   {
    "term": "black friday",
-   "count": 52,
-   "growth": 28.5
+   "count": 54,
+   "growth": 29.6
   },
   {
    "term": "jensen huang",
-   "count": 27,
-   "growth": 5.8
+   "count": 25,
+   "growth": 4.5
   },
   {
    "term": "google",
-   "count": 34,
-   "growth": 5.0
+   "count": 32,
+   "growth": 4.2
   },
   {
    "term": "nvidia",
-   "count": 25,
-   "growth": 4.9
+   "count": 23,
+   "growth": 3.9
   },
   {
    "term": "navidad",
@@ -36,14 +36,14 @@
    "growth": 20.0
   },
   {
-   "term": "meta",
-   "count": 19,
-   "growth": 5.0
-  },
-  {
    "term": "amazon",
    "count": 19,
-   "growth": 8.8
+   "growth": 7.4
+  },
+  {
+   "term": "meta",
+   "count": 18,
+   "growth": 4.3
   },
   {
    "term": "está",
@@ -76,38 +76,108 @@
    "growth": 14.0
   },
   {
+   "term": "thanksgiving",
+   "count": 12,
+   "growth": 9.1
+  },
+  {
+   "term": "ofertas",
+   "count": 12,
+   "growth": 13.0
+  },
+  {
    "term": "muse",
    "count": 12,
    "growth": 4.8
   },
   {
-   "term": "thanksgiving",
-   "count": 11,
-   "growth": 8.4
-  },
-  {
-   "term": "ofertas",
+   "term": "móvil",
    "count": 10,
-   "growth": 11.0
-  },
-  {
-   "term": "ads",
-   "count": 10,
-   "growth": 4.8
+   "growth": 7.7
   }
  ],
  "items": [
   {
-   "title": "Javier Alagón asume la AMAI y busca reposicionar la investigación de mercados frente al avance de la IA",
-   "link": "https://www.merca20.com/javier-alagon-asume-la-amai-y-busca-reposicionar-la-investigacion-de-mercados-frente-al-avance-de-la-ia/?utm_source=rss&utm_medium=rss&utm_campaign=javier-alagon-asume-la-amai-y-busca-reposicionar-la-investigacion-de-mercados-frente-al-avance-de-la-ia",
-   "date": "2026-11-26T17:01:59+00:00",
-   "summary": "El nuevo periodo de la Asociación Mexicana de Agencias de Inteligencia de Mercado y Opinión, deja sobre la mesa un desafío que va más allá de la adopción tecnológica.",
-   "image": "https://files.merca20.com/uploads/2026/11/Evento-AMAI-Foto-Merca2.0.jpeg",
+   "title": "Licencia permanente digital CDMX 2026, los 7 pasos para tramitarla sin cita y desde tu celular por 1,500 pesos, antes del 31 de diciembre",
+   "link": "https://www.merca20.com/licencia-permanente-digital-cdmx-2026-los-7-pasos-para-tramitarla-sin-cita-y-desde-tu-celular-por-1500-pesos-antes-del-31-de-diciembre/?utm_source=rss&utm_medium=rss&utm_campaign=licencia-permanente-digital-cdmx-2026-los-7-pasos-para-tramitarla-sin-cita-y-desde-tu-celular-por-1500-pesos-antes-del-31-de-diciembre",
+   "date": "2026-11-26T18:09:39+00:00",
+   "summary": "Conoce cómo tramitar tu licencia permanente digital de CDMX desde el celular en noviembre por 1,500 pesos, los requisitos y la fecha límite.",
+   "image": "https://files.merca20.com/uploads/2026/11/Licencia-permanente-digital-CDMX-2026-paso-a-paso-para-tramitarla-sin-cita-y-desde-tu-celular-por-1500-pesos-antes-del-31-de-diciembre-.jpg",
    "source": "Merca2.0",
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "first_seen": "2026-11-26T18:16:50.581733+00:00",
+   "topics": []
+  },
+  {
+   "title": "Gobierno y OXXO firman un acuerdo y ahora sus tiendas funcionan como refugios para mujeres en riesgo en CDMX, Sonora, Colima y Edomex",
+   "link": "https://www.merca20.com/gobierno-y-oxxo-firman-un-acuerdo-y-ahora-sus-tiendas-funcionan-como-refugios-para-mujeres-en-riesgo-en-cdmx-edomex-sonora-colima/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-y-oxxo-firman-un-acuerdo-y-ahora-sus-tiendas-funcionan-como-refugios-para-mujeres-en-riesgo-en-cdmx-edomex-sonora-colima",
+   "date": "2026-11-26T17:42:07+00:00",
+   "summary": "Con estos convenios, OXXO contempla incorporar más de 4,600 establecimientos a diferentes estrategias de protección y atención a mujeres en México",
+   "image": "https://files.merca20.com/uploads/2026/11/oxxo-foto-laura-islas.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T18:16:50.581733+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "SpaceX tiene luz verde para desplegar un millón de satélites con centros de datos: no es por la IA es por la energía",
+   "link": "https://www.xataka.com/espacio/spacex-tiene-luz-verde-para-desplegar-millon-satelites-centros-datos-no-ia-energia",
+   "date": "2026-11-26T17:33:44+00:00",
+   "summary": "La Comisión Federal de Comunicaciones (FCC) concedió a SpaceX un permiso sin precedentes: puede lanzar hasta un millón de satélites para construir una constelación de pequeños centros de datos en órbita conectados entre sí. El proyecto se llama Starmind y el regulador lo…",
+   "image": "https://i.blogs.es/6cbaf6/satelites-starmind/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T18:16:50.581733+00:00",
+   "topics": []
+  },
+  {
+   "title": "Cambiar de móvil sale a cuenta con las nuevas ofertas de AliExpress. Estas son las cinco que más nos han gustado durante el Black Friday",
+   "link": "https://www.xataka.com/seleccion/cambiar-movil-sale-a-cuenta-nuevas-ofertas-aliexpress-estas-cinco-que-nos-han-gustado-durante-black-friday",
+   "date": "2026-11-26T17:16:20+00:00",
+   "summary": "Las campañas del Black Friday son ideales para renovar el móvil. Y no solo por las grandes ofertas que solemos encontrar, sino también por la variedad. AliExpress, como cada año, ha lanzado un gran surtido de descuentos en móviles de diferentes gamas, por lo que en este artículo…",
+   "image": "https://i.blogs.es/7a63ed/oneplus-nord-6-y-nothing-phone-3-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T18:16:50.581733+00:00",
+   "topics": [
+    "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Thanksgiving 2026, What Happens When You Practice Gratitude and 20 Quotes to Inspire You Every Day",
+   "link": "https://www.merca20.com/thanksgiving-2026-what-happens-when-you-practice-gratitude-and-20-quotes-to-inspire-you-every-day/?utm_source=rss&utm_medium=rss&utm_campaign=thanksgiving-2026-what-happens-when-you-practice-gratitude-and-20-quotes-to-inspire-you-every-day",
+   "date": "2026-11-26T17:14:22+00:00",
+   "summary": "Discover the meaning of Thanksgiving 2026, the science-backed benefits of practicing gratitude, and 20 phrases to express appreciation for life.",
+   "image": "https://files.merca20.com/uploads/2026/11/Thanksgiving-2026-What-Happens-When-You-Practice-Gratitude-and-20-Quotes-to-Inspire-You-Every-Day-.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T18:16:50.581733+00:00",
+   "topics": []
+  },
+  {
+   "title": "Oreo convierte la Navidad en una dulce venganza contra Santa Claus en esta campaña",
+   "link": "https://www.merca20.com/oreo-convierte-la-navidad-en-una-dulce-venganza-contra-santa-claus-en-esta-campana/?utm_source=rss&utm_medium=rss&utm_campaign=oreo-convierte-la-navidad-en-una-dulce-venganza-contra-santa-claus-en-esta-campana",
+   "date": "2026-11-26T17:10:23+00:00",
+   "summary": "El anuncio comienza cuando un padre aprovecha un descuido para morder una de las Oreo que sus hijos habían preparado para Santa Claus",
+   "image": "https://files.merca20.com/uploads/2026/11/Oreo-campana-de-Navidad.-Foto-Bicstockt-94362044.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T15:57:18.402808+00:00",
    "topics": [
     "publicidad"
    ]
@@ -176,8 +246,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-26T17:07:23.121252+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
    "topics": [
     "publicidad"
    ]
@@ -196,6 +266,21 @@
    "topics": []
   },
   {
+   "title": "Mientras Sam’s, Walmart, Bodega Aurrera, Mercado Libre y Amazon alistan ofertas para el Black Friday 2026, Profeco pide comparar precios y evitar compras impulsivas",
+   "link": "https://www.merca20.com/mientras-sams-walmart-bodega-aurrera-mercado-libre-y-amazon-alistan-ofertas-para-el-black-friday-2026-profeco-pide-comparar-precios-y-evitar-compras-impulsivas/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-sams-walmart-bodega-aurrera-mercado-libre-y-amazon-alistan-ofertas-para-el-black-friday-2026-profeco-pide-comparar-precios-y-evitar-compras-impulsivas",
+   "date": "2026-11-26T16:29:12+00:00",
+   "summary": "Profeco también confirmó que vigilará el comportamiento comercial de los establecimientos durante Black Friday 2026 y Cyber Monday",
+   "image": "https://files.merca20.com/uploads/2026/11/gemini-black-friday-ofertas.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T18:16:50.581733+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
    "title": "Licencia para enamorar: McCann rescata el modelo Bond para que las marcas sobrevivan al paso del tiempo",
    "link": "https://www.marketingdirecto.com/especiales/enamorando-al-consumidor/licencia-para-enamorar-mccann-modelo-bond",
    "date": "2026-11-26T16:28:24+00:00",
@@ -205,8 +290,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-26T17:07:23.121252+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
    "topics": []
   },
   {
@@ -247,8 +332,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-26T17:07:23.121252+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
    "topics": [
     "publicidad"
    ]
@@ -292,8 +377,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-26T17:07:23.121252+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
    "topics": []
   },
   {
@@ -319,8 +404,8 @@
    "category": "ia",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-26T17:07:23.121252+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
    "topics": []
   },
   {
@@ -335,21 +420,6 @@
    "type": "article",
    "first_seen": "2026-11-26T17:07:23.121252+00:00",
    "topics": []
-  },
-  {
-   "title": "Oreo convierte la Navidad en una dulce venganza contra Santa Claus en esta campaña",
-   "link": "https://www.merca20.com/oreo-convierte-la-navidad-en-una-dulce-venganza-contra-santa-claus-en-esta-campana/?utm_source=rss&utm_medium=rss&utm_campaign=oreo-convierte-la-navidad-en-una-dulce-venganza-contra-santa-claus-en-esta-campana",
-   "date": "2026-11-26T15:56:23+00:00",
-   "summary": "El anuncio comienza cuando un padre aprovecha un descuido para morder una de las Oreo que sus hijos habían preparado para Santa Claus",
-   "image": "https://files.merca20.com/uploads/2026/11/Oreo-campana-de-Navidad.-Foto-Bicstockt-94362044.jpg",
-   "source": "Merca2.0",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-26T15:57:18.402808+00:00",
-   "topics": [
-    "publicidad"
-   ]
   },
   {
    "title": "La tecnológica Newborn Town compra la española Softonic por cerca de 50M€",
@@ -481,6 +551,21 @@
    "topics": []
   },
   {
+   "title": "Javier Alagón asume la AMAI y busca reposicionar la investigación de mercados frente al avance de la IA",
+   "link": "https://www.merca20.com/javier-alagon-asume-la-amai-y-busca-reposicionar-la-investigacion-de-mercados-frente-al-avance-de-la-ia/?utm_source=rss&utm_medium=rss&utm_campaign=javier-alagon-asume-la-amai-y-busca-reposicionar-la-investigacion-de-mercados-frente-al-avance-de-la-ia",
+   "date": "2026-11-26T15:01:59+00:00",
+   "summary": "El nuevo periodo de la Asociación Mexicana de Agencias de Inteligencia de Mercado y Opinión, deja sobre la mesa un desafío que va más allá de la adopción tecnológica.",
+   "image": "https://files.merca20.com/uploads/2026/11/Javier-Alagon-asume-la-AMAI-Foto-Merca2.0-e1795715172968.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
    "title": "Una marca llamada deseo: así nace (y se mantiene en la cresta de la ola) una «love brand»",
    "link": "https://www.marketingdirecto.com/especiales/enamorando-al-consumidor/love-brand-ikea-burger-king-cheil-experiencia",
    "date": "2026-11-26T15:00:44+00:00",
@@ -490,8 +575,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-26T17:07:23.121252+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-26T17:07:23.121252+00:00",
    "topics": []
   },
   {
