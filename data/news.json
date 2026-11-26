@@ -1,14 +1,16 @@
 {
- "updated": "2026-11-26T10:31:02.716325+00:00",
- "sources_ok": 32,
+ "updated": "2026-11-26T11:55:52.948231+00:00",
+ "sources_ok": 31,
  "sources_total": 32,
- "sources_failed": [],
- "count": 791,
+ "sources_failed": [
+  "Marketing4eCommerce"
+ ],
+ "count": 816,
  "trends": [
   {
    "term": "black friday",
-   "count": 43,
-   "growth": 23.7
+   "count": 44,
+   "growth": 24.2
   },
   {
    "term": "jensen huang",
@@ -28,17 +30,17 @@
   {
    "term": "navidad",
    "count": 23,
-   "growth": 10.5
+   "growth": 8.8
   },
   {
    "term": "meta",
-   "count": 19,
-   "growth": 5.6
+   "count": 20,
+   "growth": 5.9
   },
   {
    "term": "méxico",
-   "count": 17,
-   "growth": 18.0
+   "count": 18,
+   "growth": 19.0
   },
   {
    "term": "amazon",
@@ -47,18 +49,18 @@
   },
   {
    "term": "euros",
-   "count": 15,
-   "growth": 16.0
+   "count": 16,
+   "growth": 17.0
   },
   {
    "term": "está",
-   "count": 14,
-   "growth": 15.0
+   "count": 16,
+   "growth": 17.0
   },
   {
    "term": "marcas",
-   "count": 13,
-   "growth": 9.8
+   "count": 15,
+   "growth": 11.2
   },
   {
    "term": "gta",
@@ -66,19 +68,19 @@
    "growth": 14.0
   },
   {
-   "term": "precio",
+   "term": "muse",
+   "count": 12,
+   "growth": 4.8
+  },
+  {
+   "term": "thanksgiving",
    "count": 11,
    "growth": 12.0
   },
   {
-   "term": "muse",
+   "term": "precio",
    "count": 11,
-   "growth": 4.4
-  },
-  {
-   "term": "thanksgiving",
-   "count": 10,
-   "growth": 11.0
+   "growth": 12.0
   },
   {
    "term": "menos",
@@ -91,12 +93,280 @@
    "growth": 5.9
   },
   {
-   "term": "europa",
+   "term": "agents",
    "count": 10,
-   "growth": 11.0
+   "growth": 4.8
   }
  ],
  "items": [
+  {
+   "title": "Apple elimina Talkie, la aplicación de inteligencia artificial con 11 millones de usuarios y gran popularidad en México",
+   "link": "https://www.merca20.com/apple-elimina-talkie-inteligencia-artificial-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=apple-elimina-talkie-inteligencia-artificial-mexico",
+   "date": "2026-11-26T11:54:12+00:00",
+   "summary": "La aplicación de acompañantes virtuales de MiniMax enfrenta su segunda retirada de la App Store, mientras crece la presión regulatoria sobre los chatbots de inteligencia artificial.",
+   "image": "https://files.merca20.com/uploads/2026/11/Apple-Antara-store-opening-two-customers-with-iPhone-11-092719.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "topics": []
+  },
+  {
+   "title": "Da igual que vendas 25.000 ejemplares en una semana: si eres una novela de romantasy estás vetada de las listas",
+   "link": "https://www.xataka.com/literatura-comics-y-juegos/da-igual-que-vendas-25-000-ejemplares-semana-eres-novela-romantasy-estas-vetada-listas",
+   "date": "2026-11-26T11:38:23+00:00",
+   "summary": "Veinticinco mil ejemplares en siete días y ni rastro en las listas de las ficciones más vendidas. La sexta entrega de la saga de romantasy 'Una corte de rosas y espinas' es la última entrega de un género que domina las lecturas de medio mundo, pero que la industria ha acabado…",
+   "image": "https://i.blogs.es/e5b38f/462570__instagram6_banner-libro-una-corte-de-armonia-rota-autor-sarah-j-mass-lifestyle-2/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "topics": []
+  },
+  {
+   "title": "Chollo en Nintendo Switch 2 justo antes del Black Friday 2026: aquí, ya con descuentazo a pocas horas de la medianoche del viernes 27",
+   "link": "https://www.xataka.com/seleccion/chollo-nintendo-switch-2-justo-antes-black-friday-2026-aqui-descuentazo-a-pocas-horas-medianoche-viernes-27",
+   "date": "2026-11-26T11:30:28+00:00",
+   "summary": "En apenas unas horas, a la medianoche de hoy, dará el pistoletazo de salida el Black Friday 2026 oficial que, como cada año, tiene lugar el cuarto viernes de noviembre. Pero en la práctica, podemos aprovechar las ofertas de Black Friday desde hace semanas y no hace falta esperar…",
+   "image": "https://i.blogs.es/f0bcab/oferta-switch-2/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Hay una batalla por controlar la órbita baja y la está ganando SpaceX: ya tiene permiso para colocar otro millón de satélites",
+   "link": "https://www.xataka.com/espacio/hay-batalla-controlar-orbita-baja-esta-ganando-spacex-tiene-permiso-para-colocar-otro-millon-satelites",
+   "date": "2026-11-26T11:26:03+00:00",
+   "summary": "La Comisión Federal de Comunicaciones (FCC) ha autorizado a SpaceX a desplegar hasta un millón de satélites Starmind, concebidos como centros de datos en órbita. Es la primera autorización de este tipo que se concede en Estados Unidos y su anuncio ha generado un gran revuelo.…",
+   "image": "https://i.blogs.es/9f4574/starmind/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Este monitor te permite jugar en la cama, salón o... en el baño. Tiene ruedas, pantalla táctil y es inteligente",
+   "link": "https://www.xataka.com/seleccion/este-monitor-te-permite-jugar-cama-salon-bano-tiene-ruedas-pantalla-tactil-inteligente",
+   "date": "2026-11-26T11:16:20+00:00",
+   "summary": "Hoy en día podemos encontrar muchísimos monitores para estudiar, trabajar o para disfrutar de esos momentos mientras jugamos a nuestros videojuegos favoritos. Y hay monitores que nos permiten no estar anclados al escritorio para seguir utilizándolos donde queramos. Aquí es donde…",
+   "image": "https://i.blogs.es/dfc20b/lg-smart-monitor-standbyme-2/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "topics": []
+  },
+  {
+   "title": "El mayor terremoto de la salida a bolsa de Anthropic no se notó en Wall Street, lo está sufriendo la vivienda de lujo de San Francisco",
+   "link": "https://www.xataka.com/magnet/mayor-terremoto-salida-a-bolsa-anthropic-no-se-noto-wall-street-esta-sufriendo-vivienda-lujo-san-francisco",
+   "date": "2026-11-26T11:02:20+00:00",
+   "summary": "El seísmo de la salida a bolsa de Anthropic no solo se ha sentido en el parqué de Wall Street. Su debut en el Nasdaq está dejando huella también en las agencias inmobiliarias de San Francisco, la ciudad donde tiene su sede la compañía y que de la noche a la mañana se ha…",
+   "image": "https://i.blogs.es/491c28/shen-pan-iwxxaptzsym-unsplash/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Your AI cheat sheet for Thanksgiving dinner",
+   "link": "https://therundownai.beehiiv.com/p/your-ai-cheat-sheet-for-thanksgiving-dinner",
+   "date": "2026-11-26T11:00:00+00:00",
+   "summary": "PLUS: Use Gemini Tasks to hunt for Black Friday prices",
+   "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/592e973e-692b-41cb-a463-3ea37b86b4df/AI_Thanksgiving_Feast_in_Autumn_Glow.png",
+   "source": "The Rundown AI",
+   "category": "ia",
+   "lang": "en",
+   "type": "newsletter",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "How To Use New TikTok Comment Features To Speed Up Conversion",
+   "link": "https://www.socialmediaexaminer.com/how-to-use-new-tiktok-comment-features-to-speed-up-conversion/",
+   "date": "2026-11-26T11:00:00+00:00",
+   "summary": "Wondering how to turn TikTok comments into leads and sales when you can’t post links in comments or use a chatbot? Want to know how to use TikTok voice comments, comment polls, carousel comments, and Keyword Amplifier to move viewers closer to buying? ​In this article, you’ll…",
+   "image": "https://www.socialmediaexaminer.com/wp-content/uploads/2026/11/SMMP746_AI.jpg",
+   "source": "Social Media Examiner",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "Cupra donará parte de las recargas energéticas de sus coches a combatir la pobreza energética",
+   "link": "https://www.reasonwhy.es/actualidad/cupra-charge-for-good-donaciones-recargas-pobreza-energetica",
+   "date": "2026-11-26T10:59:00+00:00",
+   "summary": "Donará el equivalente a hasta el 5% de la energía recargada en sus coches Raval en forma de días de luz a familias vulnerables.",
+   "image": "https://www.reasonwhy.es/media/library/cupra-charge-for-good.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "topics": []
+  },
+  {
+   "title": "Érase una vez…un fenómeno llamado nostalgia: cómo el pasado volvió a funcionar para las marcas",
+   "link": "https://www.marketingdirecto.com/especiales/enamorando-al-consumidor/nostalgia-recuerdos-funcionar-marcas",
+   "date": "2026-11-26T10:58:19+00:00",
+   "summary": "Redegal, Juver, Orlando, Thermomix y Exclama analizan cómo conectar generaciones a través de la nostalgia sin perder la esencia de marca.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Enamorando-consumidor-nostalgia.jpg",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Así logró la tecnología de Philips Hue que los salones de casa se convirtieran en estadios durante el Mundial",
+   "link": "https://www.marketingdirecto.com/especiales/enamorando-al-consumidor/tecnologia-philips-hue-mundial",
+   "date": "2026-11-26T10:55:05+00:00",
+   "summary": "Leopoldo d’Empaire (Performics) e Irene Ruiz de Gauna (Signify) desvelaron en Enamorando al Consumidor cómo transformaron la iluminación inteligente de Philips Hue en el mejor compañero de emociones para vivir el Mundial desde el salón de casa.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/133151-1.jpg",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+   "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+   "date": "2026-11-26T10:51:27+00:00",
+   "summary": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+   "image": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/master/pass/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg",
+   "source": "Wired IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "topics": []
+  },
+  {
+   "title": "Advia amplía las capacidades de Vera para ayudar a las marcas a ganar presencia en la IA",
+   "link": "https://www.marketingdirecto.com/digital-general/digital/advia-amplia-capacidades-vera-ayudar-marcas-ganar-presencia-ia",
+   "date": "2026-11-26T10:48:32+00:00",
+   "summary": "Coincidiendo con su segundo aniversario, la startup tecnológica presenta su evolución hacia los entornos conversacionales, con nuevas soluciones de posicionamiento orgánico y publicidad en IA",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/5982a799-8e20-48b7-98b0-93c654e858a7.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo",
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Una Nintendo Switch por 216 euros y portátiles Apple por 636 euros: las mejores ofertas del outlet de MediaMarkt",
+   "link": "https://www.xataka.com/seleccion/nintendo-switch-216-euros-portatiles-apple-636-euros-mejores-ofertas-outlet-mediamarkt",
+   "date": "2026-11-26T10:46:19+00:00",
+   "summary": "Seguro que más de una vez te has preguntado dónde acaban los productos que ves expuestos en las tiendas y que no se venden. En el caso de MediaMarkt, la cadena de tiendas tiene un outlet en eBay en el que puedes conseguir electrodomésticos, móviles, consolas y más con muy buenos…",
+   "image": "https://i.blogs.es/faf4eb/outlet-de-mediamarkt-en-ebay/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Margaret Thatcher sobre la riqueza: “Nadie recordaría al buen samaritano si solo hubiera tenido buenas intenciones; también tenía dinero”",
+   "link": "https://www.merca20.com/margaret-thatcher-sobre-la-riqueza-nadie-recordaria-al-buen-samaritano-si-solo-hubiera-tenido-buenas-intenciones-tambien-tenia-dinero/?utm_source=rss&utm_medium=rss&utm_campaign=margaret-thatcher-sobre-la-riqueza-nadie-recordaria-al-buen-samaritano-si-solo-hubiera-tenido-buenas-intenciones-tambien-tenia-dinero",
+   "date": "2026-11-26T10:41:58+00:00",
+   "summary": "Margaret Thatcher fue una de las figuras políticas más influyentes del Reino Unido durante el siglo XX",
+   "image": "https://files.merca20.com/uploads/2026/11/FRASES-MARGARET-CHATGPT.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "topics": []
+  },
+  {
+   "title": "Gordon Murray, creador del McLaren F1: \"No me importa la aceleración, lo importante es el arte de la ingeniería ligera\"",
+   "link": "https://www.xataka.com/movilidad/gordon-murray-creador-mclaren-f1-no-me-importa-aceleracion-importante-arte-ingenieria-ligera",
+   "date": "2026-11-26T10:39:00+00:00",
+   "summary": "Cuando probamos el Mazda MX-5 decíamos de él que es incómodo, es pequeño, es ruidoso, es encantador, es único, es genial. El Miata que ahora mismo se vende apenas tiene 132 CV y aunque es un coche objetivamente lento para ser un deportivo, es uno de los coches con los que mejor…",
+   "image": "https://i.blogs.es/b0869d/mclaren-f1/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "topics": []
+  },
+  {
+   "title": "Robert De Niro sobre la educación y la escuela: “¿Tenías buenas calificaciones? Felicitaciones, pero en el mundo real no volverás a tener solo buenas calificaciones”",
+   "link": "https://www.merca20.com/robert-de-niro-sobre-la-educacion-y-la-escuela-tenias-buenas-calificaciones-felicitaciones-pero-en-el-mundo-real-no-volveras-a-tener-solo-buenas-calificaciones/?utm_source=rss&utm_medium=rss&utm_campaign=robert-de-niro-sobre-la-educacion-y-la-escuela-tenias-buenas-calificaciones-felicitaciones-pero-en-el-mundo-real-no-volveras-a-tener-solo-buenas-calificaciones",
+   "date": "2026-11-26T10:31:52+00:00",
+   "summary": "Robert De Niro habló sobre las dificultades profesionales, el rechazo y los desafíos que enfrentan los estudiantes después de concluir su formación universitaria",
+   "image": "https://files.merca20.com/uploads/2026/11/ROBERT-DE-NIRO-CORTESIA-NETFLIX-MEDIA-CENTER.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "topics": []
+  },
+  {
+   "title": "Empieza a montar en moto a los 81 años y regresa desde África hasta Francia a los mandos de una 125",
+   "link": "https://www.xataka.com/magnet/a-81-anos-mujer-pregunto-como-se-cambiaba-marcha-moto-siete-meses-despues-regreso-africa-francia-a-mandos-125",
+   "date": "2026-11-26T10:30:00+00:00",
+   "summary": "Hay personas que pasan toda una vida esperando el momento adecuado para emprender una gran aventura. Otras, en cambio, parecen empeñadas en desafiar al calendario. La historia de la francesa Doris Lacombe pertenece a esa segunda categoría, aunque su último desafío comenzó de la…",
+   "image": "https://i.blogs.es/4e675a/morocco-africa-desert-nature-landscapes-3b7f2d-1024/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "topics": []
+  },
+  {
+   "title": "Fixing AI Output, Centralized AI Workspaces, and Industry News",
+   "link": "https://www.socialmediaexaminer.com/fixing-ai-output-centralized-ai-workspaces-and-industry-news/",
+   "date": "2026-11-26T10:30:00+00:00",
+   "summary": "Friday is almost here! Before you unplug, here’s one last round of insights and updates. Whether you read them now or save them for later, you won’t want to miss these. In today’s edition: Quick fix for generic AI output The AI office workspace that manages your work 🗞️ Industry…",
+   "image": "",
+   "source": "Social Media Examiner",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "og_tried": true,
+   "topics": [
+    "redes"
+   ]
+  },
   {
    "title": "Un barco cargado de combustible y materiales químicos se acaba de hundir frente a Ibiza",
    "link": "https://www.xataka.com/ecologia-y-naturaleza/barco-cargado-combustible-materiales-quimicos-se-acaba-hundir-frente-a-ibiza",
@@ -137,6 +407,36 @@
    "topics": []
   },
   {
+   "title": "Globant anuncia Converge 2026, una edición enfocada en la reinvención en la era AI-native",
+   "link": "https://www.marketingdirecto.com/digital-general/digital/globant-anuncia-converge-2026-edicion-enfocada-reinvencion-era-ai-native",
+   "date": "2026-11-26T10:10:12+00:00",
+   "summary": "El evento insignia de Globant, que se llevará a cabo el 10 de diciembre de manera virtual, mostrará cómo líderes de FIFA, Anthropic, PlayStation o LALIGA ya están construyendo la era AI-native.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/globant-converge.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "«Feliz Navidad (de verdad)»: EROSKI reivindica una Navidad sin filtros en su nueva campaña",
+   "link": "https://www.marketingdirecto.com/creacion/feliz-navidad-verdad-eroski-reivindica-navidad-sin-filtros-nueva-campana",
+   "date": "2026-11-26T10:07:11+00:00",
+   "summary": "La campaña, creada junto a Sra. Rushmore, se aleja de la Navidad idealizada para poner el foco, con humor, en las situaciones cotidianas e imperfectas de estas fechas",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/RU1-T5439_EROSKI_NAVIDAD_EMPRESA_20s_16X9_TURRONES_CAST-0-00-13-19.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
    "title": "How to turn your selfie into GTA 6-inspired cover art with ChatGPT, The prompt to preserve your facial features",
    "link": "https://www.merca20.com/how-to-turn-your-selfie-into-gta-6-inspired-cover-art-with-chatgpt-the-prompt-to-preserve-your-facial-features/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-turn-your-selfie-into-gta-6-inspired-cover-art-with-chatgpt-the-prompt-to-preserve-your-facial-features",
    "date": "2026-11-26T10:05:35+00:00",
@@ -150,9 +450,25 @@
    "topics": []
   },
   {
-   "title": "1Password confirma el robo de datos de clientes tras el hackeo de una cuenta de GitHub de un empleado",
+   "title": "«A la IA no se la enamora, se la convence»: la receta de Cosmo5 para mantener la relevancia",
+   "link": "https://www.marketingdirecto.com/especiales/enamorando-al-consumidor/cosmo5-nueva-mejor-amiga-del-consumidor",
+   "date": "2026-11-26T10:05:04+00:00",
+   "summary": "Lucía González, CBO de Cosmo5 Iberia, desveló en Enamorando al Consumidor cómo convencer a los asistentes de inteligencia artificial mediante estrategias de GEO y ChatGPT Ads para evitar que tu marca quede fuera de sus recomendaciones de compra.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/133071.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Por qué el ataque a 1Password importa aunque las bóvedas no se hayan visto afectadas",
    "link": "https://www.xataka.com/seguridad/1password-confirma-robo-datos-clientes-hackeo-cuenta-github-empleado",
-   "date": "2026-11-26T10:03:25+00:00",
+   "date": "2026-11-26T10:03:00+00:00",
    "summary": "1Password ha ofrecido más detalles sobre su reciente brecha de datos y la información que se extrajo de ella. Y es que tras irrumpir en la cuenta corporativa de GitHub de un empleado, hubo acceso a registros de cuenta de un subconjunto de clientes, a código fuente interno y a…",
    "image": "https://i.blogs.es/30b278/1password/1024_2000.jpeg",
    "source": "Xataka",
@@ -178,7 +494,7 @@
   {
    "title": "¡Últimas horas para participar en el sorteo de una impresora 3D Elegoo Centauri Carbon 2 Combo! Solo para miembros de Xataka Xtra",
    "link": "https://www.xataka.com/xataka-xtra/ultimas-horas-para-participar-sorteo-impresora-3d-elegoo-centauri-carbon-2-combo-solo-para-miembros-xataka-xtra",
-   "date": "2026-11-26T10:00:31+00:00",
+   "date": "2026-11-26T10:00:00+00:00",
    "summary": "Última llamada, xatakeros. Mañana se termina el plazo para llevarte una Elegoo Centauri Carbon 2 Combo, una impresora 3D cerrada de alta velocidad preparada para la impresión multicolor, valorada en 439 euros y reservada, como es habitual, a los miembros de Xataka Xtra. Si…",
    "image": "https://i.blogs.es/e583ef/sorteo-elegoo-centauri-carbon-2-combo-1-/1024_2000.jpeg",
    "source": "Xataka",
@@ -245,6 +561,23 @@
    "topics": []
   },
   {
+   "title": "LIT se presenta a las elecciones con promesas que sí puede cumplir",
+   "link": "https://www.marketingdirecto.com/creacion/lit-presenta-elecciones-promesas-si-puede-cumplir",
+   "date": "2026-11-26T09:44:39+00:00",
+   "summary": "La marca madrileña de electrolitos aprovecha la coincidencia de las elecciones generales del 29N y el Black Friday para lanzar «No hacemos falsas promesas», una campaña que se apropia de los códigos de la comunicación política",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/18_11-Carrusel-04.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
    "title": "Ya van 1.400 choques en un año: los jabalíes ya representan la tercera causa de retrasos de los trenes en Francia",
    "link": "https://www.xataka.com/ecologia-y-naturaleza/van-1-400-choques-ano-jabalies-representan-tercera-causa-retrasos-trenes-francia",
    "date": "2026-11-26T09:40:16+00:00",
@@ -256,6 +589,22 @@
    "type": "article",
    "first_seen": "2026-11-26T10:31:02.716325+00:00",
    "topics": []
+  },
+  {
+   "title": "La IA se afianza en la agenda de los CMO, que ponen simultáneamente ojitos al «brand building»",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/ia-afianza-agenda-cmo-ponen-simultaneamente-ojitos-brand-building",
+   "date": "2026-11-26T09:38:16+00:00",
+   "summary": "El 66% de los CMO contempla la IA como el tema más importante con la vista puesta en el futuro en el seno del departamento de marketing.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/cmo-ia-brand-building.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
   },
   {
    "title": "La Guardia Civil encuentra bajo un parque infantil de Granada un búnker de 180 metros con más de 2.000 plantas de marihuana",
@@ -298,6 +647,22 @@
    "type": "article",
    "first_seen": "2026-11-26T10:31:02.716325+00:00",
    "topics": []
+  },
+  {
+   "title": "La FEDE y CEOE reivindican el papel de la publicidad como motor de crecimiento",
+   "link": "https://www.marketingdirecto.com/marketing-general/eventos-y-formacion/fede-ceoe-reivindican-papel-publicidad-motor-crecimiento",
+   "date": "2026-11-26T09:06:10+00:00",
+   "summary": "El V Foro de la Publicidad reúne a representantes del sector para debatir sobre innovación, IA, talento y creatividad.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Alex-Pallete-Picnic-Fran-Ares-Globally-Mikel-Lekaroz-Programmatic-Spain-Yolanda-Dominguez-Univ.-Pontificia-Comillas-Alberto-Martinez-DarwinVerne-y-Juan-Antonio-Munoz-Gallego-Skiller.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T11:55:52.948231+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
   },
   {
    "title": "Diseñar el móvil alrededor de la cámara y no al revés: el secreto del Vivo X300 Ultra para ser el móvil fotográfico del año",
@@ -4378,7 +4743,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
+   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -4477,10 +4842,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the UK",
+   "title": "Meta expands Muse to the U.K.",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
