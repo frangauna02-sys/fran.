@@ -1,24 +1,29 @@
 {
- "updated": "2026-11-26T18:16:50.581733+00:00",
+ "updated": "2026-11-26T19:35:02.975189+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
- "count": 877,
+ "count": 889,
  "trends": [
   {
    "term": "black friday",
-   "count": 54,
-   "growth": 29.6
+   "count": 55,
+   "growth": 30.2
   },
   {
    "term": "jensen huang",
    "count": 25,
-   "growth": 4.5
+   "growth": 4.9
   },
   {
    "term": "google",
-   "count": 32,
-   "growth": 4.2
+   "count": 30,
+   "growth": 3.6
+  },
+  {
+   "term": "navidad",
+   "count": 24,
+   "growth": 5.6
   },
   {
    "term": "nvidia",
@@ -26,19 +31,14 @@
    "growth": 3.9
   },
   {
-   "term": "navidad",
-   "count": 21,
-   "growth": 5.0
+   "term": "amazon",
+   "count": 22,
+   "growth": 8.5
   },
   {
    "term": "méxico",
-   "count": 19,
-   "growth": 20.0
-  },
-  {
-   "term": "amazon",
-   "count": 19,
-   "growth": 7.4
+   "count": 20,
+   "growth": 21.0
   },
   {
    "term": "meta",
@@ -51,6 +51,11 @@
    "growth": 18.0
   },
   {
+   "term": "precio",
+   "count": 16,
+   "growth": 17.0
+  },
+  {
    "term": "euros",
    "count": 16,
    "growth": 11.9
@@ -61,9 +66,9 @@
    "growth": 6.6
   },
   {
-   "term": "precio",
+   "term": "thanksgiving",
    "count": 13,
-   "growth": 14.0
+   "growth": 9.8
   },
   {
    "term": "media",
@@ -74,11 +79,6 @@
    "term": "gta",
    "count": 13,
    "growth": 14.0
-  },
-  {
-   "term": "thanksgiving",
-   "count": 12,
-   "growth": 9.1
   },
   {
    "term": "ofertas",
@@ -98,6 +98,162 @@
  ],
  "items": [
   {
+   "title": "¿Una lavadora para llenarla de palomitas? Así aprovecharon tres mujeres la promoción “Trae tu canasta” de Cinépolis",
+   "link": "https://www.merca20.com/una-lavadora-para-llenarla-de-palomitas-asi-aprovecharon-tres-mujeres-la-promocion-trae-tu-canasta-de-cinepolis/?utm_source=rss&utm_medium=rss&utm_campaign=una-lavadora-para-llenarla-de-palomitas-asi-aprovecharon-tres-mujeres-la-promocion-trae-tu-canasta-de-cinepolis",
+   "date": "2026-11-26T19:28:30+00:00",
+   "summary": "Lo que comenzó como una promoción para comprar palomitas a precio especial terminó convirtiéndose en una oportunidad para que los consumidores pusieran a prueba su ingenio y generaran contenido para redes sociales.",
+   "image": "https://files.merca20.com/uploads/2026/11/Palomitas-en-el-Cine-Foto-de-bigstock-110305922.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T19:35:02.975189+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "Regalo de Navidad: Amazon remata a precio mínimo histórico el rotomartillo inalámbrico Bosch; incluye dos baterías, maletín y taladro percutor",
+   "link": "https://www.merca20.com/regalo-de-navidad-amazon-remata-a-precio-minimo-historico-el-rotomartillo-inalambrico-bosch-incluye-dos-baterias-maletin-y-taladro-percutor/?utm_source=rss&utm_medium=rss&utm_campaign=regalo-de-navidad-amazon-remata-a-precio-minimo-historico-el-rotomartillo-inalambrico-bosch-incluye-dos-baterias-maletin-y-taladro-percutor",
+   "date": "2026-11-26T19:24:22+00:00",
+   "summary": "Uno de los artículos que se encuentran con descuento antes del Black Friday 2026 y con un precio mínimo histórico en Amazon es el rotomartillo inalámbrico de la marca Bosch",
+   "image": "https://files.merca20.com/uploads/2026/11/rotomartillo-bosch-foto-amazon-chatgpt.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T19:35:02.975189+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Ask Jeeves At Macy's Thanksgiving Day Parade (Old Photos)",
+   "link": "https://www.seroundtable.com/ask-jeeves-macys-thanksgiving-day-parade-42628.html",
+   "date": "2026-11-26T19:10:00+00:00",
+   "summary": "On Thanksgiving day we normally have the Macy's Thanksgiving Day Parade in New York City but today, for the first time, it was postponed due to weather. And Danny Sullivan reminded me that Ask Jeeves, which was an early search engine and lasted nearly 30 years, that Ask Jeeves…",
+   "image": "https://images.seroundtable.com/jeeves-float-XjK3ADa8.webp",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-26T19:35:02.975189+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo"
+   ]
+  },
+  {
+   "title": "Monte Xanic cumple 40 años y fortalece el valor del vino mexicano desde Baja California",
+   "link": "https://www.merca20.com/monte-xanic-cumple-40-anos-y-fortalece-el-valor-del-vino-mexicano-desde-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=monte-xanic-cumple-40-anos-y-fortalece-el-valor-del-vino-mexicano-desde-baja-california",
+   "date": "2026-11-26T19:01:16+00:00",
+   "summary": "Monte Xanic nació en el Valle de Guadalupe cuando el vino mexicano todavía buscaba construir una industria propia",
+   "image": "https://files.merca20.com/uploads/2026/11/aniversario-monte-xanic.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T19:35:02.975189+00:00",
+   "topics": []
+  },
+  {
+   "title": "Podíais elegir cualquier producto para el premio de la comunidad. El ganador ha sido el Xiaomi 17 Ultra",
+   "link": "https://www.xataka.com/telefono-movil/podiais-elegir-cualquier-producto-para-premio-comunidad-ganador-ha-sido-xiaomi-17-ultra",
+   "date": "2026-11-26T19:00:17+00:00",
+   "summary": "Con la resaca de la gala de los Premios Xataka Verisure 2026 todavía reciente, toca mirar los resultados con calma. Y hay uno que merece una explicación aparte: el Premio de la Comunidad, que ha ido a parar a un móvil que no quedó el primero en su categoría: Xiaomi 17 Ultra.…",
+   "image": "https://i.blogs.es/c06ece/premio-de-la-comunidad-xataka/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T19:35:02.975189+00:00",
+   "topics": []
+  },
+  {
+   "title": "Volkswagen Lamando 2027: Precio en México y versiones disponibles",
+   "link": "https://www.merca20.com/volkswagen-lamando-2027-precio-en-mexico-y-versiones-disponibles/?utm_source=rss&utm_medium=rss&utm_campaign=volkswagen-lamando-2027-precio-en-mexico-y-versiones-disponibles",
+   "date": "2026-11-26T18:47:56+00:00",
+   "summary": "El catálogo de Volkswagen en México suma una nueva alternativa para quienes buscan un automóvil con apariencia deportiva, tecnología y características de un segmento superior. Se trata del Lamando GTS 2027, un modelo que apuesta por una carrocería de estilo coupé, equipamiento…",
+   "image": "https://files.merca20.com/uploads/2026/11/volkswagen-Lamando-2027-cortesia-Volkswagen.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T19:35:02.975189+00:00",
+   "topics": []
+  },
+  {
+   "title": "RetroMarketing: It Looks Like a Horror Movie, But It’s a 2000 Commercial Starring a Ballet Dancer Over 6’3″ Tall",
+   "link": "https://www.merca20.com/retromarketing-it-looks-like-a-horror-movie-but-its-a-2000-commercial-starring-a-ballet-dancer-over-63-tall/?utm_source=rss&utm_medium=rss&utm_campaign=retromarketing-it-looks-like-a-horror-movie-but-its-a-2000-commercial-starring-a-ballet-dancer-over-63-tall",
+   "date": "2026-11-26T18:36:40+00:00",
+   "summary": "In 2000, Metz created the Judderman, a monster played by a ballet dancer who starred in an award-winning British horror commercial.",
+   "image": "https://files.merca20.com/uploads/2026/11/This-article-is-part-of-RetroMarketing-a-section-that-revisits-landmark-advertising-campaigns-to-understand-why-they-worked.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T19:35:02.975189+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Mientras los mexicanos esperan las posadas y la Navidad, el gobierno revela qué pasará con la TENENCIA vehicular en 2027",
+   "link": "https://www.merca20.com/mientras-los-mexicanos-esperan-las-posadas-y-la-navidad-el-gobierno-revela-que-pasara-con-la-tenencia-vehicular-en-2027/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-los-mexicanos-esperan-las-posadas-y-la-navidad-el-gobierno-revela-que-pasara-con-la-tenencia-vehicular-en-2027",
+   "date": "2026-11-26T18:25:44+00:00",
+   "summary": "El congreso deberá revisar la propuesta y definir si el subsidio a la tenencia queda aprobado bajo los términos planteados por el gobierno",
+   "image": "https://files.merca20.com/uploads/2026/11/TENENCIA-GOBIERNO-FOTO-ANTONIO-MIRANDA.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T19:35:02.975189+00:00",
+   "topics": []
+  },
+  {
+   "title": "As Barbie loses sales, Netflix’s K-Pop Demon Hunters boosts Mattel’s doll business in 2026",
+   "link": "https://www.merca20.com/as-barbie-loses-sales-netflixs-k-pop-demon-hunters-boosts-mattels-doll-business-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=as-barbie-loses-sales-netflixs-k-pop-demon-hunters-boosts-mattels-doll-business-in-2026",
+   "date": "2026-11-26T18:25:33+00:00",
+   "summary": "For Mattel, the growth of KPop Demon Hunters represents an opportunity to diversify its doll business and reduce its reliance on Barbie",
+   "image": "https://files.merca20.com/uploads/2026/09/mattel-netflix-cortesia-4.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T19:35:02.975189+00:00",
+   "topics": []
+  },
+  {
+   "title": "Así Lenovo convierte lo cotidiano en música con una miniserie creada junto a artistas de IA",
+   "link": "https://www.merca20.com/asi-lenovo-convierte-lo-cotidiano-en-musica-con-una-miniserie-creada-junto-a-artistas-de-ia/?utm_source=rss&utm_medium=rss&utm_campaign=asi-lenovo-convierte-lo-cotidiano-en-musica-con-una-miniserie-creada-junto-a-artistas-de-ia",
+   "date": "2026-11-26T18:23:33+00:00",
+   "summary": "Con una campaña desarrollada junto a artistas digitales, la marca tecnologica explora el potencial de la inteligencia artificial para transformar objetos comunes en historias extraordinarias y acercar la creatividad tecnológica a nuevas audiencias.",
+   "image": "https://files.merca20.com/uploads/2026/11/Campana-de-Lenovo-foto-de-bigstock-240577993.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T19:35:02.975189+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "El Black Friday de FRITZ! es la oportunidad perfecta para comprar un router o un sistema mesh de calidad al mejor precio",
+   "link": "https://www.xataka.com/seleccion/black-friday-fritz-oportunidad-perfecta-para-comprar-router-sistema-mesh-calidad-al-mejor-precio",
+   "date": "2026-11-26T18:18:20+00:00",
+   "summary": "El esperadísimo día está a punto de llegar. Mañana mismo será el Black Friday, el día más importante del año para hacer cualquier tipo de compra. Aunque lo más popular durante estas fechas suelen ser móviles, televisores, electrodomésticos y similares, lo cierto es que hay otro…",
+   "image": "https://i.blogs.es/759376/article_cover-image_1350x900px_blackweek-txt/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T19:35:02.975189+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
    "title": "Licencia permanente digital CDMX 2026, los 7 pasos para tramitarla sin cita y desde tu celular por 1,500 pesos, antes del 31 de diciembre",
    "link": "https://www.merca20.com/licencia-permanente-digital-cdmx-2026-los-7-pasos-para-tramitarla-sin-cita-y-desde-tu-celular-por-1500-pesos-antes-del-31-de-diciembre/?utm_source=rss&utm_medium=rss&utm_campaign=licencia-permanente-digital-cdmx-2026-los-7-pasos-para-tramitarla-sin-cita-y-desde-tu-celular-por-1500-pesos-antes-del-31-de-diciembre",
    "date": "2026-11-26T18:09:39+00:00",
@@ -109,6 +265,21 @@
    "type": "article",
    "first_seen": "2026-11-26T18:16:50.581733+00:00",
    "topics": []
+  },
+  {
+   "title": "¡Feliz Navidad! Amazon remata las cremas Eucerin, Cetaphil y CeraVe con más de 50% de descuento: bloqueador solar, hidratante, sérum y antiarrugas",
+   "link": "https://www.merca20.com/feliz-navidad-amazon-remata-las-cremas-eucerin-cetaphil-y-cerave-con-mas-de-50-de-descuento-bloqueador-solar-hidratante-serum-y-antiarrugas/?utm_source=rss&utm_medium=rss&utm_campaign=feliz-navidad-amazon-remata-las-cremas-eucerin-cetaphil-y-cerave-con-mas-de-50-de-descuento-bloqueador-solar-hidratante-serum-y-antiarrugas",
+   "date": "2026-11-26T17:47:10+00:00",
+   "summary": "Amazon remata cremas Eucerin, Cetaphil y CeraVe por Black Friday 2026, con descuentos de hasta 71% en bloqueadores solares, sérums e hidratantes",
+   "image": "https://files.merca20.com/uploads/2026/11/OFERTAS-BLACK-FRDAY-AMAZON-GEMINI-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T19:35:02.975189+00:00",
+   "topics": [
+    "ecommerce"
+   ]
   },
   {
    "title": "Gobierno y OXXO firman un acuerdo y ahora sus tiendas funcionan como refugios para mujeres en riesgo en CDMX, Sonora, Colima y Edomex",
@@ -206,6 +377,21 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-26T17:07:23.121252+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Amazon remata papel higiénico Kleenex Cottonelle Elegance; Regio Just 1, Luxury Almond y Suspiros de Lavanda; Pétalo Maxi Resist y Elite Cuidado Clásico de 12, 18 y 32 rollos",
+   "link": "https://www.merca20.com/amazon-remata-papel-higienico-kleenex-cottonelle-elegance-regio-just-1-luxury-almond-y-suspiros-de-lavanda-petalo-maxi-resist-y-elite-cuidado-clasico-de-12-18-y-32-rollos/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-remata-papel-higienico-kleenex-cottonelle-elegance-regio-just-1-luxury-almond-y-suspiros-de-lavanda-petalo-maxi-resist-y-elite-cuidado-clasico-de-12-18-y-32-rollos",
+   "date": "2026-11-26T17:00:06+00:00",
+   "summary": "Antes del inicio del Black Friday 2026, Amazon pone descuentos en el papel higiénico de marcas como Kleenex Cottonelle, Regio, Pétalo y Elite",
+   "image": "https://files.merca20.com/uploads/2026/10/papel-higienico-gemini-ai.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-26T19:35:02.975189+00:00",
    "topics": [
     "ecommerce"
    ]
@@ -395,7 +581,7 @@
    "topics": []
   },
   {
-   "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
    "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
    "date": "2026-11-26T16:00:00+00:00",
    "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
@@ -12657,22 +12843,6 @@
    "category": "ia",
    "lang": "en",
    "type": "video",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "The open-source movement wants Jensen Huang back",
-   "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-   "date": "2026-11-16T18:38:47+00:00",
-   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable…",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26289708196110.jpg?resize=1200,600",
-   "source": "MIT Technology Review",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "redes"
