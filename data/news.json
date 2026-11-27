@@ -1,8 +1,10 @@
 {
- "updated": "2026-11-27T05:03:50.035180+00:00",
- "sources_ok": 32,
+ "updated": "2026-11-27T06:28:52.494275+00:00",
+ "sources_ok": 31,
  "sources_total": 32,
- "sources_failed": [],
+ "sources_failed": [
+  "Dot CSV (YouTube)"
+ ],
  "count": 900,
  "trends": [
   {
@@ -56,6 +58,11 @@
    "growth": 11.2
   },
   {
+   "term": "nvidia",
+   "count": 21,
+   "growth": 2.8
+  },
+  {
    "term": "gta",
    "count": 14,
    "growth": 15.0
@@ -64,11 +71,6 @@
    "term": "jensen huang",
    "count": 18,
    "growth": 2.3
-  },
-  {
-   "term": "nvidia",
-   "count": 20,
-   "growth": 2.7
   },
   {
    "term": "ofertas",
@@ -82,21 +84,62 @@
   },
   {
    "term": "descuento",
-   "count": 11,
-   "growth": 12.0
-  },
-  {
-   "term": "muse",
-   "count": 11,
-   "growth": 3.8
+   "count": 12,
+   "growth": 13.0
   },
   {
    "term": "meta",
    "count": 15,
    "growth": 2.8
+  },
+  {
+   "term": "móvil",
+   "count": 10,
+   "growth": 7.7
   }
  ],
  "items": [
+  {
+   "title": "Nvidia y el regreso con gloria",
+   "link": "https://www.merca20.com/nvidia-y-el-regreso-con-gloria/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-y-el-regreso-con-gloria",
+   "date": "2026-11-27T06:15:41+00:00",
+   "summary": "Hay regresos que se negocian en un consejo de administración y regresos que se resuelven en el terreno político.",
+   "image": "https://files.merca20.com/uploads/2024/04/Federico.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T06:28:52.494275+00:00",
+   "topics": []
+  },
+  {
+   "title": "La carrera por la inteligencia artificial ya no se libra solo en la Tierra: China acaba de dar otro paso desde el espacio",
+   "link": "https://www.xataka.com/espacio/carrera-inteligencia-artificial-no-se-libra-solo-tierra-china-acaba-dar-otro-paso-espacio",
+   "date": "2026-11-27T06:02:16+00:00",
+   "summary": "Cuando hablamos del espacio, estamos acostumbrados a pensar en satélites que nos permiten anticipar el tiempo que hará mañana, comunicarnos con lugares remotos o estudiar la superficie de nuestro planeta. También en telescopios como el Hubble, que llevan décadas ayudándonos a…",
+   "image": "https://i.blogs.es/5b79dc/adaspace/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T06:28:52.494275+00:00",
+   "topics": []
+  },
+  {
+   "title": "La dictadura del descuento",
+   "link": "https://www.merca20.com/la-dictadura-del-descuento/?utm_source=rss&utm_medium=rss&utm_campaign=la-dictadura-del-descuento",
+   "date": "2026-11-27T06:00:11+00:00",
+   "summary": "Black Friday, Cyber Monday, El Buen Fin y las ventas especiales siguen moviendo millones, pero hay algo que las marcas quizá no han calculado: nos han acostumbrado tanto a los descuentos que ahora muchos preferimos esperar antes que comprar.",
+   "image": "https://files.merca20.com/uploads/2023/06/Arturo-Mora-Columnista.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T06:28:52.494275+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
   {
    "title": "The gaming creator with more than 26 million followers just launched his own holding company",
    "link": "https://digiday.com/media/the-gaming-creator-with-more-than-26-million-followers-just-launched-his-own-holding-company/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -107,8 +150,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-27T05:03:50.035180+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T05:03:50.035180+00:00",
    "topics": [
     "redes",
     "publicidad"
@@ -6395,7 +6438,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
+   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -6494,10 +6537,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the UK",
+   "title": "Meta expands Muse to the U.K.",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -12950,49 +12993,6 @@
    "type": "article",
    "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": []
-  },
-  {
-   "title": "35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
-   "link": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
-   "date": "2026-11-17T18:02:02+00:00",
-   "summary": "Over $40,000 in value, exclusively for Lenny’s Newsletter subscribers",
-   "image": "https://substackcdn.com/image/fetch/$s_!_4Bo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e03312c-6e52-4564-9749-ae529a239aff_1456x970.png",
-   "source": "Lenny's Newsletter",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
-   "link": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
-   "date": "2026-11-17T18:00:31+00:00",
-   "summary": "Muse is available in Australia from today, with local connector experiences across creativity, shopping, property, fitness and entertainment rolling out progressively.",
-   "image": "https://about.fb.com/wp-content/uploads/2026/11/AU_Jolly_Surfer_Horizontal.png?fit=3840%2C2160",
-   "source": "Meta Newsroom",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes",
-    "ecommerce"
-   ]
-  },
-  {
-   "title": "Introducing GPT-6.2 Astra and Sol",
-   "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-   "date": "2026-11-17T17:45:00+00:00",
-   "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-   "image": "https://cdn.openai.com/mdx-assets/e193aefe-5e58-431c-8cd2-adadac0c1496/44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
   }
  ]
 }
