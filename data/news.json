@@ -1,8 +1,9 @@
 {
- "updated": "2026-11-27T06:28:52.494275+00:00",
- "sources_ok": 31,
+ "updated": "2026-11-27T07:57:23.090952+00:00",
+ "sources_ok": 30,
  "sources_total": 32,
  "sources_failed": [
+  "Matt Wolfe (YouTube)",
   "Dot CSV (YouTube)"
  ],
  "count": 900,
@@ -19,18 +20,23 @@
   },
   {
    "term": "navidad",
-   "count": 25,
-   "growth": 5.9
+   "count": 24,
+   "growth": 5.1
   },
   {
    "term": "méxico",
-   "count": 22,
-   "growth": 23.0
+   "count": 24,
+   "growth": 25.0
   },
   {
    "term": "amazon",
    "count": 21,
    "growth": 7.0
+  },
+  {
+   "term": "euros",
+   "count": 17,
+   "growth": 12.6
   },
   {
    "term": "está",
@@ -45,22 +51,17 @@
   {
    "term": "marcas",
    "count": 16,
-   "growth": 7.4
+   "growth": 6.3
   },
   {
-   "term": "euros",
-   "count": 16,
-   "growth": 11.9
+   "term": "nvidia",
+   "count": 21,
+   "growth": 3.0
   },
   {
    "term": "thanksgiving",
    "count": 15,
    "growth": 11.2
-  },
-  {
-   "term": "nvidia",
-   "count": 21,
-   "growth": 2.8
   },
   {
    "term": "gta",
@@ -99,6 +100,97 @@
   }
  ],
  "items": [
+  {
+   "title": "Dove destaca la eficacia de sus productos reparando la reconocible melena de Santa Claus",
+   "link": "https://www.reasonwhy.es/actualidad/dove-canada-melena-santa-claus-productos-reparacion",
+   "date": "2026-11-27T07:51:00+00:00",
+   "summary": "Destaca la eficacia de los productos de cuidado capilar ante los daños que puede causar la temporada invernal.",
+   "image": "https://www.reasonwhy.es/media/library/dove-canada-reparacion-santa-claus.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T07:57:23.090952+00:00",
+   "topics": []
+  },
+  {
+   "title": "Gráfica del día: ¿Qué ropa usar para una entrevista de trabajo?",
+   "link": "https://www.merca20.com/grafica-del-dia-que-ropa-usar-para-una-entrevista-de-trabajo/?utm_source=rss&utm_medium=rss&utm_campaign=grafica-del-dia-que-ropa-usar-para-una-entrevista-de-trabajo",
+   "date": "2026-11-27T07:50:29+00:00",
+   "summary": "El atuendo puede ser un factor determinante para conseguir la vacante deseada",
+   "image": "https://files.merca20.com/uploads/2026/11/Grafica-del-dia-¿Que-ropa-usar-para-una-entrevista-de-trabajo.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T07:57:23.090952+00:00",
+   "topics": []
+  },
+  {
+   "title": "Pedro Sánchez llama “Wanda” al Metropolitano poniendo en evidencia los retos del naming right",
+   "link": "https://www.reasonwhy.es/actualidad//actualidad/pedro-sanchez-wanda-metropolitano-riyadh-air-naming-rights",
+   "date": "2026-11-27T07:50:00+00:00",
+   "summary": "Durante el debate electoral se refirió así al estadio que lleva el nombre de la aerolínea Riyadh Air desde hace dos años.",
+   "image": "https://www.reasonwhy.es/media/library/pedro-sanchez-wanda-metropolitano.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T07:57:23.090952+00:00",
+   "topics": []
+  },
+  {
+   "title": "Autos nuevos ganan terreno en México y Nissan, Toyota, Kia y Volkswagen pelean por el consumidor",
+   "link": "https://www.merca20.com/autos-nuevos-ganan-terreno-en-mexico-y-nissan-toyota-kia-y-volkswagen-pelean-por-el-consumidor/?utm_source=rss&utm_medium=rss&utm_campaign=autos-nuevos-ganan-terreno-en-mexico-y-nissan-toyota-kia-y-volkswagen-pelean-por-el-consumidor",
+   "date": "2026-11-27T07:40:14+00:00",
+   "summary": "El consumidor mexicano mantiene el interés por cambiar de vehículo y el auto nuevo concentra la mayor intención de compra",
+   "image": "https://files.merca20.com/uploads/2026/11/autos-nuevos-chatgpt.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T07:57:23.090952+00:00",
+   "topics": []
+  },
+  {
+   "title": "Marcas digitales 2026, Enrique K. Cornish Stanton de BBVA México explica por qué la confianza es clave",
+   "link": "https://www.merca20.com/marcas-digitales-2026-enrique-k-cornish-stanton-de-bbva-mexico-explica-por-que-la-confianza-es-clave/?utm_source=rss&utm_medium=rss&utm_campaign=marcas-digitales-2026-enrique-k-cornish-stanton-de-bbva-mexico-explica-por-que-la-confianza-es-clave",
+   "date": "2026-11-27T07:00:30+00:00",
+   "summary": "El avance confirma que los canales digitales forman parte de la operación financiera cotidiana, pero también eleva las expectativas sobre lo que una marca debe ofrecer.",
+   "image": "https://files.merca20.com/uploads/2026/11/Marcas-digitales-foto-de-bigstock-49710851.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T07:57:23.090952+00:00",
+   "topics": []
+  },
+  {
+   "title": "Un pueblo de Castellón regala hasta 900 euros la decoración navideña de sus calles y balcones. Es el modelo contrario a Vigo",
+   "link": "https://www.xataka.com/magnet/pueblo-castellon-regala-900-euros-decoracion-navidena-sus-calles-balcones-modelo-contrario-a-vigo",
+   "date": "2026-11-27T07:00:25+00:00",
+   "summary": "Que la Navidad empieza cada año un poco antes lo saben hasta los supermercados. Y que las ciudades la convirtieron en negocio, también: Madrid enciende más de 14 millones de bombillas en poco más de 250 emplazamientos. Luego están las de Vigo (aunque en realidad la mayor parte…",
+   "image": "https://i.blogs.es/e8a83b/lucces/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T07:57:23.090952+00:00",
+   "topics": []
+  },
+  {
+   "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+   "link": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+   "date": "2026-11-27T07:00:00+00:00",
+   "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+   "image": "https://media.wired.com/photos/6b073e1d34813a006d725bef/master/pass/QANT-CEO-QandA-Business.jpg",
+   "source": "Wired IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T07:57:23.090952+00:00",
+   "topics": []
+  },
   {
    "title": "Nvidia y el regreso con gloria",
    "link": "https://www.merca20.com/nvidia-y-el-regreso-con-gloria/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-y-el-regreso-con-gloria",
@@ -12898,101 +12990,6 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [],
    "og_tried": true
-  },
-  {
-   "title": "Advancing chip design with OpenAI models",
-   "link": "https://openai.com/index/advancing-chip-design-with-our-models",
-   "date": "2026-11-18T00:00:00+00:00",
-   "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/658zg0FHAg7zuL73DTFCfC/fff21fd18c260ce64a10a14ee8d4e851/advancing-chip-design-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "Anthropic prices initial public offering",
-   "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-   "date": "2026-11-18T00:00:00+00:00",
-   "summary": "Anthropic prices initial public offering",
-   "image": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
-   "source": "Anthropic",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": []
-  },
-  {
-   "title": "ChatGPT 6.2 Astra is \"A Mess\"",
-   "link": "https://www.youtube.com/shorts/LxKNPrXBuyU",
-   "date": "2026-11-17T23:38:50+00:00",
-   "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads:…",
-   "image": "https://www.youtube.com/v/LxKNPrXBuyU?version=3",
-   "source": "Matt Wolfe (YouTube)",
-   "category": "ia",
-   "lang": "en",
-   "type": "video",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "External sandboxes for coding agents",
-   "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
-   "date": "2026-11-17T22:52:29+00:00",
-   "summary": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a…",
-   "image": "https://static.simonwillison.net/static/2026/sandbox-proxy.png",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
-   "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-   "date": "2026-11-17T22:38:52+00:00",
-   "summary": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol. I shipped LLM 0.38 with…",
-   "image": "https://static.simonwillison.net/static/2026/astra-6-2-max.webp",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "How genome mapping can help researchers better understand disease",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/",
-   "date": "2026-11-17T22:00:00+00:00",
-   "summary": "A Google DeepMind research scientist explains the potential behind our AlphaGenome and AlphaGenome Atlas tools.",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_ZCQxfQQ.max-600x600.format-webp.webp",
-   "source": "Google DeepMind",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T16:14:09.069235+00:00",
-   "topics": []
-  },
-  {
-   "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-   "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
-   "date": "2026-11-17T20:32:55+00:00",
-   "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-1100x648.jpg",
-   "source": "Ars Technica IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": []
   }
  ]
 }
