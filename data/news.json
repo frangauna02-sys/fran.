@@ -1,10 +1,8 @@
 {
- "updated": "2026-11-27T22:53:56.501202+00:00",
- "sources_ok": 31,
+ "updated": "2026-11-27T23:48:28.308385+00:00",
+ "sources_ok": 32,
  "sources_total": 32,
- "sources_failed": [
-  "Marketing4eCommerce"
- ],
+ "sources_failed": [],
  "count": 900,
  "trends": [
   {
@@ -14,8 +12,8 @@
   },
   {
    "term": "navidad",
-   "count": 25,
-   "growth": 4.2
+   "count": 24,
+   "growth": 3.8
   },
   {
    "term": "amazon",
@@ -44,8 +42,8 @@
   },
   {
    "term": "marcas",
-   "count": 17,
-   "growth": 5.0
+   "count": 16,
+   "growth": 4.2
   },
   {
    "term": "euros",
@@ -109,8 +107,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-27T22:53:56.501202+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T22:53:56.501202+00:00",
    "topics": [
     "seo"
    ]
@@ -8578,7 +8576,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
+   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -8677,10 +8675,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the UK",
+   "title": "Meta expands Muse to the U.K.",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
