@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T03:56:07.582643+00:00",
+ "updated": "2026-11-27T05:03:50.035180+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
@@ -27,8 +27,8 @@
   },
   {
    "term": "amazon",
-   "count": 22,
-   "growth": 8.5
+   "count": 21,
+   "growth": 7.0
   },
   {
    "term": "está",
@@ -49,11 +49,6 @@
    "term": "euros",
    "count": 16,
    "growth": 11.9
-  },
-  {
-   "term": "meta",
-   "count": 17,
-   "growth": 3.7
   },
   {
    "term": "thanksgiving",
@@ -81,11 +76,6 @@
    "growth": 13.0
   },
   {
-   "term": "muse",
-   "count": 12,
-   "growth": 4.8
-  },
-  {
    "term": "media",
    "count": 12,
    "growth": 5.7
@@ -94,9 +84,36 @@
    "term": "descuento",
    "count": 11,
    "growth": 12.0
+  },
+  {
+   "term": "muse",
+   "count": 11,
+   "growth": 3.8
+  },
+  {
+   "term": "meta",
+   "count": 15,
+   "growth": 2.8
   }
  ],
  "items": [
+  {
+   "title": "The gaming creator with more than 26 million followers just launched his own holding company",
+   "link": "https://digiday.com/media/the-gaming-creator-with-more-than-26-million-followers-just-launched-his-own-holding-company/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-27T05:01:00+00:00",
+   "summary": "Cody \"Clix\" Conrod is a professional Fortnite player with over 26 million followers and nine creator-focused businesses. Now he has his own holdco.",
+   "image": "https://digiday.com/wp-content/uploads/sites/3/2026/11/cody.jpg",
+   "source": "Digiday",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T05:03:50.035180+00:00",
+   "og_tried": true,
+   "topics": [
+    "redes",
+    "publicidad"
+   ]
+  },
   {
    "title": "Get Your Uber Eats Via Drone",
    "link": "https://www.youtube.com/shorts/4omPdu3mAEE",
@@ -2727,7 +2744,7 @@
    ]
   },
   {
-   "title": "Google Adds Pageburst & 11 Other Existing Bots To Its Crawler Docs via @sejournal, @MattGSouthern",
+   "title": "Google Documents Pageburst, An Ads Renderer That Ignores Robots.txt via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/google-adds-pageburst-11-other-existing-bots-to-its-crawler-docs/599120/",
    "date": "2026-11-26T03:22:22+00:00",
    "summary": "Google's crawler docs now list pageburst, which renders pages for Google Ads and ignores robots.txt, plus more existing user agents to check in server logs.",
@@ -4684,7 +4701,7 @@
    ]
   },
   {
-   "title": "Is GEO Visibility Delivering Business Value, Or Are We Measuring The Wrong Outcome? via @sejournal, @billhunt",
+   "title": "AI Visibility Is Not A Recommendation – GEO Needs To Measure Decisions via @sejournal, @billhunt",
    "link": "https://www.searchenginejournal.com/is-geo-visibility-delivering-business-value-or-are-we-measuring-the-wrong-outcome/594064/",
    "date": "2026-11-25T13:00:23+00:00",
    "summary": "GEO visibility can hide gaps that keep buyers from shortlisting your brand. Decision Coverage shifts measurement toward buyer requirements and supporting evidence.",
@@ -6378,7 +6395,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
+   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -6477,10 +6494,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the U.K.",
+   "title": "Meta expands Muse to the UK",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -12976,19 +12993,6 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [],
    "og_tried": true
-  },
-  {
-   "title": "Put Gemini to work for you",
-   "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-   "date": "2026-11-17T17:00:00+00:00",
-   "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp",
-   "source": "Google AI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
   }
  ]
 }
