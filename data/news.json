@@ -1,36 +1,34 @@
 {
- "updated": "2026-11-27T11:26:41.552066+00:00",
- "sources_ok": 31,
+ "updated": "2026-11-27T12:30:59.176785+00:00",
+ "sources_ok": 32,
  "sources_total": 32,
- "sources_failed": [
-  "Marketing4eCommerce"
- ],
+ "sources_failed": [],
  "count": 900,
  "trends": [
   {
    "term": "black friday",
-   "count": 61,
-   "growth": 27.1
-  },
-  {
-   "term": "google",
-   "count": 32,
-   "growth": 3.6
+   "count": 62,
+   "growth": 20.0
   },
   {
    "term": "méxico",
-   "count": 24,
-   "growth": 25.0
+   "count": 25,
+   "growth": 26.0
   },
   {
    "term": "navidad",
-   "count": 22,
-   "growth": 4.0
+   "count": 23,
+   "growth": 4.2
+  },
+  {
+   "term": "google",
+   "count": 28,
+   "growth": 2.9
   },
   {
    "term": "amazon",
-   "count": 21,
-   "growth": 6.2
+   "count": 20,
+   "growth": 5.9
   },
   {
    "term": "precio",
@@ -40,27 +38,27 @@
   {
    "term": "marcas",
    "count": 18,
-   "growth": 7.0
+   "growth": 6.0
   },
   {
    "term": "euros",
-   "count": 18,
-   "growth": 13.3
+   "count": 17,
+   "growth": 9.7
+  },
+  {
+   "term": "gta",
+   "count": 14,
+   "growth": 10.5
   },
   {
    "term": "está",
-   "count": 16,
-   "growth": 11.9
+   "count": 14,
+   "growth": 6.6
   },
   {
    "term": "thanksgiving",
-   "count": 14,
-   "growth": 8.1
-  },
-  {
-   "term": "descuento",
-   "count": 14,
-   "growth": 15.0
+   "count": 13,
+   "growth": 6.1
   },
   {
    "term": "ofertas",
@@ -68,7 +66,7 @@
    "growth": 14.0
   },
   {
-   "term": "gta",
+   "term": "descuento",
    "count": 13,
    "growth": 9.8
   },
@@ -78,9 +76,9 @@
    "growth": 5.7
   },
   {
-   "term": "nvidia",
-   "count": 19,
-   "growth": 2.4
+   "term": "meta",
+   "count": 14,
+   "growth": 3.1
   },
   {
    "term": "móvil",
@@ -90,17 +88,230 @@
   {
    "term": "china",
    "count": 10,
-   "growth": 11.0
+   "growth": 7.7
   },
   {
-   "term": "casa",
+   "term": "campaña",
    "count": 10,
    "growth": 5.9
   }
  ],
  "items": [
   {
-   "title": "Marc Márquez: \"Esta será mi última carrera de MotoGP, hemos hecho historia\"",
+   "title": "Sam’s encuentra nuevos clientes entre la Generación Z y los millennials: los jóvenes representan más de la mitad de sus nuevas membresías",
+   "link": "https://www.merca20.com/sams-encuentra-nuevos-clientes-entre-la-generacion-z-y-los-millennials-los-jovenes-representan-mas-de-la-mitad-de-sus-nuevas-membresias/?utm_source=rss&utm_medium=rss&utm_campaign=sams-encuentra-nuevos-clientes-entre-la-generacion-z-y-los-millennials-los-jovenes-representan-mas-de-la-mitad-de-sus-nuevas-membresias",
+   "date": "2026-11-27T12:20:37+00:00",
+   "summary": "Durante el tercer trimestre de 2026, Sam's Club Estados Unidos registró ventas netas por 25,900 millones de dólares, un crecimiento anual de 10%",
+   "image": "https://files.merca20.com/uploads/2026/11/sams-cortesia-4.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "topics": []
+  },
+  {
+   "title": "Lejos de ser una simple señal del cerebro, la eyaculación es el resultado de un diálogo complejo entre el cerebro, la médula espinal, los músculos del pene",
+   "link": "https://www.xataka.com/medicina-y-salud/lejos-ser-simple-senal-cerebro-eyaculacion-resultado-dialogo-complejo-cerebro-medula-espinal-musculos-pene",
+   "date": "2026-11-27T12:18:08+00:00",
+   "summary": "Durante décadas, los científicos han atribuido al cerebro el control del comportamiento sexual, relegando a otras partes del sistema nervioso a un papel fundamentalmente ejecutor. Sin embargo, un grupo de neurocientíficos ha descubierto que, al menos en ratones, las cosas…",
+   "image": "https://i.blogs.es/bb6f09/21918041889_9c5d7af352_k/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "topics": []
+  },
+  {
+   "title": "Inteligencia artificial, talento y presión comercial: las grandes contradicciones que enfrentan las agencias creativas en 2026",
+   "link": "https://www.merca20.com/agencias-creativas-2026-inteligencia-artificial-talento-contradicciones/?utm_source=rss&utm_medium=rss&utm_campaign=agencias-creativas-2026-inteligencia-artificial-talento-contradicciones",
+   "date": "2026-11-27T12:12:32+00:00",
+   "summary": "La inteligencia artificial, la velocidad de producción y las exigencias comerciales están modificando las reglas de trabajo de las agencias creativas. Qué piensan sus principales referentes y cuáles son las grandes contradicciones de la industria publicitaria.",
+   "image": "https://files.merca20.com/uploads/2026/11/Reunion-creativa-de-diseno.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "GPTZero y Pangram se pelean por ser el mejor detector de textos hechos con IA. Los he probado y basta cambiar unas frases para engañarlos",
+   "link": "https://www.xataka.com/robotica-e-ia/gptzero-pangram-se-pelean-ser-mejor-detector-textos-hechos-ia-he-probado-basta-cambiar-unas-frases-para-enganarlos",
+   "date": "2026-11-27T12:00:22+00:00",
+   "summary": "Mejores modelos cada día, herramientas de programación tan buenas que te crean un proyecto de cero... La IA se ha vuelto casi imparable en cuestión de capacidades. Pero ¿quién se encarga de comprobar qué es lo que hace esa IA? Los detectores de texto generado por IA no son algo…",
+   "image": "https://i.blogs.es/6176a8/gptzero-portada/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "topics": []
+  },
+  {
+   "title": "Liverpool se prepara para que agentes de inteligencia artificial compren por los consumidores: así transformará su comercio electrónico",
+   "link": "https://www.merca20.com/liverpool-se-prepara-para-que-agentes-de-inteligencia-artificial-compren-por-los-consumidores-asi-transformara-su-comercio-electronico/?utm_source=rss&utm_medium=rss&utm_campaign=liverpool-se-prepara-para-que-agentes-de-inteligencia-artificial-compren-por-los-consumidores-asi-transformara-su-comercio-electronico",
+   "date": "2026-11-27T12:00:10+00:00",
+   "summary": "Uno de los principales cambios que contempla Liverpool es la evolución del comercio electrónico tradicional hacia sistemas capaces de interactuar directamente con agentes inteligentes",
+   "image": "https://files.merca20.com/uploads/2026/10/cortesia-liverpool.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "No esperábamos ver ‘GTA VI’ rebajado tan pronto, pero hoy es uno de los chollos más sorprendentes del Black Friday",
+   "link": "https://www.xataka.com/seleccion/nadie-esperaba-ver-gta-vi-rebajado-pronto-hoy-uno-chollos-sorprendentes-black-friday",
+   "date": "2026-11-27T12:00:00+00:00",
+   "summary": "Recién aterrizado en tiendas el pasado 19 de noviembre, ' GTA VI ' ya protagoniza una de las ofertas más llamativas del Black Friday en videojuegos (puedes seguir nuestro directo para ver cuáles son los próximos chollos que vamos encontrando). Mientras que el precio oficial de…",
+   "image": "https://i.blogs.es/3c064b/gta-vi-1-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "¿Cómo se verá el eclipse del 2 de agosto de 2027 en tu localidad? Este mapa te lo dice municipio a municipio",
+   "link": "https://www.xataka.com/espacio/como-se-vera-eclipse-2-agosto-2027-tu-localidad-este-mapa-te-dice-municipio-a-municipio",
+   "date": "2026-11-27T11:51:42+00:00",
+   "summary": "El lunes 2 de agosto de 2027, en torno a las 10:45 de la mañana, el cielo de Cádiz se irá a negro. Durante dos minutos y 54 segundos será de noche. Luego volverá la luz, claro; los pájaros se recompondrán como puedan y media Andalucía se quedará mirando hacia arriba con cara de…",
+   "image": "https://i.blogs.es/c6f227/captura-de-pantalla-2026-11-27-a-las-11.25.28/1024_2000.png",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "topics": []
+  },
+  {
+   "title": "Black Friday 2026: chollos en SSD, procesadores Intel y AMD a mínimo, placas base más baratas que nunca y un pack brutal de PC y monitor",
+   "link": "https://www.xataka.com/seleccion/black-friday-2026-chollos-ssd-procesadores-intel-amd-a-minimo-placas-base-baratas-que-nunca-pack-brutal-pc-monitor",
+   "date": "2026-11-27T11:46:19+00:00",
+   "summary": "Hoy, viernes 27 de noviembre de 2026, es el Black Friday. Una edición que se antoja más importante que nunca en el terreno del hardware, tras meses y meses de precios que no han dejado de subir sin descanso en equipos y componentes. COOLPC PBMSI II PVP en Coolmod — 1.399,95 € El…",
+   "image": "https://i.blogs.es/430dbe/ofertas-hardware-black-friday-2026/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Squirrel reúne en Madrid a más de mil invitados para presentar el inicio de su nueva etapa",
+   "link": "https://www.marketingdirecto.com/marketing-general/eventos-y-formacion/squirrel-reune-madrid-mil-invitados-presentar-inicio-nueva-etapa",
+   "date": "2026-11-27T11:43:17+00:00",
+   "summary": "El encuentro combinó música, magia y espectáculo para presentar la nueva identidad y propuesta de futuro del grupo junto a anunciantes, medios y profesionales del sector",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/DIRECTIVA-SQUIRREL-1.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Mientras McDonald’s lanza la Cajita Feliz y el menú del Grinch en México, en Estados Unidos apuesta por Home Alone Meal para Navidad",
+   "link": "https://www.merca20.com/mientras-mcdonalds-lanza-la-cajita-feliz-y-el-menu-del-grinch-en-mexico-en-estados-unidos-apuesta-por-home-alone-meal-para-navidad/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-mcdonalds-lanza-la-cajita-feliz-y-el-menu-del-grinch-en-mexico-en-estados-unidos-apuesta-por-home-alone-meal-para-navidad",
+   "date": "2026-11-27T11:40:42+00:00",
+   "summary": "El Grinch y Mi Pobre Angelito: McDonald’s apuesta por dos de las franquicias cinematográficas más representativas de la Navidad para conectar con los consumidores",
+   "image": "https://files.merca20.com/uploads/2026/11/mcdonalds-grinch-home-alone-cortesia-4.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "topics": []
+  },
+  {
+   "title": "WhatsApp es una de las apps que más usamos en el extranjero. Ahora quiere sacar tajada de ello vendiendo su propia eSIM",
+   "link": "https://www.xataka.com/aplicaciones/whatsapp-apps-que-usamos-extranjero-ahora-quiere-sacar-tajada-ello-vendiendo-su-propia-esim",
+   "date": "2026-11-27T11:33:15+00:00",
+   "summary": "La ambición de WhatsApp no tiene límites. Ya sabemos cuál será su nuevo negocio: comercializar eSIM de datos para que puedas comprarlas e instalarlas desde la propia app. Y será a corto plazo porque la compañía ya está en conversaciones con algunos operadores para ponerlo en…",
+   "image": "https://i.blogs.es/345b6f/mapa-mundi-whatsapp/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "La primera película hecha con IA no participará en los Oscar: Hollywood se cierra al cine sin participación humana",
+   "link": "https://www.xataka.com/cine-y-tv/primera-pelicula-hecha-ia-no-participara-oscar-hollywood-se-cierra-al-cine-participacion-humana",
+   "date": "2026-11-27T11:28:41+00:00",
+   "summary": "El 23 de noviembre, la Academia de Hollywood publicó su lista récord de 38 aspirantes al Oscar a la Mejor película de animación. Por ninguna parte estaba 'Gods Don't Give Gifts', el largo de ciencia ficción que el youtuber Zack London ha hecho con IA generativa y que llega a los…",
+   "image": "https://i.blogs.es/136626/corbin-exclusive-asset-1/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "topics": []
+  },
+  {
+   "title": "Los españoles se dejan tentar por los productos virales en Black Friday",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/los-espanoles-se-dejan-tentar-por-los-productos-virales-en-black-friday",
+   "date": "2026-11-27T11:23:45+00:00",
+   "summary": "Las redes sociales y el coleccionismo marcan las compras de los españoles, que cada vez aprovechan más el Black Friday para darse un gusto.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Black-Friday-tendencias.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "og_tried": true,
+   "topics": [
+    "redes",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "China prueba un láser de reparación en Tiangong. Útil para mantener la estación, delicado por su posible doble uso",
+   "link": "https://www.xataka.com/espacio/china-ha-cortado-pieza-laser-espacio-paso-para-reparar-naves-orbita-tambien-hay-temor-usan-como-arma",
+   "date": "2026-11-27T11:22:00+00:00",
+   "summary": "China asegura que ha realizado el primer corte láser de precisión en órbita. Lo ha hecho a través de un dispositivo instalado en un brazo robótico en su estación espacial Tiangong. Es un hito muy importante, ya que abre la puerta a la reparación de naves directamente en órbita,…",
+   "image": "https://i.blogs.es/39eec3/laser-en-el-espacio/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "topics": []
+  },
+  {
+   "title": "Radiografía de la publicidad en España: más empresas, menos inversión y el reto de la IA en el horizonte",
+   "link": "https://marketing4ecommerce.net/radiografia-del-sector-de-la-publicidad-en-espana/",
+   "date": "2026-11-27T11:21:39+00:00",
+   "summary": "El Observatorio de la Publicidad 2026 analiza la evolución del tejido empresarial, el empleo, la inversión y los retos del sector en España.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/radiografia-publicidad-espana-1-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "topics": [
+    "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Marc Márquez, campeón del mundo de MotoGP: \"Esta será mi última carrera, hemos hecho historia\"",
    "link": "https://www.xataka.com/movilidad/marc-marquez-esta-sera-mi-ultima-carrera-motogp-hemos-hecho-historia",
    "date": "2026-11-27T11:12:00+00:00",
    "summary": "Tenemos que hablar más tarde. Pero, primero. Gracias a todos por haber sido parte de este viaje. Espero que hayáis disfrutado tanto como yo. Esta será mi última carrera de Moto GP. Hemos hecho historia. Con esta retahíla de carteles, un beso a cámara y un corazón se ha despedido…",
@@ -193,6 +404,34 @@
    "topics": []
   },
   {
+   "title": "El arte de dominar el storytelling: las marcas comparten las claves para ser recordadas",
+   "link": "https://www.marketingdirecto.com/especiales/enamorando-al-consumidor/storytelling-relato-marca-audiencia",
+   "date": "2026-11-27T10:38:43+00:00",
+   "summary": "En Enamorando al Consumidor, expertos de Bizum, Starbucks, San Miguel, Holded, Iberian y KAPRA abordan la maestría de dar vida a un relato que sostenga a una marca.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Enamorando-Consumidor-storytelling.jpg",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "El debate a cuatro arrasa en televisión con un 70,6% de cuota y más de 16 millones de espectadores únicos",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/medios/debate-cuatro-arrasa-television-706-cuota-16-millones-espectadores-unicos",
+   "date": "2026-11-27T10:31:16+00:00",
+   "summary": "El encuentro electoral reunió a una media de 10.206.000 espectadores, con La 1 como líder de las emisiones con un 23,1% de share.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/debate-a-4.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
    "title": "María Montessori, pedagoga italiana: “Los adultos necesitamos policía, prisiones, soldados. Los niños resuelven sus problemas en paz; nos han demostrado que la libertad y la disciplina son dos caras de la misma medalla”",
    "link": "https://www.merca20.com/maria-montessori-pedagoga-italiana-los-adultos-necesitamos-policia-prisiones-soldados-los-ninos-resuelven-sus-problemas-en-paz-nos-han-demostrado-que-la-libertad-y-la-disciplina-son-dos-caras/?utm_source=rss&utm_medium=rss&utm_campaign=maria-montessori-pedagoga-italiana-los-adultos-necesitamos-policia-prisiones-soldados-los-ninos-resuelven-sus-problemas-en-paz-nos-han-demostrado-que-la-libertad-y-la-disciplina-son-dos-caras",
    "date": "2026-11-27T10:31:15+00:00",
@@ -231,6 +470,36 @@
    "first_seen": "2026-11-27T11:26:41.552066+00:00",
    "topics": [
     "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "OpenAI despliega Business Hub y los Business Agents a nivel internacional: cómo utilizarlos",
+   "link": "https://marketing4ecommerce.net/como-crear-el-perfil-de-tu-empresa-en-el-business-hub-de-chatgpt/",
+   "date": "2026-11-27T10:29:46+00:00",
+   "summary": "Aprende a reclamar tu empresa en ChatGPT Business Hub, consulta sus menciones y clics, y descubre cómo activar tu propio Business Agent de atención al cliente[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/claim-your-business-en-chatgpt-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "El INE presenta su MCP para facilitar el acceso de asistentes de IA a información oficial y actualizada",
+   "link": "https://marketing4ecommerce.net/ine-mcp-asistentes-ia/",
+   "date": "2026-11-27T10:25:35+00:00",
+   "summary": "Esta tecnología permite a los asistentes de IA consultar directamente los datos del INE para elaborar sus respuestas, evitando errores.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/ine-mcp-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "topics": [
     "ecommerce"
    ]
   },
@@ -451,6 +720,21 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Claves para mejorar la tasa de éxito de tus proyectos en la era de la complejidad",
+   "link": "https://marketing4ecommerce.net/claves-para-mejorar-la-tasa-de-exito-de-tus-proyectos-en-la-era-de-la-complejidad/",
+   "date": "2026-11-27T09:09:44+00:00",
+   "summary": "Casi un tercio de los proyectos complejos no alcanza los beneficios previstos, más del doble que en 2024. Analizamos por qué y cómo solucionarlo.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/gestion-de-proyectos-complejos-1-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
    "topics": [
     "ecommerce"
    ]
@@ -695,8 +979,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-27T11:26:41.552066+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T11:26:41.552066+00:00",
    "topics": [
     "publicidad"
    ]
@@ -711,8 +995,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-27T11:26:41.552066+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T11:26:41.552066+00:00",
    "topics": [
     "publicidad",
     "ecommerce"
@@ -12693,293 +12977,6 @@
    "og_tried": true,
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
-  },
-  {
-   "title": "Can AI help scientists identify promising drug candidates?",
-   "link": "https://openai.com/index/introducing-medchembench",
-   "date": "2026-11-20T00:00:00+00:00",
-   "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
-   "link": "https://www.anthropic.com/news/ipo-close",
-   "date": "2026-11-20T00:00:00+00:00",
-   "summary": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional…",
-   "image": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
-   "source": "Anthropic",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": []
-  },
-  {
-   "title": "This will test if AI truly is a bubble",
-   "link": "https://www.youtube.com/shorts/YbZDDCHDSnE",
-   "date": "2026-11-19T21:14:46+00:00",
-   "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads:…",
-   "image": "https://www.youtube.com/v/YbZDDCHDSnE?version=3",
-   "source": "Matt Wolfe (YouTube)",
-   "category": "ia",
-   "lang": "en",
-   "type": "video",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "PostgreSQL 19 Released",
-   "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-   "date": "2026-11-19T20:43:57+00:00",
-   "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release…",
-   "image": "",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-   "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-   "date": "2026-11-19T20:19:28+00:00",
-   "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
-   "source": "Ars Technica IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": []
-  },
-  {
-   "title": "21 Alternative Search Engines You Can Use Instead of Google via @sejournal, @lorenbaker",
-   "link": "https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/",
-   "date": "2026-11-19T20:00:05+00:00",
-   "summary": "Compare 21 Google alternatives for everyday search, private search, AI answers, specialist research, and regional results.",
-   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/01/search-engine-383.jpg",
-   "source": "Search Engine Journal",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "seo"
-   ],
-   "og_tried": true
-  },
-  {
-   "title": "Coca-Cola pivots from divisive AI-generated ads for holiday campaign",
-   "link": "https://www.marketingdive.com/news/coca-cola-pivots-from-divisive-ai-generated-ads-for-holiday-campaign/875215/",
-   "date": "2026-11-19T18:23:00+00:00",
-   "summary": "After facing backlash for ads that used artificial intelligence, Coke and partner WPP Open X are highlighting real people partaking in seasonal activities.",
-   "image": "https://imgproxy.divecdn.com/7TMNQstil7b5dOUsEKJ3nf7_ctCTcRIzN9JyIqPxOZg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db2NhLUNvbGFfX19FbmpveV9Kb3lfXzMwXzAtMThfc2NyZWVuc2hvdC5wbmc=.webp",
-   "source": "Marketing Dive",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Walmart mulls role advertising will play in an agentic shopping world",
-   "link": "https://www.marketingdive.com/news/walmart-mulls-role-advertising-will-play-in-an-agentic-shopping-world/875185/",
-   "date": "2026-11-19T18:19:00+00:00",
-   "summary": "Momentum for the retailer’s ad business remains strong, but executives acknowledged that AI agents are producing different consumer behaviors.",
-   "image": "https://imgproxy.divecdn.com/mz5HYgqpUEQwbwp-xTRFQUDzSPcIWLzRNlyk23mjSUs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY5NDE1Njg1LmpwZw==.webp",
-   "source": "Marketing Dive",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "publicidad",
-    "ecommerce"
-   ]
-  },
-  {
-   "title": "Google’s Next Update Won’t Touch The Index, And Nobody Will Announce It via @sejournal, @DuaneForrester",
-   "link": "https://www.searchenginejournal.com/googles-next-update-wont-touch-the-index-and-nobody-will-announce-it/597481/",
-   "date": "2026-11-19T18:00:31+00:00",
-   "summary": "Stop matching traffic drops to update dates. Sample what AI assistants say about your company on a schedule and track which facts drift.",
-   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/duane-forrester-decodes-google-update-543.png",
-   "source": "Search Engine Journal",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "seo"
-   ],
-   "og_tried": true
-  },
-  {
-   "title": "Introducing Tool Retrieval in the Gemini API",
-   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-   "date": "2026-11-19T18:00:00+00:00",
-   "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp",
-   "source": "Google AI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Amid a major renovation project, Burger King is using its flaws as marketing",
-   "link": "https://www.marketingbrew.com/stories/burger-king-consumer-complaints-ad-campaign-renovations?utm_source=&utm_medium=syndication&utm_campaign=feed",
-   "date": "2026-11-19T17:37:22+00:00",
-   "summary": "The goal of a new campaign is to emphasize accountability and that customers’ concerns are being met, Joel Yashinsky, CMO of Burger King US and Canada, told us.",
-   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80/https://storage.morningbrew.com/image/2026-11-19/image-30afe419b48ea3004067ef8016e5c9413716afab-1920x1080-png/BurgerKingSizzle1.png",
-   "source": "Marketing Brew",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Sociable: Instagram adds Amazon affiliate links",
-   "link": "https://www.marketingdive.com/news/sociable-instagram-adds-amazon-affiliate-links/875206/",
-   "date": "2026-11-19T17:18:00+00:00",
-   "summary": "The partnership enables creators to add up to 30 shoppable products per Reel.",
-   "image": "https://imgproxy.divecdn.com/Pji7B6Cm42Eg92EEuVg_KgY-pKYw0ZEzDEy2rg5u4UM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbnN0YWdyYW1fYW1hem9uLnBuZw==.webp",
-   "source": "Marketing Dive",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes",
-    "ecommerce"
-   ]
-  },
-  {
-   "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-   "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-   "date": "2026-11-19T17:00:00+00:00",
-   "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp",
-   "source": "Google AI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Build strategic A/B tests to grow your ad performance.",
-   "link": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
-   "date": "2026-11-19T17:00:00+00:00",
-   "summary": "Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp",
-   "source": "Google Ads & Commerce",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Genie 4 is now available on the Gemini API.",
-   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
-   "date": "2026-11-19T17:00:00+00:00",
-   "summary": "Build interactive 720p worlds with Genie 4 on the Google Gemini API. Generate coherent environments with native audio and real-time controls. Get started.",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp",
-   "source": "Google DeepMind",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T16:14:09.069235+00:00",
-   "topics": []
-  },
-  {
-   "title": "How ‘maxxing’ and ‘mogging’ took over marketing, according to a linguist",
-   "link": "https://www.marketingbrew.com/stories/maxxing-and-mogging-in-marketing?utm_source=&utm_medium=syndication&utm_campaign=feed",
-   "date": "2026-11-19T16:30:11+00:00",
-   "summary": "As audiences increasingly consider the roots of the popular terms, brands may want to consider how their usage might reflect back, experts told us.",
-   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80,trim=78;0;78;0/https://storage.morningbrew.com/image/2026-11-18/image-c372c74b09a110a0b1f19ee613412246fe19a2a9-1500x1000-jpg/MKB_Maxxing_SM_1126.jpg",
-   "source": "Marketing Brew",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "My wife thinks AI is a person",
-   "link": "https://www.bensbites.com/p/my-wife-thinks-ai-is-a-person",
-   "date": "2026-11-19T14:08:21+00:00",
-   "summary": "which isn’t as nuts as it sounds...",
-   "image": "https://substackcdn.com/image/fetch/$s_!lxT1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0e94eb0-cad9-432c-8bab-9e162c206d28_1100x814.gif",
-   "source": "Ben's Bites",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Five Sins to Avoid While Building a Marketing Agent",
-   "link": "https://www.marketingaiinstitute.com/blog/how-to-build-a-marketing-agent",
-   "date": "2026-11-19T14:00:05+00:00",
-   "summary": "Sandy Carter cut her podcast prep time from nine hours to three and her guest booking time from four weeks to two hours using an AI agent. It took her three tries to get there.",
-   "image": "https://www.marketingaiinstitute.com/hubfs/MAICON26%20Main%20Stage%20-%20Blog%20Post%20Assets/Sandy%20Carter%20-%20MAICON26%20Blog%20Post.png",
-   "source": "Marketing AI Institute",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Meta premieres India’s First Government-Led Microdrama Series on Scams Awareness",
-   "link": "https://about.fb.com/news/2026/11/meta-premieres-indias-first-government-led-microdrama-series-on-scams-awareness/",
-   "date": "2026-11-19T13:05:53+00:00",
-   "summary": "Meta has partnered with The Ministry of Information & Broadcasting (MIB), Prasar Bharati, Securities and Exchange Board of India (SEBI), and Indian Cyber Crime Coordination Centre (I4C) to launch India's first government-led public interest microdrama series on online scams.",
-   "image": "https://about.fb.com/wp-content/uploads/2026/11/ScamSeBacho-Nov-2026.jpeg?fit=1672%2C941",
-   "source": "Meta Newsroom",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "How to Create Authentic Short-Form Videos People Actually Watch",
-   "link": "https://www.socialmediaexaminer.com/how-to-create-authentic-short-form-videos-people-actually-watch/",
-   "date": "2026-11-19T11:00:00+00:00",
-   "summary": "Struggling to create short-form videos that people actually watch instead of scrolling past? Wondering how to script, film, and edit Instagram Reels and TikTok videos on your phone that feel authentic and grow your audience? ​In this article, you’ll discover a simple framework…",
-   "image": "https://www.socialmediaexaminer.com/wp-content/uploads/2026/11/SMMP745_PRIMARY.jpg",
-   "source": "Social Media Examiner",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
   }
  ]
 }
