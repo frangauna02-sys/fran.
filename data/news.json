@@ -1,29 +1,36 @@
 {
- "updated": "2026-11-27T19:55:32.460986+00:00",
- "sources_ok": 32,
+ "updated": "2026-11-27T20:52:27.616618+00:00",
+ "sources_ok": 31,
  "sources_total": 32,
- "sources_failed": [],
+ "sources_failed": [
+  "Dot CSV (YouTube)"
+ ],
  "count": 900,
  "trends": [
   {
    "term": "black friday",
-   "count": 68,
-   "growth": 9.3
+   "count": 71,
+   "growth": 9.2
   },
   {
    "term": "navidad",
    "count": 27,
-   "growth": 4.9
-  },
-  {
-   "term": "méxico",
-   "count": 22,
-   "growth": 6.4
+   "growth": 5.3
   },
   {
    "term": "amazon",
+   "count": 22,
+   "growth": 5.8
+  },
+  {
+   "term": "méxico",
+   "count": 21,
+   "growth": 5.5
+  },
+  {
+   "term": "está",
    "count": 20,
-   "growth": 5.2
+   "growth": 9.2
   },
   {
    "term": "precio",
@@ -31,19 +38,19 @@
    "growth": 8.8
   },
   {
-   "term": "está",
-   "count": 19,
-   "growth": 8.8
+   "term": "ofertas",
+   "count": 18,
+   "growth": 13.3
   },
   {
    "term": "marcas",
-   "count": 18,
-   "growth": 6.0
+   "count": 17,
+   "growth": 5.0
   },
   {
-   "term": "ofertas",
-   "count": 17,
-   "growth": 12.6
+   "term": "google",
+   "count": 28,
+   "growth": 2.3
   },
   {
    "term": "euros",
@@ -51,9 +58,9 @@
    "growth": 4.2
   },
   {
-   "term": "google",
-   "count": 27,
-   "growth": 2.3
+   "term": "descuento",
+   "count": 14,
+   "growth": 8.1
   },
   {
    "term": "menos",
@@ -61,9 +68,9 @@
    "growth": 4.5
   },
   {
-   "term": "descuento",
-   "count": 13,
-   "growth": 7.5
+   "term": "horas",
+   "count": 12,
+   "growth": 9.1
   },
   {
    "term": "gta",
@@ -72,11 +79,6 @@
   },
   {
    "term": "móvil",
-   "count": 11,
-   "growth": 8.4
-  },
-  {
-   "term": "horas",
    "count": 11,
    "growth": 8.4
   },
@@ -97,6 +99,128 @@
   }
  ],
  "items": [
+  {
+   "title": "El Black Friday retro de Powerplanet tiene regalos tecnológicos originales con descuentos de hasta el 71%",
+   "link": "https://www.xataka.com/seleccion/black-friday-retro-powerplanet-tiene-regalos-tecnologicos-originales-descuentos-71",
+   "date": "2026-11-27T20:46:19+00:00",
+   "summary": "El Black Friday por fin ha llegado. Tras un mes donde hemos podido encontrar ofertas de todo tipo, el verdadero viernes negro ya ha llegado. Lo mejor de todo es que Powerplanet ha querido celebrarlo por todo lo alto con descuentos en regalos tecnológicos originales, de esos que…",
+   "image": "https://i.blogs.es/72ccf6/1-1-/1024_2000.png",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T20:52:27.616618+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Alexa+ y un descuentazo del 50%: esta es una de las mejores ofertas en tablet de Amazon para este Black Friday",
+   "link": "https://www.xataka.com/seleccion/alexa-descuentazo-50-esta-mejores-ofertas-tablet-amazon-para-este-black-friday",
+   "date": "2026-11-27T20:30:25+00:00",
+   "summary": "Oficialmente, hoy se celebra el Black Friday y los estamos siguiendo en directo desde Xataka. Teles, móviles y muchos dispositivos tienen hoy muy buenos descuentos, para así anticiparte a las compras. Si llevas tiempo pensando en comprar una tablet, ahora esta Amazon Alexa…",
+   "image": "https://i.blogs.es/89d780/amazon-alexa-tablet-8-1-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T20:52:27.616618+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Promo navideño: DeWALT liquida su kit de bolsa con taladro atornillador y llave de impacto 20V; cuenta con 2 baterías y cargador",
+   "link": "https://www.merca20.com/promo-navideno-dewalt-liquida-su-kit-de-bolsa-con-taladro-atornillador-y-llave-de-impacto-20v-cuenta-con-2-baterias-y-cargador/?utm_source=rss&utm_medium=rss&utm_campaign=promo-navideno-dewalt-liquida-su-kit-de-bolsa-con-taladro-atornillador-y-llave-de-impacto-20v-cuenta-con-2-baterias-y-cargador",
+   "date": "2026-11-27T20:29:47+00:00",
+   "summary": "Una de las ofertas que Amazon tiene durante este Black Friday es el kit DeWALT que incluye una bolsa de transporte, taladro atornillador y llave de impacto inalámbrica",
+   "image": "https://files.merca20.com/uploads/2026/11/AMAZON-DEWALT-BOLSA-FOTO-AMAZON.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T20:52:27.616618+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Google’s 404 Guide Says 410s Generally Get Crawled Less Often via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/google-404-guide-410-crawl-frequency/599287/",
+   "date": "2026-11-27T20:26:24+00:00",
+   "summary": "Google moved its 404 guidance into Search Central and now says 410s generally get crawled less often, while treating both codes the same for indexing.",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-404-shutterstock-2645018491-featured.jpg",
+   "source": "Search Engine Journal",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T20:52:27.616618+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo"
+   ]
+  },
+  {
+   "title": "La recreativa que siempre quise cuando era pequeño está de oferta en Black Friday: una joya retro con el mítico Time Crisis",
+   "link": "https://www.xataka.com/seleccion/recreativa-que-siempre-quise-cuando-era-pequeno-esta-oferta-black-friday-joya-retro-mitico-time-crisis",
+   "date": "2026-11-27T20:16:19+00:00",
+   "summary": "Llevo más de 30 años jugando a videojuegos y si algo echo de menos con cierta nostalgia son los salones recreativos. Puede que ya no juegue tanto como antes, pero reconozco que me encantaría tener una de esas máquinas en casa para jugar una partida de vez en cuando, ya sea solo…",
+   "image": "https://i.blogs.es/279ee4/arcade-time-crisis-en-ciudad-retro/1024_2000.png",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T20:52:27.616618+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "MediaMarkt aprovecha las últimas horas del Black Friday para lanzar una mejor oferta que Amazon en este Kindle Paperwhite",
+   "link": "https://www.xataka.com/seleccion/mediamarkt-aprovecha-ultimas-horas-black-friday-para-lanzar-mejor-oferta-que-amazon-este-kindle-paperwhite",
+   "date": "2026-11-27T20:00:18+00:00",
+   "summary": "Este año me he quedado con las ganas de ver en el Black Friday una oferta en el nuevo Kindle Paperwhite (2026) y su versión Signature Edition. Lo bueno es que, por lo menos, el modelo que sí ha bajado de precio varias veces ha sido el Kindle Paperwhite (2024), y con unas ofertas…",
+   "image": "https://i.blogs.es/8d3d0e/kindle-paperwhite/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T20:52:27.616618+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Japón ha encontrado una segunda vida para sus trenes bala retirados: convertir su aluminio en ventanas de edificios",
+   "link": "https://www.xataka.com/magnet/japon-ha-encontrado-segunda-vida-para-sus-trenes-bala-retirados-convertir-su-aluminio-ventanas-edificios",
+   "date": "2026-11-27T20:00:16+00:00",
+   "summary": "Si pensamos en las grandes señas de identidad tecnológica de Japón, seguramente los trenes bala ocupen un lugar destacado. Desde que el Shinkansen comenzó a funcionar en 1964, estos trenes se han convertido en un símbolo de la capacidad del país para desarrollar sistemas de…",
+   "image": "https://i.blogs.es/45eb30/shinkansen-de-la-serie-n700s/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T20:52:27.616618+00:00",
+   "topics": []
+  },
+  {
+   "title": "Google Adds Shopping Campaigns To Promotion Mode Eligibility via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/google-adds-shopping-campaigns-to-promotion-mode-eligibility/599279/",
+   "date": "2026-11-27T19:57:15+00:00",
+   "summary": "Standard Shopping campaigns can use Promotion Mode to lower Target ROAS for short sales, with an optional extra daily budget, an updated help page says.",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-shopping-promotion-mode-featured.jpg",
+   "source": "Search Engine Journal",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T20:52:27.616618+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo",
+    "publicidad",
+    "ecommerce"
+   ]
+  },
   {
    "title": "Domino’s regala chamarras para perros inspiradas en sus bolsas de pizza; dónde y cómo conseguirlas gratis",
    "link": "https://www.merca20.com/dominos-regala-chamarras-para-perros-inspiradas-en-sus-bolsas-de-pizza-donde-y-como-conseguirlas-gratis/?utm_source=rss&utm_medium=rss&utm_campaign=dominos-regala-chamarras-para-perros-inspiradas-en-sus-bolsas-de-pizza-donde-y-como-conseguirlas-gratis",
@@ -485,6 +609,19 @@
    "topics": [
     "seo"
    ]
+  },
+  {
+   "title": "adidas remata tenis Cloudfoam Comfy para hombre con 55% de descuento: ideales para caminar y vestir cómodamente todos los días",
+   "link": "https://www.merca20.com/adidas-remata-tenis-cloudfoam-comfy-para-hombre-con-55-de-descuento-ideales-para-caminar-y-vestir-comodamente-todos-los-dias/?utm_source=rss&utm_medium=rss&utm_campaign=adidas-remata-tenis-cloudfoam-comfy-para-hombre-con-55-de-descuento-ideales-para-caminar-y-vestir-comodamente-todos-los-dias",
+   "date": "2026-11-27T17:01:08+00:00",
+   "summary": "Los tenis adidas Casual Cloudfoam Comfy pasaron de un precio de lista de 1,399 pesos a solamente 629.54 pesos",
+   "image": "https://files.merca20.com/uploads/2026/11/TENIS-ADIDAS-CORTESIA-MERCADO-LIBRE.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T20:52:27.616618+00:00",
+   "topics": []
   },
   {
    "title": "La hija de Amancio Ortega tiene un imperio inmobiliario de casi 1.000 millones. Este es el rastro de sus inversiones",
@@ -12806,137 +12943,6 @@
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "How Jell-O’s new creative platform looks to shift consumer perceptions",
-   "link": "https://www.marketingdive.com/news/how-jell-o-new-creative-platform-looks-to-shift-consumer-perceptions/875220/",
-   "date": "2026-11-23T11:00:00+00:00",
-   "summary": "The campaign, the first by Johannes Leonardo for the Kraft Heinz brand, represents its largest marketing investment in more than a decade.",
-   "image": "https://imgproxy.divecdn.com/Y0BnfMqzRqHpeZksb5zb3FAjKCwn3Hiju7vVwcSgFsE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9PaF9IZWxsb19KZWxsLU9fQ29sbGFnZS5qcGc=.webp",
-   "source": "Marketing Dive",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Linkedin lanza tarjetas de visita digitales para favorecer la creación de contactos profesionales",
-   "link": "https://www.reasonwhy.es/actualidad/linkedin-tarjetas-presentacion-digitales-contactos-profesionales",
-   "date": "2026-11-23T10:41:00+00:00",
-   "summary": "La plataforma ha lanzado Linkedin Business Cards, una tarjeta de presentación digital personalizada que permite a los usuarios compartir su perfil.",
-   "image": "https://www.reasonwhy.es/media/library/linkedin-business-cards.jpg",
-   "source": "Reason Why",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "Anthropic asegura que Claude ha resuelto uno de los mayores enigmas de las matemáticas",
-   "link": "https://www.marketingdirecto.com/imprescindibles/inteligencia-artificial/anthropic-asegura-claude-resuelto-mayores-enigmas-matematicas",
-   "date": "2026-11-23T10:34:50+00:00",
-   "summary": "Claude podría haber resuelto un problema matemático sin respuesta desde 1859 y la comunidad científica examina la demostración de Anthropic.",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Anthropic.-Problema-matematico.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": []
-  },
-  {
-   "title": "Del himno al directo: la música abre otra puerta a los esports",
-   "link": "https://www.marketingdirecto.com/marketing-general/agencias/del-himno-directo-musica-abre-otra-puerta-esports",
-   "date": "2026-11-23T10:24:57+00:00",
-   "summary": "NewJeans, Linkin Park y las ceremonias de Worlds conectan públicos mediante una canción. Del videoclip al partido, cada formato cumple otra función",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/image-40.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": []
-  },
-  {
-   "title": "Goodbye, World: The End of Programmers",
-   "link": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
-   "date": "2026-11-23T10:00:00+00:00",
-   "summary": "The last thing you should ever read—and the last thing I may ever write—about the craft of coding.",
-   "image": "https://media.wired.com/photos/6afb501c3f280c58f990fcf3/master/pass/WIRED-MREnglish-AaronFernandez-01.png",
-   "source": "Wired IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Chocolates Valor apuesta por el marketing experiencial con VALOR Cacao Bar",
-   "link": "https://www.marketingdirecto.com/anunciantes-general/chocolates-valor-apuesta-marketing-experiencial-valor-cacao-bar",
-   "date": "2026-11-23T09:57:01+00:00",
-   "summary": "La compañía traslada su identidad y conocimiento del cacao a un espacio que apuesta por la personalización y la interacción directa con el consumidor.",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/VALOR-Cacao-Bar-1.ed_.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": []
-  },
-  {
-   "title": "La Sirena y Manifiesto reivindican el placer de comer sin protocolos en su campaña de Navidad",
-   "link": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/la-sirena-manifiesto-reivindican-placer-comer-protocolos-campana-navidad",
-   "date": "2026-11-23T09:44:53+00:00",
-   "summary": "“Cosa Fina. Cosa Buena” apuesta por acercar la alta cocina a los hogares, combinando sofisticación, humor y precios accesibles.",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/LASIRENA-MANIFIESTO.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Cómo coordinar campañas de marketing digital con equipos y colaboradores externos",
-   "link": "https://www.marketingdirecto.com/digital-general/digital/como-coordinar-campanas-marketing-digital-equipos-colaboradores-externos",
-   "date": "2026-11-23T09:37:21+00:00",
-   "summary": "Aprende a organizar campañas de marketing digital con agencias, freelancers y equipos remotos, mejorando la colaboración, la seguridad y los resultados",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/image-37.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Chema Alonso ficha por Meta como vicepresidente de Gestión de Producto tras su salida de Cloudflare",
-   "link": "https://www.marketingdirecto.com/marketing-general/gente/chema-alonso-ficha-meta-vicepresidente-gestion-producto-salida-cloudflare",
-   "date": "2026-11-23T09:19:34+00:00",
-   "summary": "El ‘hacker’ de Telefónica se incorpora hoy al equipo global de producto de la compañía, donde reportará directamente a Naomi Gleit con responsabilidades de alcance internacional.",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/chema-alonso-meta.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
    "topics": []
   }
  ]
