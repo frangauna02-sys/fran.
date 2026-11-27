@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:30:59.176785+00:00",
+ "updated": "2026-11-27T14:19:11.919420+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
@@ -7,28 +7,28 @@
  "trends": [
   {
    "term": "black friday",
-   "count": 62,
-   "growth": 20.0
-  },
-  {
-   "term": "méxico",
-   "count": 25,
-   "growth": 26.0
+   "count": 65,
+   "growth": 16.5
   },
   {
    "term": "navidad",
-   "count": 23,
-   "growth": 4.2
+   "count": 24,
+   "growth": 4.4
+  },
+  {
+   "term": "méxico",
+   "count": 24,
+   "growth": 17.5
   },
   {
    "term": "google",
-   "count": 28,
-   "growth": 2.9
+   "count": 29,
+   "growth": 2.7
   },
   {
    "term": "amazon",
-   "count": 20,
-   "growth": 5.9
+   "count": 19,
+   "growth": 5.6
   },
   {
    "term": "precio",
@@ -37,23 +37,23 @@
   },
   {
    "term": "marcas",
-   "count": 18,
-   "growth": 6.0
+   "count": 17,
+   "growth": 5.0
   },
   {
    "term": "euros",
-   "count": 17,
-   "growth": 9.7
+   "count": 16,
+   "growth": 7.4
+  },
+  {
+   "term": "está",
+   "count": 15,
+   "growth": 7.0
   },
   {
    "term": "gta",
    "count": 14,
    "growth": 10.5
-  },
-  {
-   "term": "está",
-   "count": 14,
-   "growth": 6.6
   },
   {
    "term": "thanksgiving",
@@ -63,7 +63,7 @@
   {
    "term": "ofertas",
    "count": 13,
-   "growth": 14.0
+   "growth": 9.8
   },
   {
    "term": "descuento",
@@ -86,17 +86,318 @@
    "growth": 7.7
   },
   {
+   "term": "menos",
+   "count": 10,
+   "growth": 5.9
+  },
+  {
    "term": "china",
    "count": 10,
    "growth": 7.7
-  },
-  {
-   "term": "campaña",
-   "count": 10,
-   "growth": 5.9
   }
  ],
  "items": [
+  {
+   "title": "Internxt es la nube europea que garantiza el cifrado de conocimiento cero, y ahora cuesta un 90% menos en su Black Friday",
+   "link": "https://www.xataka.com/seleccion/internxt-nube-europea-que-garantiza-cifrado-conocimiento-cero-ahora-cuesta-90-su-black-friday",
+   "date": "2026-11-27T14:11:00+00:00",
+   "summary": "En un mundo donde las suscripciones se han vuelto el pan de cada día, hay algunas que merecen la pena y otras que podríamos considerar como \"gastos hormiga\". Sin duda alguna, tener un buen sistema de almacenamiento en la nube es de los primeros, especialmente con la cantidad de…",
+   "image": "https://i.blogs.es/bd62cf/glenn-carstens-peters-npxxwgq33zq-unsplash/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "No es país para centros de datos",
+   "link": "https://www.xataka.com/opinion/no-pais-para-centros-datos",
+   "date": "2026-11-27T14:02:21+00:00",
+   "summary": "En un raro momento de pausa propositiva, Santiago Abascal tomó las riendas del debate entre los cuatro principales candidatos a la Presidencia del Gobierno y mencionó dos palabras: \" inteligencia artificial \". Lo hizo con mucho bombo —\"el mayor avance tecnológico de la historia…",
+   "image": "https://i.blogs.es/cf3933/xataka-opinion-no-es-pais-para-centros-de-datos/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "topics": []
+  },
+  {
+   "title": "Taiwán sufre la mayor fuga de capital extranjero de su historia y la IA es la gran sospechosa",
+   "link": "https://www.xataka.com/empresas-y-economia/taiwan-sufre-mayor-fuga-capital-extranjero-su-historia-ia-gran-sospechosa",
+   "date": "2026-11-27T14:02:20+00:00",
+   "summary": "Algo pasa en la bolsa de Taiwán, porque los inversores extranjeros están retirando dinero de su mercado bursátil de forma masiva. Tal y como comparten desde Bloomberg, la causa apunta a la misma preocupación por la IA que ha estado sacudiendo los mercados en otras regiones.…",
+   "image": "https://i.blogs.es/fb847c/market_data_on_display_at_taiwan_stock_exchange_20210208/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "topics": []
+  },
+  {
+   "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+   "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+   "date": "2026-11-27T14:00:00+00:00",
+   "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04405_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "source": "The Verge IA",
+   "category": "ia",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "topics": []
+  },
+  {
+   "title": "Cuatro AirTag 2 más baratos que nunca: una de las mejores ofertas de Apple llega a final del Black Friday",
+   "link": "https://www.xataka.com/seleccion/cuatro-airtag-2-baratos-que-nunca-mejores-ofertas-apple-llega-a-final-black-friday",
+   "date": "2026-11-27T13:46:20+00:00",
+   "summary": "Pese a que este Black Friday estamos encontrando muchas ofertas para todo tipo de dispositivos, los de Apple se resisten a bajar más de precio que el resto del año. Ahora bien, como todo en la vida, siempre hay excepciones y hoy la tenemos en forma de pack de cuatro AirTags de…",
+   "image": "https://i.blogs.es/af8965/airtag-2-pack-de-cuatro/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Sam’s Club lanza Cyber Week por Black Friday y Cyber Monday con descuentos de hasta 65% del 27 de noviembre al 4 de diciembre",
+   "link": "https://www.merca20.com/sams-club-lanza-cyber-week-por-black-friday-y-cyber-monday-con-descuentos-de-hasta-65-del-27-de-noviembre-al-4-de-diciembre/?utm_source=rss&utm_medium=rss&utm_campaign=sams-club-lanza-cyber-week-por-black-friday-y-cyber-monday-con-descuentos-de-hasta-65-del-27-de-noviembre-al-4-de-diciembre",
+   "date": "2026-11-27T13:36:37+00:00",
+   "summary": "La campaña estará disponible en sams.com.mx, la app y el Call Center, como parte de las promociones por Black Friday y Cyber Monday",
+   "image": "https://files.merca20.com/uploads/2026/11/sams-club-cyber-week-foto-sams-fb.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "topics": [
+    "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Mientras la inteligencia artificial transforma la publicidad, un copywriter utiliza vibe coding para crear una plataforma con 105 comerciales de Navidad",
+   "link": "https://www.merca20.com/yuletube-comerciales-de-navidad-vibe-coding/?utm_source=rss&utm_medium=rss&utm_campaign=yuletube-comerciales-de-navidad-vibe-coding",
+   "date": "2026-11-27T13:11:49+00:00",
+   "summary": "Un copywriter independiente utilizó inteligencia artificial para desarrollar YuleTube, una plataforma gratuita que permite explorar, clasificar y seleccionar comerciales navideños de diferentes partes del mundo.",
+   "image": "https://files.merca20.com/uploads/2026/11/yuletube.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "LA SÉPTIMA: «Teníamos claro que había un hueco para un nuevo medio y está funcionando»",
+   "link": "https://www.marketingdirecto.com/especiales/enamorando-al-consumidor/la-septima-nueva-television-audiencia-espana",
+   "date": "2026-11-27T13:06:05+00:00",
+   "summary": "El escenario de nuestro evento más creativo recibe a los protagonistas del nuevo canal de televisión en España que presume de ofrecer un proyecto muy fresco.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/enamorando-consumidor-la-septima-2026-9-1.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Search News Buzz Video Recap: Google November Core Update, December Core Preannounced, Search Ranking Hub, Google StarSearch & Search Ad News",
+   "link": "https://www.seroundtable.com/video-11-2273-2026-42627.html",
+   "date": "2026-11-27T13:01:00+00:00",
+   "summary": "This week, we covered the completion of the Google November 2026 core update and then were hit by a surprise, preannounced Google December 2026 core update; no, it is not live yet. Google launched a new search ranking hub....",
+   "image": "https://img.youtube.com/vi/pDBYVYmzJgg/maxresdefault.jpg",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo"
+   ]
+  },
+  {
+   "title": "B2B Podcasts Reach Buyers Search Can’t – Where Most Shows Go Wrong",
+   "link": "https://www.searchenginejournal.com/b2b-podcast-growth-channel-search-cant-replace/596484/",
+   "date": "2026-11-27T13:00:41+00:00",
+   "summary": "HubSpot's revenue grew as its blog traffic fell 80%. Here's how B2B podcasts help buyers notice, hear, trust, and name you, and where shows fail.",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/podcast-featured-596484-1600x840-1.webp",
+   "source": "Search Engine Journal",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo"
+   ]
+  },
+  {
+   "title": "La 'ley de nietos' se ha convertido en el gran culebrón del 29N. Al fin conocemos su final (de momento)",
+   "link": "https://www.xataka.com/magnet/ley-nietos-se-ha-convertido-gran-culebron-29n-al-fin-conocemos-su-final-momento",
+   "date": "2026-11-27T13:00:00+00:00",
+   "summary": "Aunque ayer el foco político volvió (brevemente) a los platós de la tele de toda la vida, el 29N está teniendo otros dos escenarios mucho menos ortodoxos: los estudios de youtubers y los despachos del Tribunal Supremo. En estos últimos se ha dirimido una de las cuestiones más…",
+   "image": "https://i.blogs.es/3e71be/arnaud-jaegers-ibwjsmobnnu-unsplash-1-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "topics": []
+  },
+  {
+   "title": "Bing AI Mode Ads Blending More With Organic Results",
+   "link": "https://www.seroundtable.com/bing-ai-mode-ads-differentiate-42625.html",
+   "date": "2026-11-27T12:51:00+00:00",
+   "summary": "Microsoft Advertising is making it harder to distinguish ads in Bing AI Mode results from organic results. Microsoft has a very long history of making it hard to understand what is an advertisement versus what is an organic listing in its search results, so you can expect them…",
+   "image": "https://images.seroundtable.com/new-format-bing-ads-in-ai-overview-EO0PEESB.webp",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo",
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Remate final del Black Friday de MediaMarkt con descuentazos en portátiles, Dyson, teles y más",
+   "link": "https://www.xataka.com/seleccion/remate-final-black-friday-mediamarkt-descuentazos-portatiles-dyson-teles",
+   "date": "2026-11-27T12:46:20+00:00",
+   "summary": "Sí, es el día: estamos oficialmente en Black Friday. Muchas tiendas aprovechan para poner toda la carne en el asador y rematar sus mejores ofertas en tecnología, por lo que es, posiblemente, la última ventana de descuentos importante antes de Navidad. Una de las tiendas que más…",
+   "image": "https://i.blogs.es/3dc17a/mediamarkt-premium-black-friday/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Radiografía de la publicidad en España: más empresas, menos inversión y el reto de la IA en el horizonte",
+   "link": "https://marketing4ecommerce.net/radiografia-del-sector-de-la-publicidad-en-espana/",
+   "date": "2026-11-27T12:41:39+00:00",
+   "summary": "El Observatorio de la Publicidad 2026 analiza la evolución del tejido empresarial, el empleo, la inversión y los retos del sector en España.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/radiografia-publicidad-espana-1-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "topics": [
+    "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Google AI Mode Image Results Ask A Follow Up Button",
+   "link": "https://www.seroundtable.com/google-ai-mode-images-ask-a-follow-up-42622.html",
+   "date": "2026-11-27T12:41:00+00:00",
+   "summary": "Google AI Mode now lets you Ask a follow up question on image results, after you click on the image and see the image on the right side image pane. I see two variations of this, including \"Ask a follow-up\" that has an animated Google ring around the button and a \"Ask about this…",
+   "image": "https://images.seroundtable.com/google-ai-mode-ask-follow-up-image-gr5Z2JsK.jpg",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo"
+   ]
+  },
+  {
+   "title": "El número de usuarios de internet en el mundo ya supera los 6.150 millones: casi 3 de cada 4 personas",
+   "link": "https://marketing4ecommerce.net/usuarios-de-internet-mundo/",
+   "date": "2026-11-27T12:38:03+00:00",
+   "summary": "El número de usuarios de Internet en el mundo aumentó en 50M (+0,82% ) en el último año, pero las diferencias entre países son enormes.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2025/02/usuarios-internet-mundo-1-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Instagram for TV Comes to India, Introducing New Ways to Watch Reels Together",
+   "link": "https://about.fb.com/news/2026/11/instagram-for-tv-comes-to-india-introducing-new-ways-to-watch-reels-together/",
+   "date": "2026-11-27T12:33:00+00:00",
+   "summary": "Instagram for TV will soon be available in India, bringing content from your favorite creators to the big screen in your home so you can enjoy watching them with friends.",
+   "image": "https://about.fb.com/wp-content/uploads/2026/11/Horizontal-Video.png?fit=1920%2C1080",
+   "source": "Meta Newsroom",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "Google AI Mode Gains Multiple Image Uploads",
+   "link": "https://www.seroundtable.com/google-ai-mode-multiple-images-42620.html",
+   "date": "2026-11-27T12:31:00+00:00",
+   "summary": "Google AI Mode now lets you snap multiple photos or upload multiple images for one query. Similar to what we saw with the image collections AI Mode feature, you can now attach up to 10 images to an AI Mode query and Google will respond taking into consideration all the images.",
+   "image": "https://images.seroundtable.com/google-ai-mode-multiple-images-5u7XChX6.jpg",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo"
+   ]
+  },
+  {
+   "title": "Ideal para trabajar o estudiar sin tener que gastar una fortuna: este Lenovo tiene hoy uno de sus mejores precios por Black Friday",
+   "link": "https://www.xataka.com/seleccion/ideal-para-trabajar-estudiar-tener-que-gastar-fortuna-este-lenovo-tiene-hoy-uno-sus-mejores-precios-black-friady",
+   "date": "2026-11-27T12:30:25+00:00",
+   "summary": "Como persona que lleva años cubriendo el Black Friday, no son pocas las personas que han venido a preguntarme en las últimas semanas una recomendación de portátiles económicos. Revisando las ofertas más destacadas del día de hoy, una de las opciones más interesantes está en El…",
+   "image": "https://i.blogs.es/0dad62/6wu7fo748rqittnskhizikeb5qlye4064837-photoroom/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Google Ads Search Insights Tool",
+   "link": "https://www.seroundtable.com/google-ads-search-insights-42626.html",
+   "date": "2026-11-27T12:21:00+00:00",
+   "summary": "Google Ads has a search ads insights tool, also known as search insights, that shows you emerging and declining trends related to your topic or category. I don't think this is super new, as I found some Google Ads documents and blog posts on it recently but I have never covered…",
+   "image": "https://images.seroundtable.com/google-ads-search-insights-menu-zC2vIpEb.png",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo",
+    "publicidad"
+   ]
+  },
   {
    "title": "Sam’s encuentra nuevos clientes entre la Generación Z y los millennials: los jóvenes representan más de la mitad de sus nuevas membresías",
    "link": "https://www.merca20.com/sams-encuentra-nuevos-clientes-entre-la-generacion-z-y-los-millennials-los-jovenes-representan-mas-de-la-mitad-de-sus-nuevas-membresias/?utm_source=rss&utm_medium=rss&utm_campaign=sams-encuentra-nuevos-clientes-entre-la-generacion-z-y-los-millennials-los-jovenes-representan-mas-de-la-mitad-de-sus-nuevas-membresias",
@@ -111,9 +412,9 @@
    "topics": []
   },
   {
-   "title": "Lejos de ser una simple señal del cerebro, la eyaculación es el resultado de un diálogo complejo entre el cerebro, la médula espinal, los músculos del pene",
+   "title": "Unos científicos han descubierto que el cerebro no tiene la última palabra durante el sexo: hay otro invitado unos centímetros más abajo",
    "link": "https://www.xataka.com/medicina-y-salud/lejos-ser-simple-senal-cerebro-eyaculacion-resultado-dialogo-complejo-cerebro-medula-espinal-musculos-pene",
-   "date": "2026-11-27T12:18:08+00:00",
+   "date": "2026-11-27T12:18:00+00:00",
    "summary": "Durante décadas, los científicos han atribuido al cerebro el control del comportamiento sexual, relegando a otras partes del sistema nervioso a un papel fundamentalmente ejecutor. Sin embargo, un grupo de neurocientíficos ha descubierto que, al menos en ratones, las cosas…",
    "image": "https://i.blogs.es/bb6f09/21918041889_9c5d7af352_k/1024_2000.jpeg",
    "source": "Xataka",
@@ -122,6 +423,22 @@
    "type": "article",
    "first_seen": "2026-11-27T12:30:59.176785+00:00",
    "topics": []
+  },
+  {
+   "title": "Addoor firma un acuerdo con Público para gestionar su publicidad nativa",
+   "link": "https://www.marketingdirecto.com/marketing-general/agencias/addoor-firma-acuerdo-publico-gestionar-publicidad-nativa",
+   "date": "2026-11-27T12:14:36+00:00",
+   "summary": "La incorporación de Público amplía la cobertura de Addoor en el mercado editorial español y refuerza su apuesta por soluciones de monetización que aportan valor a editores y anunciantes, respetando la experiencia del lector",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/04/Diseno-sin-titulo-20.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
   },
   {
    "title": "Inteligencia artificial, talento y presión comercial: las grandes contradicciones que enfrentan las agencias creativas en 2026",
@@ -135,6 +452,40 @@
    "type": "article",
    "first_seen": "2026-11-27T12:30:59.176785+00:00",
    "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Google Merchant Center Ads Opportunities With New Features?",
+   "link": "https://www.seroundtable.com/google-merchant-center-ads-opportunities-42621.html",
+   "date": "2026-11-27T12:11:00+00:00",
+   "summary": "Google Merchant Center may be rolling out the Ads opportunities feature in Google Merchant Center for Agencies, which we covered twice already. Now, some advertisers are seeing the \"new\" label on the \"Ads opportunities\" section in the console.",
+   "image": "https://images.seroundtable.com/google-merchant-center-ads-opportunities-kQM5UtP2.jpg",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo",
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Copilot Has Ads From Microsoft Advertising",
+   "link": "https://www.seroundtable.com/microsoft-advertising-ads-in-copilot-42629.html",
+   "date": "2026-11-27T12:05:00+00:00",
+   "summary": "Microsoft is showing ads in Copilot responses to some users powered by Microsoft Advertising. I don't think this is new, I see some examples of this from earlier this year, but this is the first time I am covering it.",
+   "image": "https://images.seroundtable.com/copilot-microsoft-ads-hN8zniLA.png",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo",
     "publicidad"
    ]
   },
@@ -219,8 +570,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-27T12:30:59.176785+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
    "topics": []
   },
   {
@@ -274,8 +625,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-27T12:30:59.176785+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
    "topics": [
     "redes",
     "ecommerce"
@@ -293,22 +644,6 @@
    "type": "article",
    "first_seen": "2026-11-27T12:30:59.176785+00:00",
    "topics": []
-  },
-  {
-   "title": "Radiografía de la publicidad en España: más empresas, menos inversión y el reto de la IA en el horizonte",
-   "link": "https://marketing4ecommerce.net/radiografia-del-sector-de-la-publicidad-en-espana/",
-   "date": "2026-11-27T11:21:39+00:00",
-   "summary": "El Observatorio de la Publicidad 2026 analiza la evolución del tejido empresarial, el empleo, la inversión y los retos del sector en España.[…]",
-   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/radiografia-publicidad-espana-1-1024x614.jpg",
-   "source": "Marketing4eCommerce",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-27T12:30:59.176785+00:00",
-   "topics": [
-    "publicidad",
-    "ecommerce"
-   ]
   },
   {
    "title": "Marc Márquez, campeón del mundo de MotoGP: \"Esta será mi última carrera, hemos hecho historia\"",
@@ -413,8 +748,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-27T12:30:59.176785+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
    "topics": []
   },
   {
@@ -427,8 +762,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-27T12:30:59.176785+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
    "topics": []
   },
   {
@@ -443,6 +778,21 @@
    "type": "article",
    "first_seen": "2026-11-27T11:26:41.552066+00:00",
    "topics": []
+  },
+  {
+   "title": "El INE presenta su MCP para facilitar el acceso de asistentes de IA a información oficial y actualizada",
+   "link": "https://marketing4ecommerce.net/ine-mcp-asistentes-ia/",
+   "date": "2026-11-27T10:30:35+00:00",
+   "summary": "Esta tecnología permite a los asistentes de IA consultar directamente los datos del INE para elaborar sus respuestas, evitando errores.[…]",
+   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/ine-mcp-1024x614.jpg",
+   "source": "Marketing4eCommerce",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T12:30:59.176785+00:00",
+   "topics": [
+    "ecommerce"
+   ]
   },
   {
    "title": "Tres piscinas olímpicas llenas de almejas asiáticas: el peligroso balance del vaciado del canal de Seròs",
@@ -479,21 +829,6 @@
    "date": "2026-11-27T10:29:46+00:00",
    "summary": "Aprende a reclamar tu empresa en ChatGPT Business Hub, consulta sus menciones y clics, y descubre cómo activar tu propio Business Agent de atención al cliente[…]",
    "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/claim-your-business-en-chatgpt-1024x614.jpg",
-   "source": "Marketing4eCommerce",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-27T12:30:59.176785+00:00",
-   "topics": [
-    "ecommerce"
-   ]
-  },
-  {
-   "title": "El INE presenta su MCP para facilitar el acceso de asistentes de IA a información oficial y actualizada",
-   "link": "https://marketing4ecommerce.net/ine-mcp-asistentes-ia/",
-   "date": "2026-11-27T10:25:35+00:00",
-   "summary": "Esta tecnología permite a los asistentes de IA consultar directamente los datos del INE para elaborar sus respuestas, evitando errores.[…]",
-   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/ine-mcp-1024x614.jpg",
    "source": "Marketing4eCommerce",
    "category": "marketing",
    "lang": "es",
@@ -7300,7 +7635,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
+   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -7399,10 +7734,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the U.K.",
+   "title": "Meta expands Muse to the UK",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -12647,335 +12982,6 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": []
-  },
-  {
-   "title": "Salesforce CEO Says ‘Goodbye SEO.’ Salesforce’s SEO Guide Disagrees via @sejournal, @MattGSouthern",
-   "link": "https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/",
-   "date": "2026-11-20T20:20:52+00:00",
-   "summary": "Marc Benioff promoted Palmata by saying goodbye to SEO, while Salesforce’s own guide says SEO remains the foundation.",
-   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/salesforce-benioff-2640839201.jpg",
-   "source": "Search Engine Journal",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "seo"
-   ]
-  },
-  {
-   "title": "At this year’s NWSL championship, sponsors are putting athletes first",
-   "link": "https://www.marketingbrew.com/stories/nwsl-championship-sponsors-athletes?utm_source=&utm_medium=syndication&utm_campaign=feed",
-   "date": "2026-11-20T20:00:55+00:00",
-   "summary": "Brands including Google, CarMax, and e.l.f. are leaning into player and fan relationships to make their mark at NWSL Championship Weekend.",
-   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80,trim=176;0;176;0/https://storage.morningbrew.com/image/2026-11-20/image-c9fa2ade76ed817c1848d1155f12a0b6da9f067a-3371x2248-jpg/NJNYGothamFCvKansasCityCurrentSemifinal-2026NWSLPlayoffs",
-   "source": "Marketing Brew",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Why Building Trust Through Real People Stands The Test Of Time In SEO & AI Search via @sejournal, @lilyraynyc",
-   "link": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/",
-   "date": "2026-11-20T20:00:34+00:00",
-   "summary": "Scaled AI content, fake authors, and self-promotional listicles work until they don’t. Here’s why putting real human experts first keeps paying off in search.",
-   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/real-people-trust-seo-ai-search-1600x840-1.jpg",
-   "source": "Search Engine Journal",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "seo"
-   ]
-  },
-  {
-   "title": "Quoting Ravi Vakil",
-   "link": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-   "date": "2026-11-20T19:21:49+00:00",
-   "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring…",
-   "image": "",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Advancing Science Together: Highlights From the Open Source AI for Science Summit",
-   "link": "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit/",
-   "date": "2026-11-20T18:30:45+00:00",
-   "summary": "We brought researchers from universities, hospitals, and industry together for the Open Source AI for Science Summit, an event built around using open source AI to accelerate scientific discovery.",
-   "image": "https://about.fb.com/wp-content/uploads/2026/11/Highlights-From-the-Open-Source-AI-For-Science-Summit_Thumbnail.jpg?fit=890%2C501",
-   "source": "Meta Newsroom",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "The most misunderstood graph in AI just got a major update",
-   "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-   "date": "2026-11-20T18:15:15+00:00",
-   "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to…",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600",
-   "source": "MIT Technology Review",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Quoting Levent Alpöge",
-   "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-   "date": "2026-11-20T16:30:48+00:00",
-   "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also…",
-   "image": "",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "Google’s ‘Top 10’ Line For CMOs Points At Generic Tips Posts via @sejournal, @MattGSouthern",
-   "link": "https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/",
-   "date": "2026-11-20T16:17:43+00:00",
-   "summary": "Google's marketing account told CMOs to replace generic tips posts with content grounded in first-hand expertise.",
-   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-listicle-guidance-featured.jpg",
-   "source": "Search Engine Journal",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "seo",
-    "publicidad"
-   ],
-   "og_tried": true
-  },
-  {
-   "title": "A Charity Rescue Dog Outscored Amazon’s Christmas Ad – PPC Accounts Need A Story Before Cyber Week via @sejournal, @gregjarboe",
-   "link": "https://www.searchenginejournal.com/a-charity-rescue-dog-outscored-amazons-christmas-ad-ppc-accounts-need-a-story-before-cyber-week/597789/",
-   "date": "2026-11-20T15:00:09+00:00",
-   "summary": "Give holiday Google Ads a stronger story, using DAIVID's ranking of 75 Christmas ads where Dogs Trust outscored Amazon.",
-   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ppc-ad-cyber-212.png",
-   "source": "Search Engine Journal",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "seo",
-    "publicidad",
-    "ecommerce"
-   ],
-   "og_tried": true
-  },
-  {
-   "title": "Campaign Trail: Tiffany tells human holiday story with Hollywood talent",
-   "link": "https://www.marketingdive.com/news/campaign-trail-tiffany-tells-human-holiday-story-with-hollywood-talent/874914/",
-   "date": "2026-11-20T13:00:00+00:00",
-   "summary": "The luxury brand and agency American Haiku leaned into real emotions with actor Amanda Seyfried and director Derek Cianfrance.",
-   "image": "https://imgproxy.divecdn.com/iy_86DFHI86zBb8d6MU54VeuQffWslOfdZAjgQWLQnQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWZmYW55LUhvbGlkYXlfMjAyNl9IV19BbnRoZW1fOS5qcGc=.webp",
-   "source": "Marketing Dive",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Most AI Citations That Disappeared Came Back, Study Finds via @sejournal, @MattGSouthern",
-   "link": "https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/",
-   "date": "2026-11-20T13:00:00+00:00",
-   "summary": "Most AI citations that disappear later come back. Here are four things to check about a lost citation before you decide to change a page.",
-   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-citations-missing-puzzle-piece.jpg",
-   "source": "Search Engine Journal",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "seo"
-   ],
-   "og_tried": true
-  },
-  {
-   "title": "Verizon renews LaLiga sponsorship amid World Cup years",
-   "link": "https://www.marketingbrew.com/stories/verizon-laliga-sponsorship?utm_source=&utm_medium=syndication&utm_campaign=feed",
-   "date": "2026-11-20T13:00:00+00:00",
-   "summary": "It’s the second consecutive renewal for the brand and the Spanish soccer league, which have been partnered since 2019.",
-   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80/https://storage.morningbrew.com/image/2026-11-19/image-73e26e556515d6ddef23a4a65e6aec3d9d16ebb6-1920x1080-png/ElPartidazo.png",
-   "source": "Marketing Brew",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "16 agencias retratan el estado del arte del desarrollo de ecommerce: “El 80% de las oportunidades van a Shopify”",
-   "link": "https://marketing4ecommerce.net/16-agencias-retratan-el-estado-del-arte-del-desarrollo-de-ecommerce/",
-   "date": "2026-11-20T12:15:27+00:00",
-   "summary": "Los retos de las empresas de eCommerce ante el avance de la IA, muy presentes en esta sesión que contó con 16 directivos de primer nivel.[…]",
-   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/Sessions-articulo-2-1024x614.png",
-   "source": "Marketing4eCommerce",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T16:07:41.581881+00:00",
-   "topics": [
-    "publicidad",
-    "ecommerce"
-   ]
-  },
-  {
-   "title": "Combatting adversarial distillation",
-   "link": "https://openai.com/index/combatting-adversarial-distillation",
-   "date": "2026-11-20T10:00:00+00:00",
-   "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/5SUtPGdssrttC7LfP1yoJ1/b6b000846ab3576c1735c29534ab20b0/combatting-adversarial-distillation-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Anthropic pulls off the biggest IPO ever",
-   "link": "https://therundownai.beehiiv.com/p/anthropic-pulls-off-the-biggest-ipo-ever",
-   "date": "2026-11-20T10:00:00+00:00",
-   "summary": "PLUS: Use AI to find a job and prepare to get hired",
-   "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/a2bb93b8-0709-4860-894e-87f1516dbbd4/c956b912-2ecb-4b3d-bb0b-5af81f610e0f.png",
-   "source": "The Rundown AI",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "To build loyalty and awareness, some brands are turning to delight",
-   "link": "https://www.marketingbrew.com/stories/rivian-slack-matic-delightful-software?utm_source=&utm_medium=syndication&utm_campaign=feed",
-   "date": "2026-11-20T10:00:00+00:00",
-   "summary": "EV maker Rivian sought to drive brand awareness with its splashy software-enabled Halloween experience.",
-   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80,trim=78;0;78;0/https://storage.morningbrew.com/image/2026-11-17/image-4c1ce9cace00d232704520e4b6afef069f2c4d78-1500x1000-jpg/MKB_Engagement_SM_1126.jpg",
-   "source": "Marketing Brew",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Future of Marketing Briefing: Consulting firms revive their marketing ambitions in the C-suite the holdcos covet",
-   "link": "https://digiday.com/marketing/future-of-marketing-briefing-consulting-firms-revive-their-marketing-ambitions-in-the-c-suite-the-holdcos-covet/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "date": "2026-11-20T05:01:00+00:00",
-   "summary": "Consulting giants Deloitte Digital and Accenture Song have started selling marketing in the C-suite with a fresh push.",
-   "image": "https://digiday.com/wp-content/uploads/sites/3/2025/04/roladex-contacts-digiday.jpg",
-   "source": "Digiday",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Anthropic says no to ads but Wall Street may have other ideas",
-   "link": "https://digiday.com/marketing/anthropic-says-no-to-ads-but-wall-street-may-have-other-ideas/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "date": "2026-11-20T05:01:00+00:00",
-   "summary": "With shareholders, an $895 billion compute bill and a costly free tier, Anthropic’s no-ads pledge may have a shelf life.",
-   "image": "https://digiday.com/wp-content/uploads/sites/3/2026/11/IPO-digiday.jpg",
-   "source": "Digiday",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Why more brands are paying creators to make their ads",
-   "link": "https://digiday.com/marketing/why-more-brands-are-paying-creators-to-make-their-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "date": "2026-11-20T05:01:00+00:00",
-   "summary": "Creator-led production is the fastest-growing segment of the influencer economy. We explain what’s driving investment in this practice.",
-   "image": "https://digiday.com/wp-content/uploads/sites/3/2026/02/controversial-brand-digiday.jpg",
-   "source": "Digiday",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "redes",
-    "publicidad"
-   ]
-  },
-  {
-   "title": "llm-gemini 0.38.1",
-   "link": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
-   "date": "2026-11-20T03:01:57+00:00",
-   "summary": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low, medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The…",
-   "image": "https://static.simonwillison.net/static/2026/gemini-4-xhigh-pelicans.webp",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Token fraud is here and it’s BAD (YouTube)",
-   "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
-   "date": "2026-11-20T02:49:57+00:00",
-   "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD, an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see…",
-   "image": "",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ],
-   "og_tried": true
-  },
-  {
-   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-   "link": "https://openai.com/business/customer-stories/hebbia",
-   "date": "2026-11-20T00:00:00+00:00",
-   "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/70gWqYyqb096it9EoD7OqI/5df8cad1c7fdf2a4e942c3183a10f405/hebbia-smoked-depth-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   }
  ]
