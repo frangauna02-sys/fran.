@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:29:41.439618+00:00",
+ "updated": "2026-11-27T11:26:41.552066+00:00",
  "sources_ok": 31,
  "sources_total": 32,
  "sources_failed": [
@@ -9,8 +9,8 @@
  "trends": [
   {
    "term": "black friday",
-   "count": 58,
-   "growth": 25.8
+   "count": 61,
+   "growth": 27.1
   },
   {
    "term": "google",
@@ -18,19 +18,24 @@
    "growth": 3.6
   },
   {
-   "term": "navidad",
-   "count": 24,
-   "growth": 5.1
-  },
-  {
    "term": "méxico",
    "count": 24,
    "growth": 25.0
   },
   {
+   "term": "navidad",
+   "count": 22,
+   "growth": 4.0
+  },
+  {
    "term": "amazon",
    "count": 21,
    "growth": 6.2
+  },
+  {
+   "term": "precio",
+   "count": 18,
+   "growth": 19.0
   },
   {
    "term": "marcas",
@@ -43,29 +48,14 @@
    "growth": 13.3
   },
   {
-   "term": "precio",
-   "count": 17,
-   "growth": 18.0
-  },
-  {
    "term": "está",
-   "count": 17,
-   "growth": 18.0
+   "count": 16,
+   "growth": 11.9
   },
   {
    "term": "thanksgiving",
-   "count": 15,
-   "growth": 11.2
-  },
-  {
-   "term": "nvidia",
-   "count": 20,
-   "growth": 2.8
-  },
-  {
-   "term": "gta",
    "count": 14,
-   "growth": 15.0
+   "growth": 8.1
   },
   {
    "term": "descuento",
@@ -74,8 +64,13 @@
   },
   {
    "term": "ofertas",
-   "count": 12,
-   "growth": 13.0
+   "count": 13,
+   "growth": 14.0
+  },
+  {
+   "term": "gta",
+   "count": 13,
+   "growth": 9.8
   },
   {
    "term": "media",
@@ -83,22 +78,162 @@
    "growth": 5.7
   },
   {
-   "term": "jensen huang",
-   "count": 17,
-   "growth": 2.1
-  },
-  {
-   "term": "meta",
-   "count": 15,
-   "growth": 3.0
+   "term": "nvidia",
+   "count": 19,
+   "growth": 2.4
   },
   {
    "term": "móvil",
    "count": 10,
    "growth": 7.7
+  },
+  {
+   "term": "china",
+   "count": 10,
+   "growth": 11.0
+  },
+  {
+   "term": "casa",
+   "count": 10,
+   "growth": 5.9
   }
  ],
  "items": [
+  {
+   "title": "Marc Márquez: \"Esta será mi última carrera de MotoGP, hemos hecho historia\"",
+   "link": "https://www.xataka.com/movilidad/marc-marquez-esta-sera-mi-ultima-carrera-motogp-hemos-hecho-historia",
+   "date": "2026-11-27T11:12:00+00:00",
+   "summary": "Tenemos que hablar más tarde. Pero, primero. Gracias a todos por haber sido parte de este viaje. Espero que hayáis disfrutado tanto como yo. Esta será mi última carrera de Moto GP. Hemos hecho historia. Con esta retahíla de carteles, un beso a cámara y un corazón se ha despedido…",
+   "image": "https://i.blogs.es/2c6c3e/marc_marquez_at_the_2026_german_motorcycle_grand_prix/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T11:26:41.552066+00:00",
+   "topics": []
+  },
+  {
+   "title": "Barbie en el Cascanueces vuelve a Netflix y Mattel convierte un clásico de 2001 en una plataforma global de negocios",
+   "link": "https://www.merca20.com/barbie-en-el-cascanueces-netflix-mattel-25-aniversario/?utm_source=rss&utm_medium=rss&utm_campaign=barbie-en-el-cascanueces-netflix-mattel-25-aniversario",
+   "date": "2026-11-27T11:11:45+00:00",
+   "summary": "Mattel recupera su primera película animada de Barbie para conectar a dos generaciones de consumidores y expandir su negocio de juguetes, entretenimiento, moda y licencias comerciales.",
+   "image": "https://files.merca20.com/uploads/2026/11/Momento-navideno-con-bailarina.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T11:26:41.552066+00:00",
+   "topics": []
+  },
+  {
+   "title": "Huawei acelera su plan para diseñar chips sin depender de Occidente mientras Nvidia limita envíos en Asia",
+   "link": "https://www.xataka.com/empresas-y-economia/huawei-acelera-su-plan-para-disenar-chips-depender-occidente-nvidia-limita-envios-asia",
+   "date": "2026-11-27T11:11:14+00:00",
+   "summary": "Huawei ha anunciado avances en una cadena de diseño de chips construida alrededor de su Ley de escalado Tau, una de sus apuestas por reducir la dependencia de las herramientas estadounidenses y europeas en un momento en el que las restricciones podrían endurecerse. La compañía…",
+   "image": "https://i.blogs.es/4edf78/huawei-logo/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T11:26:41.552066+00:00",
+   "topics": []
+  },
+  {
+   "title": "El Black Friday de Carrefour nos permite comprar esta enorme tele MiniLED de 85 pulgadas a precio de outlet",
+   "link": "https://www.xataka.com/seleccion/black-friday-carrefour-nos-permite-comprar-esta-enorme-tele-miniled-85-pulgadas-a-precio-outlet",
+   "date": "2026-11-27T11:00:30+00:00",
+   "summary": "Si hay un tipo dispositivo que suele estar entre los más vendidos en el Black Friday (puedes seguir nuestro directo para ver todas las ofertas del momento), esos son sin dudas los televisores. Para quienes quieren dar el salto a un panel gigantesco (concretamente de 100…",
+   "image": "https://i.blogs.es/129a3a/teles-carrefour-28-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T11:26:41.552066+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Queríamos capturar CO₂ plantando millones de árboles y hemos creado una trampa perfecta para el fuego",
+   "link": "https://www.xataka.com/ecologia-y-naturaleza/queriamos-capturar-co2-plantando-millones-arboles-hemos-creado-trampa-perfecta-para-fuego",
+   "date": "2026-11-27T11:00:30+00:00",
+   "summary": "Ante el problema medioambiental que estamos viviendo, en los últimos años hemos visto que la mayoría de consejos pasan por la necesidad de plantar árboles sin ningún freno aparente. De esta manera, los grandes mercados de carbono apuestan por crear millones de hectáreas de masas…",
+   "image": "https://i.blogs.es/508dda/bosque-arbol/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T11:26:41.552066+00:00",
+   "topics": []
+  },
+  {
+   "title": "AI takes a swing at physics' biggest puzzle",
+   "link": "https://therundownai.beehiiv.com/p/ai-takes-a-swing-at-physics-biggest-puzzle",
+   "date": "2026-11-27T11:00:00+00:00",
+   "summary": "PLUS: Give jobs to Nod, the personal agent from n8n",
+   "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/03344d0a-5818-4c62-8a9d-3c7654ec3c21/Quantum_Gravity__Portrait__Paper_and_Cosmic_Geometry.png",
+   "source": "The Rundown AI",
+   "category": "ia",
+   "lang": "en",
+   "type": "newsletter",
+   "first_seen": "2026-11-27T11:26:41.552066+00:00",
+   "topics": []
+  },
+  {
+   "title": "Christopher Reeve sobre la superación: “Muchos de nuestros sueños parecen al principio imposibles, luego pueden parecer improbables, y luego, cuando nos comprometemos firmemente, se vuelven inevitables”",
+   "link": "https://www.merca20.com/christopher-reeve-sobre-la-superacion-muchos-de-nuestros-suenos-parecen-al-principio-imposibles-luego-pueden-parecer-improbables-y-luego-cuando-nos-comprometemos-firmemente-se-vuelven-in/?utm_source=rss&utm_medium=rss&utm_campaign=christopher-reeve-sobre-la-superacion-muchos-de-nuestros-suenos-parecen-al-principio-imposibles-luego-pueden-parecer-improbables-y-luego-cuando-nos-comprometemos-firmemente-se-vuelven-in",
+   "date": "2026-11-27T10:41:57+00:00",
+   "summary": "Christopher Reeve fue un actor estadounidense que alcanzó fama internacional por interpretar a Superman",
+   "image": "https://files.merca20.com/uploads/2026/11/frase-reeve-chatgpt.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T11:26:41.552066+00:00",
+   "topics": []
+  },
+  {
+   "title": "María Montessori, pedagoga italiana: “Los adultos necesitamos policía, prisiones, soldados. Los niños resuelven sus problemas en paz; nos han demostrado que la libertad y la disciplina son dos caras de la misma medalla”",
+   "link": "https://www.merca20.com/maria-montessori-pedagoga-italiana-los-adultos-necesitamos-policia-prisiones-soldados-los-ninos-resuelven-sus-problemas-en-paz-nos-han-demostrado-que-la-libertad-y-la-disciplina-son-dos-caras/?utm_source=rss&utm_medium=rss&utm_campaign=maria-montessori-pedagoga-italiana-los-adultos-necesitamos-policia-prisiones-soldados-los-ninos-resuelven-sus-problemas-en-paz-nos-han-demostrado-que-la-libertad-y-la-disciplina-son-dos-caras",
+   "date": "2026-11-27T10:31:15+00:00",
+   "summary": "Para María Montessori, la verdadera disciplina no consiste únicamente en obedecer las instrucciones de los adultos, sino en desarrollar la capacidad de controlar los impulsos, asumir responsabilidades y respetar a otras personas",
+   "image": "https://files.merca20.com/uploads/2026/11/maria-montessori-Gemini-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T11:26:41.552066+00:00",
+   "topics": []
+  },
+  {
+   "title": "Tres piscinas olímpicas llenas de almejas asiáticas: el peligroso balance del vaciado del canal de Seròs",
+   "link": "https://www.xataka.com/magnet/tres-piscinas-olimpicas-llenas-almejas-asiaticas-peligroso-balance-vaciado-canal-seros",
+   "date": "2026-11-27T10:30:24+00:00",
+   "summary": "Los ríos españoles llevan medio siglo recibiendo invitados sorpresa. El siluro desembarcó en 1974 para que unos pescadores se colgaran un trofeo, el cangrejo rojo entró ese mismo año por la acuicultura y el mejillón cebra se coló por accidente en el bajo Ebro en 2001. Casi todos…",
+   "image": "https://i.blogs.es/27fc76/endesa/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T11:26:41.552066+00:00",
+   "topics": []
+  },
+  {
+   "title": "Cazando Gangas en el Black Friday 2026 con ofertas en móviles Samsung y Google, AirPods, Lego y más",
+   "link": "https://www.xataka.com/seleccion/cazando-gangas-black-friday-2026-ofertas-moviles-samsung-google-airpods-lego",
+   "date": "2026-11-27T10:30:00+00:00",
+   "summary": "La espera ha llegado a su fin. Las tiendas han dado comienzo al Viernes Negro del Black Friday, el último día de la gran campaña de ofertas. Podéis seguirnos en directo de ofertas, pero también en este nuevo Cazando Gangas de la semana donde vamos a repasar las mejores ofertas…",
+   "image": "https://i.blogs.es/590a32/cazando-gangas/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T11:26:41.552066+00:00",
+   "topics": [
+    "publicidad",
+    "ecommerce"
+   ]
+  },
   {
    "title": "Robert M. Hutchins sobre la pedagogía: “El objetivo de la educación es preparar a los jóvenes para que se eduquen a sí mismos el resto de sus vidas”",
    "link": "https://www.merca20.com/robert-m-hutchins-sobre-la-pedagogia-el-objetivo-de-la-educacion-es-preparar-a-los-jovenes-para-que-se-eduquen-a-si-mismos-el-resto-de-sus-vidas/?utm_source=rss&utm_medium=rss&utm_campaign=robert-m-hutchins-sobre-la-pedagogia-el-objetivo-de-la-educacion-es-preparar-a-los-jovenes-para-que-se-eduquen-a-si-mismos-el-resto-de-sus-vidas",
@@ -230,8 +365,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-27T10:29:41.439618+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
    "topics": [
     "ecommerce"
    ]
@@ -285,8 +420,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-27T10:29:41.439618+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
    "topics": [
     "ecommerce"
    ]
@@ -301,8 +436,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-27T10:29:41.439618+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
    "topics": []
   },
   {
@@ -547,6 +682,39 @@
    "type": "article",
    "first_seen": "2026-11-27T06:28:52.494275+00:00",
    "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Show Your Work: Platforms Must Make Safety Decisions That Brands Can Verify",
+   "link": "https://www.adweek.com/social-marketing/show-your-work-platforms-must-make-safety-decisions-that-brands-can-verify/",
+   "date": "2026-11-27T06:00:00+00:00",
+   "summary": "To build trust, swap the black box for a glass box.",
+   "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/voice-piece-black-box-glass-box.jpg?w=600&h=315&crop=1",
+   "source": "Adweek",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T11:26:41.552066+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "5 Black Friday Truths About Gen Z Shoppers and the Mall",
+   "link": "https://www.adweek.com/brand-marketing/5-black-friday-truths-about-gen-z-shoppers-and-the-mall/",
+   "date": "2026-11-27T06:00:00+00:00",
+   "summary": "Mall rats never went away, but the current ones differ from previous generations.",
+   "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/Hero-mall-story.png?w=600&h=315&crop=1",
+   "source": "Adweek",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T11:26:41.552066+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad",
     "ecommerce"
    ]
   },
@@ -12812,177 +12980,6 @@
    "topics": [
     "redes"
    ]
-  },
-  {
-   "title": "Make GIFs in ChatGPT, Edit Videos With AI, and Industry News",
-   "link": "https://www.socialmediaexaminer.com/make-gifs-in-chatgpt-edit-videos-with-ai-and-industry-news/",
-   "date": "2026-11-19T10:30:00+00:00",
-   "summary": "New at AI Business World: Callan Faulkner, Kinsey Soderberg, and Dr. Nici Sweaney join the AI lineup. Meet the AI speakers → Friday is almost here! Before you unplug, here’s one last round of insights and updates. Whether you read them now or save them for later, you won’t want…",
-   "image": "",
-   "source": "Social Media Examiner",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "Google’s shipping spree continues with Neon",
-   "link": "https://therundownai.beehiiv.com/p/google-shipping-spree-continues-with-neon",
-   "date": "2026-11-19T10:00:00+00:00",
-   "summary": "PLUS: Use AI to rework your LinkedIn profile",
-   "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/15033208-8b11-4382-8caf-cd5914c4a7c7/gemini4neon.png",
-   "source": "The Rundown AI",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "Inside beauty brand Stila’s behind-the-scenes collab with ‘The Hunger Games: Sunrise on the Reaping’",
-   "link": "https://www.marketingbrew.com/stories/stila-cosmetics-hunger-games-collaboration?utm_source=&utm_medium=syndication&utm_campaign=feed",
-   "date": "2026-11-19T10:00:00+00:00",
-   "summary": "As the exclusive makeup brand for the new film, Stila Cosmetics a built a collaboration around “unprecedented” set access, its CMO told us.",
-   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80,trim=78;0;78;0/https://storage.morningbrew.com/image/2026-11-17/image-9118c9e8f21afd5abdf87927c98f4efad8e90a9a-1500x1000-png/UntitledDesign.png",
-   "source": "Marketing Brew",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-   "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-   "date": "2026-11-19T08:00:00+00:00",
-   "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/1GmNPxrS3qwhYU0t43dsaa/0df53811b9acf8f9699ace630362f112/performance-factory-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Forum, a Dedicated App for Facebook Groups, Is Now Available in Indonesia",
-   "link": "https://about.fb.com/news/2026/11/forum-a-dedicated-app-for-facebook-groups-is-now-available-in-indonesia/",
-   "date": "2026-11-19T06:05:13+00:00",
-   "summary": "Forum is now available in Indonesia, bringing Facebook Groups into one dedicated app to make joining conversations, finding answers and exploring interests easier.",
-   "image": "https://about.fb.com/wp-content/uploads/2026/11/Forum-ID-holding-image.png?fit=2048%2C1152",
-   "source": "Meta Newsroom",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "See PR scans in action",
-   "link": "https://openai.com/business/learn/pr-scans-demo",
-   "date": "2026-11-19T00:00:00+00:00",
-   "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/6pUIP8aRHn6eGeRGBWd0B0/c447f22952fcb14b3c43104989c1e739/pr-scans-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Get started with Daybreak Blue",
-   "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-   "date": "2026-11-19T00:00:00+00:00",
-   "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/3oycdkFjJTGZs3kPmqJXJx/e793dee688314652562a63782e000e77/daybreak-blue-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Explore the Codex Security Plugin",
-   "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-   "date": "2026-11-19T00:00:00+00:00",
-   "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/5v8vfxgtSsA7NgJTT3kzqU/5c217881e8568e2b342dc59a8e69d7e1/codex-security-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Deploying Daybreak Red",
-   "link": "https://openai.com/business/learn/deploying-daybreak-red",
-   "date": "2026-11-19T00:00:00+00:00",
-   "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/3oYqbsFOI2UIoDU3S2uqWu/0611437db2ca3c09777cb5ef36c2a812/deploying-daybreak-red-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "llm-gemini 0.38",
-   "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
-   "date": "2026-11-18T23:59:20+00:00",
-   "summary": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon. I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were the…",
-   "image": "https://static.simonwillison.net/static/2026/gemini-4-neon__comparison-graphi.width-2000.webp",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Introducing Gemini 4 Neon",
-   "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-   "date": "2026-11-18T21:35:43+00:00",
-   "summary": "",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
-   "source": "Google DeepMind",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-   "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
-   "date": "2026-11-18T19:19:33+00:00",
-   "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-1024x648.jpg",
-   "source": "Ars Technica IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": []
   }
  ]
 }
