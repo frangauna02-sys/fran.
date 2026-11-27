@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T01:08:13.408612+00:00",
+ "updated": "2026-11-27T02:35:51.996694+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
@@ -13,7 +13,7 @@
   {
    "term": "google",
    "count": 32,
-   "growth": 3.6
+   "growth": 3.8
   },
   {
    "term": "navidad",
@@ -98,6 +98,21 @@
  ],
  "items": [
   {
+   "title": "Get Your Uber Eats Via Drone",
+   "link": "https://www.youtube.com/shorts/4omPdu3mAEE",
+   "date": "2026-11-27T01:01:54+00:00",
+   "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads:…",
+   "image": "https://www.youtube.com/v/4omPdu3mAEE?version=3",
+   "source": "Matt Wolfe (YouTube)",
+   "category": "ia",
+   "lang": "en",
+   "type": "video",
+   "first_seen": "2026-11-27T02:35:51.996694+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
    "title": "Suprema Corte rechaza recurso por concierto cancelado de Luis Miguel y ahora Profeco anuncia una nueva demanda contra Funticket y Musicvibe",
    "link": "https://www.merca20.com/suprema-corte-rechaza-recurso-por-concierto-cancelado-de-luis-miguel-y-ahora-profeco-anuncia-una-nueva-demanda-contra-funticket-y-musicvibe/?utm_source=rss&utm_medium=rss&utm_campaign=suprema-corte-rechaza-recurso-por-concierto-cancelado-de-luis-miguel-y-ahora-profeco-anuncia-una-nueva-demanda-contra-funticket-y-musicvibe",
    "date": "2026-11-27T00:11:56+00:00",
@@ -160,6 +175,19 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-26T23:52:43.532474+00:00",
+   "topics": []
+  },
+  {
+   "title": "Cofepris alerta a los mexicanos por venta de Duvalín falsificado: pide no comprar ni consumir esta presentación del producto",
+   "link": "https://www.merca20.com/cofepris-alerta-a-los-mexicanos-por-venta-de-duvalin-falsificado-pide-no-comprar-ni-consumir-esta-presentacion-del-producto/?utm_source=rss&utm_medium=rss&utm_campaign=cofepris-alerta-a-los-mexicanos-por-venta-de-duvalin-falsificado-pide-no-comprar-ni-consumir-esta-presentacion-del-producto",
+   "date": "2026-11-26T23:19:12+00:00",
+   "summary": "De acuerdo con la Cofepris, Mondeléz México dejó de fabricar Duvalín Untable en presentación de 900 gramos desde septiembre de 2021",
+   "image": "https://files.merca20.com/uploads/2026/11/duvalin-adulterado-cofepris-cortesia-4.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T02:35:51.996694+00:00",
    "topics": []
   },
   {
@@ -12960,34 +12988,6 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "BondiBoost’s latest collaboration may be the future of creator partnerships",
-   "link": "https://www.marketingbrew.com/stories/bondiboost-kennedy-eurich-collaboration-creator-partnership-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-   "date": "2026-11-17T16:50:16+00:00",
-   "summary": "The Australian hair-care brand partnered with creator Kennedy Eurich for an ad that broke typical social marketing conventions and has performed particularly well, its president told us.",
-   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80,trim=403;0;402;0/https://storage.morningbrew.com/image/2026-11-16/image-88ac5653b7c994009fd4bb1e9de5c555af5d847a-7728x5152-jpg/_DSF2999.JPG",
-   "source": "Marketing Brew",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "Google makes it easier to use Gemini without training AI on your data",
-   "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-   "date": "2026-11-17T16:50:10+00:00",
-   "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
-   "source": "Ars Technica IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": []
   }
  ]
