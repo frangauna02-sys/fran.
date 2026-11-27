@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:39:56.552791+00:00",
+ "updated": "2026-11-27T17:51:55.789595+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
@@ -8,22 +8,22 @@
   {
    "term": "black friday",
    "count": 63,
-   "growth": 9.7
+   "growth": 8.6
   },
   {
    "term": "navidad",
    "count": 25,
-   "growth": 4.2
+   "growth": 4.0
   },
   {
    "term": "méxico",
    "count": 22,
-   "growth": 8.5
+   "growth": 7.3
   },
   {
    "term": "amazon",
-   "count": 19,
-   "growth": 5.0
+   "count": 20,
+   "growth": 5.2
   },
   {
    "term": "marcas",
@@ -32,8 +32,18 @@
   },
   {
    "term": "precio",
-   "count": 16,
-   "growth": 7.4
+   "count": 17,
+   "growth": 7.9
+  },
+  {
+   "term": "está",
+   "count": 17,
+   "growth": 7.9
+  },
+  {
+   "term": "google",
+   "count": 27,
+   "growth": 2.4
   },
   {
    "term": "ofertas",
@@ -41,19 +51,9 @@
    "growth": 11.9
   },
   {
-   "term": "está",
-   "count": 15,
-   "growth": 7.0
-  },
-  {
-   "term": "google",
-   "count": 26,
-   "growth": 2.2
-  },
-  {
    "term": "euros",
    "count": 14,
-   "growth": 4.8
+   "growth": 4.2
   },
   {
    "term": "descuento",
@@ -61,19 +61,24 @@
    "growth": 9.8
   },
   {
-   "term": "thanksgiving",
-   "count": 12,
-   "growth": 4.8
-  },
-  {
    "term": "media",
    "count": 12,
-   "growth": 5.7
+   "growth": 7.0
   },
   {
    "term": "gta",
    "count": 12,
    "growth": 5.7
+  },
+  {
+   "term": "menos",
+   "count": 11,
+   "growth": 5.2
+  },
+  {
+   "term": "thanksgiving",
+   "count": 11,
+   "growth": 3.8
   },
   {
    "term": "oficial",
@@ -86,17 +91,98 @@
    "growth": 5.9
   },
   {
-   "term": "menos",
+   "term": "hoy",
    "count": 10,
-   "growth": 4.8
-  },
-  {
-   "term": "campaña",
-   "count": 10,
-   "growth": 5.9
+   "growth": 7.7
   }
  ],
  "items": [
+  {
+   "title": "Después de agotar su colección navideña en 2025, Milk Bar vuelve con una lata coleccionable de Snoopy y cuatro nuevos sabores de galletas",
+   "link": "https://www.merca20.com/despues-de-agotar-su-coleccion-navidena-en-2025-milk-bar-vuelve-con-una-lata-coleccionable-de-snoopy-y-cuatro-nuevos-sabores-de-galletas/?utm_source=rss&utm_medium=rss&utm_campaign=despues-de-agotar-su-coleccion-navidena-en-2025-milk-bar-vuelve-con-una-lata-coleccionable-de-snoopy-y-cuatro-nuevos-sabores-de-galletas",
+   "date": "2026-11-27T17:50:21+00:00",
+   "summary": "Milk Bar y Peanuts celebran la Navidad 2026 con una nueva lata coleccionable de Snoopy, cuatro sabores de galletas, chocolates y otros postres.",
+   "image": "https://files.merca20.com/uploads/2026/11/Milk-Bar-vuelve-a-colaborar-con-Snoopy-y-lanza-cuatro-nuevos-sabores-de-galletas-despues-de-agotar-su-coleccion-navidena-en-2025-.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T17:51:55.789595+00:00",
+   "topics": []
+  },
+  {
+   "title": "Se está agotando: Amazon revienta el precio del Google Pixel 11 a unas horas de que termine el Black Friday (y con 512 GB)",
+   "link": "https://www.xataka.com/seleccion/amazon-revienta-precio-google-pixel-11-a-unas-horas-que-termine-black-friday-512-gb-almacenamiento",
+   "date": "2026-11-27T17:46:20+00:00",
+   "summary": "¿Merece la pena esperar a última hora de Black Friday para renovar móvil? Normalmente, te diríamos que las mejores ofertas no suelen durar hasta los últimos días de noviembre, pero de vez en cuando encontramos algún chollo flash el último viernes del mes. Y en esta ocasión,…",
+   "image": "https://i.blogs.es/528cc3/pixel_02/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T17:51:55.789595+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "España nunca ha tenido cuatro inviernos consecutivos sin una sola ola de frío. AEMET empieza a temer que sea algo inevitable (con todo lo que ello conlleva)",
+   "link": "https://www.xataka.com/ecologia-y-naturaleza/espana-nunca-ha-tenido-cuatro-inviernos-consecutivos-sola-ola-frio-va-a-tener-todo-que-ello-conlleva",
+   "date": "2026-11-27T17:46:20+00:00",
+   "summary": "El día de Reyes de 2026, el termómetro de Molina de Aragón bajó hasta los 14 grados bajo cero. Era el cénit de un periodo de cinco días que dejó esa zona del país unos 5 grados por debajo de lo habitual. Dos meses después, como suele hacer, la Agencia Estatal de Meteorología…",
+   "image": "https://i.blogs.es/a97c34/shawn-dearn-sgy1daqb8au-unsplash/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T17:51:55.789595+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "MediaMarkt está liquidando esta tele LG de 65 pulgadas con nano definición: cuesta menos de 400 euros",
+   "link": "https://www.xataka.com/seleccion/mediamarkt-esta-liquidando-esta-tele-lg-65-pulgadas-nano-definicion-cuesta-400-euros",
+   "date": "2026-11-27T17:30:27+00:00",
+   "summary": "El Black Friday es una ocasión perfecta para cambiar la tele del salón. Estamos siguiendo en directo este gran evento de compras y uno de los chollos perfectos para quienes buscan dar el salto a una smart TV de gran diagonal es este que hemos encontrado en MediaMarkt. Ahora, la…",
+   "image": "https://i.blogs.es/94d1a5/teles-mediamarkt-2-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T17:51:55.789595+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Últimas horas de Black Friday: estos son algunos de los mejores chollos que aún puedes conseguir en Lenovo, Dyson, Apple, Pixel y más",
+   "link": "https://www.xataka.com/seleccion/ultimas-horas-black-friday-estos-algunos-mejores-chollos-que-puedes-conseguir-lenovo-dyson-apple-pixel",
+   "date": "2026-11-27T17:18:20+00:00",
+   "summary": "En la medianoche de hoy finalizará el Black Friday de 2026. Una edición bastante larga que ha tenido lugar a lo largo de varias semanas en tiendas como PcComponentes, Amazon o MediaMarkt. Y aunque todavía queda el próximo lunes para aprovechar descuentazos, con la llegada del…",
+   "image": "https://i.blogs.es/87249b/recopilatorio-ofertas-ultima-hora-black-friday/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T17:51:55.789595+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "La hija de Amancio Ortega tiene un imperio inmobiliario de casi 1.000 millones. Este es el rastro de sus inversiones",
+   "link": "https://www.xataka.com/empresas-y-economia/hija-amancio-ortega-tiene-imperio-inmobiliario-casi-1-000-millones-este-rastro-sus-inversiones",
+   "date": "2026-11-27T17:00:26+00:00",
+   "summary": "¿Y si te cuento que la mujer más rica de España solo es la hija del hombre más rico de España y que juntos suman la mitad del patrimonio de los cien hombres más ricos del país, lo que, a su vez, equivale a la riqueza de más de 850.000 hogares de españoles de clase media? En este…",
+   "image": "https://i.blogs.es/76e893/hija-de-amancio-ortega-millonaria/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T17:51:55.789595+00:00",
+   "topics": []
+  },
   {
    "title": "Sam’s Club Cyber Week 2026, estas son las mejores ofertas en tecnología y los cupones para ahorrar todavía más con BBVA, Banamex y Santander",
    "link": "https://www.merca20.com/sams-club-cyber-week-2026-estas-son-las-mejores-ofertas-en-tecnologia-y-los-cupones-para-ahorrar-todavia-mas-con-bbva-banamex-y-santander/?utm_source=rss&utm_medium=rss&utm_campaign=sams-club-cyber-week-2026-estas-son-las-mejores-ofertas-en-tecnologia-y-los-cupones-para-ahorrar-todavia-mas-con-bbva-banamex-y-santander",
@@ -194,6 +280,19 @@
    "topics": []
   },
   {
+   "title": "¿Por qué hace tanto frío hoy en México? ¿Qué es una DANA en meteorología y cómo se relaciona con las tormentas invernales?",
+   "link": "https://www.merca20.com/por-que-hace-tanto-frio-hoy-en-mexico-que-es-una-dana-en-meteorologia-y-como-se-relaciona-con-las-tormentas-invernales/?utm_source=rss&utm_medium=rss&utm_campaign=por-que-hace-tanto-frio-hoy-en-mexico-que-es-una-dana-en-meteorologia-y-como-se-relaciona-con-las-tormentas-invernales",
+   "date": "2026-11-27T16:07:21+00:00",
+   "summary": "¿Por qué hace tanto frío hoy en México? La primera tormenta invernal provoca bajas temperaturas y posibles nevadas. Conoce qué es una DANA",
+   "image": "https://files.merca20.com/uploads/2026/11/mexico-clima-cdmx-laura-islas.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T17:51:55.789595+00:00",
+   "topics": []
+  },
+  {
    "title": "La campaña electoral a través de las redes sociales: estos son los partidos con más seguidores",
    "link": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/campana-electoral-redes-sociales-estos-son-partidos-seguidores",
    "date": "2026-11-27T15:58:13+00:00",
@@ -203,12 +302,38 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-27T16:39:56.552791+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T16:39:56.552791+00:00",
    "topics": [
     "redes",
     "publicidad"
    ]
+  },
+  {
+   "title": "De 1,399 a 619 pesos: rematan chamarra adidas Argentina para hombre, un regalo de Navidad para los aficionados al fútbol",
+   "link": "https://www.merca20.com/de-1399-a-619-pesos-rematan-chamarra-adidas-argentina-para-hombre-un-regalo-de-navidad-para-los-aficionados-al-futbol/?utm_source=rss&utm_medium=rss&utm_campaign=de-1399-a-619-pesos-rematan-chamarra-adidas-argentina-para-hombre-un-regalo-de-navidad-para-los-aficionados-al-futbol",
+   "date": "2026-11-27T15:50:33+00:00",
+   "summary": "La chamarra adidas Argentina OLP Track combina un look deportiva por su diseño casual que permite utilizarla en diferentes ocasiones",
+   "image": "https://files.merca20.com/uploads/2026/11/ADIDAS-CHAMARRA-ARGENTINA-CORTESIA-4.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T17:51:55.789595+00:00",
+   "topics": []
+  },
+  {
+   "title": "Apple desarrollaría su propio agente de IA para competir con OpenAI y Anthropic",
+   "link": "https://www.merca20.com/apple-desarrollaria-su-propio-agente-de-ia-para-competir-con-openai-y-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=apple-desarrollaria-su-propio-agente-de-ia-para-competir-con-openai-y-anthropic",
+   "date": "2026-11-27T15:45:24+00:00",
+   "summary": "El objetivo sería que la inteligencia artificial no se limite a responder instrucciones, sino que pueda llevarlas a cabo dentro de una computadora.",
+   "image": "https://files.merca20.com/uploads/2026/11/Apple-Store-bigstock-85281692.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T17:51:55.789595+00:00",
+   "topics": []
   },
   {
    "title": "Mientras Sam’s Club adelanta la venta de sus roscas de Reyes, Costco ya prepara su esperado lanzamiento con cuenta regresiva",
@@ -7917,7 +8042,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
+   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -8016,10 +8141,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the U.K.",
+   "title": "Meta expands Muse to the UK",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -12844,144 +12969,6 @@
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
-  },
-  {
-   "title": "X adds new video thumbnail and caption options",
-   "link": "https://www.socialmediatoday.com/news/x-adds-new-video-thumbnail-and-caption-options/875428/",
-   "date": "2026-11-22T22:22:13+00:00",
-   "summary": "The platform continues to build out its video tools in hopes of encouraging more uploads from users.",
-   "image": "",
-   "source": "Social Media Today",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "Reddit’s holiday goals guide offers helpful ad checklist",
-   "link": "https://www.socialmediatoday.com/news/reddits-holiday-goals-guide-offers-helpful-ad-checklist/875427/",
-   "date": "2026-11-22T22:17:14+00:00",
-   "summary": "The overview includes ideas on how to focus a seasonal campaign and insight into effective promotions.",
-   "image": "",
-   "source": "Social Media Today",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes",
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Instagram chief shares Muse tips for social media managers",
-   "link": "https://www.socialmediatoday.com/news/instagram-chief-shares-muse-tips-for-social-media-managers/875426/",
-   "date": "2026-11-22T22:13:38+00:00",
-   "summary": "Adam Mosseri told Marina Mogilko, aka Silicon Valley Girl, that the artificial intelligence agent can help with ideation and trend discovery.",
-   "image": "",
-   "source": "Social Media Today",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "YouTube adds co-view counts to CTV metrics",
-   "link": "https://www.socialmediatoday.com/news/youtube-adds-co-view-counts-to-ctv-metrics/875425/",
-   "date": "2026-11-22T22:03:38+00:00",
-   "summary": "The platform will now report CTV view counts based on television industry standards and apply those new view counts across formats moving forward.",
-   "image": "",
-   "source": "Social Media Today",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes",
-    "publicidad"
-   ]
-  },
-  {
-   "title": "TikTok adds new AI transparency and parental controls",
-   "link": "https://www.socialmediatoday.com/news/tiktok-adds-new-ai-transparency-and-parental-controls/875424/",
-   "date": "2026-11-22T21:45:48+00:00",
-   "summary": "A range of updates were announced at the company’s third Safety and Innovation Summit, including new ways to protect creators and teens.",
-   "image": "",
-   "source": "Social Media Today",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-   "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-   "date": "2026-11-22T21:14:07+00:00",
-   "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-   "source": "TechCrunch IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "Google Cooked With This New Model!",
-   "link": "https://www.youtube.com/shorts/8RNSJ6Ud4nY",
-   "date": "2026-11-22T20:58:01+00:00",
-   "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads:…",
-   "image": "https://www.youtube.com/v/8RNSJ6Ud4nY?version=3",
-   "source": "Matt Wolfe (YouTube)",
-   "category": "ia",
-   "lang": "en",
-   "type": "video",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "Select Styling Specimens",
-   "link": "https://simonwillison.net/2026/Nov/22/select-styling/",
-   "date": "2026-11-22T19:45:06+00:00",
-   "summary": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that…",
-   "image": "https://static.simonwillison.net/static/2026/select-firefox-safari-chrome.webp",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Why data centers are at the center of the Big Tech backlash",
-   "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-   "date": "2026-11-22T18:08:43+00:00",
-   "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-   "source": "TechCrunch IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
   }
  ]
 }
