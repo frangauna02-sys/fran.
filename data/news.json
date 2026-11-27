@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-27T20:52:27.616618+00:00",
+ "updated": "2026-11-27T21:52:15.566072+00:00",
  "sources_ok": 31,
  "sources_total": 32,
  "sources_failed": [
-  "Dot CSV (YouTube)"
+  "Marketing4eCommerce"
  ],
  "count": 900,
  "trends": [
   {
    "term": "black friday",
    "count": 71,
-   "growth": 9.2
+   "growth": 8.7
   },
   {
    "term": "navidad",
-   "count": 27,
-   "growth": 5.3
+   "count": 26,
+   "growth": 4.7
   },
   {
    "term": "amazon",
@@ -33,14 +33,14 @@
    "growth": 9.2
   },
   {
-   "term": "precio",
+   "term": "ofertas",
    "count": 19,
-   "growth": 8.8
+   "growth": 14.0
   },
   {
-   "term": "ofertas",
+   "term": "precio",
    "count": 18,
-   "growth": 13.3
+   "growth": 7.0
   },
   {
    "term": "marcas",
@@ -48,14 +48,14 @@
    "growth": 5.0
   },
   {
-   "term": "google",
-   "count": 28,
-   "growth": 2.3
-  },
-  {
    "term": "euros",
    "count": 16,
    "growth": 4.2
+  },
+  {
+   "term": "google",
+   "count": 27,
+   "growth": 2.2
   },
   {
    "term": "descuento",
@@ -68,11 +68,6 @@
    "growth": 4.5
   },
   {
-   "term": "horas",
-   "count": 12,
-   "growth": 9.1
-  },
-  {
    "term": "gta",
    "count": 12,
    "growth": 5.7
@@ -81,6 +76,11 @@
    "term": "móvil",
    "count": 11,
    "growth": 8.4
+  },
+  {
+   "term": "horas",
+   "count": 11,
+   "growth": 6.5
   },
   {
    "term": "thanksgiving",
@@ -99,6 +99,47 @@
   }
  ],
  "items": [
+  {
+   "title": "Ofrecen recompensa para encontrar a Inti, perrito beige de 10 años perdido en San Mateo Xalpa y La Chavarrieta, Xochimilco CDMX",
+   "link": "https://www.merca20.com/ofrecen-recompensa-para-encontrar-a-inti-perrito-beige-de-10-anos-perdido-en-san-mateo-xalpa-y-la-chavarrieta-xochimilco-cdmx/?utm_source=rss&utm_medium=rss&utm_campaign=ofrecen-recompensa-para-encontrar-a-inti-perrito-beige-de-10-anos-perdido-en-san-mateo-xalpa-y-la-chavarrieta-xochimilco-cdmx",
+   "date": "2026-11-27T21:22:24+00:00",
+   "summary": "Buscan a Inti, perrito beige de 10 años perdido en San Mateo Xalpa, Xochimilco. Su familia ofrece recompensa.",
+   "image": "https://files.merca20.com/uploads/2026/11/IMG_4928.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T21:52:15.566072+00:00",
+   "topics": []
+  },
+  {
+   "title": "Hay un iPhone que se ha colado en las ofertas de última hora del Black Friday. Nunca lo hemos visto más barato",
+   "link": "https://www.xataka.com/seleccion/hay-iphone-que-se-ha-colado-ofertas-ultima-hora-black-friday-nunca-hemos-visto-barato",
+   "date": "2026-11-27T21:00:25+00:00",
+   "summary": "Los iPhone no han bajado prácticamente nada durante el Black Friday, salvo el iPhone 17 que sí lo hemos visto por debajo de la barrera de los 1.000 euros. Pero sigue siendo caro. Sin embargo, a pocas horas de finalizar el Black Friday, MediaMarkt ha lanzado una oferta en el…",
+   "image": "https://i.blogs.es/62ecae/iphone-air/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T21:52:15.566072+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Tu perro convierte la vuelta a casa en una caótica fiesta. La ciencia sabe perfectamente por qué se entusiasma",
+   "link": "https://www.xataka.com/ecologia-y-naturaleza/que-tu-perro-convierte-tu-vuelta-a-casa-autentica-fiesta-incluso-solo-has-salido-a-tirar-basura",
+   "date": "2026-11-27T21:00:25+00:00",
+   "summary": "Quien tiene una mascota en casa sabe que cuando va a abrir la puerta de casa tras salir cinco minutos a tirar la basura, se va a encontrar con mucha seguridad a su perro en la puerta esperándolo. Orejas hacia atrás, cola girando como las aspas de un helicóptero, carreras en…",
+   "image": "https://i.blogs.es/1c4821/perrooo/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T21:52:15.566072+00:00",
+   "topics": []
+  },
   {
    "title": "El Black Friday retro de Powerplanet tiene regalos tecnológicos originales con descuentos de hasta el 71%",
    "link": "https://www.xataka.com/seleccion/black-friday-retro-powerplanet-tiene-regalos-tecnologicos-originales-descuentos-71",
@@ -154,8 +195,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-27T20:52:27.616618+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T20:52:27.616618+00:00",
    "topics": [
     "seo"
    ]
@@ -213,8 +254,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-27T20:52:27.616618+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T20:52:27.616618+00:00",
    "topics": [
     "seo",
     "publicidad",
@@ -12902,47 +12943,6 @@
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
-   "topics": []
-  },
-  {
-   "title": "Milk-Bone crea anuncios que los perros pueden lamer para demostrar el atractivo de sus galletas",
-   "link": "https://www.reasonwhy.es/actualidad/milk-bone-perros-lametones-galletas-publicidad-exterior",
-   "date": "2026-11-23T11:02:00+00:00",
-   "summary": "Milk-Bone ha instalado soportes de exterior que contienen una galleta real y usa las marcas de saliva como prueba de su atractivo.",
-   "image": "https://www.reasonwhy.es/media/library/milkbone-galleta-mupi.jpg",
-   "source": "Reason Why",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "States Sue SpaceX Over Grok Deepfakes",
-   "link": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
-   "date": "2026-11-23T11:00:00+00:00",
-   "summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
-   "image": "https://media.wired.com/photos/6b00c213fb286bb31d23bec0/master/pass/Security_Virginia%20and%20Oregon%20Sue%20Grok%20Over%20Nonconsensual%20Intimate%20Imagery_v1.jpg",
-   "source": "Wired IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Claude helps solve math's biggest open problem",
-   "link": "https://therundownai.beehiiv.com/p/claude-helps-solve-math-s-biggest-open-problem",
-   "date": "2026-11-23T11:00:00+00:00",
-   "summary": "PLUS: Test Gemini 4 Neon on finding billing errors",
-   "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/7150271e-1edf-4946-8238-e03fc1dae993/riemann-header-1920x1080.png",
-   "source": "The Rundown AI",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   }
  ]
