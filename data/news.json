@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:29:23.202942+00:00",
+ "updated": "2026-11-27T16:39:56.552791+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
@@ -7,38 +7,38 @@
  "trends": [
   {
    "term": "black friday",
-   "count": 65,
-   "growth": 13.6
+   "count": 63,
+   "growth": 9.7
   },
   {
    "term": "navidad",
    "count": 25,
-   "growth": 4.5
+   "growth": 4.2
   },
   {
    "term": "méxico",
-   "count": 23,
-   "growth": 12.9
+   "count": 22,
+   "growth": 8.5
   },
   {
    "term": "amazon",
-   "count": 20,
-   "growth": 5.9
-  },
-  {
-   "term": "precio",
-   "count": 18,
-   "growth": 19.0
-  },
-  {
-   "term": "marcas",
-   "count": 17,
+   "count": 19,
    "growth": 5.0
   },
   {
-   "term": "euros",
-   "count": 15,
-   "growth": 5.9
+   "term": "marcas",
+   "count": 18,
+   "growth": 5.3
+  },
+  {
+   "term": "precio",
+   "count": 16,
+   "growth": 7.4
+  },
+  {
+   "term": "ofertas",
+   "count": 16,
+   "growth": 11.9
   },
   {
    "term": "está",
@@ -48,22 +48,12 @@
   {
    "term": "google",
    "count": 26,
-   "growth": 2.3
+   "growth": 2.2
   },
   {
-   "term": "ofertas",
+   "term": "euros",
    "count": 14,
-   "growth": 10.5
-  },
-  {
-   "term": "thanksgiving",
-   "count": 13,
-   "growth": 6.1
-  },
-  {
-   "term": "gta",
-   "count": 13,
-   "growth": 7.5
+   "growth": 4.8
   },
   {
    "term": "descuento",
@@ -71,7 +61,17 @@
    "growth": 9.8
   },
   {
+   "term": "thanksgiving",
+   "count": 12,
+   "growth": 4.8
+  },
+  {
    "term": "media",
+   "count": 12,
+   "growth": 5.7
+  },
+  {
+   "term": "gta",
    "count": 12,
    "growth": 5.7
   },
@@ -83,24 +83,163 @@
   {
    "term": "móvil",
    "count": 10,
-   "growth": 7.7
+   "growth": 5.9
   },
   {
    "term": "menos",
    "count": 10,
-   "growth": 5.9
+   "growth": 4.8
   },
   {
-   "term": "china",
+   "term": "campaña",
    "count": 10,
-   "growth": 7.7
+   "growth": 5.9
   }
  ],
  "items": [
   {
-   "title": "Las playas mexicanas se están llenando de escombros de SpaceX y Claudia Sheinbaum ha solicitado una reunión con Estados Unidos para solucionarlo",
+   "title": "Sam’s Club Cyber Week 2026, estas son las mejores ofertas en tecnología y los cupones para ahorrar todavía más con BBVA, Banamex y Santander",
+   "link": "https://www.merca20.com/sams-club-cyber-week-2026-estas-son-las-mejores-ofertas-en-tecnologia-y-los-cupones-para-ahorrar-todavia-mas-con-bbva-banamex-y-santander/?utm_source=rss&utm_medium=rss&utm_campaign=sams-club-cyber-week-2026-estas-son-las-mejores-ofertas-en-tecnologia-y-los-cupones-para-ahorrar-todavia-mas-con-bbva-banamex-y-santander",
+   "date": "2026-11-27T16:37:37+00:00",
+   "summary": "Sam’s Club lanza Cyber Week 2026 con descuentos de hasta 65%, bonificaciones de 500 pesos y promociones bancarias. Consulta la lista de ofertas y fechas.",
+   "image": "https://files.merca20.com/uploads/2026/11/Sams-Club-Cyber-Week-2026-estas-son-las-ofertas-en-tecnologia-y-los-cupones-para-ahorrar-todavia-mas-con-BBVA-Banamex-y-Santander-.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T16:39:56.552791+00:00",
+   "topics": []
+  },
+  {
+   "title": "Mientras las tradicionales posadas mexicanas reúnen a familias y amigos, la Michiposada busca ayudar a los gatos que esperan un hogar",
+   "link": "https://www.merca20.com/mientras-las-tradicionales-posadas-mexicanas-reunen-a-familias-y-amigos-la-michiposada-busca-ayudar-a-los-gatos-que-esperan-un-hogar/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-las-tradicionales-posadas-mexicanas-reunen-a-familias-y-amigos-la-michiposada-busca-ayudar-a-los-gatos-que-esperan-un-hogar",
+   "date": "2026-11-27T16:34:34+00:00",
+   "summary": "La Michiposada de Miau Fest 2026 llega a CDMX con entrada gratis, 80 expositores, piñatas, música, pasarelas de gatos y bazar navideño. Conoce fechas y horarios",
+   "image": "https://files.merca20.com/uploads/2026/11/gatos-navidad-gemini-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T16:39:56.552791+00:00",
+   "topics": []
+  },
+  {
+   "title": "La calidad/precio no era solo una guerra de especificaciones. Nothing acaba de ganar con un móvil que reivindica algo más",
+   "link": "https://www.xataka.com/moviles/calidad-precio-no-era-solo-guerra-especificaciones-nothing-acaba-ganar-movil-que-reivindica-algo",
+   "date": "2026-11-27T16:30:24+00:00",
+   "summary": "Cuando alguien busca un móvil caro suele fijarse en las especificaciones, pero también en otros aspectos. El diseño y los materiales son importantes, porque un móvil bueno también debe parecerlo. ¿Y conforme descendemos de categoría? La atracción suele llevársela la relación…",
+   "image": "https://i.blogs.es/8d82b4/portada-premio-mejor-movil-calidad-precio/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T16:39:56.552791+00:00",
+   "topics": []
+  },
+  {
+   "title": "Los chips Blackwell de Nvidia aparecen en un centro de datos de Shanghái vinculado a Alice Huang",
+   "link": "https://www.xataka.com/empresas-y-economia/chips-blackwell-nvidia-aparecen-centro-datos-shanghai-vinculado-a-alice-huang",
+   "date": "2026-11-27T16:18:06+00:00",
+   "summary": "Al menos dos empresas chinas habrían instalado hardware de Nvidia con arquitectura Blackwell en un centro de datos de Shanghái, según documentos compartidos ante los reguladores chinos a los que ha tenido acceso Bloomberg. Según apunta el medio, el centro de datos estaría…",
+   "image": "https://i.blogs.es/00be2d/original/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T16:39:56.552791+00:00",
+   "topics": []
+  },
+  {
+   "title": "Liverpool tendrá horarios especiales por Black Friday; esto debes saber antes de ir a sus tiendas",
+   "link": "https://www.merca20.com/liverpool-tendra-horarios-especiales-por-black-friday-esto-debes-saber-antes-de-ir-a-sus-tiendas/?utm_source=rss&utm_medium=rss&utm_campaign=liverpool-tendra-horarios-especiales-por-black-friday-esto-debes-saber-antes-de-ir-a-sus-tiendas",
+   "date": "2026-11-27T16:17:11+00:00",
+   "summary": "La campaña de Liverpool estará activa del jueves 27 al domingo 30 de noviembre, de acuerdo con la pieza promocional difundida por la cadena",
+   "image": "https://files.merca20.com/uploads/2026/11/liverpool-horario-black-friday-newsroom-liverpool.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T16:39:56.552791+00:00",
+   "topics": [
+    "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Las mejores ofertas en móviles de este final de Black Friday: tenemos de todas las gamas de marcas como Samsung, Google y más",
+   "link": "https://www.xataka.com/seleccion/mejores-ofertas-moviles-este-final-black-friday-tenemos-todas-gamas-marcas-como-samsung-google",
+   "date": "2026-11-27T16:16:22+00:00",
+   "summary": "Poquito a poco, el Black Friday está tocando a su fin. Hemos tenido un mes prácticamente para aprovechar algunas de las mejores ofertas en tecnología que hemos visto en todo el año, pero la gran mayoría ya no están disponibles. Sin embargo, eso no quiere decir que no haya nada…",
+   "image": "https://i.blogs.es/e639ca/mejores-ofertas-moviles-black-friday/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T16:39:56.552791+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Pull Sale: ejecución que transforma estrategia en valor",
+   "link": "https://www.merca20.com/pull-sale-ejecucion-que-transforma-estrategia-en-valor/?utm_source=rss&utm_medium=rss&utm_campaign=pull-sale-ejecucion-que-transforma-estrategia-en-valor",
+   "date": "2026-11-27T16:08:19+00:00",
+   "summary": "Pull Sale crea soluciones tailor made para fortalecer la ejecución, el talento y las estrategias de las marcas en campo.",
+   "image": "https://files.merca20.com/uploads/2026/11/Pullsale-Cortesia.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T16:39:56.552791+00:00",
+   "topics": []
+  },
+  {
+   "title": "La campaña electoral a través de las redes sociales: estos son los partidos con más seguidores",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/campana-electoral-redes-sociales-estos-son-partidos-seguidores",
+   "date": "2026-11-27T15:58:13+00:00",
+   "summary": "Un estudio de Metricool revela que las cuentas políticas con más seguidores no son necesariamente las que generan mayor engagement.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/elecciones-seguidores-ig.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T16:39:56.552791+00:00",
+   "og_tried": true,
+   "topics": [
+    "redes",
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Mientras Sam’s Club adelanta la venta de sus roscas de Reyes, Costco ya prepara su esperado lanzamiento con cuenta regresiva",
+   "link": "https://www.merca20.com/mientras-sams-club-adelanta-la-venta-de-sus-roscas-de-reyes-costco-ya-prepara-su-esperado-lanzamiento-con-cuenta-regresiva/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-sams-club-adelanta-la-venta-de-sus-roscas-de-reyes-costco-ya-prepara-su-esperado-lanzamiento-con-cuenta-regresiva",
+   "date": "2026-11-27T15:32:24+00:00",
+   "summary": "Aunque la celebración del Día de Reyes será hasta enero, Sam’s Club y Costco ya comenzaron a preparar la venta de sus roscas de Reyes",
+   "image": "https://files.merca20.com/uploads/2026/11/rosca-reyes-costco-sams-imagen-chatGPT.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T16:39:56.552791+00:00",
+   "topics": []
+  },
+  {
+   "title": "El Metro de Madrid ha dado el salto al 5G+. Ya hay 18 estaciones con esta tecnología y otras seis en camino",
+   "link": "https://www.xataka.com/telecomunicaciones/metro-madrid-ha-dado-salto-al-5g-hay-18-estaciones-esta-tecnologia-otras-seis-camino",
+   "date": "2026-11-27T15:30:22+00:00",
+   "summary": "Año 2021: Metro de Madrid confirma que ya dispone de cobertura 4G en toda la red (aunque hoy en día sigue habiendo tramos que no tienen ni 3G). Enero de 2026: Orange estrena el 5G en la estación de Sol con la promesa de extenderlo a toda la red antes de terminar el año. Apenas…",
+   "image": "https://i.blogs.es/5042ae/metro-madrid-03/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T16:39:56.552791+00:00",
+   "topics": []
+  },
+  {
+   "title": "Los cohetes de SpaceX despegan en Texas, pero sus restos aterrizan en México. Sheinbaum quiere reglas para que eso deje de pasar",
    "link": "https://www.xataka.com/espacio/playas-mexicanas-se-estan-llenando-escombros-spacex-claudia-sheinbaum-ha-solicitado-reunion-estados-unidos-para-solucionarlo",
-   "date": "2026-11-27T15:20:07+00:00",
+   "date": "2026-11-27T15:20:00+00:00",
    "summary": "La presidenta de México, Claudia Sheinbaum, ha solicitado reunirse con las autoridades aéreas de Estados Unidos para hablar de los daños que están causando los lanzamientos de SpaceX en su país. Si bien estos se realizan desde suelo estadounidense, en la base de Boca Chica, en…",
    "image": "https://i.blogs.es/72c289/starship-v3-lanzamiento/1024_2000.jpeg",
    "source": "Xataka",
@@ -133,8 +272,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-27T15:29:23.202942+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T15:29:23.202942+00:00",
    "topics": [
     "seo",
     "publicidad"
@@ -150,11 +289,24 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-27T15:29:23.202942+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T15:29:23.202942+00:00",
    "topics": [
     "seo"
    ]
+  },
+  {
+   "title": "Un regalo de Navidad por menos de 160 pesos: caja de lápices Prismacolor Junior de 48 colores",
+   "link": "https://www.merca20.com/un-regalo-de-navidad-por-menos-de-160-pesos-caja-de-lapices-prismacolor-junior-de-48-colores/?utm_source=rss&utm_medium=rss&utm_campaign=un-regalo-de-navidad-por-menos-de-160-pesos-caja-de-lapices-prismacolor-junior-de-48-colores",
+   "date": "2026-11-27T14:49:51+00:00",
+   "summary": "La caja de Prismacolor puede complementarse con cuadernos de dibujo, libros para colorear, sacapuntas y otros materiales artísticos para crear un regalo personalizado.",
+   "image": "https://files.merca20.com/uploads/2026/11/prismacolor-cortesia-4.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T16:39:56.552791+00:00",
+   "topics": []
   },
   {
    "title": "Teles grandes, OLED o incluso Micro RGB: las mejores ofertas en televisores de este Black Friday",
@@ -7765,7 +7917,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
+   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -7864,10 +8016,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the UK",
+   "title": "Meta expands Muse to the U.K.",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -12823,163 +12975,6 @@
    "date": "2026-11-22T18:08:43+00:00",
    "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-   "source": "TechCrunch IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "Barbie vuelve a homenajear a Mariah Carey con la nueva muñeca de colección",
-   "link": "https://www.marketingdirecto.com/anunciantes-general/barbie-vuelve-homenajear-mariah-carey-nueva-muneca-coleccion",
-   "date": "2026-11-22T15:00:00+00:00",
-   "summary": "La segunda edición Barbie Signature de la cantante recrea el icónico estilismo de la portada de su álbum navideño con el mono de terciopelo rojo.",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/BARBIE-SIGNATURE-MARIAH-CAREY.jpg",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
-   "link": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
-   "date": "2026-11-22T13:31:53+00:00",
-   "summary": "Sherif Mansour on why PMs are thriving in the AI era, the artist PM advantage, and why juniors are your secret weapon now",
-   "image": "https://substackcdn.com/image/fetch/$s_!Mq82!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc535c36a-d6f4-4f42-823d-007611887698_1920x1080.png",
-   "source": "Lenny's Newsletter",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Banks Have Had It Up to Here With Your AI Agent",
-   "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-   "date": "2026-11-22T11:00:00+00:00",
-   "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
-   "image": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/master/pass/GettyImages-2285133719.jpg",
-   "source": "Wired IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Las 10 tendencias que marcarán el futuro del marketing en 2027",
-   "link": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/10-tendencias-marcaran-futuro-marketing-2027",
-   "date": "2026-11-22T11:00:00+00:00",
-   "summary": "Del auge de la IA al regreso de lo local, estas son las 10 tendencias que transformarán el marketing en 2027.",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Tendencias-marketing-2027.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "Esta cómica campaña indaga en la intrahistoria de algunos de los gatos más famosos de internet",
-   "link": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/comica-campana-indaga-intrahistoria-algunos-gatos-famosos-internet",
-   "date": "2026-11-22T09:00:00+00:00",
-   "summary": "La nueva campaña de Meow Mix imagina el origen de los algunos de los “memes” más populares protagonizados por gatos en internet.",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/meow-mix-behind-the-memeow.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "publicidad"
-   ],
-   "og_tried": true
-  },
-  {
-   "title": "Los creativos y su peliaguda relación con la IA: ganan tiempo con esta tecnología, pero no más dinero",
-   "link": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/creativos-peliaguda-relacion-ia-ganan-tiempo-tecnologia-no-dinero",
-   "date": "2026-11-22T06:30:00+00:00",
-   "summary": "Aun cuando la IA forma parte de las rutinas de la mayor parte de los creativos, lo cierto es que pocos profesionales se están lucrando verdaderamente con esta tecnología.",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/creativos-ia.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "Perplexity and Intelligence",
-   "link": "https://openai.com/index/perplexity-and-intelligence",
-   "date": "2026-11-22T00:00:00+00:00",
-   "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "seo"
-   ]
-  },
-  {
-   "title": "Muru",
-   "link": "https://simonwillison.net/2026/Nov/21/muru/",
-   "date": "2026-11-21T23:56:28+00:00",
-   "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps…",
-   "image": "",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-   "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-   "date": "2026-11-21T21:37:10+00:00",
-   "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800",
-   "source": "TechCrunch IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "They built cyborg cockroaches with built-in AI...",
-   "link": "https://www.youtube.com/shorts/GFxHjrYwoFk",
-   "date": "2026-11-21T21:25:07+00:00",
-   "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads:…",
-   "image": "https://www.youtube.com/v/GFxHjrYwoFk?version=3",
-   "source": "Matt Wolfe (YouTube)",
-   "category": "ia",
-   "lang": "en",
-   "type": "video",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "A tale of two Nvidias",
-   "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-   "date": "2026-11-21T21:07:42+00:00",
-   "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
    "source": "TechCrunch IA",
    "category": "ia",
    "lang": "en",
