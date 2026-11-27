@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:52:15.566072+00:00",
+ "updated": "2026-11-27T22:53:56.501202+00:00",
  "sources_ok": 31,
  "sources_total": 32,
  "sources_failed": [
@@ -9,13 +9,13 @@
  "trends": [
   {
    "term": "black friday",
-   "count": 71,
-   "growth": 8.7
+   "count": 69,
+   "growth": 7.7
   },
   {
    "term": "navidad",
-   "count": 26,
-   "growth": 4.7
+   "count": 25,
+   "growth": 4.2
   },
   {
    "term": "amazon",
@@ -24,8 +24,8 @@
   },
   {
    "term": "méxico",
-   "count": 21,
-   "growth": 5.5
+   "count": 20,
+   "growth": 4.7
   },
   {
    "term": "está",
@@ -53,24 +53,24 @@
    "growth": 4.2
   },
   {
-   "term": "google",
-   "count": 27,
-   "growth": 2.2
-  },
-  {
-   "term": "descuento",
-   "count": 14,
-   "growth": 8.1
-  },
-  {
    "term": "menos",
    "count": 13,
    "growth": 4.5
   },
   {
+   "term": "descuento",
+   "count": 13,
+   "growth": 6.1
+  },
+  {
    "term": "gta",
    "count": 12,
    "growth": 5.7
+  },
+  {
+   "term": "google",
+   "count": 25,
+   "growth": 1.9
   },
   {
    "term": "móvil",
@@ -88,17 +88,46 @@
    "growth": 3.8
   },
   {
-   "term": "media",
-   "count": 10,
-   "growth": 4.8
-  },
-  {
    "term": "españa",
    "count": 10,
    "growth": 4.1
+  },
+  {
+   "term": "cuesta",
+   "count": 10,
+   "growth": 5.9
   }
  ],
  "items": [
+  {
+   "title": "Know What To Fix Before Scaling AI Agents For AEO In 2027 via @sejournal, @hethr_campbell",
+   "link": "https://www.searchenginejournal.com/know-what-to-fix-before-scaling-ai-agents-for-aeo-in-2027/598837/",
+   "date": "2026-11-27T22:41:34+00:00",
+   "summary": "Join us on December 2 to learn where enterprise AI agent programs stall and how to choose your AEO data, measurement, and investment priorities for 2027.",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/agentic-aeo-magnifying-glass-sej.png",
+   "source": "Search Engine Journal",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T22:53:56.501202+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo"
+   ]
+  },
+  {
+   "title": "Uber se asegura el 87% de la dueña de PedidosYa en una operación de 14,800 millones de dólares",
+   "link": "https://www.merca20.com/uber-compra-pedidosya-delivery-hero-america-latina/?utm_source=rss&utm_medium=rss&utm_campaign=uber-compra-pedidosya-delivery-hero-america-latina",
+   "date": "2026-11-27T22:05:40+00:00",
+   "summary": "Uber avanza en una adquisición de 14,800 millones de dólares que le permitiría incorporar las operaciones de PedidosYa en 13 países latinoamericanos y ampliar su presencia mundial en el negocio del delivery.",
+   "image": "https://files.merca20.com/uploads/2026/11/DH-rider-vendor-store-scaled-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T22:53:56.501202+00:00",
+   "topics": []
+  },
   {
    "title": "Ofrecen recompensa para encontrar a Inti, perrito beige de 10 años perdido en San Mateo Xalpa y La Chavarrieta, Xochimilco CDMX",
    "link": "https://www.merca20.com/ofrecen-recompensa-para-encontrar-a-inti-perrito-beige-de-10-anos-perdido-en-san-mateo-xalpa-y-la-chavarrieta-xochimilco-cdmx/?utm_source=rss&utm_medium=rss&utm_campaign=ofrecen-recompensa-para-encontrar-a-inti-perrito-beige-de-10-anos-perdido-en-san-mateo-xalpa-y-la-chavarrieta-xochimilco-cdmx",
@@ -8549,7 +8578,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
+   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -8648,10 +8677,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the U.K.",
+   "title": "Meta expands Muse to the UK",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -12909,34 +12938,6 @@
    "date": "2026-11-23T11:07:16+00:00",
    "summary": "Alsea reorganiza dos puestos de Starbucks para reforzar la coordinación europea sin perder de vista las particularidades de cada mercado.",
    "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Starbucks-Europa-.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": []
-  },
-  {
-   "title": "Philadelphia whips up bigger holiday marketing spend amid brand revamp",
-   "link": "https://www.marketingdive.com/news/philadelphia-whips-up-bigger-holiday-marketing-spend-amid-brand-revamp/875325/",
-   "date": "2026-11-23T11:05:00+00:00",
-   "summary": "The brand is increasing its seasonal investment by 15% and bringing back its Phillyboy character in a Santa-like role as it focuses on cheesecake.",
-   "image": "",
-   "source": "Marketing Dive",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "LEGO convierte las marquesinas de Madrid en un regalo gigante para estas navidades",
-   "link": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/lego-convierte-marquesinas-madrid-regalo-gigante-estas-navidades",
-   "date": "2026-11-23T11:02:33+00:00",
-   "summary": "La marca decora una parada de autobús con un enorme lazo rojo para presentar su set de la Sagrada Familia como el regalo perfecto.",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/LEGO-2026-NAVIDAD-LEGO.webp",
    "source": "MarketingDirecto",
    "category": "marketing",
    "lang": "es",
