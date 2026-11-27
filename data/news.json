@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T18:53:41.686701+00:00",
+ "updated": "2026-11-27T19:55:32.460986+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
@@ -7,43 +7,38 @@
  "trends": [
   {
    "term": "black friday",
-   "count": 65,
-   "growth": 8.9
+   "count": 68,
+   "growth": 9.3
   },
   {
    "term": "navidad",
-   "count": 26,
-   "growth": 4.4
+   "count": 27,
+   "growth": 4.9
   },
   {
    "term": "méxico",
-   "count": 23,
-   "growth": 7.6
+   "count": 22,
+   "growth": 6.4
   },
   {
    "term": "amazon",
-   "count": 19,
-   "growth": 4.5
+   "count": 20,
+   "growth": 5.2
   },
   {
    "term": "precio",
-   "count": 18,
-   "growth": 8.3
+   "count": 19,
+   "growth": 8.8
+  },
+  {
+   "term": "está",
+   "count": 19,
+   "growth": 8.8
   },
   {
    "term": "marcas",
    "count": 18,
    "growth": 6.0
-  },
-  {
-   "term": "está",
-   "count": 18,
-   "growth": 8.3
-  },
-  {
-   "term": "google",
-   "count": 28,
-   "growth": 2.5
   },
   {
    "term": "ofertas",
@@ -52,23 +47,23 @@
   },
   {
    "term": "euros",
-   "count": 17,
-   "growth": 5.0
+   "count": 16,
+   "growth": 4.2
+  },
+  {
+   "term": "google",
+   "count": 27,
+   "growth": 2.3
   },
   {
    "term": "menos",
-   "count": 14,
-   "growth": 6.6
+   "count": 13,
+   "growth": 4.5
   },
   {
    "term": "descuento",
    "count": 13,
    "growth": 7.5
-  },
-  {
-   "term": "media",
-   "count": 12,
-   "growth": 9.1
   },
   {
    "term": "gta",
@@ -78,7 +73,12 @@
   {
    "term": "móvil",
    "count": 11,
-   "growth": 6.5
+   "growth": 8.4
+  },
+  {
+   "term": "horas",
+   "count": 11,
+   "growth": 8.4
   },
   {
    "term": "thanksgiving",
@@ -86,17 +86,127 @@
    "growth": 3.8
   },
   {
-   "term": "hoy",
+   "term": "media",
    "count": 10,
-   "growth": 7.7
+   "growth": 4.8
   },
   {
-   "term": "campaña",
+   "term": "españa",
    "count": 10,
-   "growth": 5.9
+   "growth": 4.1
   }
  ],
  "items": [
+  {
+   "title": "Domino’s regala chamarras para perros inspiradas en sus bolsas de pizza; dónde y cómo conseguirlas gratis",
+   "link": "https://www.merca20.com/dominos-regala-chamarras-para-perros-inspiradas-en-sus-bolsas-de-pizza-donde-y-como-conseguirlas-gratis/?utm_source=rss&utm_medium=rss&utm_campaign=dominos-regala-chamarras-para-perros-inspiradas-en-sus-bolsas-de-pizza-donde-y-como-conseguirlas-gratis",
+   "date": "2026-11-27T19:54:04+00:00",
+   "summary": "Domino’s encontró una nueva forma de llevar su identidad de marca al mundo de las mascotas",
+   "image": "https://files.merca20.com/uploads/2026/11/dominos-chamarras-perro-newsroom-dominos.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T19:55:32.460986+00:00",
+   "topics": []
+  },
+  {
+   "title": "Digimon lleva su juego de cartas a los celulares, es gratis y además regalará recompensas a todos los jugadores",
+   "link": "https://www.merca20.com/digimon-lleva-su-juego-de-cartas-a-los-celulares-es-gratis-y-ademas-regalara-recompensas-a-todos-los-jugadores/?utm_source=rss&utm_medium=rss&utm_campaign=digimon-lleva-su-juego-de-cartas-a-los-celulares-es-gratis-y-ademas-regalara-recompensas-a-todos-los-jugadores",
+   "date": "2026-11-27T19:51:52+00:00",
+   "summary": "Digimon Alysion llega gratis a iOS y Android tras superar los 450 mil prerregistros. Conoce sus cartas, recompensas y cómo funciona el videojuego.",
+   "image": "https://files.merca20.com/uploads/2026/11/Digimon-lleva-su-juego-de-cartas-a-los-telefonos-celulares-con-Alysion-una-aplicacion-gratuita-que-supero-los-450-mil-prerregistros-.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T19:55:32.460986+00:00",
+   "topics": []
+  },
+  {
+   "title": "El Black Friday de OPPO derriba el precio de su serie Find X10 y el nuevo Watch 5 con cupones exclusivos",
+   "link": "https://www.xataka.com/seleccion/black-friday-oppo-derriba-precio-su-serie-find-x10-nuevo-watch-5-cupones-exclusivos",
+   "date": "2026-11-27T19:46:19+00:00",
+   "summary": "En más de una ocasión hemos dicho que el Black Friday es el momento perfecto del año para renovar dispositivos electrónicos como nuestro móvil o smartwatch. OPPO nos ha dado la razón, ya que durante sus ofertas del Black Friday ahora mismo está ofreciendo descuentos realmente…",
+   "image": "https://i.blogs.es/9af014/1920_1080-watch5-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T19:55:32.460986+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Doble cesta, 9,5 litros y 2.470 W: la freidora de aire gigante de Ninja se desploma en el Black Friday de Amazon",
+   "link": "https://www.xataka.com/seleccion/doble-cesta-9-5-litros-2-470-w-freidora-aire-gigante-ninja-se-desploma-black-friday-amazon",
+   "date": "2026-11-27T19:30:22+00:00",
+   "summary": "Cuando una freidora de aire de una sola cesta se queda corta para preparar guarniciones y platos principales a la vez, los modelos de doble compartimento se convierten en la opción a considerar. En este Black Friday (el cual estamos siguiendo en directo desde Xataka ), hemos…",
+   "image": "https://i.blogs.es/3d6156/freidora-de-aire-ninja-max-2-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T19:55:32.460986+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Un cuartel en Pozuelo, una estación en Torrejón y un satélite: así ha sido el primer ensayo militar de España con la red satelital de la UE",
+   "link": "https://www.xataka.com/espacio/cuartel-pozuelo-estacion-torrejon-satelite-espanol-asi-ha-sido-primer-ensayo-militar-espana-red-satelital-ue",
+   "date": "2026-11-27T19:30:22+00:00",
+   "summary": "España ha hecho su primera conexión a través de Govsatcom, el programa de la Unión Europea (UE) que da acceso a comunicaciones seguras por satélite a organismos públicos. En este caso, se ha hecho una simulación con fines militares, por lo que ha estado coordinado tanto por el…",
+   "image": "https://i.blogs.es/badffa/spainsat/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T19:55:32.460986+00:00",
+   "topics": []
+  },
+  {
+   "title": "Costco tiene juguetes de Navidad 2026 desde 549 pesos, hay LEGO, Hot Wheels, princesas Disney y descuentos de hasta 500 pesos",
+   "link": "https://www.merca20.com/costco-tiene-juguetes-de-navidad-2026-desde-549-pesos-hay-lego-hot-wheels-princesas-disney-y-descuentos-de-hasta-500-pesos/?utm_source=rss&utm_medium=rss&utm_campaign=costco-tiene-juguetes-de-navidad-2026-desde-549-pesos-hay-lego-hot-wheels-princesas-disney-y-descuentos-de-hasta-500-pesos",
+   "date": "2026-11-27T19:07:57+00:00",
+   "summary": "Costco México presenta su catálogo de juguetes para Navidad 2026 con precios desde 549 pesos, descuentos de hasta 500 pesos y envío incluido.",
+   "image": "https://files.merca20.com/uploads/2026/11/Costco-tiene-juguetes-de-Navidad-2026-desde-549-pesos-hay-LEGO-Hot-Wheels-princesas-Disney-y-descuentos-de-hasta-500-pesos-.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T19:55:32.460986+00:00",
+   "topics": []
+  },
+  {
+   "title": "Los AirPods 5 no se pierden las últimas horas del Black Friday con una nueva oferta histórica",
+   "link": "https://www.xataka.com/seleccion/airpods-5-no-se-pierden-ultimas-horas-black-friday-nueva-oferta-historica",
+   "date": "2026-11-27T19:00:30+00:00",
+   "summary": "El último día del Black Friday ha traído nuevas ofertas en dispositivos que habían bajado de precio estos días, como es el caso de los AirPods 5. Los recientes auriculares de Apple han vuelto a bajar de precio con la última oleada de ofertas de MediaMarkt, y lo bueno es que es…",
+   "image": "https://i.blogs.es/45ffce/airpods-5/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T19:55:32.460986+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "En Madrid la crisis de la vivienda se está cobrando una nueva víctima: 370.000 metros cuadrados de oficinas",
+   "link": "https://www.xataka.com/magnet/madrid-crisis-vivienda-se-esta-cobrando-nueva-victima-370-000-metros-cuadrados-oficinas",
+   "date": "2026-11-27T19:00:30+00:00",
+   "summary": "En Madrid cada vez más propietarios de oficinas están convencidos de tener un tesoro. Y no porque se imaginen a grandes multinacionales de inquilinas. Sus planes están lejos del ámbito empresarial y corporativo y apuntan a un sector mucho más rentable: el residencial. Desde…",
+   "image": "https://i.blogs.es/50b314/joel-filipe-h05lu60yzam-unsplash/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T19:55:32.460986+00:00",
+   "topics": []
+  },
   {
    "title": "Lefant nos deja sin excusas en su Black Friday: su robot aspirador compacto M210 Omni baja de 599 euros a menos de 180 euros",
    "link": "https://www.xataka.com/seleccion/lefant-nos-deja-excusas-su-black-friday-su-robot-aspirador-compacto-m210-omni-baja-599-euros-a-180-euros",
@@ -279,6 +389,32 @@
    ]
   },
   {
+   "title": "El perfume árabe que huele tan rico La Vie est Belle de Lancôme y solo cuesta 519 pesos: dura horas y deja estela al pasar",
+   "link": "https://www.merca20.com/el-perfume-arabe-que-huele-tan-rico-la-vie-est-belle-de-lancome-y-solo-cuesta-519-pesos-dura-horas-y-deja-estela-al-pasar/?utm_source=rss&utm_medium=rss&utm_campaign=el-perfume-arabe-que-huele-tan-rico-la-vie-est-belle-de-lancome-y-solo-cuesta-519-pesos-dura-horas-y-deja-estela-al-pasar",
+   "date": "2026-11-27T17:43:32+00:00",
+   "summary": "Este perfume tiene un aroma gourmand que evoca a La vie est belle de Lancôme, pero tiene un precio mucho más accesible",
+   "image": "https://files.merca20.com/uploads/2026/11/mercado-libre-cortesia-lattafa-yara-perfume.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T19:55:32.460986+00:00",
+   "topics": []
+  },
+  {
+   "title": "El perfume Versace para mujeres que prefieren los aromas frescos y sofisticados en lugar de las fragancias demasiado dulces",
+   "link": "https://www.merca20.com/el-perfume-versace-para-mujeres-que-prefieren-los-aromas-frescos-y-sofisticados-en-lugar-de-las-fragancias-demasiado-dulces/?utm_source=rss&utm_medium=rss&utm_campaign=el-perfume-versace-para-mujeres-que-prefieren-los-aromas-frescos-y-sofisticados-en-lugar-de-las-fragancias-demasiado-dulces",
+   "date": "2026-11-27T17:33:05+00:00",
+   "summary": "Rematan perfume Versace Bright Crystal para mujer de 90 ml con 37% de descuento. Tiene notas de peonía, magnolia, granada y almizcle por 1,199 pesos",
+   "image": "https://files.merca20.com/uploads/2026/11/perfume-Versace-Bright-Crystal-cortesia-mercado-libre.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T19:55:32.460986+00:00",
+   "topics": []
+  },
+  {
    "title": "MediaMarkt está liquidando esta tele LG de 65 pulgadas con nano definición: cuesta menos de 400 euros",
    "link": "https://www.xataka.com/seleccion/mediamarkt-esta-liquidando-esta-tele-lg-65-pulgadas-nano-definicion-cuesta-400-euros",
    "date": "2026-11-27T17:30:27+00:00",
@@ -292,6 +428,19 @@
    "topics": [
     "ecommerce"
    ]
+  },
+  {
+   "title": "El perfume que es perfecto para las mujeres que aman los aromas florales, frescos y elegantes, puede durar hasta seis horas y cuesta menos de 400 pesos",
+   "link": "https://www.merca20.com/el-perfume-que-es-perfecto-para-las-mujeres-que-aman-los-aromas-florales-frescos-y-elegantes-puede-durar-hasta-seis-horas-y-cuesta-menos-de-400-pesos/?utm_source=rss&utm_medium=rss&utm_campaign=el-perfume-que-es-perfecto-para-las-mujeres-que-aman-los-aromas-florales-frescos-y-elegantes-puede-durar-hasta-seis-horas-y-cuesta-menos-de-400-pesos",
+   "date": "2026-11-27T17:21:35+00:00",
+   "summary": "El perfume Guess 1981 para mujer, en su presentación Eau de Toilette de 100 mililitros, pasó de un precio de lista de 689 pesos a solamente 366 pesos",
+   "image": "https://files.merca20.com/uploads/2026/11/PERFUME-GUESS-CORTESIA-MERCADO-LIBRE.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T19:55:32.460986+00:00",
+   "topics": []
   },
   {
    "title": "Últimas horas de Black Friday: estos son algunos de los mejores chollos que aún puedes conseguir en Lenovo, Dyson, Apple, Pixel y más",
@@ -309,6 +458,19 @@
    ]
   },
   {
+   "title": "Cuándo es momento de evolucionar una marca y cómo hacerlo",
+   "link": "https://www.merca20.com/cuando-es-momento-de-evolucionar-una-marca-y-como-hacerlo/?utm_source=rss&utm_medium=rss&utm_campaign=cuando-es-momento-de-evolucionar-una-marca-y-como-hacerlo",
+   "date": "2026-11-27T17:15:01+00:00",
+   "summary": "La evolución de las marcas ya no será un evento puntual, sino un proceso continuo.",
+   "image": "https://files.merca20.com/uploads/2025/05/crecer-foto-de-bigstock-148978775.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T19:55:32.460986+00:00",
+   "topics": []
+  },
+  {
    "title": "Google On When To Fix 404 Errors & Updates 404 & Sitemaps Docs",
    "link": "https://www.seroundtable.com/google-404-and-sitemaps-docs-42634.html",
    "date": "2026-11-27T17:12:00+00:00",
@@ -318,8 +480,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-27T18:53:41.686701+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T18:53:41.686701+00:00",
    "topics": [
     "seo"
    ]
@@ -12775,182 +12937,6 @@
    "type": "article",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
-   "topics": []
-  },
-  {
-   "title": "Joan Miró (Somdara): “Las empresas están desaprovechando el enorme valor de sus propios datos”",
-   "link": "https://marketing4ecommerce.net/joan-miro-somdara/",
-   "date": "2026-11-23T09:10:05+00:00",
-   "summary": "VIKO lanza Somdara, su nueva consultora de Marketing Intelligence, liderada por Joan Miró y Ramon Montanera.[…]",
-   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/somdara-equipo-1024x614.jpg",
-   "source": "Marketing4eCommerce",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T16:07:41.581881+00:00",
-   "topics": [
-    "ecommerce"
-   ]
-  },
-  {
-   "title": "Amazon amplía su negocio de alimentación con un delivery de platos preparados",
-   "link": "https://www.reasonwhy.es/actualidad/amazon-platos-preparados-entrega-domicilio-estados-unidos",
-   "date": "2026-11-23T09:06:00+00:00",
-   "summary": "La compañía lanza una línea propia de comida lista para consumir o calentar, con servicio de entrega en 30 minutos.",
-   "image": "https://www.reasonwhy.es/media/library/platos-preparados-amazon.jpg",
-   "source": "Reason Why",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "ecommerce"
-   ]
-  },
-  {
-   "title": "Eduardo Menacho y Katherine Tisalema vuelan alto en la Zara Athleticz Speed Run",
-   "link": "https://www.marketingdirecto.com/marketing-general/eventos-y-formacion/eduardo-menacho-katherine-tisalema-vuelan-alto-zara-athleticz-speed-run",
-   "date": "2026-11-23T09:03:26+00:00",
-   "summary": "La carrera patrocinada por ZARA a través de su línea deportiva Zara Athleticz se confirma en su tercera edición como uno de los 10K homologados más rápidos de España",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/La-omnicanalidad-gana-protagonismo-en-la-publicidad-exterior-de-la-mano-de-Global-y-Appcelerate-1.png",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": []
-  },
-  {
-   "title": "Somdara nace para aportar la evidencia adecuada para cada decisión",
-   "link": "https://www.marketingdirecto.com/marketing-general/agencias/somdara-nace-aportar-evidencia-adecuada-cada-decision",
-   "date": "2026-11-23T09:03:07+00:00",
-   "summary": "La nueva consultora de VIKO combina investigación y análisis de datos con tecnología para entender el mercado y a los clientes, y convertir la información en recomendaciones concretas",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Somdara-006_E01-R2.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": []
-  },
-  {
-   "title": "Check Your Nov. 18 Rank Data Before Blaming The Core Update via @sejournal, @MattGSouthern",
-   "link": "https://www.searchenginejournal.com/check-your-nov-18-rank-data-before-blaming-the-core-update/598449/",
-   "date": "2026-11-23T09:00:04+00:00",
-   "summary": "A rank tracker received about a tenth of its usual Google results for hours during the core update, with a sign-in page among the blocks.",
-   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/nov-18-rank-data-featured.jpg",
-   "source": "Search Engine Journal",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "seo"
-   ]
-  },
-  {
-   "title": "Verizon’s Latest Heartthrob Is Jonathan Bailey as a Sexy Scrooge",
-   "link": "https://www.adweek.com/creativity/verizons-latest-heartthrob-is-jonathan-bailey-as-a-sexy-scrooge/",
-   "date": "2026-11-23T09:00:00+00:00",
-   "summary": "Verizon casts Jonathan Bailey, Bridgerton star and People's 2025 Sexiest Man Alive, as Scrooge in its campy holiday tale.",
-   "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/VerizonBaileyScrooge.png?w=600&h=315&crop=1",
-   "source": "Adweek",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "La película “Artificial” juega con la cultura de la IA en un cartel promocional creado por humanos",
-   "link": "https://www.reasonwhy.es/actualidad/cartel-pelicula-artificial-creado-humanos-errores-inteligencia-artificial",
-   "date": "2026-11-23T08:51:00+00:00",
-   "summary": "La promoción de \"Artificial\" juega con los errores bizarros de la inteligencia artificial para despertar el interés de los espectadores.",
-   "image": "https://www.reasonwhy.es/media/library/pelicula-artificial-poster-promocional.jpg",
-   "source": "Reason Why",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": []
-  },
-  {
-   "title": "Zorraquino presenta nuevas tendencias para analizar el papel de lo humano frente a lo artificial",
-   "link": "https://www.marketingdirecto.com/marketing-general/zorraquino-presenta-nuevas-tendencias-analizar-papel-humano-frente-artificial",
-   "date": "2026-11-23T08:33:12+00:00",
-   "summary": "La agencia Zorraquino presenta Consumer Trends 2027, un informe que explora cómo la tecnología obliga a las marcas a replantearse el valor de lo real",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Diseno-sin-titulo-2026-11-23T093120.978.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Meta propone dejar de grabar los momentos importantes con el móvil en su anuncio de Navidad",
-   "link": "https://www.reasonwhy.es/actualidad/meta-gafas-inteligentes-anuncio-navidad-grabar-movil-2026",
-   "date": "2026-11-23T08:25:00+00:00",
-   "summary": "Creado por Mother, muestra a una madre que puede disfrutar de la actuación escolar de su hija mientras la graba.",
-   "image": "https://www.reasonwhy.es/media/library/meta-gafas-anuncio-navidad-2026.jpg",
-   "source": "Reason Why",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Maker’s Mark convierte su icónica cera roja en el eje de su nueva identidad visual",
-   "link": "https://www.marketingdirecto.com/marketing-general/agencias/makers-mark-convierte-iconica-cera-roja-eje-nueva-identidad-visual",
-   "date": "2026-11-23T08:15:21+00:00",
-   "summary": "La marca de bourbon de Kentucky presenta, junto a Turner Duckworth, una renovación gráfica que incorpora ilustraciones realizadas con cera.",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/MAKERS-MARK-CERA-ROJA.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": []
-  },
-  {
-   "title": "Connected intelligence for in-house legal",
-   "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-   "date": "2026-11-23T08:00:00+00:00",
-   "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/40q0vnGDp1zwWuJrVjXtu6/79ebb13b84e11ce1711a27adfd6ffafe/connected-intelligence-for-in-house-legal-cover.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Richpanel helps companies automate 50% of support in 30 days",
-   "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-   "date": "2026-11-23T08:00:00+00:00",
-   "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/4aVhQ1EicxWg7i6lIkBrLQ/cdabc180f7e5f780dbb43c302e7163d8/richpanel-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   }
  ]
