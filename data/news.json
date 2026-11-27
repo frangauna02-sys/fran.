@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T17:51:55.789595+00:00",
+ "updated": "2026-11-27T18:53:41.686701+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
@@ -7,63 +7,68 @@
  "trends": [
   {
    "term": "black friday",
-   "count": 63,
-   "growth": 8.6
+   "count": 65,
+   "growth": 8.9
   },
   {
    "term": "navidad",
-   "count": 25,
-   "growth": 4.0
+   "count": 26,
+   "growth": 4.4
   },
   {
    "term": "méxico",
-   "count": 22,
-   "growth": 7.3
+   "count": 23,
+   "growth": 7.6
   },
   {
    "term": "amazon",
-   "count": 20,
-   "growth": 5.2
+   "count": 19,
+   "growth": 4.5
+  },
+  {
+   "term": "precio",
+   "count": 18,
+   "growth": 8.3
   },
   {
    "term": "marcas",
    "count": 18,
-   "growth": 5.3
-  },
-  {
-   "term": "precio",
-   "count": 17,
-   "growth": 7.9
+   "growth": 6.0
   },
   {
    "term": "está",
-   "count": 17,
-   "growth": 7.9
+   "count": 18,
+   "growth": 8.3
   },
   {
    "term": "google",
-   "count": 27,
-   "growth": 2.4
+   "count": 28,
+   "growth": 2.5
   },
   {
    "term": "ofertas",
-   "count": 16,
-   "growth": 11.9
+   "count": 17,
+   "growth": 12.6
   },
   {
    "term": "euros",
+   "count": 17,
+   "growth": 5.0
+  },
+  {
+   "term": "menos",
    "count": 14,
-   "growth": 4.2
+   "growth": 6.6
   },
   {
    "term": "descuento",
    "count": 13,
-   "growth": 9.8
+   "growth": 7.5
   },
   {
    "term": "media",
    "count": 12,
-   "growth": 7.0
+   "growth": 9.1
   },
   {
    "term": "gta",
@@ -71,9 +76,9 @@
    "growth": 5.7
   },
   {
-   "term": "menos",
+   "term": "móvil",
    "count": 11,
-   "growth": 5.2
+   "growth": 6.5
   },
   {
    "term": "thanksgiving",
@@ -81,22 +86,155 @@
    "growth": 3.8
   },
   {
-   "term": "oficial",
-   "count": 10,
-   "growth": 11.0
-  },
-  {
-   "term": "móvil",
-   "count": 10,
-   "growth": 5.9
-  },
-  {
    "term": "hoy",
    "count": 10,
    "growth": 7.7
+  },
+  {
+   "term": "campaña",
+   "count": 10,
+   "growth": 5.9
   }
  ],
  "items": [
+  {
+   "title": "Lefant nos deja sin excusas en su Black Friday: su robot aspirador compacto M210 Omni baja de 599 euros a menos de 180 euros",
+   "link": "https://www.xataka.com/seleccion/lefant-nos-deja-excusas-su-black-friday-su-robot-aspirador-compacto-m210-omni-baja-599-euros-a-180-euros",
+   "date": "2026-11-27T18:46:20+00:00",
+   "summary": "El Black Friday siempre es una opción perfecta para comprar cualquier tipo de producto. No solo nos sirve para ahorrarnos dinero de cara a Navidad, sino que también puede servirnos de ayuda para cambiar algún imprescindible en casa, como los robots aspiradores. Lefant es un…",
+   "image": "https://i.blogs.es/fafcd1/lefant-m210-omni-pro/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T18:53:41.686701+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Beca Sor Juana Inés de la Cruz Edomex 2026: fecha de registro, documentos y resultados para saber si recibirás los 8 mil pesos",
+   "link": "https://www.merca20.com/beca-sor-juana-ines-de-la-cruz-edomex-2026-fecha-de-registro-documentos-y-resultados-para-saber-si-recibiras-los-8-mil-pesos/?utm_source=rss&utm_medium=rss&utm_campaign=beca-sor-juana-ines-de-la-cruz-edomex-2026-fecha-de-registro-documentos-y-resultados-para-saber-si-recibiras-los-8-mil-pesos",
+   "date": "2026-11-27T18:43:50+00:00",
+   "summary": "La Beca Sor Juana Inés de la Cruz Edomex 2026 ya tiene fechas para el registro de estudiantes que buscan recibir un apoyo económico de 8 mil pesos",
+   "image": "https://files.merca20.com/uploads/2026/11/BECA-SOR-JUANA-INES-FOTO-EDOMEX-CHATGPT.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T18:53:41.686701+00:00",
+   "topics": []
+  },
+  {
+   "title": "WWE Survivor Series 2026: horario, cartelera y dónde ver EN VIVO en México",
+   "link": "https://www.merca20.com/wwe-survivor-series-2026-horario-cartelera-y-donde-ver-en-vivo-en-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=wwe-survivor-series-2026-horario-cartelera-y-donde-ver-en-vivo-en-mexico",
+   "date": "2026-11-27T18:39:51+00:00",
+   "summary": "Survivor Series WarGames se celebra este sábado con combates en jaula, Team México contra Team USA y el regreso de The Rock, conoce dónde verlo.",
+   "image": "https://files.merca20.com/uploads/2026/11/WWE-Survivor-series-2026-Cortesia-WWE.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T18:53:41.686701+00:00",
+   "topics": []
+  },
+  {
+   "title": "Más barata que comprar los recambios solos: esta afeitadora Philips para cara y cuerpo cuesta menos de 33 euros",
+   "link": "https://www.xataka.com/seleccion/barata-que-comprar-recambios-solos-esta-afeitadora-philips-para-cara-cuerpo-cuesta-33-euros",
+   "date": "2026-11-27T18:32:22+00:00",
+   "summary": "Soy usuario de una afeitadora OneBlade desde hace tiempo y uno de sus puntos débiles lo he encontrado no en sus características, sino en el precio de sus recambios sueltos. Es por ello por lo que en el Black Friday (evento que desde Xataka estamos siguiendo en directo…",
+   "image": "https://i.blogs.es/6e515b/afeitadora-philips-oneblade-360-1-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T18:53:41.686701+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "EEUU se va a poner dura para evitar que las GPU de Nvidia lleguen a China. Y esta vez parece que van en serio",
+   "link": "https://www.xataka.com/robotica-e-ia/eeuu-se-va-a-poner-dura-para-evitar-que-gpu-nvidia-lleguen-a-china-esta-vez-parece-que-van-serio",
+   "date": "2026-11-27T18:32:22+00:00",
+   "summary": "Estados Unidos lleva varios años de guerra comercial y tecnológica con China, y los chips de Nvidia estaban en el ojo del conflicto. No podían vender sus chips más avanzados para inteligencia artificial a empresas chinas y, aunque se levantó algo la mano a finales del año…",
+   "image": "https://i.blogs.es/7706d9/original/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T18:53:41.686701+00:00",
+   "topics": []
+  },
+  {
+   "title": "Claudia Sheinbaum alerta por caída de nieve en Jalisco, Colima y Michoacán y por la noche en EDOMEX y CDMX",
+   "link": "https://www.merca20.com/claudia-sheinbaum-alerta-por-caida-de-nieve-en-jalisco-colima-y-michoacan-y-por-la-noche-en-edomex-y-cdmx/?utm_source=rss&utm_medium=rss&utm_campaign=claudia-sheinbaum-alerta-por-caida-de-nieve-en-jalisco-colima-y-michoacan-y-por-la-noche-en-edomex-y-cdmx",
+   "date": "2026-11-27T18:22:52+00:00",
+   "summary": "La primera tormenta invernal provocará lluvias intensas, posible caída de nieve y aguanieve, fuertes vientos y heladas en distintas regiones del país.",
+   "image": "https://files.merca20.com/uploads/2026/11/Claudia-Sheinbaum-cortesia-Gobierno-de-Mexico.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T18:53:41.686701+00:00",
+   "topics": []
+  },
+  {
+   "title": "Oferta en Black Friday: Samsung remata el Galaxy S26 Ultra azul claro de 512 GB a precio mínimo; el regalo ideal para Navidad",
+   "link": "https://www.merca20.com/oferta-en-black-friday-samsung-remata-el-galaxy-s26-ultra-azul-claro-de-512-gb-a-precio-minimo-el-regalo-ideal-para-navidad/?utm_source=rss&utm_medium=rss&utm_campaign=oferta-en-black-friday-samsung-remata-el-galaxy-s26-ultra-azul-claro-de-512-gb-a-precio-minimo-el-regalo-ideal-para-navidad",
+   "date": "2026-11-27T18:19:12+00:00",
+   "summary": "Una de las ofertas que destacan en Amazon durante este Black Friday es el Samsung Galaxy S26 Ultra",
+   "image": "https://files.merca20.com/uploads/2026/11/AMAZON-SAMSUNG-BLACK-FOTO-AMAZON.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T18:53:41.686701+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Un móvil de gama alta de Samsung por menos de 475 euros: es una de las mejores ofertas de este Black Friday",
+   "link": "https://www.xataka.com/seleccion/movil-gama-alta-samsung-475-euros-mejores-ofertas-este-black-friday",
+   "date": "2026-11-27T18:16:20+00:00",
+   "summary": "Cuando se trata de ahorrar al comprar un móvil, mirar hacia una generación anterior es una buena idea. Si a eso le sumamos que estamos en pleno Black Friday y que hay tiendas lanzando los mejores descuentos del año, mejor que mejor. Esas dos cosas se han unido con este Galaxy…",
+   "image": "https://i.blogs.es/f5bdcf/s25-portada/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T18:53:41.686701+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Aragón pierde otro centro de datos: Capital Energy se retira de Épila y vende su conexión eléctrica a Blackstone",
+   "link": "https://www.xataka.com/energia/capital-energy-abandona-su-tercer-centro-datos-aragon-vende-150-mw-a-blackstone-para-su-proyecto-rhodes",
+   "date": "2026-11-27T18:02:20+00:00",
+   "summary": "Aragón se ha convertido en uno de los territorios más atractivos para la industria de los centros de datos. Pero no todos los proyectos anunciados llegan a construirse. De hecho, la región ha perdido recientemente otro megacampus de centros de datos. En este caso, se trataba de…",
+   "image": "https://i.blogs.es/4f336b/box2bit_dc_1200x900_filled/1024_2000.png",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T18:53:41.686701+00:00",
+   "topics": []
+  },
+  {
+   "title": "Razer y OpTic Gaming lanzan audífonos de aniversario para esports",
+   "link": "https://www.merca20.com/razer-y-optic-gaming-lanzan-audifonos-de-aniversario-para-esports/?utm_source=rss&utm_medium=rss&utm_campaign=razer-y-optic-gaming-lanzan-audifonos-de-aniversario-para-esports",
+   "date": "2026-11-27T17:52:06+00:00",
+   "summary": "Razer presenta una edición limitada de los BlackShark V3 Pro para celebrar los 20 años de OpTic Gaming, con diseño exclusivo y funciones para gaming competitivo.",
+   "image": "https://files.merca20.com/uploads/2026/11/Blackshark-v3-PRO-Cortesia-Razer.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T18:53:41.686701+00:00",
+   "topics": []
+  },
   {
    "title": "Después de agotar su colección navideña en 2025, Milk Bar vuelve con una lata coleccionable de Snoopy y cuatro nuevos sabores de galletas",
    "link": "https://www.merca20.com/despues-de-agotar-su-coleccion-navidena-en-2025-milk-bar-vuelve-con-una-lata-coleccionable-de-snoopy-y-cuatro-nuevos-sabores-de-galletas/?utm_source=rss&utm_medium=rss&utm_campaign=despues-de-agotar-su-coleccion-navidena-en-2025-milk-bar-vuelve-con-una-lata-coleccionable-de-snoopy-y-cuatro-nuevos-sabores-de-galletas",
@@ -171,6 +309,22 @@
    ]
   },
   {
+   "title": "Google On When To Fix 404 Errors & Updates 404 & Sitemaps Docs",
+   "link": "https://www.seroundtable.com/google-404-and-sitemaps-docs-42634.html",
+   "date": "2026-11-27T17:12:00+00:00",
+   "summary": "Google just pushed an update to its troubleshooting Google Search crawling errors help document and the what is a sitemap help document. The biggest change is that Google explains whether to fix 404 errors in Search Console or not. But there are other changes in these documents…",
+   "image": "https://images.seroundtable.com/google-404-diff-kpzxJMVZ.png",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T18:53:41.686701+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo"
+   ]
+  },
+  {
    "title": "La hija de Amancio Ortega tiene un imperio inmobiliario de casi 1.000 millones. Este es el rastro de sus inversiones",
    "link": "https://www.xataka.com/empresas-y-economia/hija-amancio-ortega-tiene-imperio-inmobiliario-casi-1-000-millones-este-rastro-sus-inversiones",
    "date": "2026-11-27T17:00:26+00:00",
@@ -181,6 +335,19 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-27T17:51:55.789595+00:00",
+   "topics": []
+  },
+  {
+   "title": "¿Por qué la Gen Z no compra todo lo que está en descuento?",
+   "link": "https://www.merca20.com/por-que-la-gen-z-no-compra-todo-lo-que-esta-en-descuento/?utm_source=rss&utm_medium=rss&utm_campaign=por-que-la-gen-z-no-compra-todo-lo-que-esta-en-descuento",
+   "date": "2026-11-27T16:46:57+00:00",
+   "summary": "La contradicción es interesante, ya que los consumidores disfrutan las temporadas de descuentos, pero también desconfían de las estrategias que utilizan las marcas para presentar una oferta como imperdible.",
+   "image": "https://files.merca20.com/uploads/2026/11/Gen-Z-FOTO-DE-bigstock-373742059.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T18:53:41.686701+00:00",
    "topics": []
   },
   {
@@ -223,9 +390,9 @@
    "topics": []
   },
   {
-   "title": "Los chips Blackwell de Nvidia aparecen en un centro de datos de Shanghái vinculado a Alice Huang",
+   "title": "Los chips Blackwell de Nvidia no deberían estar en China, pero han aparecido en un centro de datos de Shanghái vinculado a Alice Huang",
    "link": "https://www.xataka.com/empresas-y-economia/chips-blackwell-nvidia-aparecen-centro-datos-shanghai-vinculado-a-alice-huang",
-   "date": "2026-11-27T16:18:06+00:00",
+   "date": "2026-11-27T16:18:00+00:00",
    "summary": "Al menos dos empresas chinas habrían instalado hardware de Nvidia con arquitectura Blackwell en un centro de datos de Shanghái, según documentos compartidos ante los reguladores chinos a los que ha tenido acceso Bloomberg. Según apunta el medio, el centro de datos estaría…",
    "image": "https://i.blogs.es/00be2d/original/1024_2000.jpeg",
    "source": "Xataka",
@@ -8042,7 +8209,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
+   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -8141,10 +8308,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the UK",
+   "title": "Meta expands Muse to the U.K.",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -12783,190 +12950,6 @@
    "lang": "en",
    "type": "article",
    "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "“Pronto las IAs se meterán mucho más en la capa transaccional” (Jorge Palacios, SEO-GEO de Leroy Merlin)",
-   "link": "https://marketing4ecommerce.net/pronto-las-ias-se-meteran-mucho-mas-en-la-capa-transaccional-jorge-palacios-seo-geo-de-leroy-merlin/",
-   "date": "2026-11-23T07:56:57+00:00",
-   "summary": "Hablamos de la estrategia que sigue Leroy Merlin para conseguir que entre el 35% y 40% de las visitas a su plataforma sea tráfico orgánico.[…]",
-   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/Copia-de-Articulo-podcast-750x450-4-2.jpg",
-   "source": "Marketing4eCommerce",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T16:07:41.581881+00:00",
-   "topics": [
-    "seo",
-    "ecommerce"
-   ]
-  },
-  {
-   "title": "PcComponentes, Tefal y Moulinex, entre las marcas que participarán en el live shopping del “Tacho Saturday”",
-   "link": "https://marketing4ecommerce.net/josep-casas-tacho-saturday-un-directo-tiktok-shop-batir-record-de-ventas/",
-   "date": "2026-11-23T07:48:00+00:00",
-   "summary": "El próximo 28 de noviembre se celebra Tacho Saturday en la sede de Itnig, en el Poblenou de Barcelona de 12h a 21h.[…]",
-   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/tacho-saturday-1-1024x614.jpg",
-   "source": "Marketing4eCommerce",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T16:07:41.581881+00:00",
-   "topics": [
-    "ecommerce"
-   ]
-  },
-  {
-   "title": "Coca-Cola renuncia a la IA y pone el foco en lo humano en su anuncio de Navidad para este año",
-   "link": "https://www.reasonwhy.es/actualidad/foco-humano-anuncio-navidad-coca-cola-2026",
-   "date": "2026-11-23T07:37:00+00:00",
-   "summary": "La marca ha lanzado “Enjoy Joy” (Disfruta la alegría), que celebra los pequeños momentos de conexión y unidad propios de las fiestas.",
-   "image": "https://www.reasonwhy.es/media/library/anuncio-navidad-coca-cola-ok.jpg",
-   "source": "Reason Why",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Del ‘world building’ a la comunidad: cinco claves para convertir a los consumidores en fans",
-   "link": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/world-building-comunidad-cinco-claves-convertir-consumidores-fans",
-   "date": "2026-11-23T06:30:00+00:00",
-   "summary": "Jellycat, McDonald's, Nike y Lego son algunos ejemplos de marcas que están apostando por construir universos propios para generar conexiones emocionales y mantener el interés de sus audiencias.",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/08/agencias-clientes-ia.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": []
-  },
-  {
-   "title": "D+ Research: Brand’s holiday marketing tactics shift in 2026",
-   "link": "https://digiday.com/marketing/d-research-brands-holiday-marketing-tactics-shift-in-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "date": "2026-11-23T05:01:00+00:00",
-   "summary": "Holiday marketing is changing: CTV/streaming and TV ads are gaining traction in 2026.",
-   "image": "https://digiday.com/wp-content/uploads/sites/3/2024/11/holiday-shopping-digiday.jpg",
-   "source": "Digiday",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "The Rundown: BADBOX 3.0, the CTV ad fraud scheme generating 40 billion bid requests a day",
-   "link": "https://digiday.com/media-buying/the-rundown-badbox-3-0-the-ctv-ad-fraud-scheme-generating-40-billion-bid-requests-a-day/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "date": "2026-11-23T05:01:00+00:00",
-   "summary": "HUMAN Security's latest investigation queries the effectiveness of CTV verification safeguards.",
-   "image": "https://digiday.com/wp-content/uploads/sites/3/2025/01/ctv-fractured-digiday.jpg",
-   "source": "Digiday",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Gap Inc. is betting on ‘fashiontainment’ to fuel growth",
-   "link": "https://digiday.com/marketing/gap-inc-is-betting-on-fashiontainment-to-fuel-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "date": "2026-11-23T05:01:00+00:00",
-   "summary": "Gap Inc. has tapped boy band Just Your Type (JYT) for a multi-year partnership and launched “The Agency,” a scripted microseries made for Banana Republic.",
-   "image": "https://digiday.com/wp-content/uploads/sites/3/2025/08/phone-livestream-digiday2.jpg",
-   "source": "Digiday",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Brands boost Black Friday CTV, retail and search spending",
-   "link": "https://digiday.com/media-buying/brands-boost-black-friday-ctv-retail-and-search-spending/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "date": "2026-11-23T05:01:00+00:00",
-   "summary": "Advertisers continue to increase investments on the retail weekend but AI, tariffs and discounting pressure present banana skins.",
-   "image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/amazon-sponsored-digiday.001.jpeg?w=230&h=130&crop=1",
-   "source": "Digiday",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "seo",
-    "publicidad",
-    "ecommerce"
-   ]
-  },
-  {
-   "title": "Hybrid won the in-housing debate, at least among the largest advertisers",
-   "link": "https://digiday.com/media-buying/hybrid-won-the-in-housing-debate-at-least-among-the-largest-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "date": "2026-11-23T05:01:00+00:00",
-   "summary": "The shift has been playing for the best part of a decade. COMvergence’s first Global Advertiser Survey shows how far its got.",
-   "image": "https://digiday.com/wp-content/uploads/sites/3/2024/12/inhousing-digiday.jpg",
-   "source": "Digiday",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Media Buying Briefing: The midterm elections offer a window into media buying for ’28",
-   "link": "https://digiday.com/media-buying/media-buying-briefing-the-midterm-elections-offer-a-window-into-media-buying-for-28/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "date": "2026-11-23T05:01:00+00:00",
-   "summary": "With more than $12 billion spent this year, expectations are that number will only rise in 2028, with lots more spent as early as Q2 2027. Where will it be spent?",
-   "image": "https://digiday.com/wp-content/uploads/sites/3/2024/08/tv-spend-election-digiday.png",
-   "source": "Digiday",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-   "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-   "date": "2026-11-23T01:25:53+00:00",
-   "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
-   "source": "TechCrunch IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "datasette-charts 0.1a0",
-   "link": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
-   "date": "2026-11-23T00:37:20+00:00",
-   "summary": "Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin. You can try it out in Datasette Lite here. It…",
-   "image": "https://static.simonwillison.net/static/2026/datasette-charts-0.1a0.webp",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   }
