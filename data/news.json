@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T09:03:24.771460+00:00",
+ "updated": "2026-11-27T10:29:41.439618+00:00",
  "sources_ok": 31,
  "sources_total": 32,
  "sources_failed": [
@@ -9,8 +9,8 @@
  "trends": [
   {
    "term": "black friday",
-   "count": 57,
-   "growth": 25.4
+   "count": 58,
+   "growth": 25.8
   },
   {
    "term": "google",
@@ -30,7 +30,17 @@
   {
    "term": "amazon",
    "count": 21,
+   "growth": 6.2
+  },
+  {
+   "term": "marcas",
+   "count": 18,
    "growth": 7.0
+  },
+  {
+   "term": "euros",
+   "count": 18,
+   "growth": 13.3
   },
   {
    "term": "precio",
@@ -38,24 +48,9 @@
    "growth": 18.0
   },
   {
-   "term": "marcas",
-   "count": 17,
-   "growth": 6.6
-  },
-  {
-   "term": "euros",
-   "count": 17,
-   "growth": 12.6
-  },
-  {
    "term": "está",
    "count": 17,
    "growth": 18.0
-  },
-  {
-   "term": "nvidia",
-   "count": 21,
-   "growth": 3.0
   },
   {
    "term": "thanksgiving",
@@ -63,19 +58,19 @@
    "growth": 11.2
   },
   {
+   "term": "nvidia",
+   "count": 20,
+   "growth": 2.8
+  },
+  {
    "term": "gta",
    "count": 14,
    "growth": 15.0
   },
   {
-   "term": "jensen huang",
-   "count": 18,
-   "growth": 2.3
-  },
-  {
    "term": "descuento",
-   "count": 13,
-   "growth": 14.0
+   "count": 14,
+   "growth": 15.0
   },
   {
    "term": "ofertas",
@@ -88,9 +83,14 @@
    "growth": 5.7
   },
   {
+   "term": "jensen huang",
+   "count": 17,
+   "growth": 2.1
+  },
+  {
    "term": "meta",
    "count": 15,
-   "growth": 2.8
+   "growth": 3.0
   },
   {
    "term": "móvil",
@@ -99,6 +99,255 @@
   }
  ],
  "items": [
+  {
+   "title": "Robert M. Hutchins sobre la pedagogía: “El objetivo de la educación es preparar a los jóvenes para que se eduquen a sí mismos el resto de sus vidas”",
+   "link": "https://www.merca20.com/robert-m-hutchins-sobre-la-pedagogia-el-objetivo-de-la-educacion-es-preparar-a-los-jovenes-para-que-se-eduquen-a-si-mismos-el-resto-de-sus-vidas/?utm_source=rss&utm_medium=rss&utm_campaign=robert-m-hutchins-sobre-la-pedagogia-el-objetivo-de-la-educacion-es-preparar-a-los-jovenes-para-que-se-eduquen-a-si-mismos-el-resto-de-sus-vidas",
+   "date": "2026-11-27T10:21:04+00:00",
+   "summary": "Robert Maynard Hutchins nació el 17 de enero de 1899 en Brooklyn, Nueva York, Estados Unidos. Fue educador, jurista, escritor y filósofo de la educación",
+   "image": "https://files.merca20.com/uploads/2026/11/Robert-M-Hutchins-gemini.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "topics": []
+  },
+  {
+   "title": "Enzo Ferrari, fundador de la marca y scuderia Ferrari: “El coche más conseguido es aquel en el que pienso con obstinada insistencia, pero que todavía no ha sido realizado”",
+   "link": "https://www.merca20.com/enzo-ferrari-fundador-de-la-marca-y-scuderia-ferrari-el-coche-mas-conseguido-es-aquel-en-el-que-pienso-con-obstinada-insistencia-pero-que-todavia-no-ha-sido-realizado/?utm_source=rss&utm_medium=rss&utm_campaign=enzo-ferrari-fundador-de-la-marca-y-scuderia-ferrari-el-coche-mas-conseguido-es-aquel-en-el-que-pienso-con-obstinada-insistencia-pero-que-todavia-no-ha-sido-realizado",
+   "date": "2026-11-27T10:17:58+00:00",
+   "summary": "Una de las principales enseñanzas empresariales de Enzo Ferrari es que el prestigio construido durante décadas no sustituye la necesidad de continuar innovando",
+   "image": "https://files.merca20.com/uploads/2026/11/enzo-ferrari-gemini.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "topics": []
+  },
+  {
+   "title": "Bill Bowerman, entrenador y cofundador de Nike: “Si tienes un cuerpo, ya eres atleta. Todo lo que necesitas lo llevas adentro”",
+   "link": "https://www.merca20.com/bill-bowerman-entrenador-y-cofundador-de-nike-si-tienes-un-cuerpo-ya-eres-atleta-todo-lo-que-necesitas-lo-llevas-adentro/?utm_source=rss&utm_medium=rss&utm_campaign=bill-bowerman-entrenador-y-cofundador-de-nike-si-tienes-un-cuerpo-ya-eres-atleta-todo-lo-que-necesitas-lo-llevas-adentro",
+   "date": "2026-11-27T10:13:13+00:00",
+   "summary": "La frase de Bill Bowerman “Si tienes un cuerpo, ya eres atleta” trascendió el ámbito deportivo para convertirse en uno de los fundamentos del posicionamiento de Nike",
+   "image": "https://files.merca20.com/uploads/2026/11/Bill-Bowerman-cortesia-Nike-pressroom.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "topics": []
+  },
+  {
+   "title": "Martin Luther King Jr. sobre la educación: “La función de la educación es enseñar a uno a pensar intensa y críticamente. Inteligencia más carácter, ese es el objetivo de la verdadera educación”",
+   "link": "https://www.merca20.com/martin-luther-king-jr-sobre-la-educacion-la-funcion-de-la-educacion-es-ensenar-a-uno-a-pensar-intensa-y-criticamente-inteligencia-mas-caracter-ese-es-el-objetivo-de-la-verdadera-educacion/?utm_source=rss&utm_medium=rss&utm_campaign=martin-luther-king-jr-sobre-la-educacion-la-funcion-de-la-educacion-es-ensenar-a-uno-a-pensar-intensa-y-criticamente-inteligencia-mas-caracter-ese-es-el-objetivo-de-la-verdadera-educacion",
+   "date": "2026-11-27T10:11:05+00:00",
+   "summary": "Para Martin Luther King Jr., la verdadera educación debía cumplir una doble función: desarrollar la capacidad intelectual de los estudiantes y contribuir a su formación moral",
+   "image": "https://files.merca20.com/uploads/2026/11/Martin-Luther-King-Jr.-Gemini-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "topics": []
+  },
+  {
+   "title": "Airbnb promociona sus alojamientos junto a “Orgullo y prejuicio”, la nueva serie de Netflix",
+   "link": "https://www.reasonwhy.es/actualidad/airbnb-campana-serie-orgullo-y-prejuicio-netflix",
+   "date": "2026-11-27T10:04:00+00:00",
+   "summary": "La plataforma ha colaborado con la nueva producción de Netflix para destacar algunos de los alojamientos que podrían interesar a fans de Jane Austen.",
+   "image": "https://www.reasonwhy.es/media/library/airbnb-orgullo-y-prejuicio.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "topics": []
+  },
+  {
+   "title": "No tiene pantalla, pero sí entrenador con IA, 45 días de batería y descuento: así es la pulsera española DuckDik Sense",
+   "link": "https://www.xataka.com/seleccion/no-tiene-pantalla-entrenador-ia-45-dias-bateria-descuento-asi-pulsera-espanola-duckdik-sense",
+   "date": "2026-11-27T10:02:23+00:00",
+   "summary": "El Black Friday es una buena oportunidad para encontrar dispositivos tecnológicos diferentes a los habituales (tal y como te estamos contando en nuestro directo ). Es el caso de la DuckDik Sense, una pulsera inteligente española que ahora se puede comprar rebajada a 79 euros en…",
+   "image": "https://i.blogs.es/b81cea/pulsera-de-actividad-duckdik-sense-1-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Amancio Ortega (90 años), sobre su infancia: \"En casa no había nada de nada, pero nos educaron en valores\"",
+   "link": "https://www.xataka.com/empresas-y-economia/amancio-ortega-90-anos-su-infancia-casa-no-habia-nada-nada-nos-educaron-valores",
+   "date": "2026-11-27T10:02:22+00:00",
+   "summary": "Amancio Ortega no solo es el único español en el ‘Top 15’ de la lista Forbes de las grandes fortunas, también destaca por ser uno de sus miembros más herméticos, menos aficionado a los focos y de los que guardan con mayor celo su vida privada. A diferencia de Musk o Bezos, el…",
+   "image": "https://i.blogs.es/ba7a11/1200_900/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "topics": []
+  },
+  {
+   "title": "Emma Goldman sobre la educación: “La escuela es para el niño lo que la prisión es para el condenado y el cuartel para el soldado”",
+   "link": "https://www.merca20.com/emma-goldman-sobre-la-educacion-la-escuela-es-para-el-nino-lo-que-la-prision-es-para-el-condenado-y-el-cuartel-para-el-soldado/?utm_source=rss&utm_medium=rss&utm_campaign=emma-goldman-sobre-la-educacion-la-escuela-es-para-el-nino-lo-que-la-prision-es-para-el-condenado-y-el-cuartel-para-el-soldado",
+   "date": "2026-11-27T10:01:32+00:00",
+   "summary": "Emma Goldman defendió los principios de la Escuela Moderna, un movimiento pedagógico impulsado por el educador español Francisco Ferrer Guardia",
+   "image": "https://files.merca20.com/uploads/2026/11/Emma-Goldman-Gemini-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "topics": []
+  },
+  {
+   "title": "La campaña publicitaria que convierte a los productos del supermercado en sus propios vendedores",
+   "link": "https://www.merca20.com/campana-publicitaria-productos-supermercado-vendedores/?utm_source=rss&utm_medium=rss&utm_campaign=campana-publicitaria-productos-supermercado-vendedores",
+   "date": "2026-11-27T09:55:51+00:00",
+   "summary": "Una marca argentina de alimentos puso a conversar a sus productos desde los estantes del supermercado. BlueChew, Liquid I.V., FamilyMart y Oral-B tienen antecedentes creativos similares.",
+   "image": "https://files.merca20.com/uploads/2026/11/Captura-de-pantalla_26-11-2026_194232_www.youtube.com_.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Black Friday: todo lo que se mueve detrás de la gran fiesta de las compras",
+   "link": "https://www.marketingdirecto.com/especiales/reportajes-a-fondo/black-friday-todo-que-mueve-detras-gran-fiesta-compras",
+   "date": "2026-11-27T09:55:35+00:00",
+   "summary": "Muchos descuentos y consumidores cada vez más previsores. Así se mueve el Black Friday y estas son las claves de su gran negocio.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Black-Friday-Reportaje-.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "og_tried": true,
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "El primer coche chino evaluado por la ITV alemana termina casi en última posición",
+   "link": "https://www.xataka.com/movilidad/primer-coche-chino-evaluado-itv-alemana-termina-casi-ultima-posicion",
+   "date": "2026-11-27T09:55:00+00:00",
+   "summary": "Cuando se habla de pruebas sobre fiabilidad y comportamiento en el mercado del automóvil, hay algunos informes que son referencia. El que prepara la ITV alemana es, sin duda, uno de ellos. Y los resultados del último informe dejan en muy mal lugar a un coche eléctrico chino. Y…",
+   "image": "https://i.blogs.es/feec91/mg-4_ev-2023-hd-40b518561c8bc9772ad4e04cd9a4a011c5c2ad050/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "topics": []
+  },
+  {
+   "title": "Elon Musk acaba de empezar a construir el edificio más grande del planeta: 9 millones de metros cuadrados para fabricar algo que cabe en un bolsillo",
+   "link": "https://www.xataka.com/robotica-e-ia/elon-musk-acaba-empezar-a-construir-edificio-grande-planeta-9-millones-metros-cuadrados-para-fabricar-algo-que-bolsillo",
+   "date": "2026-11-27T09:51:28+00:00",
+   "summary": "La carrera por dominar la inteligencia artificial está llevando a las grandes tecnológicas a levantar fábricas cada vez más grandes y costosas. Sin embargo, lo que ha comenzado en una pequeña localidad de Texas amenaza con dejar obsoleto el concepto de megafactoría que…",
+   "image": "https://i.blogs.es/33f7c6/2026_08_05_terafab_01/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "topics": []
+  },
+  {
+   "title": "Softonic cambia de dueño: la asiática Newborn Town adquiere la plataforma por hasta 50 millones de euros",
+   "link": "https://www.xataka.com/empresas-y-economia/softonic-cambia-dueno-asiatica-newborn-town-adquiere-plataforma-50-millones-euros",
+   "date": "2026-11-27T09:44:07+00:00",
+   "summary": "El grupo asiático Newborn Town, que cotiza en la bolsa de Hong Kong, ha comprado Softonic. Sí, así como lo lees. La mítica plataforma de descargas española que pasó de ser el sitio donde nos descargábamos prácticamente todo a, bueno, a acumular adware y gestores de descarga…",
+   "image": "https://i.blogs.es/6d1b81/softonic/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "topics": []
+  },
+  {
+   "title": "Bruselas ata en corto a Temu, que se compromete a erradicar prácticas comerciales engañosas",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/bruselas-ata-corto-temu-compromete-erradicar-practicas-comerciales-enganosas",
+   "date": "2026-11-27T09:42:25+00:00",
+   "summary": "La compañía se ha comprometido a erradicar prácticas comerciales que engañan potencialmente al consumidor e terminan influyendo a la postre en sus compras.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/temu-comision-europea.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "og_tried": true,
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Más de 850 asistentes se dejaron enamorar por las marcas en Enamorando al Consumidor 2026",
+   "link": "https://www.marketingdirecto.com/especiales/enamorando-al-consumidor/mas-850-asistentes-dejaron-enamorar-marcas-enamorando-al-consumidor-2026",
+   "date": "2026-11-27T09:37:46+00:00",
+   "summary": "Enamorando al Consumidor celebró una nueva edición este 26 de noviembre ante más de 850 asistentes en el Círculo de Bellas Artes de Madrid.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Enamorando-al-Consumidor-2026.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "Nunca estuvo tan barato: el Samsung Galaxy Z Fold8 Ultra se desploma en Amazon con un descuentazo histórico y un año extra de garantía",
+   "link": "https://www.xataka.com/seleccion/nunca-estuvo-barato-samsung-galaxy-z-fold8-ultra-se-desploma-amazon-descuentazo-historico-ano-extra-garantia",
+   "date": "2026-11-27T09:30:26+00:00",
+   "summary": "Hoy es uno de los días más esperados para muchos para hacer compras personales o darse un capricho, el Black Friday (del que en Xataka estamos haciendo un directo con todos los chollos del momento). Si llevas tiempo pensando en dar el salto a un móvil plegable, el más top de…",
+   "image": "https://i.blogs.es/bffbe2/samsung-galaxy-z-fold8-ultra-1-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "De “Open to Work” a “Open to Equal Pay”: así reivindica esta organización la igualdad salarial a través de Linkedin",
+   "link": "https://www.reasonwhy.es/actualidad/sello-linkedin-open-to-equal-pay-igualdad-salarial",
+   "date": "2026-11-27T09:07:00+00:00",
+   "summary": "La organización holandesa Bureau Clara Wichmann utiliza el recurso de la red social para visibilizar la brecha salarial.",
+   "image": "https://www.reasonwhy.es/media/library/open-to-equal-pay.jpg",
+   "source": "Reason Why",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "topics": [
+    "redes"
+   ]
+  },
+  {
+   "title": "Un infarto no ocurre de la noche a la mañana: la tensión arterial y una proteína en sangre ya dan señales silenciosas 30 años antes",
+   "link": "https://www.xataka.com/medicina-y-salud/infarto-no-ocurre-noche-a-manana-tension-arterial-proteina-sangre-dan-senales-silenciosas-30-anos-antes",
+   "date": "2026-11-27T09:02:20+00:00",
+   "summary": "Cuando una persona sufre un infarto de corazón o un ictus, la verdad es que se suele percibir como algo repentino que ha ocurrido de la noche a la mañana. Sin embargo, la medicina nos lleva años mostrando que el deterioro de nuestras arterias sigue una carrera de fondo…",
+   "image": "https://i.blogs.es/932a20/corazon/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T10:29:41.439618+00:00",
+   "topics": []
+  },
   {
    "title": "9 AI Workflows That Turn Marketing Data Into Content AI Cites via @sejournal, @hethr_campbell",
    "link": "https://www.searchenginejournal.com/9-ai-workflows-that-turn-marketing-data-into-content-ai-cites-recap/598061/",
@@ -109,8 +358,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-27T09:03:24.771460+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T09:03:24.771460+00:00",
    "topics": [
     "seo"
    ]
@@ -131,7 +380,7 @@
    ]
   },
   {
-   "title": "En 1885, un asturiano tuvo una idea para proteger a la Armada española. Hoy su invento se ha convertido en el arma definitiva de EEUU y China",
+   "title": "La carrera naval entre EEUU y China tiene un insospechado protagonista: el invento de un asturiano para acabar con los torpedos",
    "link": "https://www.xataka.com/magnet/1885-asturiano-tuvo-idea-para-proteger-a-armada-espanola-hoy-su-invento-se-convirtio-arma-definitiva-eeuu-china",
    "date": "2026-11-27T08:02:00+00:00",
    "summary": "A finales del siglo XIX, España asistía al lento desmoronamiento de su imperio mientras las grandes potencias se preparaban para una nueva era de la guerra naval. Sin embargo, en medio de aquella decadencia industrial y militar, un marino asturiano encontró la solución a un…",
@@ -6599,7 +6848,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
+   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -6698,10 +6947,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the UK",
+   "title": "Meta expands Muse to the U.K.",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -12733,262 +12982,6 @@
    "lang": "en",
    "type": "article",
    "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": []
-  },
-  {
-   "title": "The Reason No One Can Catch NVIDIA",
-   "link": "https://www.youtube.com/shorts/hT0qW_DRFLw",
-   "date": "2026-11-18T19:02:01+00:00",
-   "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads:…",
-   "image": "https://www.youtube.com/v/hT0qW_DRFLw?version=3",
-   "source": "Matt Wolfe (YouTube)",
-   "category": "ia",
-   "lang": "en",
-   "type": "video",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "Raiders give fans all access with new TikTok Live show",
-   "link": "https://www.marketingbrew.com/stories/raiders-all-access-tiktok-live-show?utm_source=&utm_medium=syndication&utm_campaign=feed",
-   "date": "2026-11-18T19:00:11+00:00",
-   "summary": "The Las Vegas NFL team became the first in the league to host a pregame show on TikTok Live a few weeks ago, and it’s positioned to become an integral part of the Raiders’ fan-acquisition strategy.",
-   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80,trim=428;0;428;0/https://storage.morningbrew.com/image/2026-11-17/image-593d0105981c16109d872bcaa6e22278515c3781-8192x5464-jpg/JL_20261025_026.jpg",
-   "source": "Marketing Brew",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "Genie 4 is now available",
-   "link": "https://deepmind.google/blog/genie-4-is-now-available/",
-   "date": "2026-11-18T18:13:42+00:00",
-   "summary": "",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png",
-   "source": "Google DeepMind",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Will Wright's next simulation will use AI to mine content from your memories",
-   "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-   "date": "2026-11-18T18:10:33+00:00",
-   "summary": "With MyMems, Wright says he wants to \"turn the simulation inward.\"",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png",
-   "source": "Ars Technica IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": []
-  },
-  {
-   "title": "Our Approach to Updating Our Commercial Terms of Service",
-   "link": "https://about.fb.com/news/2026/11/our-approach-to-updating-our-commercial-terms-of-service/",
-   "date": "2026-11-18T18:01:47+00:00",
-   "summary": "We recently announced that the proposed updates to our commercial terms of service have been put on hold and that we will revise those proposed changes after a deeper consultation with stakeholders. We made this decision after hearing concerns from news publishers and other…",
-   "image": "https://about.fb.com/wp-content/uploads/2026/09/Meta_Thumbnail.jpg?fit=5760%2C4320",
-   "source": "Meta Newsroom",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes",
-    "publicidad"
-   ]
-  },
-  {
-   "title": "datasette-arrows 0.1a0",
-   "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
-   "date": "2026-11-18T17:09:59+00:00",
-   "summary": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table without needing to load it all into memory, because those…",
-   "image": "https://static.simonwillison.net/static/2026/arrow-export-dialog.webp",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "The Gemini app is now available on lower-memory Android devices.",
-   "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-   "date": "2026-11-18T17:00:00+00:00",
-   "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
-   "source": "Google AI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Win the holiday shopping season with November’s Demand Gen Drop.",
-   "link": "https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/",
-   "date": "2026-11-18T17:00:00+00:00",
-   "summary": "Take advantage of the holiday peak with YouTube’s November Demand Gen Drop.",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_November_2026.max-600x600.format-webp.webp",
-   "source": "Google Ads & Commerce",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "redes",
-    "publicidad",
-    "ecommerce"
-   ]
-  },
-  {
-   "title": "Quoting Daniel Stenberg",
-   "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
-   "date": "2026-11-18T15:58:27+00:00",
-   "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200…",
-   "image": "",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "The PSF end-of-year fundraiser",
-   "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
-   "date": "2026-11-18T14:44:48+00:00",
-   "summary": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider…",
-   "image": "",
-   "source": "Simon Willison",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "The AI Hype Index: AI is everywhere",
-   "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-   "date": "2026-11-18T14:42:44+00:00",
-   "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean…",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/11-Hype-thumb2.jpg?resize=1200,600",
-   "source": "MIT Technology Review",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "seo"
-   ]
-  },
-  {
-   "title": "Brands are hiring former journalists for storytelling. Or are they?",
-   "link": "https://www.marketingbrew.com/stories/brands-hiring-former-journalists-storytelling-skills?utm_source=&utm_medium=syndication&utm_campaign=feed",
-   "date": "2026-11-18T14:19:04+00:00",
-   "summary": "As companies seek to stand out amid a rash of AI slop, many are turning to experienced writers to tell their stories.",
-   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80,trim=78;0;78;0/https://storage.morningbrew.com/image/2026-11-17/image-aa11e109fd7d350933eb0e2316ad78e1d0e67dc2-1500x1000-jpg/MKT_Journalists_SM_1126.jpg",
-   "source": "Marketing Brew",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
-   "link": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
-   "date": "2026-11-18T14:07:00+00:00",
-   "summary": "Starting today, Loblaw is bringing its catalogue to Muse as a partner connector, the first Canadian retailer to do so. Connectors are a big reason Muse can do so much. Canadians can connect their Muse to apps they already use, including Gmail, Google Calendar and Instagram, so…",
-   "image": "https://about.fb.com/wp-content/uploads/2026/11/ad846cce-d851-423a-a491-374201cd55ba.png?fit=2064%2C1161",
-   "source": "Meta Newsroom",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes",
-    "ecommerce"
-   ]
-  },
-  {
-   "title": "How to Build Reusable AI Skills and Stop Explaining Your Instructions Every Time",
-   "link": "https://www.marketingaiinstitute.com/blog/building-reusable-ai-skills",
-   "date": "2026-11-18T14:00:03+00:00",
-   "summary": "If you're explaining, and re-explaining, what you want AI to do every time you use it, it's time to take advantage of skills.",
-   "image": "https://www.marketingaiinstitute.com/hubfs/MAII%20podcast%20blog%2c%2011_5%20%281%29.png",
-   "source": "Marketing AI Institute",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "OpenAI’s newest release lands to rough reviews",
-   "link": "https://therundownai.beehiiv.com/p/openai-newest-release-lands-to-rough-reviews",
-   "date": "2026-11-18T11:00:00+00:00",
-   "summary": "PLUS: Turn a spreadsheet into a data story with AI",
-   "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/b67d3e59-a77e-433c-84e0-aced1aff9608/62astra.png",
-   "source": "The Rundown AI",
-   "category": "ia",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "This smell startup says its AI nose is as good as a human’s",
-   "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-   "date": "2026-11-18T10:20:30+00:00",
-   "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training…",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Copy-of-Copy-of-BH1_6183_Ben_Hider_250430.jpg?w=840",
-   "source": "MIT Technology Review",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "The Silent Consensus",
-   "link": "https://openai.com/index/the-silent-consensus",
-   "date": "2026-11-18T10:00:00+00:00",
-   "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/3hoPgi2r6EgMRVWO3fPVDh/47ed0d21fdd9f0aca529917ba3ece558/the-silent-consensus-seo-soft-focus-v3.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Research acceleration: The jagged frontier",
-   "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-   "date": "2026-11-18T08:00:00+00:00",
-   "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/2YS8yWiGpKflhlEnAkcLU/f51ead4391706f6c3198f0d61a0f147a/research-acceleration-the-jagged-frontier-social.png",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
   }
  ]

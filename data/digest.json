@@ -3,104 +3,205 @@
   "intro": "Los titulares más recientes de IA y marketing.",
   "stories": [
    {
-    "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-    "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private…",
+    "title": "No tiene pantalla, pero sí entrenador con IA, 45 días de batería y descuento: así es la pulsera española DuckDik Sense",
+    "summary": "El Black Friday es una buena oportunidad para encontrar dispositivos tecnológicos diferentes a los habituales (tal y como te estamos contando en nuestro directo ). Es el caso de la DuckDik Sense, una pulsera inteligente española que ahora se puede comprar rebajada a 79 euros en…",
     "why": "",
-    "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-    "source": "The Verge IA",
-    "category": "ia",
-    "original_title": "42 state AGs are trying to stop Character.AI from selling users’ chats"
-   },
-   {
-    "title": "La Guardia Civil encuentra bajo un parque infantil de Granada un búnker de 180 metros con más de 2.000 plantas de marihuana",
-    "summary": "En una finca de Las Gabias, a las afueras de Granada, se construyó un rincón pensado para no levantar sospechas: césped artificial, un columpio, una casita de juegos y una colchoneta. Cualquier vecino, o cualquier agente, habría visto lo que era, el típico espacio para niños.…",
-    "why": "",
-    "link": "https://www.xataka.com/magnet/guardia-civil-encuentra-parque-infantil-granada-bunker-180-metros-2-000-plantas-marihuana",
+    "link": "https://www.xataka.com/seleccion/no-tiene-pantalla-entrenador-ia-45-dias-bateria-descuento-asi-pulsera-espanola-duckdik-sense",
     "source": "Xataka",
     "category": "ia",
-    "original_title": "La Guardia Civil encuentra bajo un parque infantil de Granada un búnker de 180 metros con más de 2.000 plantas de marihuana"
+    "original_title": "No tiene pantalla, pero sí entrenador con IA, 45 días de batería y descuento: así es la pulsera española DuckDik Sense"
    },
    {
-    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-    "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+    "title": "Elon Musk acaba de empezar a construir el edificio más grande del planeta: 9 millones de metros cuadrados para fabricar algo que cabe en un bolsillo",
+    "summary": "La carrera por dominar la inteligencia artificial está llevando a las grandes tecnológicas a levantar fábricas cada vez más grandes y costosas. Sin embargo, lo que ha comenzado en una pequeña localidad de Texas amenaza con dejar obsoleto el concepto de megafactoría que…",
     "why": "",
-    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "link": "https://www.xataka.com/robotica-e-ia/elon-musk-acaba-empezar-a-construir-edificio-grande-planeta-9-millones-metros-cuadrados-para-fabricar-algo-que-bolsillo",
+    "source": "Xataka",
+    "category": "ia",
+    "original_title": "Elon Musk acaba de empezar a construir el edificio más grande del planeta: 9 millones de metros cuadrados para fabricar algo que cabe en un bolsillo"
+   },
+   {
+    "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+    "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+    "why": "",
+    "link": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+    "source": "Wired IA",
+    "category": "ia",
+    "original_title": "A New Breed of Chip Runs AI Models Using Waves of Light"
+   },
+   {
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+    "why": "",
+    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
     "source": "TechCrunch IA",
     "category": "ia",
-    "original_title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks"
+    "original_title": "Nvidia hits pause on chip shipments to Southeast Asia"
    },
    {
-    "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-    "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might…",
+    "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
     "why": "",
-    "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-    "source": "The Verge IA",
-    "category": "ia",
-    "original_title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future"
-   },
-   {
-    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-    "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-    "why": "",
-    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
     "source": "TechCrunch IA",
     "category": "ia",
-    "original_title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work"
+    "original_title": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
    },
    {
-    "title": "Alex Dakov, empresario: “A los mejores empleados no los ascienden. Al que rinde lo necesitas donde está. Si lo asciendes, deja un hueco difícil de llenar”",
-    "summary": "Alex Dakov, empresario y emprendedor, reflexiona sobre el liderazgo, la gestión del talento y las oportunidades de crecimiento dentro de las organizaciones",
+    "title": "Robert M. Hutchins sobre la pedagogía: “El objetivo de la educación es preparar a los jóvenes para que se eduquen a sí mismos el resto de sus vidas”",
+    "summary": "Robert Maynard Hutchins nació el 17 de enero de 1899 en Brooklyn, Nueva York, Estados Unidos. Fue educador, jurista, escritor y filósofo de la educación",
     "why": "",
-    "link": "https://www.merca20.com/alex-dakov-empresario-a-los-mejores-empleados-no-los-ascienden-al-que-rinde-lo-necesitas-donde-esta-si-lo-asciendes-deja-un-hueco-dificil-de-llenar/?utm_source=rss&utm_medium=rss&utm_campaign=alex-dakov-empresario-a-los-mejores-empleados-no-los-ascienden-al-que-rinde-lo-necesitas-donde-esta-si-lo-asciendes-deja-un-hueco-dificil-de-llenar",
+    "link": "https://www.merca20.com/robert-m-hutchins-sobre-la-pedagogia-el-objetivo-de-la-educacion-es-preparar-a-los-jovenes-para-que-se-eduquen-a-si-mismos-el-resto-de-sus-vidas/?utm_source=rss&utm_medium=rss&utm_campaign=robert-m-hutchins-sobre-la-pedagogia-el-objetivo-de-la-educacion-es-preparar-a-los-jovenes-para-que-se-eduquen-a-si-mismos-el-resto-de-sus-vidas",
     "source": "Merca2.0",
     "category": "marketing",
-    "original_title": "Alex Dakov, empresario: “A los mejores empleados no los ascienden. Al que rinde lo necesitas donde está. Si lo asciendes, deja un hueco difícil de llenar”"
+    "original_title": "Robert M. Hutchins sobre la pedagogía: “El objetivo de la educación es preparar a los jóvenes para que se eduquen a sí mismos el resto de sus vidas”"
    },
    {
-    "title": "John Locke sobre la educación: “De todos los hombres con quienes nos encontramos, nueve de cada diez son lo que son, buenos o malos, útiles o inútiles, por la educación que han recibido”",
-    "summary": "Para John Locke, la educación constituye una de las influencias más importantes en la formación de las personas",
+    "title": "Enzo Ferrari, fundador de la marca y scuderia Ferrari: “El coche más conseguido es aquel en el que pienso con obstinada insistencia, pero que todavía no ha sido realizado”",
+    "summary": "Una de las principales enseñanzas empresariales de Enzo Ferrari es que el prestigio construido durante décadas no sustituye la necesidad de continuar innovando",
     "why": "",
-    "link": "https://www.merca20.com/john-locke-sobre-la-educacion-de-todos-los-hombres-con-quienes-nos-encontramos-nueve-de-cada-diez-son-lo-que-son-buenos-o-malos-utiles-o-inutiles-por-la-educacion-que-han-recibido/?utm_source=rss&utm_medium=rss&utm_campaign=john-locke-sobre-la-educacion-de-todos-los-hombres-con-quienes-nos-encontramos-nueve-de-cada-diez-son-lo-que-son-buenos-o-malos-utiles-o-inutiles-por-la-educacion-que-han-recibido",
+    "link": "https://www.merca20.com/enzo-ferrari-fundador-de-la-marca-y-scuderia-ferrari-el-coche-mas-conseguido-es-aquel-en-el-que-pienso-con-obstinada-insistencia-pero-que-todavia-no-ha-sido-realizado/?utm_source=rss&utm_medium=rss&utm_campaign=enzo-ferrari-fundador-de-la-marca-y-scuderia-ferrari-el-coche-mas-conseguido-es-aquel-en-el-que-pienso-con-obstinada-insistencia-pero-que-todavia-no-ha-sido-realizado",
     "source": "Merca2.0",
     "category": "marketing",
-    "original_title": "John Locke sobre la educación: “De todos los hombres con quienes nos encontramos, nueve de cada diez son lo que son, buenos o malos, útiles o inútiles, por la educación que han recibido”"
+    "original_title": "Enzo Ferrari, fundador de la marca y scuderia Ferrari: “El coche más conseguido es aquel en el que pienso con obstinada insistencia, pero que todavía no ha sido realizado”"
    },
    {
-    "title": "How to turn your selfie into GTA 6-inspired cover art with ChatGPT, The prompt to preserve your facial features",
-    "summary": "Learn how to create a GTA 6-style photo in ChatGPT. Upload a selfie and copy this prompt to preserve your facial features and give your image a Vice City-inspired look.",
+    "title": "Bill Bowerman, entrenador y cofundador de Nike: “Si tienes un cuerpo, ya eres atleta. Todo lo que necesitas lo llevas adentro”",
+    "summary": "La frase de Bill Bowerman “Si tienes un cuerpo, ya eres atleta” trascendió el ámbito deportivo para convertirse en uno de los fundamentos del posicionamiento de Nike",
     "why": "",
-    "link": "https://www.merca20.com/how-to-turn-your-selfie-into-gta-6-inspired-cover-art-with-chatgpt-the-prompt-to-preserve-your-facial-features/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-turn-your-selfie-into-gta-6-inspired-cover-art-with-chatgpt-the-prompt-to-preserve-your-facial-features",
+    "link": "https://www.merca20.com/bill-bowerman-entrenador-y-cofundador-de-nike-si-tienes-un-cuerpo-ya-eres-atleta-todo-lo-que-necesitas-lo-llevas-adentro/?utm_source=rss&utm_medium=rss&utm_campaign=bill-bowerman-entrenador-y-cofundador-de-nike-si-tienes-un-cuerpo-ya-eres-atleta-todo-lo-que-necesitas-lo-llevas-adentro",
     "source": "Merca2.0",
     "category": "marketing",
-    "original_title": "How to turn your selfie into GTA 6-inspired cover art with ChatGPT, The prompt to preserve your facial features"
+    "original_title": "Bill Bowerman, entrenador y cofundador de Nike: “Si tienes un cuerpo, ya eres atleta. Todo lo que necesitas lo llevas adentro”"
    },
    {
-    "title": "Michelle Obama sobre el trabajo en equipo: “Nadie llega a donde está por sí solo. Cada uno de nosotros tiene una comunidad de personas que nos ayuda a avanzar”",
-    "summary": "La reflexión de Michelle Obama también puede aplicarse al liderazgo. Un directivo que reconoce las aportaciones de sus colaboradores y escucha diferentes puntos de vista puede favorecer un entorno de confianza y cooperación",
+    "title": "Martin Luther King Jr. sobre la educación: “La función de la educación es enseñar a uno a pensar intensa y críticamente. Inteligencia más carácter, ese es el objetivo de la verdadera educación”",
+    "summary": "Para Martin Luther King Jr., la verdadera educación debía cumplir una doble función: desarrollar la capacidad intelectual de los estudiantes y contribuir a su formación moral",
     "why": "",
-    "link": "https://www.merca20.com/michelle-obama-sobre-el-trabajo-en-equipo-nadie-llega-a-donde-esta-por-si-solo-cada-uno-de-nosotros-tiene-una-comunidad-de-personas-que-nos-ayuda-a-avanzar/?utm_source=rss&utm_medium=rss&utm_campaign=michelle-obama-sobre-el-trabajo-en-equipo-nadie-llega-a-donde-esta-por-si-solo-cada-uno-de-nosotros-tiene-una-comunidad-de-personas-que-nos-ayuda-a-avanzar",
+    "link": "https://www.merca20.com/martin-luther-king-jr-sobre-la-educacion-la-funcion-de-la-educacion-es-ensenar-a-uno-a-pensar-intensa-y-criticamente-inteligencia-mas-caracter-ese-es-el-objetivo-de-la-verdadera-educacion/?utm_source=rss&utm_medium=rss&utm_campaign=martin-luther-king-jr-sobre-la-educacion-la-funcion-de-la-educacion-es-ensenar-a-uno-a-pensar-intensa-y-criticamente-inteligencia-mas-caracter-ese-es-el-objetivo-de-la-verdadera-educacion",
     "source": "Merca2.0",
     "category": "marketing",
-    "original_title": "Michelle Obama sobre el trabajo en equipo: “Nadie llega a donde está por sí solo. Cada uno de nosotros tiene una comunidad de personas que nos ayuda a avanzar”"
+    "original_title": "Martin Luther King Jr. sobre la educación: “La función de la educación es enseñar a uno a pensar intensa y críticamente. Inteligencia más carácter, ese es el objetivo de la verdadera educación”"
    },
    {
-    "title": "Compras “aprobadas por el marido” o cómo visibilizar la violencia económica",
-    "summary": "La organización israelí No2Violence ha incluido una pegatina en las entregas de la plataforma Wolt para concienciar.",
+    "title": "Airbnb promociona sus alojamientos junto a “Orgullo y prejuicio”, la nueva serie de Netflix",
+    "summary": "La plataforma ha colaborado con la nueva producción de Netflix para destacar algunos de los alojamientos que podrían interesar a fans de Jane Austen.",
     "why": "",
-    "link": "https://www.reasonwhy.es/actualidad/compras-pegatina-aprobado-marido-concienciacion-violencia-economica",
+    "link": "https://www.reasonwhy.es/actualidad/airbnb-campana-serie-orgullo-y-prejuicio-netflix",
     "source": "Reason Why",
     "category": "marketing",
-    "original_title": "Compras “aprobadas por el marido” o cómo visibilizar la violencia económica"
+    "original_title": "Airbnb promociona sus alojamientos junto a “Orgullo y prejuicio”, la nueva serie de Netflix"
    }
   ],
   "trend_note": "",
   "action_idea": "",
   "ai": false,
-  "date": "2026-11-26",
-  "label": "jueves 26 de noviembre",
-  "created": "2026-11-26T10:31:07.935663+00:00"
+  "date": "2026-11-27",
+  "label": "viernes 27 de noviembre",
+  "created": "2026-11-27T10:29:46.926294+00:00"
  },
  "archive": [
+  {
+   "intro": "Los titulares más recientes de IA y marketing.",
+   "stories": [
+    {
+     "title": "No tiene pantalla, pero sí entrenador con IA, 45 días de batería y descuento: así es la pulsera española DuckDik Sense",
+     "summary": "El Black Friday es una buena oportunidad para encontrar dispositivos tecnológicos diferentes a los habituales (tal y como te estamos contando en nuestro directo ). Es el caso de la DuckDik Sense, una pulsera inteligente española que ahora se puede comprar rebajada a 79 euros en…",
+     "why": "",
+     "link": "https://www.xataka.com/seleccion/no-tiene-pantalla-entrenador-ia-45-dias-bateria-descuento-asi-pulsera-espanola-duckdik-sense",
+     "source": "Xataka",
+     "category": "ia",
+     "original_title": "No tiene pantalla, pero sí entrenador con IA, 45 días de batería y descuento: así es la pulsera española DuckDik Sense"
+    },
+    {
+     "title": "Elon Musk acaba de empezar a construir el edificio más grande del planeta: 9 millones de metros cuadrados para fabricar algo que cabe en un bolsillo",
+     "summary": "La carrera por dominar la inteligencia artificial está llevando a las grandes tecnológicas a levantar fábricas cada vez más grandes y costosas. Sin embargo, lo que ha comenzado en una pequeña localidad de Texas amenaza con dejar obsoleto el concepto de megafactoría que…",
+     "why": "",
+     "link": "https://www.xataka.com/robotica-e-ia/elon-musk-acaba-empezar-a-construir-edificio-grande-planeta-9-millones-metros-cuadrados-para-fabricar-algo-que-bolsillo",
+     "source": "Xataka",
+     "category": "ia",
+     "original_title": "Elon Musk acaba de empezar a construir el edificio más grande del planeta: 9 millones de metros cuadrados para fabricar algo que cabe en un bolsillo"
+    },
+    {
+     "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+     "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+     "why": "",
+     "link": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+     "source": "Wired IA",
+     "category": "ia",
+     "original_title": "A New Breed of Chip Runs AI Models Using Waves of Light"
+    },
+    {
+     "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+     "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+     "why": "",
+     "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+     "source": "TechCrunch IA",
+     "category": "ia",
+     "original_title": "Nvidia hits pause on chip shipments to Southeast Asia"
+    },
+    {
+     "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+     "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+     "why": "",
+     "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+     "source": "TechCrunch IA",
+     "category": "ia",
+     "original_title": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
+    },
+    {
+     "title": "Robert M. Hutchins sobre la pedagogía: “El objetivo de la educación es preparar a los jóvenes para que se eduquen a sí mismos el resto de sus vidas”",
+     "summary": "Robert Maynard Hutchins nació el 17 de enero de 1899 en Brooklyn, Nueva York, Estados Unidos. Fue educador, jurista, escritor y filósofo de la educación",
+     "why": "",
+     "link": "https://www.merca20.com/robert-m-hutchins-sobre-la-pedagogia-el-objetivo-de-la-educacion-es-preparar-a-los-jovenes-para-que-se-eduquen-a-si-mismos-el-resto-de-sus-vidas/?utm_source=rss&utm_medium=rss&utm_campaign=robert-m-hutchins-sobre-la-pedagogia-el-objetivo-de-la-educacion-es-preparar-a-los-jovenes-para-que-se-eduquen-a-si-mismos-el-resto-de-sus-vidas",
+     "source": "Merca2.0",
+     "category": "marketing",
+     "original_title": "Robert M. Hutchins sobre la pedagogía: “El objetivo de la educación es preparar a los jóvenes para que se eduquen a sí mismos el resto de sus vidas”"
+    },
+    {
+     "title": "Enzo Ferrari, fundador de la marca y scuderia Ferrari: “El coche más conseguido es aquel en el que pienso con obstinada insistencia, pero que todavía no ha sido realizado”",
+     "summary": "Una de las principales enseñanzas empresariales de Enzo Ferrari es que el prestigio construido durante décadas no sustituye la necesidad de continuar innovando",
+     "why": "",
+     "link": "https://www.merca20.com/enzo-ferrari-fundador-de-la-marca-y-scuderia-ferrari-el-coche-mas-conseguido-es-aquel-en-el-que-pienso-con-obstinada-insistencia-pero-que-todavia-no-ha-sido-realizado/?utm_source=rss&utm_medium=rss&utm_campaign=enzo-ferrari-fundador-de-la-marca-y-scuderia-ferrari-el-coche-mas-conseguido-es-aquel-en-el-que-pienso-con-obstinada-insistencia-pero-que-todavia-no-ha-sido-realizado",
+     "source": "Merca2.0",
+     "category": "marketing",
+     "original_title": "Enzo Ferrari, fundador de la marca y scuderia Ferrari: “El coche más conseguido es aquel en el que pienso con obstinada insistencia, pero que todavía no ha sido realizado”"
+    },
+    {
+     "title": "Bill Bowerman, entrenador y cofundador de Nike: “Si tienes un cuerpo, ya eres atleta. Todo lo que necesitas lo llevas adentro”",
+     "summary": "La frase de Bill Bowerman “Si tienes un cuerpo, ya eres atleta” trascendió el ámbito deportivo para convertirse en uno de los fundamentos del posicionamiento de Nike",
+     "why": "",
+     "link": "https://www.merca20.com/bill-bowerman-entrenador-y-cofundador-de-nike-si-tienes-un-cuerpo-ya-eres-atleta-todo-lo-que-necesitas-lo-llevas-adentro/?utm_source=rss&utm_medium=rss&utm_campaign=bill-bowerman-entrenador-y-cofundador-de-nike-si-tienes-un-cuerpo-ya-eres-atleta-todo-lo-que-necesitas-lo-llevas-adentro",
+     "source": "Merca2.0",
+     "category": "marketing",
+     "original_title": "Bill Bowerman, entrenador y cofundador de Nike: “Si tienes un cuerpo, ya eres atleta. Todo lo que necesitas lo llevas adentro”"
+    },
+    {
+     "title": "Martin Luther King Jr. sobre la educación: “La función de la educación es enseñar a uno a pensar intensa y críticamente. Inteligencia más carácter, ese es el objetivo de la verdadera educación”",
+     "summary": "Para Martin Luther King Jr., la verdadera educación debía cumplir una doble función: desarrollar la capacidad intelectual de los estudiantes y contribuir a su formación moral",
+     "why": "",
+     "link": "https://www.merca20.com/martin-luther-king-jr-sobre-la-educacion-la-funcion-de-la-educacion-es-ensenar-a-uno-a-pensar-intensa-y-criticamente-inteligencia-mas-caracter-ese-es-el-objetivo-de-la-verdadera-educacion/?utm_source=rss&utm_medium=rss&utm_campaign=martin-luther-king-jr-sobre-la-educacion-la-funcion-de-la-educacion-es-ensenar-a-uno-a-pensar-intensa-y-criticamente-inteligencia-mas-caracter-ese-es-el-objetivo-de-la-verdadera-educacion",
+     "source": "Merca2.0",
+     "category": "marketing",
+     "original_title": "Martin Luther King Jr. sobre la educación: “La función de la educación es enseñar a uno a pensar intensa y críticamente. Inteligencia más carácter, ese es el objetivo de la verdadera educación”"
+    },
+    {
+     "title": "Airbnb promociona sus alojamientos junto a “Orgullo y prejuicio”, la nueva serie de Netflix",
+     "summary": "La plataforma ha colaborado con la nueva producción de Netflix para destacar algunos de los alojamientos que podrían interesar a fans de Jane Austen.",
+     "why": "",
+     "link": "https://www.reasonwhy.es/actualidad/airbnb-campana-serie-orgullo-y-prejuicio-netflix",
+     "source": "Reason Why",
+     "category": "marketing",
+     "original_title": "Airbnb promociona sus alojamientos junto a “Orgullo y prejuicio”, la nueva serie de Netflix"
+    }
+   ],
+   "trend_note": "",
+   "action_idea": "",
+   "ai": false,
+   "date": "2026-11-27",
+   "label": "viernes 27 de noviembre",
+   "created": "2026-11-27T10:29:46.926294+00:00"
+  },
   {
    "intro": "Los titulares más recientes de IA y marketing.",
    "stories": [
