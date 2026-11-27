@@ -1,22 +1,21 @@
 {
- "updated": "2026-11-27T07:57:23.090952+00:00",
- "sources_ok": 30,
+ "updated": "2026-11-27T09:03:24.771460+00:00",
+ "sources_ok": 31,
  "sources_total": 32,
  "sources_failed": [
-  "Matt Wolfe (YouTube)",
-  "Dot CSV (YouTube)"
+  "Marketing4eCommerce"
  ],
  "count": 900,
  "trends": [
   {
    "term": "black friday",
    "count": 57,
-   "growth": 31.2
+   "growth": 25.4
   },
   {
    "term": "google",
    "count": 32,
-   "growth": 3.8
+   "growth": 3.6
   },
   {
    "term": "navidad",
@@ -34,6 +33,16 @@
    "growth": 7.0
   },
   {
+   "term": "precio",
+   "count": 17,
+   "growth": 18.0
+  },
+  {
+   "term": "marcas",
+   "count": 17,
+   "growth": 6.6
+  },
+  {
    "term": "euros",
    "count": 17,
    "growth": 12.6
@@ -42,16 +51,6 @@
    "term": "está",
    "count": 17,
    "growth": 18.0
-  },
-  {
-   "term": "precio",
-   "count": 16,
-   "growth": 17.0
-  },
-  {
-   "term": "marcas",
-   "count": 16,
-   "growth": 6.3
   },
   {
    "term": "nvidia",
@@ -74,6 +73,11 @@
    "growth": 2.3
   },
   {
+   "term": "descuento",
+   "count": 13,
+   "growth": 14.0
+  },
+  {
    "term": "ofertas",
    "count": 12,
    "growth": 13.0
@@ -82,11 +86,6 @@
    "term": "media",
    "count": 12,
    "growth": 5.7
-  },
-  {
-   "term": "descuento",
-   "count": 12,
-   "growth": 13.0
   },
   {
    "term": "meta",
@@ -100,6 +99,76 @@
   }
  ],
  "items": [
+  {
+   "title": "9 AI Workflows That Turn Marketing Data Into Content AI Cites via @sejournal, @hethr_campbell",
+   "link": "https://www.searchenginejournal.com/9-ai-workflows-that-turn-marketing-data-into-content-ai-cites-recap/598061/",
+   "date": "2026-11-27T08:45:12+00:00",
+   "summary": "A repeated customer question can point to a missing service page. CallRail’s Ryann Hogan and Guru Media Hub’s Jay Schwedelson explained how they chose what to publish and what to measure afterward.",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/callrail-ai-workflows-marketing-data-on-demand-sej.png",
+   "source": "Search Engine Journal",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T09:03:24.771460+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo"
+   ]
+  },
+  {
+   "title": "Empieza el Black Friday con doble descuento para el Google Pixel 11 Pro XL: es su mejor precio de 2026",
+   "link": "https://www.xataka.com/seleccion/empieza-black-friday-doble-descuento-para-google-pixel-11-pro-xl-su-mejor-precio-2026",
+   "date": "2026-11-27T08:06:20+00:00",
+   "summary": "Ya estamos en Black Friday y, aunque llevamos casi un mes ofertas potentes, hoy vamos a ver, probablemente, los mejores descuentos del año en algunos dispositivos. De hecho, empezamos esta mañana con uno de los mejores móviles de 2026, al que es su nuevo precio mínimo histórico:…",
+   "image": "https://i.blogs.es/01a603/pixel-11-pro-xl-portada/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T09:03:24.771460+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "En 1885, un asturiano tuvo una idea para proteger a la Armada española. Hoy su invento se ha convertido en el arma definitiva de EEUU y China",
+   "link": "https://www.xataka.com/magnet/1885-asturiano-tuvo-idea-para-proteger-a-armada-espanola-hoy-su-invento-se-convirtio-arma-definitiva-eeuu-china",
+   "date": "2026-11-27T08:02:00+00:00",
+   "summary": "A finales del siglo XIX, España asistía al lento desmoronamiento de su imperio mientras las grandes potencias se preparaban para una nueva era de la guerra naval. Sin embargo, en medio de aquella decadencia industrial y militar, un marino asturiano encontró la solución a un…",
+   "image": "https://i.blogs.es/1e7e60/destructor-espanol-en-el-puerto/1024_2000.png",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T09:03:24.771460+00:00",
+   "topics": []
+  },
+  {
+   "title": "El marketing que intenta hablar como la generación Z puede fracasar: uno de cada cinco jóvenes rechaza a las marcas que usan su lenguaje",
+   "link": "https://www.merca20.com/el-marketing-que-intenta-hablar-como-la-generacion-z-puede-fracasar-uno-de-cada-cinco-jovenes-rechaza-a-las-marcas-que-usan-su-lenguaje/?utm_source=rss&utm_medium=rss&utm_campaign=el-marketing-que-intenta-hablar-como-la-generacion-z-puede-fracasar-uno-de-cada-cinco-jovenes-rechaza-a-las-marcas-que-usan-su-lenguaje",
+   "date": "2026-11-27T08:00:57+00:00",
+   "summary": "El 20 por ciento de los integrantes de la generación Z tiene una opinión menos favorable de las marcas que utilizan expresiones y modismos asociados con los jóvenes",
+   "image": "https://files.merca20.com/uploads/2026/04/MARKETING-GEMINI-.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T09:03:24.771460+00:00",
+   "topics": []
+  },
+  {
+   "title": "El revuelo con T3 Code y programar con IA, explicado: un software open source que usa telemetría para identificar al usuario",
+   "link": "https://www.xataka.com/robotica-e-ia/revuelo-t3-code-programar-ia-explicado-software-open-source-que-usa-telemetria-para-identificar-al-usuario",
+   "date": "2026-11-27T08:00:21+00:00",
+   "summary": "Sacar una aplicación específica para algo que necesitas ya no es un sueño, forma parte de un vibecoding que se ha convertido en habitual. La programación se incluye en herramientas comerciales, como Claude, ChatGPT o Gemini, aunque tenemos a nuestro alcance otras herramientas…",
+   "image": "https://i.blogs.es/f03cd4/t3-code-portada/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T09:03:24.771460+00:00",
+   "topics": []
+  },
   {
    "title": "Dove destaca la eficacia de sus productos reparando la reconocible melena de Santa Claus",
    "link": "https://www.reasonwhy.es/actualidad/dove-canada-melena-santa-claus-productos-reparacion",
@@ -166,9 +235,9 @@
    "topics": []
   },
   {
-   "title": "Un pueblo de Castellón regala hasta 900 euros la decoración navideña de sus calles y balcones. Es el modelo contrario a Vigo",
+   "title": "Un pueblo de Castellón regala hasta 900 euros por la decoración navideña de sus calles y balcones. Es el modelo contrario a Vigo",
    "link": "https://www.xataka.com/magnet/pueblo-castellon-regala-900-euros-decoracion-navidena-sus-calles-balcones-modelo-contrario-a-vigo",
-   "date": "2026-11-27T07:00:25+00:00",
+   "date": "2026-11-27T07:00:00+00:00",
    "summary": "Que la Navidad empieza cada año un poco antes lo saben hasta los supermercados. Y que las ciudades la convirtieron en negocio, también: Madrid enciende más de 14 millones de bombillas en poco más de 250 emplazamientos. Luego están las de Vigo (aunque en realidad la mayor parte…",
    "image": "https://i.blogs.es/e8a83b/lucces/1024_2000.jpeg",
    "source": "Xataka",
@@ -6530,7 +6599,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
+   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -6629,10 +6698,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the U.K.",
+   "title": "Meta expands Muse to the UK",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -12921,75 +12990,6 @@
    "og_tried": true,
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": []
-  },
-  {
-   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-   "link": "https://openai.com/business/customer-stories/sumitomo-life",
-   "date": "2026-11-18T08:00:00+00:00",
-   "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/4hobAtsV8r9aiWOWQkUYu6/aec1eae52f5c7241756a43c764ef43f5/sumitomo-life-seo-white-canvas-final.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Inside the Codex sandbox",
-   "link": "https://openai.com/index/inside-the-codex-sandbox",
-   "date": "2026-11-18T08:00:00+00:00",
-   "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/1PnylD7lJwgUw7jYNP8wLh/7fa5553001136f3982e8d4db44146de3/inside-the-codex-sandbox-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "Managing frontier AI risk: From training to deployment",
-   "link": "https://openai.com/index/managing-frontier-ai-risk",
-   "date": "2026-11-18T06:00:00+00:00",
-   "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/62zvkDv3unaiLBblzJHY4f/d61ad5ec9ebc02f033d0efac3807be3e/managing-frontier-ai-risk-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-   "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-   "date": "2026-11-18T00:27:29+00:00",
-   "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
-   "source": "Ars Technica IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": []
-  },
-  {
-   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-   "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-   "date": "2026-11-18T00:00:00+00:00",
-   "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/6oojxLpPBP1EqJiCFQof6r/868dca9f2befad4a1cfa21aeaa7d1cdb/le-groupe-figaro-and-openai-announce-partnership-seo.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
   }
  ]
 }
