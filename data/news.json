@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:19:11.919420+00:00",
+ "updated": "2026-11-27T15:29:23.202942+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
@@ -8,27 +8,22 @@
   {
    "term": "black friday",
    "count": 65,
-   "growth": 16.5
+   "growth": 13.6
   },
   {
    "term": "navidad",
-   "count": 24,
-   "growth": 4.4
+   "count": 25,
+   "growth": 4.5
   },
   {
    "term": "méxico",
-   "count": 24,
-   "growth": 17.5
-  },
-  {
-   "term": "google",
-   "count": 29,
-   "growth": 2.7
+   "count": 23,
+   "growth": 12.9
   },
   {
    "term": "amazon",
-   "count": 19,
-   "growth": 5.6
+   "count": 20,
+   "growth": 5.9
   },
   {
    "term": "precio",
@@ -42,8 +37,8 @@
   },
   {
    "term": "euros",
-   "count": 16,
-   "growth": 7.4
+   "count": 15,
+   "growth": 5.9
   },
   {
    "term": "está",
@@ -51,7 +46,12 @@
    "growth": 7.0
   },
   {
-   "term": "gta",
+   "term": "google",
+   "count": 26,
+   "growth": 2.3
+  },
+  {
+   "term": "ofertas",
    "count": 14,
    "growth": 10.5
   },
@@ -61,9 +61,9 @@
    "growth": 6.1
   },
   {
-   "term": "ofertas",
+   "term": "gta",
    "count": 13,
-   "growth": 9.8
+   "growth": 7.5
   },
   {
    "term": "descuento",
@@ -76,9 +76,9 @@
    "growth": 5.7
   },
   {
-   "term": "meta",
-   "count": 14,
-   "growth": 3.1
+   "term": "oficial",
+   "count": 10,
+   "growth": 11.0
   },
   {
    "term": "móvil",
@@ -97,6 +97,108 @@
   }
  ],
  "items": [
+  {
+   "title": "Las playas mexicanas se están llenando de escombros de SpaceX y Claudia Sheinbaum ha solicitado una reunión con Estados Unidos para solucionarlo",
+   "link": "https://www.xataka.com/espacio/playas-mexicanas-se-estan-llenando-escombros-spacex-claudia-sheinbaum-ha-solicitado-reunion-estados-unidos-para-solucionarlo",
+   "date": "2026-11-27T15:20:07+00:00",
+   "summary": "La presidenta de México, Claudia Sheinbaum, ha solicitado reunirse con las autoridades aéreas de Estados Unidos para hablar de los daños que están causando los lanzamientos de SpaceX en su país. Si bien estos se realizan desde suelo estadounidense, en la base de Boca Chica, en…",
+   "image": "https://i.blogs.es/72c289/starship-v3-lanzamiento/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T15:29:23.202942+00:00",
+   "topics": []
+  },
+  {
+   "title": "Tirar una tostada un poco quemada por miedo al cáncer es un gesto muy común. La evidencia dice que puedes dejar de hacerlo",
+   "link": "https://www.xataka.com/medicina-y-salud/tirar-tostada-poco-quemada-miedo-al-cancer-gesto-muy-comun-evidencia-dice-que-puedes-dejar-hacerlo",
+   "date": "2026-11-27T15:00:25+00:00",
+   "summary": "Hay muchos mensajes en torno a la alimentación que hemos ido escuchando a lo largo de los años, como por ejemplo que comer algo que está un poco quemado puede provocar cáncer. Esto ha hecho que, por ejemplo, cuando tomamos una tostada y se quema un poco más de la cuenta,…",
+   "image": "https://i.blogs.es/32f2f2/tostada-quemada/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T15:29:23.202942+00:00",
+   "topics": []
+  },
+  {
+   "title": "Paid Search Has An AI Blind Spot – IAB Blueprint Says A Claim Is Not Credit via @sejournal, @gregjarboe",
+   "link": "https://www.searchenginejournal.com/paid-search-has-an-ai-blind-spot-iab-blueprint-says-a-claim-is-not-credit/597307/",
+   "date": "2026-11-27T15:00:17+00:00",
+   "summary": "Paid search may be booking sales that AI assistants created. The IAB’s new blueprint sets evidence, with four steps to test it in Google Ads.",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-blueprint-135.png",
+   "source": "Search Engine Journal",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T15:29:23.202942+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo",
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Daily Search Forum Recap: November 27, 2026",
+   "link": "https://www.seroundtable.com/recap-11-27-2026-42630.html",
+   "date": "2026-11-27T15:00:00+00:00",
+   "summary": "Here is a recap of what happened in the search forums today...",
+   "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-27T15:29:23.202942+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo"
+   ]
+  },
+  {
+   "title": "Teles grandes, OLED o incluso Micro RGB: las mejores ofertas en televisores de este Black Friday",
+   "link": "https://www.xataka.com/seleccion/teles-grandes-oled-incluso-micro-rgb-mejores-ofertas-televisores-este-black-friday",
+   "date": "2026-11-27T14:46:25+00:00",
+   "summary": "El pasado verano, antes del Mundial de fútbol, se abrió una ventana genial para renovar televisor. Si no la aprovechaste, tienes otra y posiblemente la última del año ahora que estamos en Black Friday. Ya no es solo que haya muy buenas ofertas (que las hay), es que podemos…",
+   "image": "https://i.blogs.es/9a3c74/teles-black-friday/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T15:29:23.202942+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "¿Adiós al efectivo en gasolineras y casetas? Hacienda define la transición a pagos digitales, esto dice el Diario Oficial de la Federación",
+   "link": "https://www.merca20.com/adios-al-efectivo-en-gasolineras-y-casetas-hacienda-define-la-transicion-a-pagos-digitales-esto-dice-el-diario-oficial-de-la-federacion/?utm_source=rss&utm_medium=rss&utm_campaign=adios-al-efectivo-en-gasolineras-y-casetas-hacienda-define-la-transicion-a-pagos-digitales-esto-dice-el-diario-oficial-de-la-federacion",
+   "date": "2026-11-27T14:38:31+00:00",
+   "summary": "La SHCP publicó este 27 de noviembre en el DOF un acuerdo que identifica estas actividades como estratégicas dentro de la nueva Ley de Economía Digital para Pagos Digitales y Electrónicos",
+   "image": "https://files.merca20.com/uploads/2026/11/pagos-digitales-dof-imagen-generada-chatgpt.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T15:29:23.202942+00:00",
+   "topics": []
+  },
+  {
+   "title": "Los mejores chollos en tecnología en el Black Friday de AliExpress hoy, 27 de noviembre",
+   "link": "https://www.xataka.com/seleccion/mejores-chollos-tecnologia-black-friday-aliexpress-hoy-27-noviembre",
+   "date": "2026-11-27T14:30:30+00:00",
+   "summary": "El Black Friday es el gran protagonista hoy (e incluso estamos ofreciéndote en este directo los mejores chollos del momento). Tiendas como AliExpress tienen dispositivos tecnológicos rebajados con buenos descuentos y estos son los mejores chollos que hemos encontrado hoy, 27 de…",
+   "image": "https://i.blogs.es/c1c3b7/black-friday-aliexpress/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T15:29:23.202942+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
   {
    "title": "Internxt es la nube europea que garantiza el cifrado de conocimiento cero, y ahora cuesta un 90% menos en su Black Friday",
    "link": "https://www.xataka.com/seleccion/internxt-nube-europea-que-garantiza-cifrado-conocimiento-cero-ahora-cuesta-90-su-black-friday",
@@ -171,7 +273,7 @@
    "link": "https://www.merca20.com/sams-club-lanza-cyber-week-por-black-friday-y-cyber-monday-con-descuentos-de-hasta-65-del-27-de-noviembre-al-4-de-diciembre/?utm_source=rss&utm_medium=rss&utm_campaign=sams-club-lanza-cyber-week-por-black-friday-y-cyber-monday-con-descuentos-de-hasta-65-del-27-de-noviembre-al-4-de-diciembre",
    "date": "2026-11-27T13:36:37+00:00",
    "summary": "La campaña estará disponible en sams.com.mx, la app y el Call Center, como parte de las promociones por Black Friday y Cyber Monday",
-   "image": "https://files.merca20.com/uploads/2026/11/sams-club-cyber-week-foto-sams-fb.jpg",
+   "image": "https://files.merca20.com/uploads/2026/11/sams-club-cyber-week-newsroom-sams.jpg",
    "source": "Merca2.0",
    "category": "marketing",
    "lang": "es",
@@ -179,6 +281,21 @@
    "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "topics": [
     "publicidad",
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Amazon remata su Fire TV Stick HD modelo 2026 en 349 pesos: tiene Alexa, Wi-Fi 6, Bluetooth y acceso a más de 1,500 aplicaciones",
+   "link": "https://www.merca20.com/amazon-remata-su-fire-tv-stick-hd-modelo-2026-en-349-pesos-tiene-alexa-wi-fi-6-bluetooth-y-acceso-a-mas-de-1500-aplicaciones/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-remata-su-fire-tv-stick-hd-modelo-2026-en-349-pesos-tiene-alexa-wi-fi-6-bluetooth-y-acceso-a-mas-de-1500-aplicaciones",
+   "date": "2026-11-27T13:17:05+00:00",
+   "summary": "Amazon remata Fire TV Stick HD modelo 2026 con 71% de descuento. Convierte tu televisión en Smart TV con Alexa y Wi-Fi 6 por 349 pesos",
+   "image": "https://files.merca20.com/uploads/2026/11/amazon-cortesia-4.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T15:29:23.202942+00:00",
+   "topics": [
     "ecommerce"
    ]
   },
@@ -207,8 +324,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "topics": []
   },
   {
@@ -221,8 +338,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "topics": [
     "seo"
    ]
@@ -237,8 +354,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "topics": [
     "seo"
    ]
@@ -257,6 +374,19 @@
    "topics": []
   },
   {
+   "title": "Mientras Liverpool convierte el desfile navideño Bolo Fest en un escaparate para LEGO, Mattel y Disney, El Palacio de Hierro apuesta por su Mercado de Navidad europeo",
+   "link": "https://www.merca20.com/mientras-liverpool-convierte-el-desfile-navideno-bolo-fest-en-un-escaparate-para-lego-mattel-y-disney-el-palacio-de-hierro-apuesta-por-su-mercado-de-navidad-europeo/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-liverpool-convierte-el-desfile-navideno-bolo-fest-en-un-escaparate-para-lego-mattel-y-disney-el-palacio-de-hierro-apuesta-por-su-mercado-de-navidad-europeo",
+   "date": "2026-11-27T12:58:42+00:00",
+   "summary": "Liverpool apuesta por el desfile Bolo Fest y El Palacio de Hierro transforma Perisur en un Mercado de Navidad. Conoce sus estrategias de marketing 2026",
+   "image": "https://files.merca20.com/uploads/2026/11/BOLO-FEST-LIVERPOOL-MERCADO-DE-NAVIDAD-PALACIO.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-27T15:29:23.202942+00:00",
+   "topics": []
+  },
+  {
    "title": "Bing AI Mode Ads Blending More With Organic Results",
    "link": "https://www.seroundtable.com/bing-ai-mode-ads-differentiate-42625.html",
    "date": "2026-11-27T12:51:00+00:00",
@@ -266,8 +396,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "topics": [
     "seo",
     "publicidad"
@@ -314,8 +444,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "topics": [
     "seo"
    ]
@@ -360,8 +490,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "topics": [
     "seo"
    ]
@@ -391,8 +521,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "topics": [
     "seo",
     "publicidad"
@@ -434,8 +564,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "topics": [
     "publicidad"
    ]
@@ -465,8 +595,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "topics": [
     "seo",
     "publicidad"
@@ -482,8 +612,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-27T14:19:11.919420+00:00",
    "topics": [
     "seo",
     "publicidad"
@@ -12857,132 +12987,6 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [],
    "og_tried": true
-  },
-  {
-   "title": "Here are the top AI agents that can live in your text messages",
-   "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-   "date": "2026-11-21T17:00:00+00:00",
-   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-   "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-   "source": "TechCrunch IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on",
-   "link": "https://www.lennysnewsletter.com/p/community-wisdom-handling-context",
-   "date": "2026-11-21T16:49:56+00:00",
-   "summary": "Community Wisdom 306",
-   "image": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-   "source": "Lenny's Newsletter",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-   "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-   "date": "2026-11-21T16:00:00+00:00",
-   "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Inevitable-Key-Art_3x4-full-size.jpg?resize=899,1200",
-   "source": "TechCrunch IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [],
-   "og_tried": true
-  },
-  {
-   "title": "The Outages Are Just Getting Started",
-   "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
-   "date": "2026-11-21T13:00:00+00:00",
-   "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
-   "image": "https://media.wired.com/photos/6b00ba06fb286bb31d23be2b/master/pass/Kernel-Panic-Brace-for-More-Outages-Security.jpg",
-   "source": "Wired IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Google’s Branded API Data, CDN Advice & Ask Maps Calls – SEO Pulse via @sejournal, @MattGSouthern",
-   "link": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
-   "date": "2026-11-21T13:00:00+00:00",
-   "summary": "This week's SEO Pulse covers WordPress's random redirect, branded data in Search Console API, Google's CDN guidance, and who controls access for bots and agents.",
-   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/seo-pulse-november-19-featured-1600x840-1.jpg",
-   "source": "Search Engine Journal",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "seo"
-   ]
-  },
-  {
-   "title": "What else could you use this for?",
-   "link": "https://www.youtube.com/shorts/7_pMINxEEPU",
-   "date": "2026-11-21T03:42:44+00:00",
-   "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads:…",
-   "image": "https://www.youtube.com/v/7_pMINxEEPU?version=3",
-   "source": "Matt Wolfe (YouTube)",
-   "category": "ia",
-   "lang": "en",
-   "type": "video",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "redes"
-   ]
-  },
-  {
-   "title": "Google rolls out new search homepage with AI chat history and no search button",
-   "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-   "date": "2026-11-20T21:58:29+00:00",
-   "summary": "Google search is making it even easier to access AI tools on the search page.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
-   "source": "Ars Technica IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "seo"
-   ]
-  },
-  {
-   "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-   "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-   "date": "2026-11-20T21:47:10+00:00",
-   "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg",
-   "source": "Ars Technica IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": []
-  },
-  {
-   "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-   "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-   "date": "2026-11-20T20:59:08+00:00",
-   "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
-   "source": "Ars Technica IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": []
   }
  ]
 }
