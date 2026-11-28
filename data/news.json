@@ -1,11 +1,8 @@
 {
- "updated": "2026-11-28T07:04:02.164285+00:00",
- "sources_ok": 30,
+ "updated": "2026-11-28T08:29:31.430521+00:00",
+ "sources_ok": 32,
  "sources_total": 32,
- "sources_failed": [
-  "Matt Wolfe (YouTube)",
-  "Dot CSV (YouTube)"
- ],
+ "sources_failed": [],
  "count": 900,
  "trends": [
   {
@@ -16,22 +13,17 @@
   {
    "term": "navidad",
    "count": 25,
-   "growth": 4.5
+   "growth": 4.9
+  },
+  {
+   "term": "está",
+   "count": 22,
+   "growth": 8.5
   },
   {
    "term": "amazon",
    "count": 22,
    "growth": 5.8
-  },
-  {
-   "term": "está",
-   "count": 21,
-   "growth": 8.1
-  },
-  {
-   "term": "méxico",
-   "count": 20,
-   "growth": 4.7
   },
   {
    "term": "ofertas",
@@ -49,14 +41,14 @@
    "growth": 4.8
   },
   {
+   "term": "méxico",
+   "count": 18,
+   "growth": 3.6
+  },
+  {
    "term": "euros",
    "count": 16,
    "growth": 4.8
-  },
-  {
-   "term": "menos",
-   "count": 13,
-   "growth": 5.2
   },
   {
    "term": "descuento",
@@ -69,14 +61,9 @@
    "growth": 2.0
   },
   {
-   "term": "gta",
+   "term": "menos",
    "count": 12,
-   "growth": 5.7
-  },
-  {
-   "term": "móvil",
-   "count": 11,
-   "growth": 8.4
+   "growth": 4.1
   },
   {
    "term": "marketing",
@@ -89,17 +76,40 @@
    "growth": 6.5
   },
   {
-   "term": "hoy",
+   "term": "gta",
+   "count": 11,
+   "growth": 4.4
+  },
+  {
+   "term": "españa",
+   "count": 11,
+   "growth": 5.2
+  },
+  {
+   "term": "móvil",
    "count": 10,
    "growth": 5.9
   },
   {
-   "term": "españa",
+   "term": "hoy",
    "count": 10,
-   "growth": 4.8
+   "growth": 5.9
   }
  ],
  "items": [
+  {
+   "title": "Ni el aceite de oliva, ni Ceuta, ni Melilla: Marruecos está levantando 115.000 razones para meterle su gol más histórico a España",
+   "link": "https://www.xataka.com/magnet/aceite-oliva-ceuta-melilla-marruecos-esta-levantando-115-000-razones-para-meterle-su-gol-historico-a-espana",
+   "date": "2026-11-28T08:00:22+00:00",
+   "summary": "Cuando España consiguió organizar el Mundial de fútbol de 2030 junto a Portugal y Marruecos, pocos dudaban de dónde se disputaría el partido más importante del torneo. Sin embargo, lo que parecía una cuestión de trámite ha terminado convirtiéndose en una batalla deportiva,…",
+   "image": "https://i.blogs.es/63c5db/1200x675_cmsv2_5af8b987-bdbe-5f5b-a77a-8bd0def88955-8673838/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T08:29:31.430521+00:00",
+   "topics": []
+  },
   {
    "title": "Piden retomar el plan para devolver el lince boreal a los Pirineos. El problema es si es buena idea reintroducir esta especie",
    "link": "https://www.xataka.com/magnet/piden-retomar-plan-para-devolver-lince-boreal-a-pirineos-problema-buena-idea-reintroducir-esta-especie",
@@ -112,6 +122,35 @@
    "type": "article",
    "first_seen": "2026-11-28T07:04:02.164285+00:00",
    "topics": []
+  },
+  {
+   "title": "Casio te da la hora con piezas de sushi en su nueva colección de relojes",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/casio-te-da-la-hora-con-piezas-de-sushi-en-su-nueva-coleccion-de-relojes",
+   "date": "2026-11-28T06:30:00+00:00",
+   "summary": "Casio presenta tres nuevos G-SHOCK inspirados en el sushi japonés, con diseños que recrean el nigiri de salmón, el atún y las huevas.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Casio-sushi.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T08:29:31.430521+00:00",
+   "og_tried": true,
+   "topics": []
+  },
+  {
+   "title": "They're Making Robot Bees Now?",
+   "link": "https://www.youtube.com/shorts/gUlFwEG_lD0",
+   "date": "2026-11-28T06:28:30+00:00",
+   "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads:…",
+   "image": "https://www.youtube.com/v/gUlFwEG_lD0?version=3",
+   "source": "Matt Wolfe (YouTube)",
+   "category": "ia",
+   "lang": "en",
+   "type": "video",
+   "first_seen": "2026-11-28T08:29:31.430521+00:00",
+   "topics": [
+    "redes"
+   ]
   },
   {
    "title": "\"Perdona, ¿tienes un minuto?\": los trucos psicológicos del captador de ONG que te asalta a la salida del metro",
@@ -12882,48 +12921,6 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "seo"
-   ]
-  },
-  {
-   "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-   "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-   "date": "2026-11-23T13:11:00+00:00",
-   "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
-   "image": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
-   "source": "Wired IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "OpenClaw for executives: Automate every 1% annoyance | Ankit Maheshwari (Innovaccer)",
-   "link": "https://www.lennysnewsletter.com/p/openclaw-for-executives-automate",
-   "date": "2026-11-23T13:04:43+00:00",
-   "summary": "Watch now (31 mins) | 🎙️ Ankit Maheshwari (CTO, Innovaccer) walks me through the OpenClaw Jarvis he runs on a Mac Mini to clear every 1% annoyance in his life",
-   "image": "https://substackcdn.com/image/fetch/$s_!kSpI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf585f03-bd13-417d-bf53-a5c77b3d5296_1600x114.png",
-   "source": "Lenny's Newsletter",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "El mejor regalo es estar presente: Meta apela a la fibra sensible en su anuncio de Navidad",
-   "link": "https://www.marketingdirecto.com/campanas-navidenas/meta-gafas-inteligentes-mejor-regalo-estar-presente",
-   "date": "2026-11-23T13:03:49+00:00",
-   "summary": "La compañía de Zuckerberg trata de reivindicar el lado más humano de sus gafas inteligentes en este spot rubricado por Mother LA.",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/meta-gafas-inteligentes-anuncio-navidad-2026.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": [
-    "publicidad"
    ]
   }
  ]
