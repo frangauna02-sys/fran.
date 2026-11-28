@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T01:02:25.801804+00:00",
+ "updated": "2026-11-28T02:31:02.202980+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
@@ -12,8 +12,8 @@
   },
   {
    "term": "navidad",
-   "count": 24,
-   "growth": 4.1
+   "count": 25,
+   "growth": 4.5
   },
   {
    "term": "está",
@@ -48,12 +48,12 @@
   {
    "term": "euros",
    "count": 16,
-   "growth": 4.2
+   "growth": 4.8
   },
   {
    "term": "menos",
    "count": 13,
-   "growth": 4.5
+   "growth": 5.2
   },
   {
    "term": "descuento",
@@ -97,6 +97,32 @@
   }
  ],
  "items": [
+  {
+   "title": "Walmart cancela el encendido de su árbol de Navidad en Toreo y otros estados por el clima; esto dijo la marca",
+   "link": "https://www.merca20.com/walmart-cancela-el-encendido-de-su-arbol-de-navidad-en-toreo-y-otros-estados-por-el-clima-esto-dijo-la-marca/?utm_source=rss&utm_medium=rss&utm_campaign=walmart-cancela-el-encendido-de-su-arbol-de-navidad-en-toreo-y-otros-estados-por-el-clima-esto-dijo-la-marca",
+   "date": "2026-11-28T02:18:06+00:00",
+   "summary": "Walmart México canceló los eventos de encendido de sus árboles de Navidad programados para este sábado 28 de noviembre a nivel nacional",
+   "image": "https://files.merca20.com/uploads/2026/11/walmart-arbol-navidad-newsroom-walmart.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T02:31:02.202980+00:00",
+   "topics": []
+  },
+  {
+   "title": "Bronson Reed dies at 38: WWE wrestler’s cause of death and net worth",
+   "link": "https://www.merca20.com/bronson-reed-dies-at-38-wwe-wrestlers-cause-of-death-age-and-net-worth/?utm_source=rss&utm_medium=rss&utm_campaign=bronson-reed-dies-at-38-wwe-wrestlers-cause-of-death-age-and-net-worth",
+   "date": "2026-11-28T01:27:03+00:00",
+   "summary": "WWE confirmed the death of Australian professional wrestler Jermaine Haley, better known as Bronson Reed, on November 27",
+   "image": "https://files.merca20.com/uploads/2026/11/reed-die-chatgpt.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T02:31:02.202980+00:00",
+   "topics": []
+  },
   {
    "title": "datasette-charts 0.4a0",
    "link": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
@@ -2402,8 +2428,8 @@
    "category": "ia",
    "lang": "en",
    "type": "newsletter",
-   "first_seen": "2026-11-28T01:02:25.801804+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-28T01:02:25.801804+00:00",
    "topics": []
   },
   {
@@ -8672,7 +8698,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
+   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -8771,10 +8797,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the U.K.",
+   "title": "Meta expands Muse to the UK",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -12912,34 +12938,6 @@
     "publicidad",
     "ecommerce"
    ]
-  },
-  {
-   "title": "Choví y Ana Guerra reivindican una Navidad imperfecta: «Si no todo sale bien, que al menos sepa bien»",
-   "link": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/chovi-ana-guerra-reivindican-navidad-imperfecta-todo-sale-bien-sepa-bien",
-   "date": "2026-11-23T12:13:35+00:00",
-   "summary": "La marca apuesta por el humor y la espontaneidad de la cantante para conectar con el público joven y poner en valor los imprevistos que terminan convirtiéndose en los mejores recuerdos de las fiestas.",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/CHOVI-ANA-GUERRA-NAVIDAD.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": []
-  },
-  {
-   "title": "Good Rebels cerrará 2026 con 21 millones de euros de facturación, un 37% más en dos años",
-   "link": "https://www.marketingdirecto.com/marketing-general/agencias/good-rebels-cerrara-2026-21-millones-euros-facturacion-37-mas-dos-anos",
-   "date": "2026-11-23T12:04:38+00:00",
-   "summary": "El grupo independiente supera los 190 profesionales tras un año en el que ha incorporado ok,z, Asesores y Nordia",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Fernando-Polo-1-comprimido.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": []
   }
  ]
 }
