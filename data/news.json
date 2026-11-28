@@ -1,21 +1,19 @@
 {
- "updated": "2026-11-28T09:25:35.067253+00:00",
- "sources_ok": 31,
+ "updated": "2026-11-28T10:23:51.349067+00:00",
+ "sources_ok": 32,
  "sources_total": 32,
- "sources_failed": [
-  "Marketing4eCommerce"
- ],
+ "sources_failed": [],
  "count": 900,
  "trends": [
   {
    "term": "black friday",
    "count": 67,
-   "growth": 7.1
+   "growth": 6.8
   },
   {
    "term": "navidad",
    "count": 25,
-   "growth": 4.9
+   "growth": 5.4
   },
   {
    "term": "está",
@@ -33,24 +31,19 @@
    "growth": 14.0
   },
   {
-   "term": "precio",
-   "count": 18,
-   "growth": 7.0
-  },
-  {
    "term": "marcas",
    "count": 18,
-   "growth": 4.8
+   "growth": 5.3
+  },
+  {
+   "term": "precio",
+   "count": 17,
+   "growth": 5.7
   },
   {
    "term": "méxico",
-   "count": 18,
-   "growth": 3.6
-  },
-  {
-   "term": "euros",
-   "count": 15,
-   "growth": 4.0
+   "count": 17,
+   "growth": 3.1
   },
   {
    "term": "descuento",
@@ -65,17 +58,12 @@
   {
    "term": "marketing",
    "count": 11,
-   "growth": 5.2
+   "growth": 4.4
   },
   {
    "term": "horas",
    "count": 11,
    "growth": 6.5
-  },
-  {
-   "term": "gta",
-   "count": 11,
-   "growth": 4.4
   },
   {
    "term": "españa",
@@ -85,7 +73,7 @@
   {
    "term": "casa",
    "count": 11,
-   "growth": 5.2
+   "growth": 6.5
   },
   {
    "term": "cuesta",
@@ -96,9 +84,60 @@
    "term": "campaña",
    "count": 10,
    "growth": 7.7
+  },
+  {
+   "term": "menos",
+   "count": 11,
+   "growth": 3.4
+  },
+  {
+   "term": "inteligencia artificial",
+   "count": 7,
+   "growth": 8.0
   }
  ],
  "items": [
+  {
+   "title": "Hay una iglesia en Alemania donde lleva sonando la misma pieza desde 2001: no terminará hasta 2640",
+   "link": "https://www.xataka.com/magnet/hay-iglesia-alemania-donde-lleva-sonando-pieza-2001-no-terminara-2640",
+   "date": "2026-11-28T10:00:27+00:00",
+   "summary": "Si las canciones de rock sinfónico de los 70 te parecían eternas, la pieza que lleva tocándose 25 años en una parroquia de Alemania te romperá todos los esquemas. La pieza de Se llama ' ORGAN²/ASLSP ', y es la versión para órgano de una obra que John Cage escribió originalmente…",
+   "image": "https://i.blogs.es/05daf9/halberstadt_st-burchardi-kirche/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T10:23:51.349067+00:00",
+   "topics": []
+  },
+  {
+   "title": "Tras arrasar en matemáticas y ciberseguridad, la IA tiene nuevo objetivo: liberar las funciones capadas de tu cámara de fotos",
+   "link": "https://www.xataka.com/robotica-e-ia/arrasar-matematicas-ciberseguridad-ia-tiene-nuevo-objetivo-liberar-funciones-capadas-tu-camara-fotos",
+   "date": "2026-11-28T09:30:31+00:00",
+   "summary": "El firmware es el software interno que decide lo que puedes y no puedes hacer con tu dispositivo. Es algo que los fabricantes siempre han controlado con celo, pero la inteligencia artificial está facilitando destriparlo. Ocurre en muchos terrenos, como el de la ciberseguridad…",
+   "image": "https://i.blogs.es/13b9b5/primer-plano-de-camara-mirrorless-negra/1024_2000.png",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T10:23:51.349067+00:00",
+   "topics": []
+  },
+  {
+   "title": "Liquidación en el outlet online de El Corte Inglés después del Black Friday con chollos en iPad, móviles Samsung y más",
+   "link": "https://www.xataka.com/seleccion/liquidacion-outlet-online-corte-ingles-despues-black-friday-chollos-ipad-moviles-samsung",
+   "date": "2026-11-28T09:30:31+00:00",
+   "summary": "El Black Friday ha terminado, pero todavía podemos encontrar buenos precios en tiendas como El Corte Inglés. En su outlet online hay una gran variedad de descuentos en dispositivo como iPad, televisores de Sony o móviles de Samsung, por lo que vamos a hacer un repaso de los…",
+   "image": "https://i.blogs.es/ede217/el-corte-ingles/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T10:23:51.349067+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
   {
    "title": "A cuántos grados calienta Europa su casa: el mapa que explica por qué más calor no siempre es derroche",
    "link": "https://www.xataka.com/energia/a-cuantos-grados-calienta-europa-su-casa-mapa-que-explica-que-calor-no-siempre-derroche",
@@ -113,9 +152,25 @@
    "topics": []
   },
   {
+   "title": "La relevancia de la estrategia en el marketing no languidece en la era de la IA",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/relevancia-estrategia-marketing-no-languidece-era-ia",
+   "date": "2026-11-28T09:00:00+00:00",
+   "summary": "La mitad de los estrategas califica de sólida su influencia en los CMO y los directivos de marketing, frente al 41% que decía lo propio en 2025.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/estrategia-marketing.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T10:23:51.349067+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
    "title": "Ciberataque a SAP, la mayor empresa de software de Europa: el verdadero peligro está en el código",
    "link": "https://www.xataka.com/seguridad/ciberataque-a-sap-mayor-empresa-software-europa-verdadero-peligro-esta-codigo",
-   "date": "2026-11-28T08:55:15+00:00",
+   "date": "2026-11-28T08:55:00+00:00",
    "summary": "El software de SAP no es tan conocido ni tan utilizado como Outlook, pero sus aplicaciones mueven la contabilidad de media Europa. Pues bien, la empresa alemana ha confirmado que \"había detectado actividad sospechosa\", tal y como adelantaba Der Spiegel el jueves. Al parecer, el…",
    "image": "https://i.blogs.es/e3b269/sede-sap-sobre-fondo-cibernetico-rojo-1-/1024_2000.jpeg",
    "source": "Xataka",
@@ -12864,63 +12919,6 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "og_tried": true,
    "topics": []
-  },
-  {
-   "title": "Jensen Huang Is Back as Nvidia CEO",
-   "link": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
-   "date": "2026-11-23T14:27:35+00:00",
-   "summary": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
-   "image": "https://media.wired.com/photos/6b04495d307e146147156b9d/master/pass/GettyImages-2266718431.jpg",
-   "source": "Wired IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "El exceso de comunicación, el principal motivo por el que los jóvenes silencian a las marcas",
-   "link": "https://marketing4ecommerce.net/jovenes-silencian-a-las-marcas/",
-   "date": "2026-11-23T14:23:43+00:00",
-   "summary": "Nike, Zara y Adidas, las marcas que mejor conectan con los jóvenes en España, de acuerdo con un estudio de IAB Spain.[…]",
-   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/generacion-zeta-y-marcas-1-1024x614.jpg",
-   "source": "Marketing4eCommerce",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T16:07:41.581881+00:00",
-   "topics": [
-    "ecommerce"
-   ]
-  },
-  {
-   "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-   "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-   "date": "2026-11-23T14:21:59+00:00",
-   "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
-   "source": "TechCrunch IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": []
-  },
-  {
-   "title": "El Almendro resignifica su “Vuelve a casa” en la era de la hiperconexión digital en su anuncio de Navidad",
-   "link": "https://www.reasonwhy.es/actualidad/el-almendro-resignifica-vuelve-a-casa-anuncio-navidad-2026",
-   "date": "2026-11-23T14:21:00+00:00",
-   "summary": "En una época de hiperconexión digital, la marca recuerda la importancia de estar realmente presentes y dedicar tiempo de calidad a los seres queridos.",
-   "image": "https://www.reasonwhy.es/media/library/el-almendro-anuncio-navidad-2026.jpg",
-   "source": "Reason Why",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "publicidad"
-   ]
   }
  ]
 }

@@ -3,22 +3,31 @@
   "intro": "Los titulares más recientes de IA y marketing.",
   "stories": [
    {
-    "title": "No tiene pantalla, pero sí entrenador con IA, 45 días de batería y descuento: así es la pulsera española DuckDik Sense",
-    "summary": "El Black Friday es una buena oportunidad para encontrar dispositivos tecnológicos diferentes a los habituales (tal y como te estamos contando en nuestro directo ). Es el caso de la DuckDik Sense, una pulsera inteligente española que ahora se puede comprar rebajada a 79 euros en…",
+    "title": "Hay una iglesia en Alemania donde lleva sonando la misma pieza desde 2001: no terminará hasta 2640",
+    "summary": "Si las canciones de rock sinfónico de los 70 te parecían eternas, la pieza que lleva tocándose 25 años en una parroquia de Alemania te romperá todos los esquemas. La pieza de Se llama ' ORGAN²/ASLSP ', y es la versión para órgano de una obra que John Cage escribió originalmente…",
     "why": "",
-    "link": "https://www.xataka.com/seleccion/no-tiene-pantalla-entrenador-ia-45-dias-bateria-descuento-asi-pulsera-espanola-duckdik-sense",
+    "link": "https://www.xataka.com/magnet/hay-iglesia-alemania-donde-lleva-sonando-pieza-2001-no-terminara-2640",
     "source": "Xataka",
     "category": "ia",
-    "original_title": "No tiene pantalla, pero sí entrenador con IA, 45 días de batería y descuento: así es la pulsera española DuckDik Sense"
+    "original_title": "Hay una iglesia en Alemania donde lleva sonando la misma pieza desde 2001: no terminará hasta 2640"
    },
    {
-    "title": "Elon Musk acaba de empezar a construir el edificio más grande del planeta: 9 millones de metros cuadrados para fabricar algo que cabe en un bolsillo",
-    "summary": "La carrera por dominar la inteligencia artificial está llevando a las grandes tecnológicas a levantar fábricas cada vez más grandes y costosas. Sin embargo, lo que ha comenzado en una pequeña localidad de Texas amenaza con dejar obsoleto el concepto de megafactoría que…",
+    "title": "Tras arrasar en matemáticas y ciberseguridad, la IA tiene nuevo objetivo: liberar las funciones capadas de tu cámara de fotos",
+    "summary": "El firmware es el software interno que decide lo que puedes y no puedes hacer con tu dispositivo. Es algo que los fabricantes siempre han controlado con celo, pero la inteligencia artificial está facilitando destriparlo. Ocurre en muchos terrenos, como el de la ciberseguridad…",
     "why": "",
-    "link": "https://www.xataka.com/robotica-e-ia/elon-musk-acaba-empezar-a-construir-edificio-grande-planeta-9-millones-metros-cuadrados-para-fabricar-algo-que-bolsillo",
+    "link": "https://www.xataka.com/robotica-e-ia/arrasar-matematicas-ciberseguridad-ia-tiene-nuevo-objetivo-liberar-funciones-capadas-tu-camara-fotos",
     "source": "Xataka",
     "category": "ia",
-    "original_title": "Elon Musk acaba de empezar a construir el edificio más grande del planeta: 9 millones de metros cuadrados para fabricar algo que cabe en un bolsillo"
+    "original_title": "Tras arrasar en matemáticas y ciberseguridad, la IA tiene nuevo objetivo: liberar las funciones capadas de tu cámara de fotos"
+   },
+   {
+    "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+    "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+    "why": "",
+    "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+    "source": "The Verge IA",
+    "category": "ia",
+    "original_title": "Android’s DIY widgets are a bit of vibe-coding fun"
    },
    {
     "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
@@ -30,77 +39,151 @@
     "original_title": "A New Breed of Chip Runs AI Models Using Waves of Light"
    },
    {
-    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-    "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+    "title": "La relevancia de la estrategia en el marketing no languidece en la era de la IA",
+    "summary": "La mitad de los estrategas califica de sólida su influencia en los CMO y los directivos de marketing, frente al 41% que decía lo propio en 2025.",
     "why": "",
-    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-    "source": "TechCrunch IA",
-    "category": "ia",
-    "original_title": "Nvidia hits pause on chip shipments to Southeast Asia"
+    "link": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/relevancia-estrategia-marketing-no-languidece-era-ia",
+    "source": "MarketingDirecto",
+    "category": "marketing",
+    "original_title": "La relevancia de la estrategia en el marketing no languidece en la era de la IA"
    },
    {
-    "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-    "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+    "title": "Casio te da la hora con piezas de sushi en su nueva colección de relojes",
+    "summary": "Casio presenta tres nuevos G-SHOCK inspirados en el sushi japonés, con diseños que recrean el nigiri de salmón, el atún y las huevas.",
     "why": "",
-    "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-    "source": "TechCrunch IA",
-    "category": "ia",
-    "original_title": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
+    "link": "https://www.marketingdirecto.com/anunciantes-general/casio-te-da-la-hora-con-piezas-de-sushi-en-su-nueva-coleccion-de-relojes",
+    "source": "MarketingDirecto",
+    "category": "marketing",
+    "original_title": "Casio te da la hora con piezas de sushi en su nueva colección de relojes"
    },
    {
-    "title": "Robert M. Hutchins sobre la pedagogía: “El objetivo de la educación es preparar a los jóvenes para que se eduquen a sí mismos el resto de sus vidas”",
-    "summary": "Robert Maynard Hutchins nació el 17 de enero de 1899 en Brooklyn, Nueva York, Estados Unidos. Fue educador, jurista, escritor y filósofo de la educación",
+    "title": "Digimon Alysion brings the trading card game to mobile for free, with rewards for all players",
+    "summary": "Digimon Alysion launches for free on iOS and Android after surpassing 450,000 preregistrations. Discover its cards, rewards, and how the game works.",
     "why": "",
-    "link": "https://www.merca20.com/robert-m-hutchins-sobre-la-pedagogia-el-objetivo-de-la-educacion-es-preparar-a-los-jovenes-para-que-se-eduquen-a-si-mismos-el-resto-de-sus-vidas/?utm_source=rss&utm_medium=rss&utm_campaign=robert-m-hutchins-sobre-la-pedagogia-el-objetivo-de-la-educacion-es-preparar-a-los-jovenes-para-que-se-eduquen-a-si-mismos-el-resto-de-sus-vidas",
+    "link": "https://www.merca20.com/digimon-alysion-brings-the-trading-card-game-to-mobile-for-free-with-rewards-for-all-players/?utm_source=rss&utm_medium=rss&utm_campaign=digimon-alysion-brings-the-trading-card-game-to-mobile-for-free-with-rewards-for-all-players",
     "source": "Merca2.0",
     "category": "marketing",
-    "original_title": "Robert M. Hutchins sobre la pedagogía: “El objetivo de la educación es preparar a los jóvenes para que se eduquen a sí mismos el resto de sus vidas”"
+    "original_title": "Digimon Alysion brings the trading card game to mobile for free, with rewards for all players"
    },
    {
-    "title": "Enzo Ferrari, fundador de la marca y scuderia Ferrari: “El coche más conseguido es aquel en el que pienso con obstinada insistencia, pero que todavía no ha sido realizado”",
-    "summary": "Una de las principales enseñanzas empresariales de Enzo Ferrari es que el prestigio construido durante décadas no sustituye la necesidad de continuar innovando",
+    "title": "Milk Bar Brings Back Snoopy for Christmas 2026 With a Collectible Tin and Four New Cookie Flavors After Selling Out in 2025",
+    "summary": "Milk Bar and Peanuts celebrate Christmas 2026 with a new collectible Snoopy tin, four cookie flavors, chocolates, and other desserts.",
     "why": "",
-    "link": "https://www.merca20.com/enzo-ferrari-fundador-de-la-marca-y-scuderia-ferrari-el-coche-mas-conseguido-es-aquel-en-el-que-pienso-con-obstinada-insistencia-pero-que-todavia-no-ha-sido-realizado/?utm_source=rss&utm_medium=rss&utm_campaign=enzo-ferrari-fundador-de-la-marca-y-scuderia-ferrari-el-coche-mas-conseguido-es-aquel-en-el-que-pienso-con-obstinada-insistencia-pero-que-todavia-no-ha-sido-realizado",
+    "link": "https://www.merca20.com/milk-bar-brings-back-snoopy-for-christmas-2026-with-a-collectible-tin-and-four-new-cookie-flavors-after-selling-out-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=milk-bar-brings-back-snoopy-for-christmas-2026-with-a-collectible-tin-and-four-new-cookie-flavors-after-selling-out-in-2025",
     "source": "Merca2.0",
     "category": "marketing",
-    "original_title": "Enzo Ferrari, fundador de la marca y scuderia Ferrari: “El coche más conseguido es aquel en el que pienso con obstinada insistencia, pero que todavía no ha sido realizado”"
+    "original_title": "Milk Bar Brings Back Snoopy for Christmas 2026 With a Collectible Tin and Four New Cookie Flavors After Selling Out in 2025"
    },
    {
-    "title": "Bill Bowerman, entrenador y cofundador de Nike: “Si tienes un cuerpo, ya eres atleta. Todo lo que necesitas lo llevas adentro”",
-    "summary": "La frase de Bill Bowerman “Si tienes un cuerpo, ya eres atleta” trascendió el ámbito deportivo para convertirse en uno de los fundamentos del posicionamiento de Nike",
+    "title": "Walmart cancela el encendido de su árbol de Navidad en Toreo y otros estados por el clima; esto dijo la marca",
+    "summary": "Walmart México canceló los eventos de encendido de sus árboles de Navidad programados para este sábado 28 de noviembre a nivel nacional",
     "why": "",
-    "link": "https://www.merca20.com/bill-bowerman-entrenador-y-cofundador-de-nike-si-tienes-un-cuerpo-ya-eres-atleta-todo-lo-que-necesitas-lo-llevas-adentro/?utm_source=rss&utm_medium=rss&utm_campaign=bill-bowerman-entrenador-y-cofundador-de-nike-si-tienes-un-cuerpo-ya-eres-atleta-todo-lo-que-necesitas-lo-llevas-adentro",
+    "link": "https://www.merca20.com/walmart-cancela-el-encendido-de-su-arbol-de-navidad-en-toreo-y-otros-estados-por-el-clima-esto-dijo-la-marca/?utm_source=rss&utm_medium=rss&utm_campaign=walmart-cancela-el-encendido-de-su-arbol-de-navidad-en-toreo-y-otros-estados-por-el-clima-esto-dijo-la-marca",
     "source": "Merca2.0",
     "category": "marketing",
-    "original_title": "Bill Bowerman, entrenador y cofundador de Nike: “Si tienes un cuerpo, ya eres atleta. Todo lo que necesitas lo llevas adentro”"
-   },
-   {
-    "title": "Martin Luther King Jr. sobre la educación: “La función de la educación es enseñar a uno a pensar intensa y críticamente. Inteligencia más carácter, ese es el objetivo de la verdadera educación”",
-    "summary": "Para Martin Luther King Jr., la verdadera educación debía cumplir una doble función: desarrollar la capacidad intelectual de los estudiantes y contribuir a su formación moral",
-    "why": "",
-    "link": "https://www.merca20.com/martin-luther-king-jr-sobre-la-educacion-la-funcion-de-la-educacion-es-ensenar-a-uno-a-pensar-intensa-y-criticamente-inteligencia-mas-caracter-ese-es-el-objetivo-de-la-verdadera-educacion/?utm_source=rss&utm_medium=rss&utm_campaign=martin-luther-king-jr-sobre-la-educacion-la-funcion-de-la-educacion-es-ensenar-a-uno-a-pensar-intensa-y-criticamente-inteligencia-mas-caracter-ese-es-el-objetivo-de-la-verdadera-educacion",
-    "source": "Merca2.0",
-    "category": "marketing",
-    "original_title": "Martin Luther King Jr. sobre la educación: “La función de la educación es enseñar a uno a pensar intensa y críticamente. Inteligencia más carácter, ese es el objetivo de la verdadera educación”"
-   },
-   {
-    "title": "Airbnb promociona sus alojamientos junto a “Orgullo y prejuicio”, la nueva serie de Netflix",
-    "summary": "La plataforma ha colaborado con la nueva producción de Netflix para destacar algunos de los alojamientos que podrían interesar a fans de Jane Austen.",
-    "why": "",
-    "link": "https://www.reasonwhy.es/actualidad/airbnb-campana-serie-orgullo-y-prejuicio-netflix",
-    "source": "Reason Why",
-    "category": "marketing",
-    "original_title": "Airbnb promociona sus alojamientos junto a “Orgullo y prejuicio”, la nueva serie de Netflix"
+    "original_title": "Walmart cancela el encendido de su árbol de Navidad en Toreo y otros estados por el clima; esto dijo la marca"
    }
   ],
   "trend_note": "",
   "action_idea": "",
   "ai": false,
-  "date": "2026-11-27",
-  "label": "viernes 27 de noviembre",
-  "created": "2026-11-27T10:29:46.926294+00:00"
+  "date": "2026-11-28",
+  "label": "sábado 28 de noviembre",
+  "created": "2026-11-28T10:23:55.126266+00:00"
  },
  "archive": [
+  {
+   "intro": "Los titulares más recientes de IA y marketing.",
+   "stories": [
+    {
+     "title": "Hay una iglesia en Alemania donde lleva sonando la misma pieza desde 2001: no terminará hasta 2640",
+     "summary": "Si las canciones de rock sinfónico de los 70 te parecían eternas, la pieza que lleva tocándose 25 años en una parroquia de Alemania te romperá todos los esquemas. La pieza de Se llama ' ORGAN²/ASLSP ', y es la versión para órgano de una obra que John Cage escribió originalmente…",
+     "why": "",
+     "link": "https://www.xataka.com/magnet/hay-iglesia-alemania-donde-lleva-sonando-pieza-2001-no-terminara-2640",
+     "source": "Xataka",
+     "category": "ia",
+     "original_title": "Hay una iglesia en Alemania donde lleva sonando la misma pieza desde 2001: no terminará hasta 2640"
+    },
+    {
+     "title": "Tras arrasar en matemáticas y ciberseguridad, la IA tiene nuevo objetivo: liberar las funciones capadas de tu cámara de fotos",
+     "summary": "El firmware es el software interno que decide lo que puedes y no puedes hacer con tu dispositivo. Es algo que los fabricantes siempre han controlado con celo, pero la inteligencia artificial está facilitando destriparlo. Ocurre en muchos terrenos, como el de la ciberseguridad…",
+     "why": "",
+     "link": "https://www.xataka.com/robotica-e-ia/arrasar-matematicas-ciberseguridad-ia-tiene-nuevo-objetivo-liberar-funciones-capadas-tu-camara-fotos",
+     "source": "Xataka",
+     "category": "ia",
+     "original_title": "Tras arrasar en matemáticas y ciberseguridad, la IA tiene nuevo objetivo: liberar las funciones capadas de tu cámara de fotos"
+    },
+    {
+     "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+     "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+     "why": "",
+     "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+     "source": "The Verge IA",
+     "category": "ia",
+     "original_title": "Android’s DIY widgets are a bit of vibe-coding fun"
+    },
+    {
+     "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+     "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+     "why": "",
+     "link": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+     "source": "Wired IA",
+     "category": "ia",
+     "original_title": "A New Breed of Chip Runs AI Models Using Waves of Light"
+    },
+    {
+     "title": "La relevancia de la estrategia en el marketing no languidece en la era de la IA",
+     "summary": "La mitad de los estrategas califica de sólida su influencia en los CMO y los directivos de marketing, frente al 41% que decía lo propio en 2025.",
+     "why": "",
+     "link": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/relevancia-estrategia-marketing-no-languidece-era-ia",
+     "source": "MarketingDirecto",
+     "category": "marketing",
+     "original_title": "La relevancia de la estrategia en el marketing no languidece en la era de la IA"
+    },
+    {
+     "title": "Casio te da la hora con piezas de sushi en su nueva colección de relojes",
+     "summary": "Casio presenta tres nuevos G-SHOCK inspirados en el sushi japonés, con diseños que recrean el nigiri de salmón, el atún y las huevas.",
+     "why": "",
+     "link": "https://www.marketingdirecto.com/anunciantes-general/casio-te-da-la-hora-con-piezas-de-sushi-en-su-nueva-coleccion-de-relojes",
+     "source": "MarketingDirecto",
+     "category": "marketing",
+     "original_title": "Casio te da la hora con piezas de sushi en su nueva colección de relojes"
+    },
+    {
+     "title": "Digimon Alysion brings the trading card game to mobile for free, with rewards for all players",
+     "summary": "Digimon Alysion launches for free on iOS and Android after surpassing 450,000 preregistrations. Discover its cards, rewards, and how the game works.",
+     "why": "",
+     "link": "https://www.merca20.com/digimon-alysion-brings-the-trading-card-game-to-mobile-for-free-with-rewards-for-all-players/?utm_source=rss&utm_medium=rss&utm_campaign=digimon-alysion-brings-the-trading-card-game-to-mobile-for-free-with-rewards-for-all-players",
+     "source": "Merca2.0",
+     "category": "marketing",
+     "original_title": "Digimon Alysion brings the trading card game to mobile for free, with rewards for all players"
+    },
+    {
+     "title": "Milk Bar Brings Back Snoopy for Christmas 2026 With a Collectible Tin and Four New Cookie Flavors After Selling Out in 2025",
+     "summary": "Milk Bar and Peanuts celebrate Christmas 2026 with a new collectible Snoopy tin, four cookie flavors, chocolates, and other desserts.",
+     "why": "",
+     "link": "https://www.merca20.com/milk-bar-brings-back-snoopy-for-christmas-2026-with-a-collectible-tin-and-four-new-cookie-flavors-after-selling-out-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=milk-bar-brings-back-snoopy-for-christmas-2026-with-a-collectible-tin-and-four-new-cookie-flavors-after-selling-out-in-2025",
+     "source": "Merca2.0",
+     "category": "marketing",
+     "original_title": "Milk Bar Brings Back Snoopy for Christmas 2026 With a Collectible Tin and Four New Cookie Flavors After Selling Out in 2025"
+    },
+    {
+     "title": "Walmart cancela el encendido de su árbol de Navidad en Toreo y otros estados por el clima; esto dijo la marca",
+     "summary": "Walmart México canceló los eventos de encendido de sus árboles de Navidad programados para este sábado 28 de noviembre a nivel nacional",
+     "why": "",
+     "link": "https://www.merca20.com/walmart-cancela-el-encendido-de-su-arbol-de-navidad-en-toreo-y-otros-estados-por-el-clima-esto-dijo-la-marca/?utm_source=rss&utm_medium=rss&utm_campaign=walmart-cancela-el-encendido-de-su-arbol-de-navidad-en-toreo-y-otros-estados-por-el-clima-esto-dijo-la-marca",
+     "source": "Merca2.0",
+     "category": "marketing",
+     "original_title": "Walmart cancela el encendido de su árbol de Navidad en Toreo y otros estados por el clima; esto dijo la marca"
+    }
+   ],
+   "trend_note": "",
+   "action_idea": "",
+   "ai": false,
+   "date": "2026-11-28",
+   "label": "sábado 28 de noviembre",
+   "created": "2026-11-28T10:23:55.126266+00:00"
+  },
   {
    "intro": "Los titulares más recientes de IA y marketing.",
    "stories": [
