@@ -1,9 +1,10 @@
 {
- "updated": "2026-11-28T05:55:25.822584+00:00",
- "sources_ok": 31,
+ "updated": "2026-11-28T07:04:02.164285+00:00",
+ "sources_ok": 30,
  "sources_total": 32,
  "sources_failed": [
-  "Marketing4eCommerce"
+  "Matt Wolfe (YouTube)",
+  "Dot CSV (YouTube)"
  ],
  "count": 900,
  "trends": [
@@ -18,14 +19,14 @@
    "growth": 4.5
   },
   {
-   "term": "está",
-   "count": 22,
-   "growth": 10.1
-  },
-  {
    "term": "amazon",
    "count": 22,
    "growth": 5.8
+  },
+  {
+   "term": "está",
+   "count": 21,
+   "growth": 8.1
   },
   {
    "term": "méxico",
@@ -38,14 +39,14 @@
    "growth": 14.0
   },
   {
-   "term": "marcas",
-   "count": 19,
-   "growth": 5.6
-  },
-  {
    "term": "precio",
    "count": 18,
    "growth": 7.0
+  },
+  {
+   "term": "marcas",
+   "count": 18,
+   "growth": 4.8
   },
   {
    "term": "euros",
@@ -99,6 +100,45 @@
   }
  ],
  "items": [
+  {
+   "title": "Piden retomar el plan para devolver el lince boreal a los Pirineos. El problema es si es buena idea reintroducir esta especie",
+   "link": "https://www.xataka.com/magnet/piden-retomar-plan-para-devolver-lince-boreal-a-pirineos-problema-buena-idea-reintroducir-esta-especie",
+   "date": "2026-11-28T07:00:28+00:00",
+   "summary": "Es uno de nuestros relatos heroicos: en 2002 quedaban menos de cien linces ibéricos en libertad y el verano pasado el censo ibérico ya iba por 2.663 ejemplares, con 542 hembras reproductoras y 952 crías. Esta es una de las mayores historias de éxito de la conservación europea.…",
+   "image": "https://i.blogs.es/ce55d3/linces-blancos/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T07:04:02.164285+00:00",
+   "topics": []
+  },
+  {
+   "title": "\"Perdona, ¿tienes un minuto?\": los trucos psicológicos del captador de ONG que te asalta a la salida del metro",
+   "link": "https://www.xataka.com/magnet/perdona-tienes-minuto-trucos-psicologicos-captador-ongs-que-te-asalta-a-salida-metro",
+   "date": "2026-11-28T06:00:22+00:00",
+   "summary": "\"Perdona, ¿tienes un minuto?\". Están ahí, acechando. Rodeando las salidas del metro o patrullando por las calles comerciales del centro de la ciudad. Es curioso: hace unos años eran algo rarísimo, pero ahora los captadores de ONGs se han convertido en un elemento más de la…",
+   "image": "https://i.blogs.es/20d5aa/captador-ong/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T07:04:02.164285+00:00",
+   "topics": []
+  },
+  {
+   "title": "China completa las pruebas de un expansor de 600 MW, una pieza clave para almacenar electricidad con aire comprimido",
+   "link": "https://www.xataka.com/energia/china-completa-pruebas-expansor-600-mw-pieza-clave-para-almacenar-electricidad-aire-comprimido",
+   "date": "2026-11-28T06:00:22+00:00",
+   "summary": "¿Y si pudiésemos aprovechar el excedente de electricidad que a veces sobra de los paneles solares y aerogeneradores para comprimir aire y liberarlo después para mover una turbina y generar de nuevo energía cuando sea necesaria? Es lo que han conseguido desde el Instituto de…",
+   "image": "https://i.blogs.es/6bc641/hyb0be_biaanhwd/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T07:04:02.164285+00:00",
+   "topics": []
+  },
   {
    "title": "Digimon Alysion brings the trading card game to mobile for free, with rewards for all players",
    "link": "https://www.merca20.com/digimon-alysion-brings-the-trading-card-game-to-mobile-for-free-with-rewards-for-all-players/?utm_source=rss&utm_medium=rss&utm_campaign=digimon-alysion-brings-the-trading-card-game-to-mobile-for-free-with-rewards-for-all-players",
@@ -8740,7 +8780,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
+   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -8839,10 +8879,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the UK",
+   "title": "Meta expands Muse to the U.K.",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -12884,52 +12924,6 @@
    "og_tried": true,
    "topics": [
     "publicidad"
-   ]
-  },
-  {
-   "title": "t2ó ONE reúne al sector para explorar el potencial de las audiencias sintéticas",
-   "link": "https://www.marketingdirecto.com/marketing-general/eventos-y-formacion/t2o-one-reune-sector-explorar-potencial-audiencias-sinteticas",
-   "date": "2026-11-23T13:01:27+00:00",
-   "summary": "t2ó ONE y AMKT analizan cómo las audiencias sintéticas pueden transformar la investigación de mercados sin sustituir la validación humana.",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/t2o-evento.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": []
-  },
-  {
-   "title": "35 AI Prompts & Examples For SEO (Updated November 2026) via @sejournal, @theshelleywalsh",
-   "link": "https://www.searchenginejournal.com/ai-prompts-examples-for-seo-2026/596734/",
-   "date": "2026-11-23T13:00:17+00:00",
-   "summary": "Use these SEO prompts with verified data, native AI tools, and connected sources to get deeper insights from tool data.",
-   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/imageflow-ai-prompt-featured-596734-1600x840-1.jpg",
-   "source": "Search Engine Journal",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "seo"
-   ]
-  },
-  {
-   "title": "4 lecciones de comunidad robadas al K-pop",
-   "link": "https://marketing4ecommerce.net/4-lecciones-de-comunidad-robadas-al-k-pop/",
-   "date": "2026-11-23T12:59:10+00:00",
-   "summary": "La agencia detrás de la banda K-Pop BTS consiguió que el 36,4% de su facturación anual viniera del negocio que genera la comunidad que han creado.[…]",
-   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/lecciones-de-comunidad-kpop-1024x614.jpg",
-   "source": "Marketing4eCommerce",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T16:07:41.581881+00:00",
-   "topics": [
-    "publicidad",
-    "ecommerce"
    ]
   }
  ]
