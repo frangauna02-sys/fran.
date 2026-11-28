@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T11:19:23.943105+00:00",
+ "updated": "2026-11-28T12:18:23.086935+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
@@ -7,23 +7,18 @@
  "trends": [
   {
    "term": "black friday",
-   "count": 66,
-   "growth": 6.4
-  },
-  {
-   "term": "está",
-   "count": 24,
-   "growth": 9.2
+   "count": 65,
+   "growth": 5.8
   },
   {
    "term": "navidad",
-   "count": 23,
-   "growth": 4.5
+   "count": 24,
+   "growth": 4.7
   },
   {
-   "term": "amazon",
-   "count": 20,
-   "growth": 4.3
+   "term": "está",
+   "count": 22,
+   "growth": 6.4
   },
   {
    "term": "ofertas",
@@ -31,14 +26,19 @@
    "growth": 14.0
   },
   {
-   "term": "marcas",
-   "count": 17,
-   "growth": 4.5
+   "term": "amazon",
+   "count": 19,
+   "growth": 3.8
   },
   {
    "term": "precio",
-   "count": 16,
-   "growth": 4.8
+   "count": 17,
+   "growth": 5.0
+  },
+  {
+   "term": "marcas",
+   "count": 17,
+   "growth": 4.1
   },
   {
    "term": "méxico",
@@ -51,11 +51,6 @@
    "growth": 6.1
   },
   {
-   "term": "google",
-   "count": 25,
-   "growth": 2.1
-  },
-  {
    "term": "marketing",
    "count": 11,
    "growth": 4.4
@@ -66,9 +61,19 @@
    "growth": 6.5
   },
   {
-   "term": "casa",
+   "term": "campaña",
    "count": 11,
    "growth": 8.4
+  },
+  {
+   "term": "google",
+   "count": 23,
+   "growth": 1.8
+  },
+  {
+   "term": "inteligencia artificial",
+   "count": 8,
+   "growth": 9.0
   },
   {
    "term": "españa",
@@ -81,22 +86,73 @@
    "growth": 5.9
   },
   {
-   "term": "campaña",
+   "term": "casa",
    "count": 10,
-   "growth": 7.7
+   "growth": 5.9
   },
   {
    "term": "menos",
    "count": 11,
    "growth": 3.4
-  },
-  {
-   "term": "inteligencia artificial",
-   "count": 7,
-   "growth": 8.0
   }
  ],
  "items": [
+  {
+   "title": "Dos meses de fútbol por 2 euros o un año a mitad de precio: se terminan las promos de Black Friday de Movistar Plus y DAZN",
+   "link": "https://www.xataka.com/seleccion/dos-meses-futbol-2-euros-ano-a-mitad-precio-se-terminan-promos-black-friday-movistar-plus-dazn",
+   "date": "2026-11-28T12:16:20+00:00",
+   "summary": "El Black Friday ya ha pasado, pero todavía quedan algunas ofertas disponibles que podemos aprovechar. Donde hay más es en el terreno de las plataformas de streaming y ahí, si te gusta el fútbol, tienes dos vías para elegir muy diferentes. Tanto Movistar Plus como DAZN tienen…",
+   "image": "https://i.blogs.es/913f31/dazn-movistar-black-friday/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T12:18:23.086935+00:00",
+   "topics": [
+    "ecommerce"
+   ]
+  },
+  {
+   "title": "Mientras las grandes marcas experimentan con inteligencia artificial, un supermercado suizo crea su campaña publicitaria de Navidad con dos ojos de plástico",
+   "link": "https://www.merca20.com/campana-publicitaria-de-navidad-coop-suiza-ojos-plastico/?utm_source=rss&utm_medium=rss&utm_campaign=campana-publicitaria-de-navidad-coop-suiza-ojos-plastico",
+   "date": "2026-11-28T12:08:00+00:00",
+   "summary": "Una mandarina y un cacahuate protagonizan la campaña navideña de Coop, una cadena suiza de supermercados que convirtió dos pequeños ojos de plástico en una plataforma creativa internacionalmente reconocible.",
+   "image": "https://files.merca20.com/uploads/2026/11/comercial-de-navidad.jpeg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T12:18:23.086935+00:00",
+   "topics": [
+    "publicidad"
+   ]
+  },
+  {
+   "title": "Todos querrán vivir en Madrid, nadie querrá vivir en Madrid",
+   "link": "https://www.xataka.com/opinion/todos-querran-vivir-madrid-nadie-querra-vivir-madrid",
+   "date": "2026-11-28T12:02:20+00:00",
+   "summary": "Madrid es invivible. Hemos tratado el tema en reiteradas ocasiones en Xataka. Dejando a un lado que la ciudad se ha convertido en una suerte de megaestadio para cobijar megaconciertos, megafestivales, megacarreras de Fórmula 1 y megaencendidos de luces navideños, Madrid es hoy…",
+   "image": "https://i.blogs.es/9ca7f0/xataka-opinion-madrid-agujero-negro/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T12:18:23.086935+00:00",
+   "topics": []
+  },
+  {
+   "title": "Juanjilandia, el 'Cortylandia' de Getafe que un padre y un hijo organizan con fines benéficos, ya reúne a cientos de visitantes",
+   "link": "https://www.xataka.com/magnet/juanjilandia-cortylandia-getafe-que-padre-hijo-organizan-fines-beneficos-reune-a-cientos-visitantes",
+   "date": "2026-11-28T11:30:23+00:00",
+   "summary": "¿Y si se pudiera “plantar cara” a la maquinaria de Cortylandia? Son muchos años, vale la pena intentar lo que han logrado un padre y un hijo: que la música a la Navidad de Madrid la pongan ellos, no un patrocinio millonario. Juanjilandia es el curioso nombre que han elegido y…",
+   "image": "https://i.blogs.es/6e950a/cartel/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T12:18:23.086935+00:00",
+   "topics": []
+  },
   {
    "title": "La norma Euro 7 entra en vigor el 29 de noviembre: qué cambia en los coches nuevos y qué pasa con tu vehículo actual",
    "link": "https://www.xataka.com/movilidad/norma-euro-7-entra-vigor-29-noviembre-que-cambia-coches-nuevos-que-pasa-tu-vehiculo-actual",
@@ -121,6 +177,20 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-28T11:19:23.943105+00:00",
+   "topics": []
+  },
+  {
+   "title": "Canada Goose ha creado su propio copo de nieve para diseñar su nueva colección",
+   "link": "https://www.marketingdirecto.com/anunciantes-general/canada-goose-creado-propio-copo-nieve-disenar-nueva-coleccion-otono-invierno-2026",
+   "date": "2026-11-28T11:00:00+00:00",
+   "summary": "La firma canadiense crea un copo de nieve junto a un físico de Caltech que inspira su colección otoño/invierno 2026.",
+   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Canada-Goose.-Copo-de-nieve.webp",
+   "source": "MarketingDirecto",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T12:18:23.086935+00:00",
+   "og_tried": true,
    "topics": []
   },
   {
@@ -310,8 +380,8 @@
    "category": "marketing",
    "lang": "en",
    "type": "article",
-   "first_seen": "2026-11-28T11:19:23.943105+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-28T11:19:23.943105+00:00",
    "topics": [
     "publicidad"
    ]
@@ -12834,83 +12904,6 @@
    "lang": "en",
    "type": "newsletter",
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Google Posts FAQs on Back Button Hijacking Spam",
-   "link": "https://www.seroundtable.com/google-faqs-back-button-hijacking-42601.html",
-   "date": "2026-11-23T15:08:00+00:00",
-   "summary": "Google has added an FAQs section on the back button hijacking spam policy within the spam policies document. Currently, there are five questions and answers in this document and they include:",
-   "image": "https://images.seroundtable.com/google-hijack-hacker-CYM07oc4.jpg",
-   "source": "Search Engine Roundtable",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "seo"
-   ]
-  },
-  {
-   "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-   "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-   "date": "2026-11-23T15:04:01+00:00",
-   "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
-   "source": "TechCrunch IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "The Final Ad Checklist Before BFCM – What To Fix Now & What To Leave via @sejournal, @tonyadam",
-   "link": "https://www.searchenginejournal.com/the-final-ad-checklist-before-bfcm-what-to-fix-now-what-to-leave/597701/",
-   "date": "2026-11-23T15:00:32+00:00",
-   "summary": "Keep Black Friday ads running with final checks on budgets, purchase tracking, billing, and offers before the holiday rush.",
-   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ad-checklist-914.jpg",
-   "source": "Search Engine Journal",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "seo",
-    "publicidad",
-    "ecommerce"
-   ]
-  },
-  {
-   "title": "Daily Search Forum Recap: November 23, 2026",
-   "link": "https://www.seroundtable.com/recap-11-23-2026-42597.html",
-   "date": "2026-11-23T15:00:00+00:00",
-   "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google has something it calls StarSearch...",
-   "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
-   "source": "Search Engine Roundtable",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "seo"
-   ]
-  },
-  {
-   "title": "Nvidia restituye a Jensen Huang como CEO y Presidente",
-   "link": "https://www.reasonwhy.es/actualidad/nvidia-reinstaura-jensen-huang-ceo-presidente",
-   "date": "2026-11-23T14:51:00+00:00",
-   "summary": "Dimitió tras darse a conocer dos infidelidades, una de ellas con una ejecutiva presuntamente vinculada al espionaje chino.",
-   "image": "https://www.reasonwhy.es/media/library/jensen-huang-vuelve-nvidia.jpg",
-   "source": "Reason Why",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": []
   }
  ]
