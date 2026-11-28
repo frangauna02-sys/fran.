@@ -1,14 +1,16 @@
 {
- "updated": "2026-11-28T12:18:23.086935+00:00",
- "sources_ok": 32,
+ "updated": "2026-11-28T13:36:43.851004+00:00",
+ "sources_ok": 31,
  "sources_total": 32,
- "sources_failed": [],
+ "sources_failed": [
+  "Marketing4eCommerce"
+ ],
  "count": 900,
  "trends": [
   {
    "term": "black friday",
-   "count": 65,
-   "growth": 5.8
+   "count": 63,
+   "growth": 5.3
   },
   {
    "term": "navidad",
@@ -21,24 +23,24 @@
    "growth": 6.4
   },
   {
-   "term": "ofertas",
-   "count": 19,
-   "growth": 14.0
-  },
-  {
-   "term": "amazon",
-   "count": 19,
-   "growth": 3.8
-  },
-  {
    "term": "precio",
    "count": 17,
    "growth": 5.0
   },
   {
+   "term": "ofertas",
+   "count": 17,
+   "growth": 7.9
+  },
+  {
    "term": "marcas",
    "count": 17,
    "growth": 4.1
+  },
+  {
+   "term": "amazon",
+   "count": 18,
+   "growth": 3.3
   },
   {
    "term": "méxico",
@@ -66,9 +68,9 @@
    "growth": 8.4
   },
   {
-   "term": "google",
-   "count": 23,
-   "growth": 1.8
+   "term": "españa",
+   "count": 11,
+   "growth": 3.8
   },
   {
    "term": "inteligencia artificial",
@@ -76,27 +78,82 @@
    "growth": 9.0
   },
   {
-   "term": "españa",
-   "count": 10,
-   "growth": 4.1
-  },
-  {
    "term": "cuesta",
    "count": 10,
    "growth": 5.9
   },
   {
-   "term": "casa",
-   "count": 10,
-   "growth": 5.9
+   "term": "móvil",
+   "count": 9,
+   "growth": 4.4
   },
   {
-   "term": "menos",
-   "count": 11,
-   "growth": 3.4
+   "term": "casa",
+   "count": 9,
+   "growth": 4.4
+  },
+  {
+   "term": "gta",
+   "count": 10,
+   "growth": 3.5
   }
  ],
  "items": [
+  {
+   "title": "Muchos de los proyectos solares en España se quedan en un cajón y no llegan a ver la luz",
+   "link": "https://www.xataka.com/energia/muchos-proyectos-solares-espana-se-quedan-cajon-no-llegan-a-ver-luz",
+   "date": "2026-11-28T13:30:24+00:00",
+   "summary": "La solar vive uno de sus mejores momentos, pero también una paradoja: aunque cada vez hay más cartera sobre la mesa y las previsiones a futuro son realmente positivas, muchos de esos proyectos se quedan por el camino y no llegan nunca a construirse. Es lo que expone el informe…",
+   "image": "https://i.blogs.es/2d46fb/michael-wilson-wp7wotwlbbk-unsplash/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T13:36:43.851004+00:00",
+   "topics": []
+  },
+  {
+   "title": "Amancio Ortega acaba de colarse en un 'Top 10' de grandes inversiones mundiales. Y para sorpresa de nadie incluye un rascacielos",
+   "link": "https://www.xataka.com/empresas-y-economia/amancio-ortega-acaba-colarse-top-10-grandes-inversiones-mundiales-para-sorpresa-nadie-incluye-rascacielos",
+   "date": "2026-11-28T13:00:32+00:00",
+   "summary": "Amancio Ortega cimentó su fortuna sobre el negocio de la moda, pero desde hace tiempo parte de su atención (y sus millones) se dirigen a otro sector: el del ladrillo. Las ganancias obtenidas a través de Inditex han permitido al gallego adquirir decenas y decenas de propiedades…",
+   "image": "https://i.blogs.es/034f45/00be94b7-57f2-4c31-8ebb-cf54faa469f2_photo_1_large/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T13:36:43.851004+00:00",
+   "topics": []
+  },
+  {
+   "title": "Core Updates, Ranking Feedback, Google-Agent & WordPress – SEO Pulse via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/seo-pulse-core-updates-ranking-feedback-google-agent-wordpress/599171/",
+   "date": "2026-11-28T13:00:00+00:00",
+   "summary": "This week’s SEO Pulse covers Google’s core updates and ranking feedback, Google-Agent access, WordPress’s shrinking share, and Salesforce’s take on SEO.",
+   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/seo-pulse-core-updates-featured-1600x840-1.jpg",
+   "source": "Search Engine Journal",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-28T13:36:43.851004+00:00",
+   "og_tried": true,
+   "topics": [
+    "seo"
+   ]
+  },
+  {
+   "title": "En 2019 España prohibió su venta, pero ya era tarde: el cerdo vietnamita solo ha necesitado una década para cambiar el monte",
+   "link": "https://www.xataka.com/ecologia-y-naturaleza/2019-espana-prohibio-su-venta-era-tarde-cerdo-vietnamita-solo-ha-necesitado-decada-para-cambiar-monte",
+   "date": "2026-11-28T12:30:25+00:00",
+   "summary": "Que las especies invasoras suelen ser un problema no es un secreto, pero es que los híbridos resultantes también. Y aquí es cuando enseña la pezuñita el cerdolí, el nombre popular con el que se conoce a la mezcla entre jabalí y el cerdo doméstico, más concretamente (y…",
+   "image": "https://i.blogs.es/9549bc/qingqing-cai-qe9b_pezl4a-unsplash/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T13:36:43.851004+00:00",
+   "topics": []
+  },
   {
    "title": "Dos meses de fútbol por 2 euros o un año a mitad de precio: se terminan las promos de Black Friday de Movistar Plus y DAZN",
    "link": "https://www.xataka.com/seleccion/dos-meses-futbol-2-euros-ano-a-mitad-precio-se-terminan-promos-black-friday-movistar-plus-dazn",
@@ -189,8 +246,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-28T12:18:23.086935+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-28T12:18:23.086935+00:00",
    "topics": []
   },
   {
@@ -9027,7 +9084,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
+   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -9126,10 +9183,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the UK",
+   "title": "Meta expands Muse to the U.K.",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -12845,66 +12902,6 @@
     "redes",
     "ecommerce"
    ]
-  },
-  {
-   "title": "Cómo utilizar la IA para detectar necesidades de los clientes: el caso de 202 Digital Reputation y Taixable",
-   "link": "https://marketing4ecommerce.net/social-listening-ia-necesidades-clientes-202-digital-reputation-taixable/",
-   "date": "2026-11-23T15:29:09+00:00",
-   "summary": "El análisis de conversaciones digitales permite identificar necesidades, estudiar competidores y mejorar estrategias de marketing mediante IA[…]",
-   "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/11/202-Digital-Reputation-y-Taixable-1024x614.jpg",
-   "source": "Marketing4eCommerce",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T16:07:41.581881+00:00",
-   "topics": [
-    "ecommerce"
-   ]
-  },
-  {
-   "title": "The Art of Using AI as ‘Power Steering,’ Not Autopilot ft. Kathy Collins",
-   "link": "https://www.adweek.com/brand-marketing/the-art-of-using-ai-as-power-steering-not-autopilot-ft-kathy-collins/",
-   "date": "2026-11-23T15:22:02+00:00",
-   "summary": "What changes when you start owning the numbers.",
-   "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/marketing-vanguard-frontdoor-Kathy-Collins.png?w=600&h=315&crop=1",
-   "source": "Adweek",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Pet Brands Find New Ways to Invite the Family Dog to Thanksgiving Dinner",
-   "link": "https://www.adweek.com/brand-marketing/pet-brands-find-new-ways-to-invite-the-family-dog-to-thanksgiving-dinner/",
-   "date": "2026-11-23T15:17:00+00:00",
-   "summary": "Elevated to child status, dogs are getting a seat at the holiday table.",
-   "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/Ollie-HERO.png?w=600&h=315&crop=1",
-   "source": "Adweek",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "How Joya Studio brought the scents of A24's ‘Backrooms’ into consumers’ own rooms",
-   "link": "https://www.marketingbrew.com/stories/a24-backrooms-joya-studio-scent-score?utm_source=&utm_medium=syndication&utm_campaign=feed",
-   "date": "2026-11-23T15:13:59+00:00",
-   "summary": "The fragrance house worked with A24 to interpret liminal spaces from “Backrooms” for home theaters with the goal of building personal connections with audiences.",
-   "image": "https://morningbrew.com/cdn-cgi/image/fit=cover,format=jpeg,width=1600,height=900,quality=80,trim=78;0;78;0/https://storage.morningbrew.com/image/2026-11-23/image-59f08c3912774e21dd9f29c5e02b6c15b6f6b059-1500x1000-png/UntitledDesign1.png",
-   "source": "Marketing Brew",
-   "category": "marketing",
-   "lang": "en",
-   "type": "newsletter",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
   }
  ]
 }
