@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:31:02.202980+00:00",
+ "updated": "2026-11-28T03:52:05.328163+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
@@ -8,7 +8,7 @@
   {
    "term": "black friday",
    "count": 69,
-   "growth": 7.7
+   "growth": 8.0
   },
   {
    "term": "navidad",
@@ -38,7 +38,7 @@
   {
    "term": "marcas",
    "count": 19,
-   "growth": 5.0
+   "growth": 5.6
   },
   {
    "term": "precio",
@@ -97,6 +97,19 @@
   }
  ],
  "items": [
+  {
+   "title": "Milk Bar Brings Back Snoopy for Christmas 2026 With a Collectible Tin and Four New Cookie Flavors After Selling Out in 2025",
+   "link": "https://www.merca20.com/milk-bar-brings-back-snoopy-for-christmas-2026-with-a-collectible-tin-and-four-new-cookie-flavors-after-selling-out-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=milk-bar-brings-back-snoopy-for-christmas-2026-with-a-collectible-tin-and-four-new-cookie-flavors-after-selling-out-in-2025",
+   "date": "2026-11-28T03:46:13+00:00",
+   "summary": "Milk Bar and Peanuts celebrate Christmas 2026 with a new collectible Snoopy tin, four cookie flavors, chocolates, and other desserts.",
+   "image": "https://files.merca20.com/uploads/2026/11/Milk-Bar-Brings-Back-Snoopy-for-Christmas-2026-With-a-Collectible-Tin-and-Four-New-Cookie-Flavors-After-Selling-Out-in-2025-.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T03:52:05.328163+00:00",
+   "topics": []
+  },
   {
    "title": "Walmart cancela el encendido de su árbol de Navidad en Toreo y otros estados por el clima; esto dijo la marca",
    "link": "https://www.merca20.com/walmart-cancela-el-encendido-de-su-arbol-de-navidad-en-toreo-y-otros-estados-por-el-clima-esto-dijo-la-marca/?utm_source=rss&utm_medium=rss&utm_campaign=walmart-cancela-el-encendido-de-su-arbol-de-navidad-en-toreo-y-otros-estados-por-el-clima-esto-dijo-la-marca",
@@ -365,7 +378,7 @@
    "topics": []
   },
   {
-   "title": "Google Adds Shopping Campaigns To Promotion Mode Eligibility via @sejournal, @MattGSouthern",
+   "title": "Google Says Promotion Mode Now Supports Shopping Campaigns via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/google-adds-shopping-campaigns-to-promotion-mode-eligibility/599279/",
    "date": "2026-11-27T19:57:15+00:00",
    "summary": "Standard Shopping campaigns can use Promotion Mode to lower Target ROAS for short sales, with an optional extra daily budget, an updated help page says.",
@@ -12920,23 +12933,6 @@
    "first_seen": "2026-11-24T15:23:43.870119+00:00",
    "topics": [
     "publicidad"
-   ]
-  },
-  {
-   "title": "Black Friday: las marcas convierten los descuentos en experiencias",
-   "link": "https://www.marketingdirecto.com/anunciantes-general/black-friday-marcas-convierten-descuentos-experiencias",
-   "date": "2026-11-23T12:25:20+00:00",
-   "summary": "El Black Friday presenta una oportunidad para que las marcas desplieguen campañas, experiencias y promociones con las que conquistar al consumidor.",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2025/11/Black-Friday-1.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": [
-    "publicidad",
-    "ecommerce"
    ]
   }
  ]
