@@ -1,14 +1,16 @@
 {
- "updated": "2026-11-28T04:55:55.905397+00:00",
- "sources_ok": 32,
+ "updated": "2026-11-28T05:55:25.822584+00:00",
+ "sources_ok": 31,
  "sources_total": 32,
- "sources_failed": [],
+ "sources_failed": [
+  "Marketing4eCommerce"
+ ],
  "count": 900,
  "trends": [
   {
    "term": "black friday",
-   "count": 69,
-   "growth": 8.0
+   "count": 68,
+   "growth": 7.5
   },
   {
    "term": "navidad",
@@ -86,14 +88,14 @@
    "growth": 6.5
   },
   {
-   "term": "thanksgiving",
-   "count": 11,
-   "growth": 3.8
-  },
-  {
    "term": "hoy",
    "count": 10,
    "growth": 5.9
+  },
+  {
+   "term": "españa",
+   "count": 10,
+   "growth": 4.8
   }
  ],
  "items": [
@@ -107,8 +109,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-28T04:55:55.905397+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-28T04:55:55.905397+00:00",
    "topics": []
   },
   {
@@ -348,7 +350,7 @@
    ]
   },
   {
-   "title": "Google’s 404 Guide Says 410s Generally Get Crawled Less Often via @sejournal, @MattGSouthern",
+   "title": "Google Moves 404 Guidance To Search Central, Adds A 410 Crawl Note via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/google-404-guide-410-crawl-frequency/599287/",
    "date": "2026-11-27T20:26:24+00:00",
    "summary": "Google moved its 404 guidance into Search Central and now says 410s generally get crawled less often, while treating both codes the same for indexing.",
@@ -8738,7 +8740,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
+   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -8837,10 +8839,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the U.K.",
+   "title": "Meta expands Muse to the UK",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
