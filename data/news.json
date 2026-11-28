@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T10:23:51.349067+00:00",
+ "updated": "2026-11-28T11:19:23.943105+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
@@ -7,23 +7,23 @@
  "trends": [
   {
    "term": "black friday",
-   "count": 67,
-   "growth": 6.8
-  },
-  {
-   "term": "navidad",
-   "count": 25,
-   "growth": 5.4
+   "count": 66,
+   "growth": 6.4
   },
   {
    "term": "está",
+   "count": 24,
+   "growth": 9.2
+  },
+  {
+   "term": "navidad",
    "count": 23,
-   "growth": 8.8
+   "growth": 4.5
   },
   {
    "term": "amazon",
-   "count": 21,
-   "growth": 5.0
+   "count": 20,
+   "growth": 4.3
   },
   {
    "term": "ofertas",
@@ -32,13 +32,13 @@
   },
   {
    "term": "marcas",
-   "count": 18,
-   "growth": 5.3
+   "count": 17,
+   "growth": 4.5
   },
   {
    "term": "precio",
-   "count": 17,
-   "growth": 5.7
+   "count": 16,
+   "growth": 4.8
   },
   {
    "term": "méxico",
@@ -66,14 +66,14 @@
    "growth": 6.5
   },
   {
-   "term": "españa",
-   "count": 11,
-   "growth": 5.2
-  },
-  {
    "term": "casa",
    "count": 11,
-   "growth": 6.5
+   "growth": 8.4
+  },
+  {
+   "term": "españa",
+   "count": 10,
+   "growth": 4.1
   },
   {
    "term": "cuesta",
@@ -97,6 +97,45 @@
   }
  ],
  "items": [
+  {
+   "title": "La norma Euro 7 entra en vigor el 29 de noviembre: qué cambia en los coches nuevos y qué pasa con tu vehículo actual",
+   "link": "https://www.xataka.com/movilidad/norma-euro-7-entra-vigor-29-noviembre-que-cambia-coches-nuevos-que-pasa-tu-vehiculo-actual",
+   "date": "2026-11-28T11:07:34+00:00",
+   "summary": "Desde mañana empieza a aplicarse la Euro 7, la nueva referencia europea de emisiones que tiene como base el Reglamento de la UE 2024/1257 del Parlamento Europeo y del Consejo y tenemos malas y buenas noticias. La mala es que las visitas al taller van a ser más exigentes,…",
+   "image": "https://i.blogs.es/dc1ee8/hiki-liu-xya28ovkxiu-unsplash/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T11:19:23.943105+00:00",
+   "topics": []
+  },
+  {
+   "title": "China ya fabrica casi una de cada once memorias DRAM del mundo y la IA le está pagando la fábrica",
+   "link": "https://www.xataka.com/componentes/china-fabrica-casi-cada-once-memorias-dram-mundo-ia-le-esta-pagando-fabrica",
+   "date": "2026-11-28T11:00:26+00:00",
+   "summary": "Es la época dorada para las memorias... para fabricarlas, quiero decir. Si te dedicas a la manufactura de componentes, gracias a la IA vas a vender todo lo que produzcas y más. Las gráficas de beneficios operativos de los fabricantes tienen forma de ascenso empinado a una…",
+   "image": "https://i.blogs.es/9c0646/chiiii/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "ia",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T11:19:23.943105+00:00",
+   "topics": []
+  },
+  {
+   "title": "A Europa no le faltan 50.000 millones para competir con EEUU. Le falta alguien que compre lo que fabrica",
+   "link": "https://www.xataka.com/empresas-y-economia/a-europa-no-le-faltan-50-000-millones-para-competir-eeuu-le-falta-alguien-que-compre-que-fabrica",
+   "date": "2026-11-28T10:30:21+00:00",
+   "summary": "La Comisión Europea ha propuesto un fondo de 50.000 millones de euros para entrar en el capital de sus tecnológicas y evitar que acaben en manos estadounidenses o chinas. Su diagnóstico es que a Europa le falta dinero para crecer. Pero Europa tiene otra palanca, mucho más…",
+   "image": "https://i.blogs.es/6baa09/ue2/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T11:19:23.943105+00:00",
+   "topics": []
+  },
   {
    "title": "Hay una iglesia en Alemania donde lleva sonando la misma pieza desde 2001: no terminará hasta 2640",
    "link": "https://www.xataka.com/magnet/hay-iglesia-alemania-donde-lleva-sonando-pieza-2001-no-terminara-2640",
@@ -161,8 +200,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-28T10:23:51.349067+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-28T10:23:51.349067+00:00",
    "topics": [
     "publicidad"
    ]
@@ -260,6 +299,22 @@
    "type": "article",
    "first_seen": "2026-11-28T07:04:02.164285+00:00",
    "topics": []
+  },
+  {
+   "title": "For Macy’s, Its 100th Thanksgiving Day Parade Is About So Much More Than Balloons",
+   "link": "https://www.adweek.com/brand-marketing/for-macys-its-100th-thanksgiving-day-parade-is-about-so-much-more-than-balloons/",
+   "date": "2026-11-28T06:00:00+00:00",
+   "summary": "Beyond flying 100 inflatables and a roster of brand partners, Macy's is airing a 90-second love letter to its history this holiday. CMO Sharon Otterman explains why.",
+   "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/mr-peanut-macys-parade-1.png?w=600&h=315&crop=1",
+   "source": "Adweek",
+   "category": "marketing",
+   "lang": "en",
+   "type": "article",
+   "first_seen": "2026-11-28T11:19:23.943105+00:00",
+   "og_tried": true,
+   "topics": [
+    "publicidad"
+   ]
   },
   {
    "title": "Digimon Alysion brings the trading card game to mobile for free, with rewards for all players",
@@ -8902,7 +8957,7 @@
    "title": "Emplifi shares notes on social media marketing trends",
    "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
    "date": "2026-11-24T22:15:49+00:00",
-   "summary": "The company shared a range of insights from a recent survey of industry professionals.",
+   "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
    "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "marketing",
@@ -9001,10 +9056,10 @@
    "topics": []
   },
   {
-   "title": "Meta expands Muse to the U.K.",
+   "title": "Meta expands Muse to the UK",
    "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
    "date": "2026-11-24T21:47:38+00:00",
-   "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
+   "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
    "image": "",
    "source": "Social Media Today",
    "category": "marketing",
@@ -12856,68 +12911,6 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": []
-  },
-  {
-   "title": "Wednesday, Nov. 18 Daily Cable News Ratings: Fox News Owns the Evening",
-   "link": "https://www.adweek.com/tvnewser/wednesday-nov-18-daily-cable-news-ratings-fox-news-owns-the-evening/",
-   "date": "2026-11-23T14:49:09+00:00",
-   "summary": "The 6 p.m. ET timeslot was heavily contested by MS NOW and CNN in the demo.",
-   "image": "https://static-www.adweek.com/wp-content/uploads/2026/09/Overnight-Ratings-Wed-e1791240825669.jpg?w=600&h=315&crop=1",
-   "source": "Adweek",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "La agencia PRESSCODE cumple 15 años",
-   "link": "https://www.marketingdirecto.com/marketing-general/agencias/agencia-presscode-cumple-15-anos",
-   "date": "2026-11-23T14:47:41+00:00",
-   "summary": "Fundada en 2011, la agencia ha creado un modelo de trabajo que combina la experiencia de las grandes agencias de comunicación con un servicio cercano y adaptado a cada cliente",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Diseno-sin-titulo-2026-11-23T154613.898.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "El Almendro reinventa el mítico «Vuelve a casa» para mostrar la importancia de estar presentes esta Navidad",
-   "link": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/el-almendro-reinventa-mitico-vuelve-casa-reivindicar-importancia-estar-presentes-navidad",
-   "date": "2026-11-23T14:45:00+00:00",
-   "summary": "Así fue el Making Of del nuevo spot navideño, que pone en valor una realidad cada vez más presente: la desconexión emocional entre personas que, pese a estar juntas, viven alejadas.",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/portada-campana-el-almendro.jpg",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-   "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-   "date": "2026-11-23T14:43:03+00:00",
-   "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
-   "image": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762816752.jpg?w=1200",
-   "source": "TechCrunch IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
    "topics": []
   }
  ]
