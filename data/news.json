@@ -1,14 +1,16 @@
 {
- "updated": "2026-11-28T08:29:31.430521+00:00",
- "sources_ok": 32,
+ "updated": "2026-11-28T09:25:35.067253+00:00",
+ "sources_ok": 31,
  "sources_total": 32,
- "sources_failed": [],
+ "sources_failed": [
+  "Marketing4eCommerce"
+ ],
  "count": 900,
  "trends": [
   {
    "term": "black friday",
-   "count": 68,
-   "growth": 7.5
+   "count": 67,
+   "growth": 7.1
   },
   {
    "term": "navidad",
@@ -17,13 +19,13 @@
   },
   {
    "term": "está",
-   "count": 22,
-   "growth": 8.5
+   "count": 23,
+   "growth": 8.8
   },
   {
    "term": "amazon",
-   "count": 22,
-   "growth": 5.8
+   "count": 21,
+   "growth": 5.0
   },
   {
    "term": "ofertas",
@@ -47,8 +49,8 @@
   },
   {
    "term": "euros",
-   "count": 16,
-   "growth": 4.8
+   "count": 15,
+   "growth": 4.0
   },
   {
    "term": "descuento",
@@ -58,12 +60,7 @@
   {
    "term": "google",
    "count": 25,
-   "growth": 2.0
-  },
-  {
-   "term": "menos",
-   "count": 12,
-   "growth": 4.1
+   "growth": 2.1
   },
   {
    "term": "marketing",
@@ -86,17 +83,48 @@
    "growth": 5.2
   },
   {
-   "term": "móvil",
+   "term": "casa",
+   "count": 11,
+   "growth": 5.2
+  },
+  {
+   "term": "cuesta",
    "count": 10,
    "growth": 5.9
   },
   {
-   "term": "hoy",
+   "term": "campaña",
    "count": 10,
-   "growth": 5.9
+   "growth": 7.7
   }
  ],
  "items": [
+  {
+   "title": "A cuántos grados calienta Europa su casa: el mapa que explica por qué más calor no siempre es derroche",
+   "link": "https://www.xataka.com/energia/a-cuantos-grados-calienta-europa-su-casa-mapa-que-explica-que-calor-no-siempre-derroche",
+   "date": "2026-11-28T09:00:23+00:00",
+   "summary": "Oficialmente no es invierno, pero a juzgar por el rasca que hace cuando sales a la calle, quién lo diría: estamos ante la primera masa de aire polar de la temporada y, si habías demorado la puesta en marcha de tu calefacción, estos días te costará resistirse. Y con el encendido…",
+   "image": "https://i.blogs.es/07c27e/gemini_generated_image_p4w4ftp4w4ftp4w4/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T09:25:35.067253+00:00",
+   "topics": []
+  },
+  {
+   "title": "Ciberataque a SAP, la mayor empresa de software de Europa: el verdadero peligro está en el código",
+   "link": "https://www.xataka.com/seguridad/ciberataque-a-sap-mayor-empresa-software-europa-verdadero-peligro-esta-codigo",
+   "date": "2026-11-28T08:55:15+00:00",
+   "summary": "El software de SAP no es tan conocido ni tan utilizado como Outlook, pero sus aplicaciones mueven la contabilidad de media Europa. Pues bien, la empresa alemana ha confirmado que \"había detectado actividad sospechosa\", tal y como adelantaba Der Spiegel el jueves. Al parecer, el…",
+   "image": "https://i.blogs.es/e3b269/sede-sap-sobre-fondo-cibernetico-rojo-1-/1024_2000.jpeg",
+   "source": "Xataka",
+   "category": "tech",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T09:25:35.067253+00:00",
+   "topics": []
+  },
   {
    "title": "Ni el aceite de oliva, ni Ceuta, ni Melilla: Marruecos está levantando 115.000 razones para meterle su gol más histórico a España",
    "link": "https://www.xataka.com/magnet/aceite-oliva-ceuta-melilla-marruecos-esta-levantando-115-000-razones-para-meterle-su-gol-historico-a-espana",
@@ -133,8 +161,8 @@
    "category": "marketing",
    "lang": "es",
    "type": "article",
-   "first_seen": "2026-11-28T08:29:31.430521+00:00",
    "og_tried": true,
+   "first_seen": "2026-11-28T08:29:31.430521+00:00",
    "topics": []
   },
   {
@@ -12892,35 +12920,6 @@
    "first_seen": "2026-11-24T16:04:26.392260+00:00",
    "topics": [
     "publicidad"
-   ]
-  },
-  {
-   "title": "AI Stands to Replace Jobs. Here’s a Plan to Put People First",
-   "link": "https://www.marketingaiinstitute.com/blog/people-first-approach-to-ai-maicon-2026",
-   "date": "2026-11-23T14:15:00+00:00",
-   "summary": "Nearly half of American jobs fall into five categories that sit directly in AI’s path, and Andrew Yang says the economy isn’t ready for it.",
-   "image": "https://www.marketingaiinstitute.com/hubfs/MAICON26%20Main%20Stage%20-%20Blog%20Post%20Assets/Andrew%20Yang%20-%20MAICON26%20Blog%20Post.png",
-   "source": "Marketing AI Institute",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Google Publishes Guidance For Google-Agent Crawler via @sejournal, @martinibuster",
-   "link": "https://www.searchenginejournal.com/google-publishes-guidance-for-google-agent-crawler/598526/",
-   "date": "2026-11-23T13:12:32+00:00",
-   "summary": "Google explains how website owners and SEOs can identify legitimate Google-Agent requests and prevent security systems from blocking them.",
-   "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-agent-417.jpg",
-   "source": "Search Engine Journal",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "seo"
    ]
   }
  ]
