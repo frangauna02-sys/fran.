@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:48:28.308385+00:00",
+ "updated": "2026-11-28T01:02:25.801804+00:00",
  "sources_ok": 32,
  "sources_total": 32,
  "sources_failed": [],
@@ -13,7 +13,12 @@
   {
    "term": "navidad",
    "count": 24,
-   "growth": 3.8
+   "growth": 4.1
+  },
+  {
+   "term": "está",
+   "count": 22,
+   "growth": 10.1
   },
   {
    "term": "amazon",
@@ -26,24 +31,19 @@
    "growth": 4.7
   },
   {
-   "term": "está",
-   "count": 20,
-   "growth": 9.2
-  },
-  {
    "term": "ofertas",
    "count": 19,
    "growth": 14.0
   },
   {
+   "term": "marcas",
+   "count": 19,
+   "growth": 5.0
+  },
+  {
    "term": "precio",
    "count": 18,
    "growth": 7.0
-  },
-  {
-   "term": "marcas",
-   "count": 16,
-   "growth": 4.2
   },
   {
    "term": "euros",
@@ -61,19 +61,24 @@
    "growth": 6.1
   },
   {
-   "term": "gta",
-   "count": 12,
-   "growth": 5.7
-  },
-  {
    "term": "google",
    "count": 25,
    "growth": 1.9
   },
   {
+   "term": "gta",
+   "count": 12,
+   "growth": 5.7
+  },
+  {
    "term": "móvil",
    "count": 11,
    "growth": 8.4
+  },
+  {
+   "term": "marketing",
+   "count": 11,
+   "growth": 5.2
   },
   {
    "term": "horas",
@@ -88,15 +93,36 @@
   {
    "term": "españa",
    "count": 10,
-   "growth": 4.1
-  },
-  {
-   "term": "cuesta",
-   "count": 10,
-   "growth": 5.9
+   "growth": 4.8
   }
  ],
  "items": [
+  {
+   "title": "datasette-charts 0.4a0",
+   "link": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+   "date": "2026-11-27T23:57:17+00:00",
+   "summary": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up…",
+   "image": "https://static.simonwillison.net/static/2026/datasette-charts-gallery.webp",
+   "source": "Simon Willison",
+   "category": "ia",
+   "lang": "en",
+   "type": "newsletter",
+   "first_seen": "2026-11-28T01:02:25.801804+00:00",
+   "topics": []
+  },
+  {
+   "title": "¿Quién tiene el poder de decidir en el marketing actual: las marcas o las audiencias?",
+   "link": "https://www.merca20.com/quien-tiene-el-poder-de-decidir-en-el-marketing-actual-las-marcas-o-las-audiencias/?utm_source=rss&utm_medium=rss&utm_campaign=quien-tiene-el-poder-de-decidir-en-el-marketing-actual-las-marcas-o-las-audiencias",
+   "date": "2026-11-27T23:23:40+00:00",
+   "summary": "El marketing actual se parece menos a una emisión y más a una negociación. La marca establece una identidad, pero la audiencia decide cuánto la adopta, cuestiona, transforma o comparte.",
+   "image": "https://files.merca20.com/uploads/2026/11/Marketing-bigstock-83034143-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T01:02:25.801804+00:00",
+   "topics": []
+  },
   {
    "title": "Know What To Fix Before Scaling AI Agents For AEO In 2027 via @sejournal, @hethr_campbell",
    "link": "https://www.searchenginejournal.com/know-what-to-fix-before-scaling-ai-agents-for-aeo-in-2027/598837/",
@@ -114,6 +140,21 @@
    ]
   },
   {
+   "title": "¿Qué hay detrás de la supuesta falta de atención de la Gen Z y cómo esta idea está transformando las decisiones de marketing?",
+   "link": "https://www.merca20.com/que-hay-detras-de-la-supuesta-falta-de-atencion-de-la-gen-z-y-como-esta-idea-esta-transformando-las-decisiones-de-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=que-hay-detras-de-la-supuesta-falta-de-atencion-de-la-gen-z-y-como-esta-idea-esta-transformando-las-decisiones-de-marketing",
+   "date": "2026-11-27T22:29:42+00:00",
+   "summary": "El mito de la atención breve ha contribuido a popularizar una lógica de comunicación basada en comprimirlo todo. Mensajes de seis segundos, videos cada vez más rápidos, textos reducidos y una búsqueda constante del estímulo inmediato.",
+   "image": "https://files.merca20.com/uploads/2026/11/Generation-Z-bigstock-175082647-1.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T01:02:25.801804+00:00",
+   "topics": [
+    "seo"
+   ]
+  },
+  {
    "title": "Uber se asegura el 87% de la dueña de PedidosYa en una operación de 14,800 millones de dólares",
    "link": "https://www.merca20.com/uber-compra-pedidosya-delivery-hero-america-latina/?utm_source=rss&utm_medium=rss&utm_campaign=uber-compra-pedidosya-delivery-hero-america-latina",
    "date": "2026-11-27T22:05:40+00:00",
@@ -124,6 +165,19 @@
    "lang": "es",
    "type": "article",
    "first_seen": "2026-11-27T22:53:56.501202+00:00",
+   "topics": []
+  },
+  {
+   "title": "El consumo autónomo está cambiando las reglas: ¿cómo pueden las marcas adaptarse a un consumidor que decide por sí mismo?",
+   "link": "https://www.merca20.com/el-consumo-autonomo-esta-cambiando-las-reglas-como-pueden-las-marcas-adaptarse-a-un-consumidor-que-decide-por-si-mismo/?utm_source=rss&utm_medium=rss&utm_campaign=el-consumo-autonomo-esta-cambiando-las-reglas-como-pueden-las-marcas-adaptarse-a-un-consumidor-que-decide-por-si-mismo",
+   "date": "2026-11-27T21:22:38+00:00",
+   "summary": "La autonomía también se refleja en la pérdida de fidelidad automática hacia las marcas.",
+   "image": "https://files.merca20.com/uploads/2026/11/consumidor-foto-bigstock-379375348.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T01:02:25.801804+00:00",
    "topics": []
   },
   {
@@ -244,6 +298,19 @@
    ]
   },
   {
+   "title": "La grieta interna que sabotea resultados: marketing vs ventas",
+   "link": "https://www.merca20.com/la-grieta-interna-que-sabotea-resultados-marketing-vs-ventas/?utm_source=rss&utm_medium=rss&utm_campaign=la-grieta-interna-que-sabotea-resultados-marketing-vs-ventas",
+   "date": "2026-11-27T20:11:38+00:00",
+   "summary": "En la economía actual, la verdadera batalla no es marketing contra ventas, sino ambos contra el mercado.",
+   "image": "https://files.merca20.com/uploads/2026/02/bigstock-Business-Risk-With-Crisis-58129187.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T01:02:25.801804+00:00",
+   "topics": []
+  },
+  {
    "title": "MediaMarkt aprovecha las últimas horas del Black Friday para lanzar una mejor oferta que Amazon en este Kindle Paperwhite",
    "link": "https://www.xataka.com/seleccion/mediamarkt-aprovecha-ultimas-horas-black-friday-para-lanzar-mejor-oferta-que-amazon-este-kindle-paperwhite",
    "date": "2026-11-27T20:00:18+00:00",
@@ -328,6 +395,21 @@
    "first_seen": "2026-11-27T19:55:32.460986+00:00",
    "topics": [
     "ecommerce"
+   ]
+  },
+  {
+   "title": "¿Las marcas están confundiendo velocidad con relevancia en redes sociales?",
+   "link": "https://www.merca20.com/las-marcas-estan-confundiendo-velocidad-con-relevancia-en-redes-sociales/?utm_source=rss&utm_medium=rss&utm_campaign=las-marcas-estan-confundiendo-velocidad-con-relevancia-en-redes-sociales",
+   "date": "2026-11-27T19:36:08+00:00",
+   "summary": "El problema de reaccionar ante cada tendencia es que puede convertir a las marcas en participantes intercambiables de la misma conversación.",
+   "image": "https://files.merca20.com/uploads/2026/11/Redes-Sociales-bigstock-i-25559081.jpg",
+   "source": "Merca2.0",
+   "category": "marketing",
+   "lang": "es",
+   "type": "article",
+   "first_seen": "2026-11-28T01:02:25.801804+00:00",
+   "topics": [
+    "redes"
    ]
   },
   {
@@ -2309,6 +2391,20 @@
    "topics": [
     "redes"
    ]
+  },
+  {
+   "title": "datasette-mcp 0.4",
+   "link": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+   "date": "2026-11-27T00:26:17+00:00",
+   "summary": "Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44. Tags: model-context-protocol, datasette",
+   "image": "",
+   "source": "Simon Willison",
+   "category": "ia",
+   "lang": "en",
+   "type": "newsletter",
+   "first_seen": "2026-11-28T01:02:25.801804+00:00",
+   "og_tried": true,
+   "topics": []
   },
   {
    "title": "Suprema Corte rechaza recurso por concierto cancelado de Luis Miguel y ahora Profeco anuncia una nueva demanda contra Funticket y Musicvibe",
@@ -12837,105 +12933,6 @@
    "date": "2026-11-23T12:04:38+00:00",
    "summary": "El grupo independiente supera los 190 profesionales tras un año en el que ha incorporado ok,z, Asesores y Nordia",
    "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Fernando-Polo-1-comprimido.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": []
-  },
-  {
-   "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
-   "link": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
-   "date": "2026-11-23T12:00:00+00:00",
-   "summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
-   "image": "https://media.wired.com/photos/6b00ca934909d8ae8eb24f03/master/pass/livestream_ama_ai_safety.jpg",
-   "source": "Wired IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": []
-  },
-  {
-   "title": "Dr. Alex Cooper Prescribes Less Screen Time in Google Pixel’s Holiday Ad",
-   "link": "https://www.adweek.com/brand-marketing/dr-alex-cooper-prescribes-less-screen-time-in-google-pixels-holiday-ad/",
-   "date": "2026-11-23T12:00:00+00:00",
-   "summary": "'Phonehead Therapy' sees Cooper channel her mom, Laurie Cooper, a real-life therapist.",
-   "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/oreo-holiday-ad-4.png?w=600&h=315&crop=1",
-   "source": "Adweek",
-   "category": "marketing",
-   "lang": "en",
-   "type": "article",
-   "og_tried": true,
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
-   "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
-   "date": "2026-11-23T12:00:00+00:00",
-   "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Asus-P16-3-1152x648.jpg",
-   "source": "Ars Technica IA",
-   "category": "ia",
-   "lang": "en",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": []
-  },
-  {
-   "title": "De Cristina Pedroche a David Bisbal: La Gula del Norte canta “Gulería, gulería” en su anuncio de Navidad",
-   "link": "https://www.reasonwhy.es/actualidad/david-bisbal-guleria-la-gula-del-norte-anuncio-navidad-2026",
-   "date": "2026-11-23T11:25:00+00:00",
-   "summary": "La campaña sigue los pasos del supuesto CMO de la marca para lanzar una campaña junto a David Bisbal.",
-   "image": "https://www.reasonwhy.es/media/library/la-gula-del-norte-anuncio-navidad-2026.jpg",
-   "source": "Reason Why",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T16:04:26.392260+00:00",
-   "topics": [
-    "publicidad"
-   ]
-  },
-  {
-   "title": "Coca-Cola se adentra en las Mágicas Navidades de Torrejón de Ardoz",
-   "link": "https://www.marketingdirecto.com/campanas-navidenas/coca-cola-magicas-navidades-torrejon-papa-noel-pajes-reales",
-   "date": "2026-11-23T11:19:52+00:00",
-   "summary": "La marca cuenta con un espacio propio en el gran recinto, en el que tendrán su hueco los personajes más queridos de la tradición navideña española.",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/cocacola-magicas-navidades-torrejon-ardoz-madrid.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": []
-  },
-  {
-   "title": "Javier Matallana, nuevo CEO de Webedia España",
-   "link": "https://www.marketingdirecto.com/marketing-general/gente/javier-matallana-nuevo-ceo-webedia-espana",
-   "date": "2026-11-23T11:09:57+00:00",
-   "summary": "El nombramiento se hará efectivo a partir del próximo 1 de enero y se produce en el marco del proceso de integración internacional que está llevando a cabo el grupo",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/unnamed-29.webp",
-   "source": "MarketingDirecto",
-   "category": "marketing",
-   "lang": "es",
-   "type": "article",
-   "first_seen": "2026-11-24T15:23:43.870119+00:00",
-   "og_tried": true,
-   "topics": []
-  },
-  {
-   "title": "Alsea unifica la dirección de los mercados de Starbucks en Europa",
-   "link": "https://www.marketingdirecto.com/anunciantes-general/alsea-unifica-direccion-mercados-starbucks-europa",
-   "date": "2026-11-23T11:07:16+00:00",
-   "summary": "Alsea reorganiza dos puestos de Starbucks para reforzar la coordinación europea sin perder de vista las particularidades de cada mercado.",
-   "image": "https://www.marketingdirecto.com/wp-content/uploads/2026/11/Starbucks-Europa-.webp",
    "source": "MarketingDirecto",
    "category": "marketing",
    "lang": "es",
